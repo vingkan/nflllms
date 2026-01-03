@@ -1,0 +1,397 @@
+report_id,position,player_name,week,team,opponent,player_id,game_id,season,played_at,published_at,title,description,expected_workload,reason_category,set,template,is_repeat
+rotoballer_202351,RB,J.K. Dobbins,4,DEN,CIN,6806,202510410,2025,2025-09-29 07:15 PM,2025-09-21 11:27 PM,J.K. Dobbins Scores Again in Loss,"Denver Broncos running back J.K. Dobbins delivered a solid performance in Week 3 despite his team's last-second 23-20 loss to the Los Angeles Chargers. Dobbins was effective on the ground, rushing for 83 yards and a touchdown on 11 carries, including a 41-yard run that helped set up his score. He also recorded one catch for zero yards. After three games, Dobbins has been highly productive, averaging 5.4 yards per carry with over 220 rushing yards and three touchdowns. He seems to be secured as the lead back and is likely to continue seeing a significant workload as rookie R.J. Harvey struggles to find his rhythm. Dobbins can be viewed as a reliable RB2 option moving forward.",high,performance,train,"Target Player:
+J.K. Dobbins
+
+Report:
+Denver Broncos running back J.K. Dobbins delivered a solid performance in Week 3 despite his team's last-second 23-20 loss to the Los Angeles Chargers. Dobbins was effective on the ground, rushing for 83 yards and a touchdown on 11 carries, including a 41-yard run that helped set up his score. He also recorded one catch for zero yards. After three games, Dobbins has been highly productive, averaging 5.4 yards per carry with over 220 rushing yards and three touchdowns. He seems to be secured as the lead back and is likely to continue seeing a significant workload as rookie R.J. Harvey struggles to find his rhythm. Dobbins can be viewed as a reliable RB2 option moving forward.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'performance'
+}}",N
+rotoballer_202860,RB,Jonathan Taylor,4,IND,LAR,6813,202510432,2025,2025-09-28 03:05 PM,2025-09-27 07:30 AM,Jonathan Taylor a Top-Six Option in Week 4,"Indianapolis Colts running back Jonathan Taylor has been one of the top fantasy players through the first three weeks of the season, rushing for 338 yards and three touchdowns while adding 93 receiving yards and another score through the air. Taylor will look to stay hot in Week 4 in a road matchup against the Los Angeles Rams. The Rams represent a tough matchup for Taylor as they are allowing the fewest fantasy points per game to the running back position through three weeks. That being said, Taylor remains one of the few true workhorses left in the league and can still be trusted as a top-six fantasy running back this weekend despite the difficult matchup.",high,performance,validate,"Target Player:
+Jonathan Taylor
+
+Report:
+Indianapolis Colts running back Jonathan Taylor has been one of the top fantasy players through the first three weeks of the season, rushing for 338 yards and three touchdowns while adding 93 receiving yards and another score through the air. Taylor will look to stay hot in Week 4 in a road matchup against the Los Angeles Rams. The Rams represent a tough matchup for Taylor as they are allowing the fewest fantasy points per game to the running back position through three weeks. That being said, Taylor remains one of the few true workhorses left in the league and can still be trusted as a top-six fantasy running back this weekend despite the difficult matchup.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'performance'
+}}",N
+rotoballer_203836,RB,Rico Dowdle,6,CAR,DAL,7021,202510605,2025,2025-10-12 12:00 PM,2025-10-07 09:59 AM,Rico Dowdle Dominates in Week 5; Earns More Time?,"Carolina Panthers running back Rico Dowdle had one of the best fantasy performances by any player this season in Week 5, racking up 206 rushing yards and a touchdown on 23 carries against the Dolphins while also catching three passes for 28 yards. Dowdle stepped up with Chuba Hubbard (calf) out, and Hubbard starts Week 6 ""day-to-day"" heading into Carolina's matchup against the Cowboys in Week 6. Coach Dave Canales said that the team having ""two good backs"" is ""a good problem,"" but it's hard to know exactly what the timeshare will look like when Hubbard is ready to return. At least in the short term, Dowdle should get more work and could keep the lion's share of the work more long-term if he remains so effective, or if Hubbard needs more time to get back to full speed. It's definitely a situation to monitor moving forward, and Dowdle should be owned in all formats after his career day.",high,injury,validate,"Target Player:
+Rico Dowdle
+
+Report:
+Carolina Panthers running back Rico Dowdle had one of the best fantasy performances by any player this season in Week 5, racking up 206 rushing yards and a touchdown on 23 carries against the Dolphins while also catching three passes for 28 yards. Dowdle stepped up with Chuba Hubbard (calf) out, and Hubbard starts Week 6 ""day-to-day"" heading into Carolina's matchup against the Cowboys in Week 6. Coach Dave Canales said that the team having ""two good backs"" is ""a good problem,"" but it's hard to know exactly what the timeshare will look like when Hubbard is ready to return. At least in the short term, Dowdle should get more work and could keep the lion's share of the work more long-term if he remains so effective, or if Hubbard needs more time to get back to full speed. It's definitely a situation to monitor moving forward, and Dowdle should be owned in all formats after his career day.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'injury'
+}}",N
+rotoballer_203743,RB,David Montgomery,6,DET,KC,5892,202510616,2025,2025-10-12 07:20 PM,2025-10-05 11:33 PM,"David Montgomery Gets Involved in Trickery, Totals Two Touchdowns Against Cincy","Detroit Lions running back David Montgomery rushed for 65 yards and a touchdown on 18 carries during Sunday's Week 5 win over the Cincinnati Bengals. He also converted his lone target into a six-yard reception. Furthermore, the veteran running back was involved in a trick play as he threw a three-yard touchdown pass to tight end Sam LaPorta. In the end, Montgomery finished the victory with 71 scrimmage yards and two total touchdowns. He was the team's leading rusher and also posted a season-high in carries. While we can't necessarily expect Montgomery to replicate this type of performance going forward, he has established himself as a high-end RB3/flex option once again in 2025. He should be started in leagues with at least 10 teams when he takes on the Kansas City Chiefs next week.",high,performance,validate,"Target Player:
+David Montgomery
+
+Report:
+Detroit Lions running back David Montgomery rushed for 65 yards and a touchdown on 18 carries during Sunday's Week 5 win over the Cincinnati Bengals. He also converted his lone target into a six-yard reception. Furthermore, the veteran running back was involved in a trick play as he threw a three-yard touchdown pass to tight end Sam LaPorta. In the end, Montgomery finished the victory with 71 scrimmage yards and two total touchdowns. He was the team's leading rusher and also posted a season-high in carries. While we can't necessarily expect Montgomery to replicate this type of performance going forward, he has established himself as a high-end RB3/flex option once again in 2025. He should be started in leagues with at least 10 teams when he takes on the Kansas City Chiefs next week.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'performance'
+}}",N
+rotoballer_204670,RB,Ashton Jeanty,7,LV,KC,12527,202510716,2025,2025-10-19 12:00 PM,2025-10-15 04:05 PM,Pete Carroll Thinks 20-Plus Carries for Ashton Jeanty Should be Normal,"Las Vegas Raiders running back Ashton Jeanty recorded a season-high 23 rush attempts for 75 yards and a touchdown in their 20-10 win over the Titans in Week 6. Head coach Pete Carroll spoke on Wednesday regarding the workload for his star rookie running back and said that he hopes that is the norm for him moving forward. Jeanty has topped 20 carries twice this season, including a career-high performance in Week 4 against the Bears, when he rushed for 138 yards and scored three total touchdowns. He hasn't been very efficient running behind a poor run-blocking offensive line, but his touch volume ranks among the highest at the position. Jeanty will rank as a low-end RB1 in Week 7 against the Chiefs.",high,performance,validate,"Target Player:
+Ashton Jeanty
+
+Report:
+Las Vegas Raiders running back Ashton Jeanty recorded a season-high 23 rush attempts for 75 yards and a touchdown in their 20-10 win over the Titans in Week 6. Head coach Pete Carroll spoke on Wednesday regarding the workload for his star rookie running back and said that he hopes that is the norm for him moving forward. Jeanty has topped 20 carries twice this season, including a career-high performance in Week 4 against the Bears, when he rushed for 138 yards and scored three total touchdowns. He hasn't been very efficient running behind a poor run-blocking offensive line, but his touch volume ranks among the highest at the position. Jeanty will rank as a low-end RB1 in Week 7 against the Chiefs.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'performance'
+}}",N
+rotoballer_205764,RB,RJ Harvey,8,DEN,DAL,12489,202510810,2025,2025-10-26 03:25 PM,2025-10-26 10:08 AM,R.J. Harvey's Minimal Workload Sparks Concern Despite Favorable Matchup,"Denver Broncos running back R.J. Harvey has been a minimal factor in the team's offense recently, giving way to a heavy workload from veteran J.K. Dobbins. Harvey had zero rushing yards on four carries last weekend, but he did salvage his fantasy performance with a touchdown catch. The rookie hasn't been a major scoring threat this year, though, ranking as the overall RB3 with fewer than 7.5 fantasy points (PPR) in each of his last three games. Furthermore, Harvey has played fewer than one-third of the snaps in each of his last three contests, as well as six of seven games this year. The UCF product's fantasy value has become highly dependent on breaking off a big play or scoring a touchdown. That could certainly happen this week against a Cowboys defense allowing the most total offense in 2025, but managers also need to remember that Dobbins has a firm grasp on the lead-back role in this backfield. Harvey ranks as low-floor RB3/flex against the Cowboys, who have allowed the fourth-most fantasy points to opposing running backs in 2025.",low,performance,validate,"Target Player:
+RJ Harvey
+
+Report:
+Denver Broncos running back R.J. Harvey has been a minimal factor in the team's offense recently, giving way to a heavy workload from veteran J.K. Dobbins. Harvey had zero rushing yards on four carries last weekend, but he did salvage his fantasy performance with a touchdown catch. The rookie hasn't been a major scoring threat this year, though, ranking as the overall RB3 with fewer than 7.5 fantasy points (PPR) in each of his last three games. Furthermore, Harvey has played fewer than one-third of the snaps in each of his last three contests, as well as six of seven games this year. The UCF product's fantasy value has become highly dependent on breaking off a big play or scoring a touchdown. That could certainly happen this week against a Cowboys defense allowing the most total offense in 2025, but managers also need to remember that Dobbins has a firm grasp on the lead-back role in this backfield. Harvey ranks as low-floor RB3/flex against the Cowboys, who have allowed the fourth-most fantasy points to opposing running backs in 2025.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_206270,RB,Nick Chubb,9,HOU,DEN,4988,202510913,2025,2025-11-02 12:00 PM,2025-10-31 08:23 PM,Nick Chubb Is a Risky Flex Play in Week 9,"Houston Texans running back Nick Chubb continues to share time in the backfield with Woody Marks, with his primary workload coming on early downs. Chubb had 17 carries last week compared to just 11 for Marks, but since he only had two targets and two catches for 13 yards, Marks was a slightly better fantasy play. Chubb hasn't found the end zone since Week 5, and he only has two touchdowns on the year. Since his high mark of the season is only 61 rushing yards, he needs to get into the end zone to be worth a look in Week 9. He'll face the Broncos, who have been tough against the run, allowing only seven touchdowns to running backs this season. Chubb hasn't been able to consistently get big gains, so he is only the RB38 in RotoBaller's Week 9 rankings. He's a desperation flex play if you need him, but he is very high risk since he's so touchdown dependent.",low,performance,validate,"Target Player:
+Nick Chubb
+
+Report:
+Houston Texans running back Nick Chubb continues to share time in the backfield with Woody Marks, with his primary workload coming on early downs. Chubb had 17 carries last week compared to just 11 for Marks, but since he only had two targets and two catches for 13 yards, Marks was a slightly better fantasy play. Chubb hasn't found the end zone since Week 5, and he only has two touchdowns on the year. Since his high mark of the season is only 61 rushing yards, he needs to get into the end zone to be worth a look in Week 9. He'll face the Broncos, who have been tough against the run, allowing only seven touchdowns to running backs this season. Chubb hasn't been able to consistently get big gains, so he is only the RB38 in RotoBaller's Week 9 rankings. He's a desperation flex play if you need him, but he is very high risk since he's so touchdown dependent.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_205803,RB,Breece Hall,10,NYJ,CLE,8155,202511024,2025,2025-11-09 12:00 PM,2025-10-26 05:21 PM,Breece Hall Records Three Touchdowns,"New York Jets running back Breece Hall posted an outstanding performance during Sunday's game against the Cincinnati Bengals. Hall hasn't found much success on the ground lately, but had no issues in Week 8. Hall rushed 18 times for 133 yards and two touchdowns on the ground. He also hauled in two receptions for an additional seven yards through the air, but that wasn't all. The 24-year-old threw the game-winning touchdown pass to tight end Mason Taylor. Hall literally did a little bit of everything during this victory. He'll head into a bye week on a high note before playing the Cleveland Browns in Week 10.",medium,anomaly,validate,"Target Player:
+Breece Hall
+
+Report:
+New York Jets running back Breece Hall posted an outstanding performance during Sunday's game against the Cincinnati Bengals. Hall hasn't found much success on the ground lately, but had no issues in Week 8. Hall rushed 18 times for 133 yards and two touchdowns on the ground. He also hauled in two receptions for an additional seven yards through the air, but that wasn't all. The 24-year-old threw the game-winning touchdown pass to tight end Mason Taylor. Hall literally did a little bit of everything during this victory. He'll head into a bye week on a high note before playing the Cleveland Browns in Week 10.
+
+Output:
+{{
+  'expected_workload': 'medium',
+  'reason_category': 'anomaly'
+}}",N
+rotoballer_207477,RB,Trey Benson,11,ARI,SF,11589,202511101,2025,2025-11-16 03:05 PM,2025-11-12 11:12 AM,Cardinals Don't Have an Update on Trey Benson,"Arizona Cardinals head coach Jonathan Gannon did not give an update on running back Trey Benson (knee) on Wednesday, according to Theo Mackie of The Arizona Republic. Benson was eligible to return from Injured Reserve and play in Week 10, but that did not happen, and it remains unclear if he'll have his 21-day practice window opened this week. At the very least, it doesn't look likely that the 23-year-old second-year back will come off IR to play this Sunday against the division-rival San Francisco 49ers. The Cardinals also don't have an update on Bam Knight (ankle), who picked up an ankle injury in the Week 10 loss to the Seattle Seahawks. With Benson not expected to return this week and Knight's status up in the air, Emari Demercado could be Arizona's primary option in the backfield this weekend. Michael Carter would also see an uptick in touches if both Benson and Knight are ruled out.",low,injury,validate,"Target Player:
+Trey Benson
+
+Report:
+Arizona Cardinals head coach Jonathan Gannon did not give an update on running back Trey Benson (knee) on Wednesday, according to Theo Mackie of The Arizona Republic. Benson was eligible to return from Injured Reserve and play in Week 10, but that did not happen, and it remains unclear if he'll have his 21-day practice window opened this week. At the very least, it doesn't look likely that the 23-year-old second-year back will come off IR to play this Sunday against the division-rival San Francisco 49ers. The Cardinals also don't have an update on Bam Knight (ankle), who picked up an ankle injury in the Week 10 loss to the Seattle Seahawks. With Benson not expected to return this week and Knight's status up in the air, Emari Demercado could be Arizona's primary option in the backfield this weekend. Michael Carter would also see an uptick in touches if both Benson and Knight are ruled out.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
+rotoballer_208081,RB,Kenneth Gainwell,12,PIT,CHI,7567,202511206,2025,2025-11-23 12:00 PM,2025-11-17 11:14 AM,Kenneth Gainwell Worth a Pickup After Two-Touchdown Game?,"Pittsburgh Steelers running back Kenneth Gainwell had nine rushing attempts for 24 yards in the Week 11 win over the Cincinnati Bengals on Sunday, adding a season-high seven receptions on eight targets for 81 yards and receiving touchdowns. The 26-year-old played 63% of the offensive snaps, his second-highest mark of the year, but it coincided with lead back Jaylen Warren (ankle) getting injured in the third quarter and never returning. Warren said after Sunday's win that he could have retaken the field, but the decision to sit out the rest of the game ""was part of being smart."" It looks like Warren has avoided a serious injury, but fantasy managers with Warren rostered or who need RB depth should consider Gainwell a speculative pickup going into Week 12 against the Chicago Bears. Gainwell is only rostered in 32% of Yahoo leagues.",medium,performance,validate,"Target Player:
+Kenneth Gainwell
+
+Report:
+Pittsburgh Steelers running back Kenneth Gainwell had nine rushing attempts for 24 yards in the Week 11 win over the Cincinnati Bengals on Sunday, adding a season-high seven receptions on eight targets for 81 yards and receiving touchdowns. The 26-year-old played 63% of the offensive snaps, his second-highest mark of the year, but it coincided with lead back Jaylen Warren (ankle) getting injured in the third quarter and never returning. Warren said after Sunday's win that he could have retaken the field, but the decision to sit out the rest of the game ""was part of being smart."" It looks like Warren has avoided a serious injury, but fantasy managers with Warren rostered or who need RB depth should consider Gainwell a speculative pickup going into Week 12 against the Chicago Bears. Gainwell is only rostered in 32% of Yahoo leagues.
+
+Output:
+{{
+  'expected_workload': 'medium',
+  'reason_category': 'performance'
+}}",N
+rotoballer_208413,RB,Rachaad White,12,TB,LAR,8136,202511232,2025,2025-11-23 07:20 PM,2025-11-21 09:14 AM,Rachaad White Could Continue to Lose Rushing Work in Tampa Bay,"With Tampa Bay Buccaneers running back Bucky Irving (shoulder, foot) sidelined by injury since Week 4, fellow Bucs back Rachaad White had the first chance to assume the team's RB1 role. However, White is averaging less than four yards per rush attempt this season, and in Week 11, it appeared as though the team made a shift to running back Sean Tucker. In Tampa Bay's Week 11 loss to the Buffalo Bills, Tucker exploded for 140 scrimmage yards and three touchdowns on 21 touches while White recorded just 62 scrimmage yards on 12 touches. Irving will remain out for Tampa Bay's Week 12 matchup against the Los Angeles Rams, which means both White and Tucker will likely get their share of playing time for another week. White has been a consistent feature in the passing game, recording 20 receptions for 110 yards on 23 targets in the six games Irving has missed. Still, White should be expected to continue to lose work to Tucker in the rushing game and profiles as a low-end flex option for fantasy managers in Week 12 against Los Angeles.",low,performance,validate,"Target Player:
+Rachaad White
+
+Report:
+With Tampa Bay Buccaneers running back Bucky Irving (shoulder, foot) sidelined by injury since Week 4, fellow Bucs back Rachaad White had the first chance to assume the team's RB1 role. However, White is averaging less than four yards per rush attempt this season, and in Week 11, it appeared as though the team made a shift to running back Sean Tucker. In Tampa Bay's Week 11 loss to the Buffalo Bills, Tucker exploded for 140 scrimmage yards and three touchdowns on 21 touches while White recorded just 62 scrimmage yards on 12 touches. Irving will remain out for Tampa Bay's Week 12 matchup against the Los Angeles Rams, which means both White and Tucker will likely get their share of playing time for another week. White has been a consistent feature in the passing game, recording 20 receptions for 110 yards on 23 targets in the six games Irving has missed. Still, White should be expected to continue to lose work to Tucker in the rushing game and profiles as a low-end flex option for fantasy managers in Week 12 against Los Angeles.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_209266,RB,Jacory Croskey-Merritt,13,WAS,DEN,12533,202511335,2025,2025-11-30 07:20 PM,2025-11-28 06:38 PM,Jacory Croskey-Merritt A Risky Option in Week 13,"Washington Commanders rookie running back Jacory Croskey-Merritt has lost his lead role in the team's backfield over the past few weeks. Third-year back Chris Rodriguez Jr. has taken over as the lead back for the Commanders, with Croskey-Merritt rotating in on early downs and veteran Jeremy McNichols holding down the pass-down responsibilities. The rookie seventh-rounder's production dropped off a cliff after the first five games of the season. After recording 43 carries for 283 yards (6.6 YPC) and four touchdowns to go with five receptions (seven targets) for 54 yards in Weeks 1 through 5, Croskey-Merritt has 71 carries for 215 yards and zero touchdowns with four receptions (six targets) for 14 yards in Weeks 6 through 11. That leaves him off fantasy radars for Sunday Night Football against a strong Denver Broncos defense that has allowed the 10th fewest PPR points per game to opposing running backs.",low,performance,validate,"Target Player:
+Jacory Croskey-Merritt
+
+Report:
+Washington Commanders rookie running back Jacory Croskey-Merritt has lost his lead role in the team's backfield over the past few weeks. Third-year back Chris Rodriguez Jr. has taken over as the lead back for the Commanders, with Croskey-Merritt rotating in on early downs and veteran Jeremy McNichols holding down the pass-down responsibilities. The rookie seventh-rounder's production dropped off a cliff after the first five games of the season. After recording 43 carries for 283 yards (6.6 YPC) and four touchdowns to go with five receptions (seven targets) for 54 yards in Weeks 1 through 5, Croskey-Merritt has 71 carries for 215 yards and zero touchdowns with four receptions (six targets) for 14 yards in Weeks 6 through 11. That leaves him off fantasy radars for Sunday Night Football against a strong Denver Broncos defense that has allowed the 10th fewest PPR points per game to opposing running backs.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_209171,RB,Devin Singletary,13,NYG,NE,6130,202511321,2025,2025-12-01 07:15 PM,2025-11-28 09:07 AM,Devin Singletary Not a Strong Fantasy Option in Week 13,"New York Giants running back Devin Singletary had 14 carries for 47 yards in Week 12's 34-27 loss in overtime to the Detroit Lions. While the 14 carries appear encouraging, the 3.36 YPC does not. Additionally, Tyrone Tracy Jr. played 71 percent of the snaps and out-touched Singletary 23 to 14. Additionally, Tracy Jr. continues to be a running back involved in the passing game and getting a majority of the carries, with Singletary being brought in as a goal-line or change-of-pace back. Given Singletary's 14 carries and the possibility of being the team's goal-line back, he is still worth a hold in fantasy, but not someone that can confidently be started unless we see a shift in snap percentage or Tracy were to go down with an injury. Week 13 presents a challenging task: going to Foxboro to take on New England's stiff run defense, which has allowed the fewest fantasy points to opposing running backs this season. Singletary will not be a recommended start in Week 13, but could be held on fantasy managers' bench if they have the spot available.",medium,opponent,train,"Target Player:
+Devin Singletary
+
+Report:
+New York Giants running back Devin Singletary had 14 carries for 47 yards in Week 12's 34-27 loss in overtime to the Detroit Lions. While the 14 carries appear encouraging, the 3.36 YPC does not. Additionally, Tyrone Tracy Jr. played 71 percent of the snaps and out-touched Singletary 23 to 14. Additionally, Tracy Jr. continues to be a running back involved in the passing game and getting a majority of the carries, with Singletary being brought in as a goal-line or change-of-pace back. Given Singletary's 14 carries and the possibility of being the team's goal-line back, he is still worth a hold in fantasy, but not someone that can confidently be started unless we see a shift in snap percentage or Tracy were to go down with an injury. Week 13 presents a challenging task: going to Foxboro to take on New England's stiff run defense, which has allowed the fewest fantasy points to opposing running backs this season. Singletary will not be a recommended start in Week 13, but could be held on fantasy managers' bench if they have the spot available.
+
+Output:
+{{
+  'expected_workload': 'medium',
+  'reason_category': 'opponent'
+}}",N
+rotoballer_209592,RB,Justice Hill,14,BAL,PIT,5995,202511403,2025,2025-12-07 12:00 PM,2025-12-01 02:12 PM,Justice Hill Could Return This Year,"Baltimore Ravens head coach John Harbaugh said on Monday that running back Justice Hill (neck) will be out three to four weeks with a disc issue in his neck, but there's still a chance that he will return this year, according to Jonas Shaffer of The Baltimore Sun. Hill injured his neck in practice early last week and landed on Injured Reserve before the Thanksgiving Day loss to the Cincinnati Bengals on Thursday night. The 28-year-old pass-catching back will miss at least three more games, but he will be eligible to return from IR in Week 17 on the road at Lambeau Field against the Green Bay Packers. Keaton Mitchell was starting to take on a bigger role behind starter Derrick Henry even before Hill was injured, so if he does return before the end of the 2025 regular season, Hill could be Baltimore's RB3 on passing downs. He only has 18 rushing attempts on the year for 93 yards and two TDs, adding 169 receiving yards and one score.",low,injury,train,"Target Player:
+Justice Hill
+
+Report:
+Baltimore Ravens head coach John Harbaugh said on Monday that running back Justice Hill (neck) will be out three to four weeks with a disc issue in his neck, but there's still a chance that he will return this year, according to Jonas Shaffer of The Baltimore Sun. Hill injured his neck in practice early last week and landed on Injured Reserve before the Thanksgiving Day loss to the Cincinnati Bengals on Thursday night. The 28-year-old pass-catching back will miss at least three more games, but he will be eligible to return from IR in Week 17 on the road at Lambeau Field against the Green Bay Packers. Keaton Mitchell was starting to take on a bigger role behind starter Derrick Henry even before Hill was injured, so if he does return before the end of the 2025 regular season, Hill could be Baltimore's RB3 on passing downs. He only has 18 rushing attempts on the year for 93 yards and two TDs, adding 169 receiving yards and one score.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
+rotoballer_210805,RB,Kyle Monangai,15,CHI,CLE,12534,202511506,2025,2025-12-14 12:00 PM,2025-12-13 01:50 PM,Kyle Monangai Remains a Viable Flex Option in Week 15,"In the second half of the 2025 season, Chicago Bears running back Kyle Monangai has emerged as a consistent feature of his team's offense. Across his last six games, the 23-year-old has recorded 462 rushing yards and four touchdowns on 93 carries. Monangai is rarely utilized in the passing game and remains in a split backfield with Bears veteran back D'Andre Swift, limiting his production upside. Additionally, he'll face a difficult matchup in Week 15 against the Cleveland Browns. Entering Sunday, Cleveland ranks fourth among all NFL defenses in yards per carry allowed (3.8) and tied for fifth in rushing touchdowns allowed (nine). Still, the Bears have been running the football extremely well in recent weeks and rank second in the NFL in total rushing yards this season (1,984). Monangai profiles as a high-end flex option for fantasy managers in Week 15.",high,performance,validate,"Target Player:
+Kyle Monangai
+
+Report:
+In the second half of the 2025 season, Chicago Bears running back Kyle Monangai has emerged as a consistent feature of his team's offense. Across his last six games, the 23-year-old has recorded 462 rushing yards and four touchdowns on 93 carries. Monangai is rarely utilized in the passing game and remains in a split backfield with Bears veteran back D'Andre Swift, limiting his production upside. Additionally, he'll face a difficult matchup in Week 15 against the Cleveland Browns. Entering Sunday, Cleveland ranks fourth among all NFL defenses in yards per carry allowed (3.8) and tied for fifth in rushing touchdowns allowed (nine). Still, the Bears have been running the football extremely well in recent weeks and rank second in the NFL in total rushing yards this season (1,984). Monangai profiles as a high-end flex option for fantasy managers in Week 15.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'performance'
+}}",N
+rotoballer_210963,RB,Jaleel McLaughlin,16,DEN,JAX,11439,202511610,2025,2025-12-21 03:05 PM,2025-12-15 09:12 AM,Jaleel McLaughlin Gets Two Carries in Week 15,"Denver Broncos running back Jaleel McLaughlin played second fiddle to rookie running back RJ Harvey in Week 15's 34-26 victory over the Green Bay Packers, as he only had two rushes for four yards and played 13 percent of the snaps in the game. At this time, McLaughlin, at best, is a handcuff to Harvey fantasy managers as over the past four games that Harvey has taken over as the lead back after J.K. Dobbins (foot) was injured, McLaughlin has earned a total of 18 carries for 69 yards (3.83 YPC), and is playing only 15 percent of the snaps, which provides no standalone fantasy value outside of being a safety net for Harvey fantasy managers. If you do not own Harvey on your team, it makes no sense to roster McLaughlin for the final few weeks of the fantasy season.",low,performance,validate,"Target Player:
+Jaleel McLaughlin
+
+Report:
+Denver Broncos running back Jaleel McLaughlin played second fiddle to rookie running back RJ Harvey in Week 15's 34-26 victory over the Green Bay Packers, as he only had two rushes for four yards and played 13 percent of the snaps in the game. At this time, McLaughlin, at best, is a handcuff to Harvey fantasy managers as over the past four games that Harvey has taken over as the lead back after J.K. Dobbins (foot) was injured, McLaughlin has earned a total of 18 carries for 69 yards (3.83 YPC), and is playing only 15 percent of the snaps, which provides no standalone fantasy value outside of being a safety net for Harvey fantasy managers. If you do not own Harvey on your team, it makes no sense to roster McLaughlin for the final few weeks of the fantasy season.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_212063,RB,Devin Singletary,17,NYG,LV,6130,202511725,2025,2025-12-28 03:05 PM,2025-12-26 11:45 PM,Devin Singletary Lagging Behind in Backfield Pecking Order,"New York Giants running back Devin Singletary's workload has fallen off following the team's Week 14 bye, as backfield mate Tyrone Tracy Jr. has become the preferred rusher. Singletary had a nice run of fantasy production following the injury to teammate Cam Skattebo (ankle), posting double-digit efforts thrice ahead of New York's week off. During that time, Singletary and Tracy roughly split snaps, with one leading the other on a given week. However, over the previous two contests, the latter has handily out-touched (36-18) and out-snapped (87-37) the veteran, while the former's role in the passing game has all but vanished. With Singletary falling out of favor, fantasy managers can turn elsewhere for help over the season's remaining weeks.",low,performance,validate,"Target Player:
+Devin Singletary
+
+Report:
+New York Giants running back Devin Singletary's workload has fallen off following the team's Week 14 bye, as backfield mate Tyrone Tracy Jr. has become the preferred rusher. Singletary had a nice run of fantasy production following the injury to teammate Cam Skattebo (ankle), posting double-digit efforts thrice ahead of New York's week off. During that time, Singletary and Tracy roughly split snaps, with one leading the other on a given week. However, over the previous two contests, the latter has handily out-touched (36-18) and out-snapped (87-37) the veteran, while the former's role in the passing game has all but vanished. With Singletary falling out of favor, fantasy managers can turn elsewhere for help over the season's remaining weeks.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_202087,RB,A.J. Dillon,3,PHI,LAR,6828,202510326,2025,2025-09-21 12:00 PM,2025-09-19 08:36 PM,A.J. Dillon Should Be Next Man Up in Eagles Backfield,"Philadelphia Eagles running back A.J. Dillon is in line to back up Saquon Barkley against the Rams this week, with new backfield acquisition Tank Bigsby set to be third on the depth chart. This comes after RB Will Shipley has been ruled out with an oblique injury. Bigsby is yet to get any touches with his new team, and it's unlikely Dillon will get many looks either with Barkley seeing 81.3% of snaps on offense so far this season. While Dillon is the better option of the two benchwarmers, he's still not a reliable starting RB in fantasy for Week 3.",low,performance,validate,"Target Player:
+A.J. Dillon
+
+Report:
+Philadelphia Eagles running back A.J. Dillon is in line to back up Saquon Barkley against the Rams this week, with new backfield acquisition Tank Bigsby set to be third on the depth chart. This comes after RB Will Shipley has been ruled out with an oblique injury. Bigsby is yet to get any touches with his new team, and it's unlikely Dillon will get many looks either with Barkley seeing 81.3% of snaps on offense so far this season. While Dillon is the better option of the two benchwarmers, he's still not a reliable starting RB in fantasy for Week 3.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_206650,RB,Isaiah Davis,10,NYJ,CLE,11571,202511024,2025,2025-11-09 12:00 PM,2025-11-04 11:15 AM,Isaiah Davis in Line for Lead-Back Duties in New York Soon?,"New York Jets running back Isaiah Davis is currently rostered in only 14% of Yahoo leagues and is the clear backup to starter Breece Hall. However, Hall's name has been heavily mentioned in trade rumors, and there could be a 50-50 chance that he's dealt by Tuesday's 4 p.m. trade deadline. If Hall is shipped out of town, Davis would have a clear path to lead-back duties for the Jets. Fantasy managers looking for upgrades at the RB position who have room to spare on their roster may want to consider adding the 23-year-old off the waiver wire in case Hall is traded on Tuesday. Davis had a season-high seven rushing attempts in the Week 8 win over the Cincinnati Bengals, gaining 65 yards while also catching a season-high five passes for 44 yards. Hall had been bothered by a knee injury leading up to that game, but even if Hall isn't traded, Davis' role could expand in his change-of-pace role for the second half of the year.",low,unknown,validate,"Target Player:
+Isaiah Davis
+
+Report:
+New York Jets running back Isaiah Davis is currently rostered in only 14% of Yahoo leagues and is the clear backup to starter Breece Hall. However, Hall's name has been heavily mentioned in trade rumors, and there could be a 50-50 chance that he's dealt by Tuesday's 4 p.m. trade deadline. If Hall is shipped out of town, Davis would have a clear path to lead-back duties for the Jets. Fantasy managers looking for upgrades at the RB position who have room to spare on their roster may want to consider adding the 23-year-old off the waiver wire in case Hall is traded on Tuesday. Davis had a season-high seven rushing attempts in the Week 8 win over the Cincinnati Bengals, gaining 65 yards while also catching a season-high five passes for 44 yards. Hall had been bothered by a knee injury leading up to that game, but even if Hall isn't traded, Davis' role could expand in his change-of-pace role for the second half of the year.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'unknown'
+}}",N
+rotoballer_207464,RB,Trey Benson,11,ARI,SF,11589,202511101,2025,2025-11-16 03:05 PM,2025-11-12 09:35 AM,Trey Benson a Strong Buy-Low Candidate?,"Arizona Cardinals running back Trey Benson (knee) is nearing a return to action in the coming weeks. Benson underwent arthroscopic knee surgery after Week 5 and was placed on injured reserve. The typical recovery timeline for a meniscus clean-up is four to six weeks, which puts him right on schedule entering Week 11. Before the injury, Benson logged 224 scrimmage yards on 41 touches across four games while mostly serving as the backup to James Conner. With Conner now out for the season, Benson is expected to step into the RB1 role once healthy. Fantasy managers should view him as a strong buy-low candidate who could make a significant impact down the stretch.",low,injury,validate,"Target Player:
+Trey Benson
+
+Report:
+Arizona Cardinals running back Trey Benson (knee) is nearing a return to action in the coming weeks. Benson underwent arthroscopic knee surgery after Week 5 and was placed on injured reserve. The typical recovery timeline for a meniscus clean-up is four to six weeks, which puts him right on schedule entering Week 11. Before the injury, Benson logged 224 scrimmage yards on 41 touches across four games while mostly serving as the backup to James Conner. With Conner now out for the season, Benson is expected to step into the RB1 role once healthy. Fantasy managers should view him as a strong buy-low candidate who could make a significant impact down the stretch.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
+rotoballer_204605,RB,Jaylen Warren,7,PIT,CIN,8228,202510707,2025,2025-10-16 07:15 PM,2025-10-14 07:59 PM,Jaylen Warren Poised For Week 7 Breakout?,"Pittsburgh Steelers running back Jaylen Warren handled 11 carries for 52 yards and hauled in both of his targets for 11 yards in a Week 6 win over the Cleveland Browns. Although he split touches with Kenneth Gainwell, Warren was the more efficient runner and led the RB room in snaps. This is encouraging for Warren's fantasy outlook heading into a Week 7 divisional showdown with the Cincinnati Bengals. The Bengals have surrendered the most fantasy points to opposing running backs this season, proving vulnerable both on the ground and through the air to the position. Fantasy managers should fire up Warren as an RB2 in all formats on Thursday night.",medium,opponent,validate,"Target Player:
+Jaylen Warren
+
+Report:
+Pittsburgh Steelers running back Jaylen Warren handled 11 carries for 52 yards and hauled in both of his targets for 11 yards in a Week 6 win over the Cleveland Browns. Although he split touches with Kenneth Gainwell, Warren was the more efficient runner and led the RB room in snaps. This is encouraging for Warren's fantasy outlook heading into a Week 7 divisional showdown with the Cincinnati Bengals. The Bengals have surrendered the most fantasy points to opposing running backs this season, proving vulnerable both on the ground and through the air to the position. Fantasy managers should fire up Warren as an RB2 in all formats on Thursday night.
+
+Output:
+{{
+  'expected_workload': 'medium',
+  'reason_category': 'opponent'
+}}",N
+rotoballer_210418,RB,Tyler Allgeier,15,ATL,TB,8132,202511533,2025,2025-12-11 07:15 PM,2025-12-10 08:14 PM,Tyler Allgeier a  Boom/Bust Flex Play on Thursday Night,"Atlanta Falcons running back Tyler Allgeier tallied double-digit carries in Week 14's 37-9 loss to the Seahawks, rushing 11 times for 34 scoreless yards (3.1 YPC), but managed to salvage his fantasy day by recording two catches for 33 yards. His work in the passing game, albeit small, is an interesting revelation, as the BYU product recorded just one game out of nine played with Michael Penix Jr. (knee) in which he tallied two receptions, however, he's done so in three of four games with Kirk Cousins at the helm. If nothing else, it increases his fantasy floor and could make him a more viable flex option going forward. The 25-year-old, with eight touchdowns already this year, will take on a Buccaneers defense that has yielded the 13th-most fantasy points to opposing running backs this season. Although he's firmly behind Bijan Robinson in the backfield pecking order, he continues to get red zone opportunities (four each last week) and should be a priority handcuff for Robinson managers. The fourth-year pro projects as an RB4/Flex play for Thursday Night Football, and could even see a small uptick in usage given the short turnaround from Sunday, as Robinson had less time than normal to recover.",medium,performance,validate,"Target Player:
+Tyler Allgeier
+
+Report:
+Atlanta Falcons running back Tyler Allgeier tallied double-digit carries in Week 14's 37-9 loss to the Seahawks, rushing 11 times for 34 scoreless yards (3.1 YPC), but managed to salvage his fantasy day by recording two catches for 33 yards. His work in the passing game, albeit small, is an interesting revelation, as the BYU product recorded just one game out of nine played with Michael Penix Jr. (knee) in which he tallied two receptions, however, he's done so in three of four games with Kirk Cousins at the helm. If nothing else, it increases his fantasy floor and could make him a more viable flex option going forward. The 25-year-old, with eight touchdowns already this year, will take on a Buccaneers defense that has yielded the 13th-most fantasy points to opposing running backs this season. Although he's firmly behind Bijan Robinson in the backfield pecking order, he continues to get red zone opportunities (four each last week) and should be a priority handcuff for Robinson managers. The fourth-year pro projects as an RB4/Flex play for Thursday Night Football, and could even see a small uptick in usage given the short turnaround from Sunday, as Robinson had less time than normal to recover.
+
+Output:
+{{
+  'expected_workload': 'medium',
+  'reason_category': 'performance'
+}}",N
+rotoballer_205402,RB,Tyler Allgeier,8,ATL,MIA,8132,202510802,2025,2025-10-26 12:00 PM,2025-10-22 08:29 PM,Tyler Allgeier Limited on Wednesday,"Atlanta Falcons running back Tyler Allgeier (knee, hip) was a limited participant during Wednesday's practice session. He's a new addition to the injury report as Allgeier is dealing with a few minor issues. Allgeier hasn't done much on the field lately as he rushed for 16 yards on four carries during last week's loss to the San Francisco 49ers. He has seen double digit carries in four games this season, but it hasn't resulted in a ton of fantasy value. Whether he's healthy or not, Allgeier isn't going to have much value while Bijan Robinson is healthy and running like he has been in the backfield.",low,injury,validate,"Target Player:
+Tyler Allgeier
+
+Report:
+Atlanta Falcons running back Tyler Allgeier (knee, hip) was a limited participant during Wednesday's practice session. He's a new addition to the injury report as Allgeier is dealing with a few minor issues. Allgeier hasn't done much on the field lately as he rushed for 16 yards on four carries during last week's loss to the San Francisco 49ers. He has seen double digit carries in four games this season, but it hasn't resulted in a ton of fantasy value. Whether he's healthy or not, Allgeier isn't going to have much value while Bijan Robinson is healthy and running like he has been in the backfield.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
+rotoballer_205643,RB,Nick Chubb,8,HOU,SF,4988,202510813,2025,2025-10-26 12:00 PM,2025-10-25 08:23 AM,Nick Chubb Is a Touchdown Dependent Flex Option,"Houston Texans running back Nick Chubb played his smallest share of snaps of the season in Week 7 in the Texans' loss, but he still has the potential to bounce back this week against San Francisco. Chubb played 25% of snaps and had five carries for 16 rushing yards, while also hauling in one of his three targets for a loss of five yards. Before the game, head coach DeMeco Ryans made a big deal of needing to establish the run against, but the game plan didn't turn out that way. Chubb still seems to have a hold on early-down work with Woody Marks and Dare Obunbowale taking over on passing downs. Before the bye week, Chubb had a pair of busy games against the Titans and Ravens when the Texans played from ahead. He could be more in the mix, depending on the game flow this week against San Francisco. He is the RB31 in RotoBaller's rankings, making him a high-risk option in a flex or RB3 spot this week, especially since his role in the passing game is limited. In his favor, though, the 49ers have allowed five running back touchdowns in their last three games.",low,performance,validate,"Target Player:
+Nick Chubb
+
+Report:
+Houston Texans running back Nick Chubb played his smallest share of snaps of the season in Week 7 in the Texans' loss, but he still has the potential to bounce back this week against San Francisco. Chubb played 25% of snaps and had five carries for 16 rushing yards, while also hauling in one of his three targets for a loss of five yards. Before the game, head coach DeMeco Ryans made a big deal of needing to establish the run against, but the game plan didn't turn out that way. Chubb still seems to have a hold on early-down work with Woody Marks and Dare Obunbowale taking over on passing downs. Before the bye week, Chubb had a pair of busy games against the Titans and Ravens when the Texans played from ahead. He could be more in the mix, depending on the game flow this week against San Francisco. He is the RB31 in RotoBaller's rankings, making him a high-risk option in a flex or RB3 spot this week, especially since his role in the passing game is limited. In his favor, though, the 49ers have allowed five running back touchdowns in their last three games.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_208495,RB,Dylan Sampson,12,CLE,LV,12469,202511225,2025,2025-11-23 03:05 PM,2025-11-21 05:08 PM,Dylan Sampson an RB5 in Week 12,"Cleveland Browns running back Dylan Sampson will take on the Las Vegas Raiders on the road in Week 12. Sampson has been overshadowed by workhorse Quinshon Judkins as the former has seen more than four carries just once all season and has just one catch for three yards over his past two games. The Raiders set up as a reasonably tough matchup for Sampson and company as they are allowing just the 19th-most fantasy points per game to opposing running backs this season. With Sampson unlikely to approach double-digit touches in Week 12, he sets up as a low-end RB5 who should not be in fantasy lineups heading into Week 12's clash with the Raiders.",low,opponent,validate,"Target Player:
+Dylan Sampson
+
+Report:
+Cleveland Browns running back Dylan Sampson will take on the Las Vegas Raiders on the road in Week 12. Sampson has been overshadowed by workhorse Quinshon Judkins as the former has seen more than four carries just once all season and has just one catch for three yards over his past two games. The Raiders set up as a reasonably tough matchup for Sampson and company as they are allowing just the 19th-most fantasy points per game to opposing running backs this season. With Sampson unlikely to approach double-digit touches in Week 12, he sets up as a low-end RB5 who should not be in fantasy lineups heading into Week 12's clash with the Raiders.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'opponent'
+}}",N
+rotoballer_205768,RB,Breece Hall,8,NYJ,CIN,8155,202510807,2025,2025-10-26 12:00 PM,2025-10-26 10:38 AM,Breece Hall Active for Week 8 Against Bengals,"New York Jets running back Breece Hall (knee) is officially active for Sunday's Week 8 contest against the Cincinnati Bengals. He had been listed as questionable but was trending in the right direction after logging a full practice on Friday. The 24-year-old has carved out a decent season when you consider how poorly the rest of the offense has performed. He had 448 rushing yards and 164 receiving yards so far, ranking as the overall RB19 in PPR leagues. His ranking would be even higher if not for the fact that he hasn't scored a single touchdown in 2025. Hall's volume and pure talent keep him in the RB2 tier for Week 8 against Cincinnati, but the woes of the Jets' offense, led by Justin Fields, make it impossible to have full confidence in the Iowa State product.",high,performance,validate,"Target Player:
+Breece Hall
+
+Report:
+New York Jets running back Breece Hall (knee) is officially active for Sunday's Week 8 contest against the Cincinnati Bengals. He had been listed as questionable but was trending in the right direction after logging a full practice on Friday. The 24-year-old has carved out a decent season when you consider how poorly the rest of the offense has performed. He had 448 rushing yards and 164 receiving yards so far, ranking as the overall RB19 in PPR leagues. His ranking would be even higher if not for the fact that he hasn't scored a single touchdown in 2025. Hall's volume and pure talent keep him in the RB2 tier for Week 8 against Cincinnati, but the woes of the Jets' offense, led by Justin Fields, make it impossible to have full confidence in the Iowa State product.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'performance'
+}}",N
+rotoballer_204903,RB,Kenneth Walker,7,SEA,HOU,8151,202510730,2025,2025-10-20 09:00 PM,2025-10-17 07:55 PM,Kenneth Walker III's Upside Continues to Remain Capped in Timeshare,"Seattle Seahawks running back Kenneth Walker III is in for more of the same flex-level production in Week 7 against the Houston Texans. Walker continues to play in a timeshare with fellow running back Zach Charbonnet. He is running relatively well, but his passing game work has been nearly nonexistent. He has scored single-digit fantasy points in two straight weeks in tough matchups. The Texans are No. 5 against opposing running backs in fantasy. This is not a week that Walker should be expected to get back to his usual production. He is always a threat for a big play, but even those have come few and far between in 2025. As long as both of Seattle's running backs are healthy, Walker will remain in the flex conversation. His RB2 upside does not even seem very achievable at this point. You can start Walker this week, but expect a low ceiling and a potentially single-digit floor.",low,opponent,validate,"Target Player:
+Kenneth Walker
+
+Report:
+Seattle Seahawks running back Kenneth Walker III is in for more of the same flex-level production in Week 7 against the Houston Texans. Walker continues to play in a timeshare with fellow running back Zach Charbonnet. He is running relatively well, but his passing game work has been nearly nonexistent. He has scored single-digit fantasy points in two straight weeks in tough matchups. The Texans are No. 5 against opposing running backs in fantasy. This is not a week that Walker should be expected to get back to his usual production. He is always a threat for a big play, but even those have come few and far between in 2025. As long as both of Seattle's running backs are healthy, Walker will remain in the flex conversation. His RB2 upside does not even seem very achievable at this point. You can start Walker this week, but expect a low ceiling and a potentially single-digit floor.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'opponent'
+}}",N
+rotoballer_208150,RB,Kyle Monangai,12,CHI,PIT,12534,202511206,2025,2025-11-23 12:00 PM,2025-11-18 08:49 AM,Kyle Monangai Holds Weekly Touchdown Upside,"Chicago Bears rookie running back Kyle Monangai has now scored touchdowns in back-to-back weeks as he's earned more work behind starter D'Andre Swift. Monangai was still the clear No.2 back in Week 11 against the Minnesota Vikings, handling 13 touches for 37 yards compared to Swift with 21 for 90, but the rookie is getting valuable touches on the goal line. The 23-year-old has outcarried Swift three to two inside the 10-yard line in the past two weeks. While Monangai doesn't have the explosiveness to break off long runs, he has standalone value as long as he maintains the work down near the goal line and mixes in with Swift occasionally. Monangai is one of the top handcuffs in fantasy and should be added off the waiver wire in most leagues if available.",medium,performance,validate,"Target Player:
+Kyle Monangai
+
+Report:
+Chicago Bears rookie running back Kyle Monangai has now scored touchdowns in back-to-back weeks as he's earned more work behind starter D'Andre Swift. Monangai was still the clear No.2 back in Week 11 against the Minnesota Vikings, handling 13 touches for 37 yards compared to Swift with 21 for 90, but the rookie is getting valuable touches on the goal line. The 23-year-old has outcarried Swift three to two inside the 10-yard line in the past two weeks. While Monangai doesn't have the explosiveness to break off long runs, he has standalone value as long as he maintains the work down near the goal line and mixes in with Swift occasionally. Monangai is one of the top handcuffs in fantasy and should be added off the waiver wire in most leagues if available.
+
+Output:
+{{
+  'expected_workload': 'medium',
+  'reason_category': 'performance'
+}}",N
+rotoballer_205534,RB,Devin Neal,8,NO,TB,12476,202510822,2025,2025-10-26 03:05 PM,2025-10-24 03:15 PM,Devin Neal Expected To Take On Bigger Role,"New Orleans Saints rookie running back Devin Neal is expected to see more work after Kendre Miller's season-ending ACL injury. Neal will now slide in as the team's No. 2 running back behind veteran Alvin Kamara. The 2025 sixth-round pick from Kansas missed time in training camp with a hamstring injury, which set him back and allowed Miller to run away with the No. 2 running back duties. Neal suited up and played seven offensive snaps in Week 1, but then served as a healthy inactive for the next four weeks. The rookie again played only seven snaps on offense in Week 7 against the Bears, but caught the eyes of head coach Kellen Moore with an impressive rep in pass protection. Neal has been continually praised by his teammates for his intelligence, which bodes well for his chances of seeing more opportunities. He's a good player to stash as a handcuff in 12-team leagues.",low,injury,validate,"Target Player:
+Devin Neal
+
+Report:
+New Orleans Saints rookie running back Devin Neal is expected to see more work after Kendre Miller's season-ending ACL injury. Neal will now slide in as the team's No. 2 running back behind veteran Alvin Kamara. The 2025 sixth-round pick from Kansas missed time in training camp with a hamstring injury, which set him back and allowed Miller to run away with the No. 2 running back duties. Neal suited up and played seven offensive snaps in Week 1, but then served as a healthy inactive for the next four weeks. The rookie again played only seven snaps on offense in Week 7 against the Bears, but caught the eyes of head coach Kellen Moore with an impressive rep in pass protection. Neal has been continually praised by his teammates for his intelligence, which bodes well for his chances of seeing more opportunities. He's a good player to stash as a handcuff in 12-team leagues.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
+rotoballer_210734,RB,D'Andre Swift,15,CHI,CLE,6790,202511506,2025,2025-12-14 12:00 PM,2025-12-13 10:00 AM,D'Andre Swift a Low-End RB2 Against Browns,"Chicago Bears running back D'Andre Swift has been having a standout season as he approaches the final four weeks. In 12 games, Swift has accumulated 1093 total yards and six touchdowns, ranking him as the RB17 on a per-game basis. His season could be even better if it weren't for the rise of rookie Kyle Monangai. Both Swift and Monangai have each had 60 carries over the last four games and have been nearly equal in snap share since Week 8. Although the Bears are among the most run-oriented teams in the NFL, this committee approach will likely make Swift an inconsistent fantasy option moving forward. He faces a Browns defense that's been tough against the run this season but just allowed 161 rushing yards to Titans running back Tony Pollard last week. As the fantasy playoffs approach, it will be tough to bench the veteran, but expectations against the Browns should be tempered.",medium,performance,validate,"Target Player:
+D'Andre Swift
+
+Report:
+Chicago Bears running back D'Andre Swift has been having a standout season as he approaches the final four weeks. In 12 games, Swift has accumulated 1093 total yards and six touchdowns, ranking him as the RB17 on a per-game basis. His season could be even better if it weren't for the rise of rookie Kyle Monangai. Both Swift and Monangai have each had 60 carries over the last four games and have been nearly equal in snap share since Week 8. Although the Bears are among the most run-oriented teams in the NFL, this committee approach will likely make Swift an inconsistent fantasy option moving forward. He faces a Browns defense that's been tough against the run this season but just allowed 161 rushing yards to Titans running back Tony Pollard last week. As the fantasy playoffs approach, it will be tough to bench the veteran, but expectations against the Browns should be tempered.
+
+Output:
+{{
+  'expected_workload': 'medium',
+  'reason_category': 'performance'
+}}",N
+rotoballer_207469,RB,Aaron Jones,11,MIN,CHI,4199,202511120,2025,2025-11-16 12:00 PM,2025-11-12 10:14 AM,Aaron Jones Sr. Emerging as the Lead Back in Minnesota,"Minnesota Vikings running back Aaron Jones Sr. has been limited to just five games played this season due to a hamstring injury that sidelined him from Week 3 to Week 7. However, the 30-year-old has been productive since returning to the lineup. Over his last two games, Jones Sr. has recorded 167 yards from scrimmage and a touchdown on 23 total touches. Perhaps most importantly, Jones Sr. appears to be re-emerging as Minnesota's lead back. In Week 10, Jones Sr. played 71% of the Vikings' offensive snaps, compared to just 25% for fellow running back Jordan Mason. Jones Sr. also saw a season-high six targets in Week 10. Heading into a favorable Week 11 matchup against the Chicago Bears, Jones Sr. profiles as a solid fantasy RB2.",high,opponent,validate,"Target Player:
+Aaron Jones
+
+Report:
+Minnesota Vikings running back Aaron Jones Sr. has been limited to just five games played this season due to a hamstring injury that sidelined him from Week 3 to Week 7. However, the 30-year-old has been productive since returning to the lineup. Over his last two games, Jones Sr. has recorded 167 yards from scrimmage and a touchdown on 23 total touches. Perhaps most importantly, Jones Sr. appears to be re-emerging as Minnesota's lead back. In Week 10, Jones Sr. played 71% of the Vikings' offensive snaps, compared to just 25% for fellow running back Jordan Mason. Jones Sr. also saw a season-high six targets in Week 10. Heading into a favorable Week 11 matchup against the Chicago Bears, Jones Sr. profiles as a solid fantasy RB2.
+
+Output:
+{{
+  'expected_workload': 'high',
+  'reason_category': 'opponent'
+}}",N
+rotoballer_207812,RB,Brian Robinson,11,SF,ARI,8154,202511101,2025,2025-11-16 03:05 PM,2025-11-15 03:43 AM,Brian Robinson Jr. To Continue Recent Production In Week 11?,"San Francisco 49ers running back Brian Robinson Jr. has turned the corner recently, posting consecutive RB2 finishes in the 49ers' last two games. Robinson's utilization in Week 10 and Week 11 was in line with past games, but with better results. Against the Giants and then the Rams, Robinson had his two highest rushing totals and scored a touchdown in each game. This trend has a good chance to continue in Week 11, when the 49ers face the Cardinals. Robinson saw just five snaps in the teams' last meeting in Week 3, but Arizona is coming off a game against Seattle where they allowed 181 rushing yards and two touchdowns to the Seahawks' backfield. Limited on touches, only another trip to the end zone would make starting Robinson in fantasy lineups worthwhile. He projects as an RB4 in Week 11.",low,performance,validate,"Target Player:
+Brian Robinson
+
+Report:
+San Francisco 49ers running back Brian Robinson Jr. has turned the corner recently, posting consecutive RB2 finishes in the 49ers' last two games. Robinson's utilization in Week 10 and Week 11 was in line with past games, but with better results. Against the Giants and then the Rams, Robinson had his two highest rushing totals and scored a touchdown in each game. This trend has a good chance to continue in Week 11, when the 49ers face the Cardinals. Robinson saw just five snaps in the teams' last meeting in Week 3, but Arizona is coming off a game against Seattle where they allowed 181 rushing yards and two touchdowns to the Seahawks' backfield. Limited on touches, only another trip to the end zone would make starting Robinson in fantasy lineups worthwhile. He projects as an RB4 in Week 11.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_209665,RB,Tyrone Tracy,15,NYG,WAS,11655,202511523,2025,2025-12-14 12:00 PM,2025-12-02 01:15 PM,Tyrone Tracy Jr. Says he's Fine After Suffering Hip Contusion,"New York Giants running back Tyrone Tracy Jr. (hip) was carted off the field during the fourth quarter of Monday's blowout loss to the Patriots, but on Tuesday, the second-year back told reporters it was merely a hip contusion/stinger and that he is fine. Despite missing two games earlier this season with a shoulder injury, Tracy leads a banged-up Giants offense in rush attempts and yards, and had been enjoying his most productive three-game stretch of the season heading into Monday night. The Giants now face a Week 14 bye, so fantasy managers will need to wait an additional week for any official injury reports, but if healthy for Week 15, Tracy remains a low-ceiling flex candidate for the fantasy playoffs.",low,injury,validate,"Target Player:
+Tyrone Tracy
+
+Report:
+New York Giants running back Tyrone Tracy Jr. (hip) was carted off the field during the fourth quarter of Monday's blowout loss to the Patriots, but on Tuesday, the second-year back told reporters it was merely a hip contusion/stinger and that he is fine. Despite missing two games earlier this season with a shoulder injury, Tracy leads a banged-up Giants offense in rush attempts and yards, and had been enjoying his most productive three-game stretch of the season heading into Monday night. The Giants now face a Week 14 bye, so fantasy managers will need to wait an additional week for any official injury reports, but if healthy for Week 15, Tracy remains a low-ceiling flex candidate for the fantasy playoffs.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
+rotoballer_207847,RB,Devin Singletary,11,NYG,GB,6130,202511123,2025,2025-11-16 12:00 PM,2025-11-15 08:57 AM,Devin Singletary Tough to Trust in Week 11 Lineups,"New York Giants running back Devin Singletary took a back seat to Tyrone Tracy Jr. in Week 10's loss to the Bears but was productive, playing 34.3% of snaps and handling 11 touches for 73 yards from scrimmage. Singletary outsnapped Tracy 31 to 26 in Week 9, but Tracy returned to his expected lead role in Week 10. The Giants' backfield looks like it will be a running back-by-committee moving forward, with a lean toward Tracy, limiting the upside of both. With interim head coach Mike Kafka replacing Brian Daboll this week, it will be interesting to see if anything changes with how he distributes the backfield touches. Singletary could stay involved on pass downs and catch a few more checkdowns with a less mobile Jameis Winston starting for an injured Jaxson Dart (concussion) in Week 11 against the Green Bay Packers. Singletary profiles as an RB4 for Sunday, making him tough to trust in any lineup outside of deeper leagues.",low,performance,validate,"Target Player:
+Devin Singletary
+
+Report:
+New York Giants running back Devin Singletary took a back seat to Tyrone Tracy Jr. in Week 10's loss to the Bears but was productive, playing 34.3% of snaps and handling 11 touches for 73 yards from scrimmage. Singletary outsnapped Tracy 31 to 26 in Week 9, but Tracy returned to his expected lead role in Week 10. The Giants' backfield looks like it will be a running back-by-committee moving forward, with a lean toward Tracy, limiting the upside of both. With interim head coach Mike Kafka replacing Brian Daboll this week, it will be interesting to see if anything changes with how he distributes the backfield touches. Singletary could stay involved on pass downs and catch a few more checkdowns with a less mobile Jameis Winston starting for an injured Jaxson Dart (concussion) in Week 11 against the Green Bay Packers. Singletary profiles as an RB4 for Sunday, making him tough to trust in any lineup outside of deeper leagues.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'performance'
+}}",N
+rotoballer_208892,RB,Zonovan Knight,13,ARI,TB,8122,202511333,2025,2025-11-30 12:00 PM,2025-11-24 08:38 PM,Bam Knight Scores a Rushing TD to Salvage Week 12 Fantasy Performance,"Arizona Cardinals running back Bam Knight had 10 carries for 12 yards and a touchdown in Sunday's 27-24 overtime loss to the Jacksonville Jaguars in Week 12. He added four catches on five targets for 20 yards through the air. Knight was able to tough out an ankle injury that had limited him in practice leading up to Sunday's performance. The 24-year-old had to find the end zone to save his Week 12 fantasy performance, and he has now scored a touchdown in back-to-back weeks to stay fantasy viable. In a high-volume passing offense, Knight has become a touchdown-dependent running back in all fantasy formats. Since Week 9, over a third of Knight's fantasy points have come from his touchdown production. Heading into Week 13 against the Tampa Bay Buccaneers, Knight's short-term fantasy appeal could run out if Trey Benson (knee) returns from Injured Reserve.",low,injury,validate,"Target Player:
+Zonovan Knight
+
+Report:
+Arizona Cardinals running back Bam Knight had 10 carries for 12 yards and a touchdown in Sunday's 27-24 overtime loss to the Jacksonville Jaguars in Week 12. He added four catches on five targets for 20 yards through the air. Knight was able to tough out an ankle injury that had limited him in practice leading up to Sunday's performance. The 24-year-old had to find the end zone to save his Week 12 fantasy performance, and he has now scored a touchdown in back-to-back weeks to stay fantasy viable. In a high-volume passing offense, Knight has become a touchdown-dependent running back in all fantasy formats. Since Week 9, over a third of Knight's fantasy points have come from his touchdown production. Heading into Week 13 against the Tampa Bay Buccaneers, Knight's short-term fantasy appeal could run out if Trey Benson (knee) returns from Injured Reserve.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
+rotoballer_205786,RB,Cam Skattebo,9,NYG,SF,12481,202510923,2025,2025-11-02 12:00 PM,2025-10-26 01:11 PM,Cam Skattebo Exits Week 8 Early Due to Serious Ankle Injury,"New York Giants rookie running back Cam Skattebo (ankle) suffered a serious-looking ankle injury during his team's Week 8 matchup against the Philadelphia Eagles. Skattebo had an air cast placed on his leg and was carted off the field. Assuming the rookie's day is done, he will finish Week 8 with 30 yards from scrimmage and a touchdown on four total touches. With Skattebo likely out for the remainder of Week 8 and possibly much longer, the Giants will turn to the combination of Tyrone Tracy Jr. and Devin Singletary in the backfield. Tracy Jr. recorded 1,123 yards from scrimmage and six touchdowns across 17 games in 2024, so he's capable of producing in a lead-back role.",low,injury,validate,"Target Player:
+Cam Skattebo
+
+Report:
+New York Giants rookie running back Cam Skattebo (ankle) suffered a serious-looking ankle injury during his team's Week 8 matchup against the Philadelphia Eagles. Skattebo had an air cast placed on his leg and was carted off the field. Assuming the rookie's day is done, he will finish Week 8 with 30 yards from scrimmage and a touchdown on four total touches. With Skattebo likely out for the remainder of Week 8 and possibly much longer, the Giants will turn to the combination of Tyrone Tracy Jr. and Devin Singletary in the backfield. Tracy Jr. recorded 1,123 yards from scrimmage and six touchdowns across 17 games in 2024, so he's capable of producing in a lead-back role.
+
+Output:
+{{
+  'expected_workload': 'low',
+  'reason_category': 'injury'
+}}",N
