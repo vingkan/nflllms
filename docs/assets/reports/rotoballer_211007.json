@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211007",
+  "title": "Kimani Vidal's Volume Holds, But Production Remains a Question",
+  "description": "Los Angeles Chargers running back Kimani Vidal led the backfield in snaps, routes, and two-minute offense in the team's 16-13 win over the Kansas City Chiefs, but struggled to produce efficiently, rushing 12 times for just 33 yards while being outgained per carry by Omarion Hampton. Vidal's value continues to come from his role rather than explosiveness, as he remains the preferred back on passing downs. The Chargers' focus on a ground-heavy approach keeps Vidal relevant in fantasy, but his weekly output stays unpredictable. In Week 16, the Cowboys present a mixed matchup, allowing rushing touchdowns at a high rate but limiting overall efficiency. Vidal is seen as a low-end RB2 or flex option, especially in PPR formats, though his ceiling is limited by sharing the backfield.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 16,
+  "team": "LAC",
+  "opp": "DAL",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 11,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 70
+}

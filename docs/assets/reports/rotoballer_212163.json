@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212163",
+  "title": "Kyle Monangai a Risky RB3 in Week 17",
+  "description": "Chicago Bears rookie running back Kyle Monangai was efficient in the 22-16 overtime victory over the division rival Green Bay Packers. Monangai had nine carries for 50 yards and added 43 receiving yards on three catches, his best receiving output of the 2025 season. Monangai has had double-digit attempts in six straight games and has earned a consistent role alongside D'Andre Swift. He faces a San Francisco 49ers defense that has been average against running backs this season. The Bears are looking to clinch the NFC North and are expected to rely on the ground game in Weeks 17 and 18. Monangai offers FLEX value against the 49ers, depending on whether he finds the end zone.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 17,
+  "team": "CHI",
+  "opp": "SF",
+  "att": 8,
+  "tgt": 4,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 38,
+  "receiving_catches": 3,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 31
+}

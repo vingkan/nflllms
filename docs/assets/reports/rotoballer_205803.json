@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205803",
+  "title": "Breece Hall Records Three Touchdowns",
+  "description": "New York Jets running back Breece Hall posted an outstanding performance during Sunday's game against the Cincinnati Bengals. Hall hasn't found much success on the ground lately, but had no issues in Week 8. Hall rushed 18 times for 133 yards and two touchdowns on the ground. He also hauled in two receptions for an additional seven yards through the air, but that wasn't all. The 24-year-old threw the game-winning touchdown pass to tight end Mason Taylor. Hall literally did a little bit of everything during this victory. He'll head into a bye week on a high note before playing the Cleveland Browns in Week 10.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

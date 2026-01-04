@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204718",
+  "title": "Michael Carter Could See Production Bump in Week 7",
+  "description": "Arizona Cardinals running back Michael Carter had his snaps scaled back in the team's loss to the Indianapolis Colts last Sunday, ceding work to teammate Bam Knight (knee). However, Carter could see his role expand again in Week 7, as he's currently the only active RB without an injury designation. The Cardinals' backfield has already taken significant hits with injuries to James Conner (foot) and Trey Benson (knee). Now, Emari Demercado (ankle) and Knight have missed practice time with injury. Carter has been inefficient in his work thus far, but the team may be forced to utilize him more as they try to figure out a backfield rotation that yields dividends. Even if the fifth-year pro gets the lion's share of opportunities this weekend, he'll be a low-end option for his matchup with the league's No. 1 team against the run, the Green Bay Packers.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 7,
+  "team": "ARI",
+  "opp": "GB",
+  "att": 7,
+  "tgt": 2,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 11,
+  "receiving_catches": 2,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 38
+}

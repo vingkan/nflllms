@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206201",
+  "title": "Rico Dowdle Will \"Start and Get the Bulk of the Carries\" in Week 9",
+  "description": "Carolina Panthers beat writer Joe Person reports that running back Rico Dowdle will \"start and get the bulk of the carries\" in his team's Week 9 matchup against the Green Bay Packers. Dowdle posted a dominant two-week stretch in early October when Panthers running back Chuba Hubbard was sidelined by a calf injury. Across two games against the Miami Dolphins and Dallas Cowboys, Dowdle recorded 473 scrimmage yards and two touchdowns on 50 touches. In the two games since Hubbard has returned to the field, the two backs have split touches. However, it appears that will change in Week 9. It's unlikely that Hubbard's role in Carolina's offense will completely disappear. Still, Dowdle has a chance to see the majority of backfield snaps, which puts him on track to be a fantasy RB2 in Week 9 against Green Bay.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 25,
+  "tgt": 3,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 130,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 2
+}

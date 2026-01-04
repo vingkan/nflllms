@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206573",
+  "title": "Browns Optimistic Quinshon Judkins Can Play in Week 10",
+  "description": "Cleveland Browns head coach Kevin Stefanski said he \"feels good\" about rookie running back Quinshon Judkins' (shoulder) availability for the Week 10 contest this Sunday against the New York Jets, according to Scott Petrak of Browns Zone. Judkins was forced to leave the Week 8 loss to the New England Patriots early due to an AC joint sprain, but with the benefit of a bye in Week 9, he may not have to miss a game. Stefanski called Judkins \"day-to-day\" on Monday, so fantasy managers have to feel good about the rookie's chances to suit up this weekend in a favorable matchup. The 22-year-old second-rounder out of Ohio State didn't take long to take over lead-back duties in Cleveland this year, and he should be the team's RB1 this weekend if he's cleared. Judkins has been a must-start in fantasy lineups in 2025, posting 486 rushing yards and five touchdowns on his 118 carries through seven starts. He's also added 12 catches for 60 yards on 15 targets. UPDATE: Judkins was seen practicing on Monday.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 75,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 26
+}

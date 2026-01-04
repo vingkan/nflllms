@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206395",
+  "title": "James Cook Remains Low-End RB1 in Difficult Matchup",
+  "description": "Buffalo Bills running back James Cook remains a must-start despite a matchup against the formidable Kansas City Chiefs defense. Cook was electric last week, posting 216 yards and two touchdowns on 19 carries.   Cook surrendered carries last week to Ray Davis, due to their lopsided matchup, but should regain a stronghold on the offense in Week 9.  The emerging star's 753 rushing yards and seven touchdowns through seven games place him in the most elite tier of the position this season, and make him a lock for starting lineups moving forward.  Both teams are capable of heavy offensive output, which should lead to a shootout on Sunday afternoon.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 9,
+  "team": "BUF",
+  "opp": "KC",
+  "att": 27,
+  "tgt": 1,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 114,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 13
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211437",
+  "title": "Christian McCaffrey Looking To Extend TD Streak",
+  "description": "San Francisco 49ers running back Christian McCaffrey will put a four-game touchdown streak on the line in Week 16 against the Colts. Last week, Indianapolis held Seahawks running backs Kenneth Walker III and Zach Charbonnet out of the end zone, but had given up at least one rushing touchdown to a running back in each of their six previous games. McCaffrey appears to be clear of the back injury that made him a surprising late addition to the 49ers' injury report last week, and should see plenty of work on Monday night. If Ricky Pearsall (knee/ankle) is unable to play, then CMC would likely reemerge as a candidate to lead the team in targets, as he has done six times already in 2025. Fantasy football managers should watch for the 49ers' final injury report, but assuming McCaffrey is fully healthy, he has the potential for a top-3 finish at his position.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 16,
+  "team": "SF",
+  "opp": "IND",
+  "att": 21,
+  "tgt": 8,
+  "touches": 29,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 117,
+  "receiving_catches": 6,
+  "receiving_yards": 29,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 2,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 2
+}

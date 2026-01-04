@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204937",
+  "title": "Kendre Miller Looks to Carve Out Bigger Role in Week 7",
+  "description": "New Orleans Saints running back Kendre Miller recorded eight carries for 21 yards and added one reception for 11 yards in Week 6's loss to the Patriots. His 2.6 yards per carry wasn't surprising, as New England allows just 83.5 rushing yards per game, the fourth-best mark in the league. Before this contest, Miller had logged double-digit touches in back-to-back games, totalling 114 yards and a touchdown. He'll look to get back on track against a Bears defense surrendering 156.4 rushing yards per game, the second-worst mark in the league. Miller is still fighting for a consistent role in the offense, but the favorable matchup gives him some Flex appeal in Week 7.",
+  "player_id": 9757,
+  "player_name": "Kendre Miller",
+  "week": 7,
+  "team": "NO",
+  "opp": "CHI",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 7,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 68
+}

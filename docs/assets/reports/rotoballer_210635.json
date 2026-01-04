@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210635",
+  "title": "Tyrone Tracy Jr. Offers RB2 Value for Week 15",
+  "description": "New York Giants running back Tyrone Tracy Jr. (hip) won't carry an injury designation into the Week 15 matchup against the Washington Commanders. Tracy was forced to exit early during the Week 13 loss to the New England Patriots with a hip contusion. The 26-year-old is ready to go after a week off during the team's bye. Tracy figures to handle the bulk of the carries in the backfield, while Devin Singletary gets mixed in as well. The second-year back has rushed for over 60 yards in three of his last four games. During that span, Tracy has also finished with 50 receiving yards or more in two of those games. The Commanders' defense ranks 27th in points allowed to running backs this season. With a full workload, Tracy should be able to offer RB2 value in 12-team formats in Week 15.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 5
+}

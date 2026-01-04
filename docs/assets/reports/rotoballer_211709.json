@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211709",
+  "title": "Rico Dowdle Registers 43 Scrimmage Yards In Week 16",
+  "description": "Rico Dowdle had nine carries for 29 yards in the Panthers' 23-20 victory over the Tampa Bay Buccaneers in Week 16. The Carolina RB also added four receptions for 14 receiving yards, totaling 8.3 PPR points. Dowdle has cooled off in the last four starts, averaging 10.5 PPR points per game during that span. For the second consecutive week, Dowdle outperformed Chuba Hubbard, who finished Week 16 with 34 scrimmage yards and 4.4 PPR points. Despite the workload being split between Dowdle and Hubbard, Dowdle logged the most snaps (57%). In Week 17, the Panthers face the Seattle Seahawks. In the last four weeks leading up to Week 16, the Seahawks ranked seventh in Fantasy Points Per Game allowed to RBs. Fantasy players who have their championship in Week 17 cab consider reserving Dowdle due to the tough matchup.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 17,
+  "team": "CAR",
+  "opp": "SEA",
+  "att": 12,
+  "tgt": 5,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 59,
+  "receiving_catches": 3,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 23
+}

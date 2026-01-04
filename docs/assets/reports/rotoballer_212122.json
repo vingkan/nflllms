@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212122",
+  "title": "Devin Singletary Tough to Trust in Week 17",
+  "description": "Across seven games since New York Giants running back Cam Skattebo (ankle) suffered a season-ending ankle injury, Giants back Devin Singletary has seen an average of 12.1 touches per game. However, the 28-year-old's role has begun to fade again in recent weeks, as he's averaging just nine touches per game over his last two contests. In that two-game span, Singletary has been out-snapped by Giants running back Tyrone Tracy Jr. 87 to 37. While Singletary is still a safe bet to log a few carries and could see some work around the goal-line, Tracy Jr.'s recent emergence as the clear RB1 in New York limits Singletary's production upside. Making matters worse, Singletary faces a quietly difficult matchup in Week 17 against the Las Vegas Raiders. Entering the weekend, Las Vegas ranks fourth among NFL defenses in yards per carry allowed (3.8). At best, Singletary profiles as a deep-league flex option for fantasy managers in Week 17.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 17,
+  "team": "NYG",
+  "opp": "LV",
+  "att": 8,
+  "tgt": 4,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 45,
+  "receiving_catches": 4,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 13
+}

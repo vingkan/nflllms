@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209160",
+  "title": "Bam Knight Limited Again on Thursday with a Knee Injury",
+  "description": "Arizona Cardinals running back Bam Knight (knee) was a limited participant in Thursday's practice with a knee injury. The Cardinals' backfield remains banged up as Trey Benson (knee) and Emari Demercado (ankle) did not practice on Thursday, leaving Michael Carter as the team's only healthy back. Knight has now logged back-to-back limited sessions and will need to be a full participant on Friday to avoid an injury designation for Sunday's game against the Tampa Bay Buccaneers. Knight has caught four passes and found the end zone in back-to-back weeks. The 24-year-old will look to score for a third straight game and can be used as a FLEX option if Benson and Demercado are ruled out again in Week 13.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

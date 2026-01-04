@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211733",
+  "title": "Vikings Estimate Aaron Jones Sr. as Limited Participant on Monday",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (ankle) was listed as a limited participant on Monday's practice report. The Vikings conducted a walk-through on Monday, so this designation is based on an estimation from the team. Jones and fellow running back Jordan Mason (ankle) both exited during the first quarter of Sunday's win over the New York Giants, but unlike Mason, Jones was able to return. The veteran ball-carrier is trending in the right direction for Week 17 against the Detroit Lions, but fantasy managers should still monitor the Vikings' upcoming practice reports for additional updates. Jones could actually take on a slightly larger role this week if Mason, who was estimated as a non-participant on Monday, doesn't suit up. As it stands, he ranks as a mid-to-low RB2.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 17,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

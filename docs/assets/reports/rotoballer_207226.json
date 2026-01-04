@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207226",
+  "title": "Terrell Jennings Questionable to Return Against Buccaneers Sunday",
+  "description": "New England Patriots running back Terrell Jennings (knee) exited during the first quarter of Sunday's Week 10 contest against the Tampa Bay Buccaneers. He is officially listed as questionable to return. At the time of his departure, he had five rushing yards on four carries, including the Patriots' first rush attempt of the game. Jennings had been handling increased volume alongside TreVeyon Henderson with Rhamondre Stevenson (toe) sidelined for the second consecutive week. Henderson will remain atop the depth chart while D'Ernest Johnson operates as his backup until Jennings can return.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

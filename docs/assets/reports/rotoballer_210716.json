@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210716",
+  "title": "Blake Corum Carries Momentum into Meeting with Tough Lions Run Defense",
+  "description": "Los Angeles Rams running back Blake Corum has plenty of momentum on his side ahead of Week 15 against the Detroit Lions. Over the last two weeks, Corum has totaled 19 carries for 209 rushing yards and three rushing touchdowns, plus a three-yard reception. He has continued to play around one-third of the offensive snaps, and he has posted otherworldly efficiency with 11.0 yards per carry between his last two games. Corum's increased role and productivity have come as a result of the Rams lightening Kyren Williams' workload to keep him fresh for the playoffs. Williams had just one more rush attempt than Corum last week, and the two have combined for five touchdowns over the last two games. While we expect Corum to remain heavily involved for the final few weeks of the regular season, his efficiency may come back down to earth this week. After all, the Lions have allowed the eighth-fewest rushing yards, sixth-fewest rushing touchdowns, and second-fewest fantasy points to opposing running backs in 2025. Still, Corum has proven that he has standalone value in fantasy football. He ranks as the overall RB36 in RotoBaller's fantasy football rankings for Week 15.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 15,
+  "team": "LAR",
+  "opp": "DET",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

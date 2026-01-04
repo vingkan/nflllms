@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211161",
+  "title": "R.J. Harvey Seen Practicing on Wednesday, No Concern Over Week 16 Status",
+  "description": "Denver Broncos rookie running back R.J. Harvey (ribs) is participating in practice on Wednesday, according to Romi Bean of CBS Colorado. Harvey picked up a rib injury late in Denver's Week 15 win over the Green Bay Packers, but he seems to have avoided a major injury that would cost him any time. Head coach Sean Payton wasn't concerned with the injury, saying that \"he's doing good\" and should be good to go for Sunday's game against the Jacksonville Jaguars. Payton noted to himself after the Packers game to get Jaleel McLaughlin more touches to manage Harvey's workload, but it's promising news that the rookie won't miss any time. He's been one of the best running backs in fantasy football since taking over lead duties with J.K. Dobbins (foot) out for the year, ranking as the RB6 in PPR points per game over the past four games. Harvey will project favorably again in Week 16 versus the Jaguars. UPDATE: Harvey was a full participant in Wednesday's practice.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 16,
+  "team": "DEN",
+  "opp": "JAX",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 71,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 11
+}

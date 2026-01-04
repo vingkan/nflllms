@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207835",
+  "title": "Keaton Mitchell Stepping into More Snaps in Week 11?",
+  "description": "Baltimore Ravens running back Keaton Mitchell is off the injury report and ready to go for Week 11 after being a limited participant on Wednesday due to a knee issue. The speedy back only saw seven percent of the snaps in their Week 10 win over the Minnesota Vikings, but he looks to be in line for some more snaps now that Justice Hill (toe) has been ruled out for their game against the Cleveland Browns. Head coach John Harbaugh already talked about wanting to get Mitchell more involved, so he could serve as the main change-of-pace back behind Derrick Henry now. The Browns, however, are one of the toughest matchups for running backs as they give up just 16.79 fantasy points per game to backfields and have only allowed three touchdowns on the ground and one through the air to the position. That gives Mitchell more of a RB4 projection who would only serve as a flex start in very deep leagues.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 11,
+  "team": "BAL",
+  "opp": "CLE",
+  "att": 6,
+  "tgt": 3,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 31,
+  "receiving_catches": 2,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 39
+}

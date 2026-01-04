@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209531",
+  "title": "Kimani Vidal has Season-High in Rushing Yards in Win Over Raiders",
+  "description": "Los Angeles Chargers running back Kimani Vidal bounced back in a big way during Sunday's game against the Las Vegas Raiders. In Week 11, Vidal posted a season-low 13 yards in the loss to the Jacksonville Jaguars. The 24-year-old came ready to play out of the bye week this weekend. His biggest play of the game came in the third quarter when he rushed 59 yards for a score to give his team the lead. Vidal ended this game with a season-high 126 rushing yards on 25 attempts with one touchdown in the win. It remains to be seen how the workload is going to be split up once Omarion Hampton (ankle) returns to the mix. Fantasy managers will need to check back throughout the week to see how that situation shakes out ahead of Week 14.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 60,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

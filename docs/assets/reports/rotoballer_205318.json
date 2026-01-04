@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205318",
+  "title": "Is Kenneth Gainwell Merely a Handcuff Moving Forward?",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell was quiet in Week 7, handling just three carries for 14 yards and gaining only one yard on two receptions in a 33-31 loss to the Cincinnati Bengals. Meanwhile, backfield mate Jaylen Warren exploded for 158 total yards on 20 touches. Although Gainwell impressed when Warren missed Week 4, it is clear that he will operate in a purely complementary role as long as both backs are healthy. He could occasionally contribute in the passing game as a check-down option for quarterback Aaron Rodgers, but Gainwell's standalone fantasy value has taken a significant hit over the past two weeks. The fifth-year pro will likely be dropped in shallow redraft leagues and should be viewed as a handcuff heading into a Week 8 matchup against the Green Bay Packers.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 8,
+  "team": "PIT",
+  "opp": "GB",
+  "att": 5,
+  "tgt": 2,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

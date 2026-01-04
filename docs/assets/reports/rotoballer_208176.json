@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208176",
+  "title": "Uncertainty Remains Around Joe Mixon's Return Timeline",
+  "description": "Houston Texans general manager Nick Caserio spoke on Tuesday about running back Joe Mixon (ankle, foot), saying that \"it's a very gray situation.\" There have been very few updates in regards to Mixon's recovery process, and the ones we have gotten have not been positive. It's looking increasingly unlikely that Mixon will be able to return in 2025. Caserio went on to say that there were times when the 29-year-old was making progress and other times when the progress stalled. As we are already in Week 12, there aren't any expectations for Mixon to come back after being placed on the Non-Football Injury list in the offseason. The Texans will continue to rely on veteran Nick Chubb and rookie Woody Marks in the meantime.",
+  "player_id": 4018,
+  "player_name": "Joe Mixon",
+  "week": 12,
+  "team": "HOU",
+  "opp": "BUF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

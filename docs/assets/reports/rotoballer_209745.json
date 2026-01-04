@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209745",
+  "title": "Rico Dowdle Settling in as Early-Down Back in Carolina",
+  "description": "Carolina Panthers running back Rico Dowdle was outproduced by Chuba Hubbard in last week's upset win over the Los Angeles Rams, as Hubbard finished with 17 carries for 83 yards while also catching two passes for 41 yards and a touchdown. Dowdle had 18 rushing attempts for 58 yards and added two receptions for 21 yards. It was the first time the Panthers had two RBs each record at least 75 scrimmage yards in a game since Dec. 24 of 2022. \"And for Rico, you know, giving him the lion's share of some of those first and second down, those early series and all that is a great way to just get him the ball,\" head coach Dave Canales said. With Hubbard getting his legs back under him after missing some time with injury, the Panthers appear to be reaching a more effective, balanced approach between the two RBs, with Dowdle becoming the early-down back, and Hubbard working more on passing downs.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 15,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 49,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 22
+}

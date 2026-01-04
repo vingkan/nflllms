@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203814",
+  "title": "Hassan Haskins' Role About to Increase in Chargers Backfield",
+  "description": "The bulk of the Los Angeles Chargers' backfield will now likely fall to running backs Hassan Haskins and Kimani Vidal, writes Eric Smith of Chargers.com. The Chargers placed rookie RB Omarion Hampton (ankle) on Injured Reserve on Monday after they already lost veteran Najee Harris (Achilles) for the season. Haskins had five carries for 13 yards in the Week 5 loss to the Washington Commanders on Sunday, while Vidal had 18 rushing yards on four rushing attempts. Haskins and Vidal logged 14 offensive snaps apiece on Sunday, but it's unclear exactly how the division of labor will be distributed between the two over the next four games with Hampton out. It could be a split down the middle of backfield touches, but either way, both Haskins and Vidal will be prime waiver-wire targets for fantasy managers who need help at the position. Amar Johnson should be brought up from the practice squad to serve as the RB3.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 51
+}

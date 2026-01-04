@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206026",
+  "title": "Emanuel Wilson Earning More Touches in Green Bay?",
+  "description": "Green Bay Packers running back Emanuel Wilson saw his largest workload of the season in his team's Week 8 win over the Pittsburgh Steelers, recording 87 scrimmage yards on 14 touches. Wilson has been efficient when he's had the ball in his hands this year, averaging 5.1 yards per touch on 43 touches across seven games played. The Packers have a workhorse running back ahead of Wilson on the depth chart in Josh Jacobs. However, Jacobs has been playing through a calf injury and has failed to crack 16 touches in either of his last two games after recording at least 20 touches in each of his first five. Wilson is still the clear RB2 in Green Bay as long as Jacobs is active, but there could be an opportunity for more consistent backfield snaps while the team manages Jacobs' workload.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 9,
+  "team": "GB",
+  "opp": "CAR",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

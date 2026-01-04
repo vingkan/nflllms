@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203714",
+  "title": "Javonte Williams Highly Efficient in Multi-Touchdown Performance",
+  "description": "Dallas Cowboys running back Javonte Williams rushed for 135 yards and one touchdown on 16 carries during Sunday's Week 5 win over the New York Jets. He also caught a four-yard touchdown pass. Williams is enjoying a terrific career resurgence in Dallas, scoring six touchdowns through five games while averaging 20.7 fantasy points (PPR) per contest. He has ranked as a mid-range RB1 so far this season, and with a firm grasp on the lead-back role, he remains a must-start fantasy option going forward. Williams has been an enormous fantasy draft steal with league-winning potential as the Cowboys' offense plays quite well. He should continue to feast next week against the Carolina Panthers.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 6,
+  "team": "DAL",
+  "opp": "CAR",
+  "att": 13,
+  "tgt": 8,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 5,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

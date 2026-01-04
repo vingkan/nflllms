@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208919",
+  "title": "Tyler Allgeier a Priority Handcuff Option With Standalone Value",
+  "description": "Across 11 games this season, Atlanta Falcons running back Tyler Allgeier has recorded 89 catches for 324 yards and seven touchdowns. As long as star Falcons back Bijan Robinson remains healthy, Allgeier's production upside is limited. However, the Falcons have consistently demonstrated a willingness to use Allgeier in goal-to-go situations, which gives him touchdown-scoring potential every week. Additionally, should Robinson get injured, Allgeier holds fantasy league-winning potential. As the fantasy playoffs draw closer in most leagues, Allgeier is worth rostering for his handcuff upside alone. In the right matchups, such as Atlanta's Week 13 game against the New York Jets, Allgeier has standalone value as a flex option. He should be rostered in all leagues with 12 or more teams heading into Week 13.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 13,
+  "team": "ATL",
+  "opp": "NYJ",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 20,
+  "receiving_catches": 2,
+  "receiving_yards": 35,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

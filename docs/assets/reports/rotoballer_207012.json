@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207012",
+  "title": "Justice Hill Not a Practical Fantasy Option Versus Minnesota",
+  "description": "Baltimore Ravens running back Justice Hill hasn't done much throughout the 2025 campaign. Although he had two touchdowns in the Week 4 loss to the Kansas City Chiefs, he's been quiet overall from a production standpoint. The 27-year-old logged a season-high 35 offensive snaps in Week 6 versus the Los Angeles Rams. Yet, since the Ravens returned from their bye week, that number dropped considerably, with Hill logging only 11 offensive snaps in the Thursday night win over the Miami Dolphins in Week 9. With Baltimore looking to build on a two-game winning streak, the team is aiming for a much-needed victory over Minnesota on Sunday. The Vikings have looked good at times on the defensive side of the ball this season. However, regardless of the matchup, Hill isn't worth starting in any fantasy format. That likely won't change anytime soon, especially with Lamar Jackson and Derrick Henry getting most of the carries.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 10,
+  "team": "BAL",
+  "opp": "MIN",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 1,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 33
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206957",
+  "title": "Good Matchup, But Unknown Workload For Jordan Mason",
+  "description": "Minnesota Vikings running back Jordan Mason faces a friendly matchup against a Baltimore Ravens team that has struggled to stop the run for large portions of the year, but it remains to be seen how the Vikings will allocate carries in their backfield in Week 10. Fellow running back Aaron Jones Sr. (shoulder, toe) left last week's game and is questionable to play against the Ravens, which offers a range of possibilities for Mason. Jones was the more effective option last week in a key victory against Detroit, and though Minnesota head coach Kevin O'Connell has expressed optimism about Jones playing this week, Mason would be the featured option if Jones were to miss the game. The Vikings have ridden the hot hand when both backs have been available, which can be challenging to predict for fantasy purposes. But with Mason facing a good matchup and still getting a reasonable amount of work alongside Jones, he's a playable RB3/flex option in most formats.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 25,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 45
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206278",
+  "title": "David Montgomery: Touchdown-Dependent RB2 in Week 9",
+  "description": "Detroit Lions running back David Montgomery has recorded 451 scrimmage yards and four touchdowns on 89 touches through his first seven games of 2025. However, Montgomery was trending downwards before Detroit's Week 8 bye. In four games across Weeks 4 through 7, the 28-year-old logged 122 rushing yards and one touchdown on 44 carries (2.8 yards per carry). Montgomery is looking more and more like the clear RB2 in Detroit behind Jahmyr Gibbs, which makes him heavily reliant on touchdowns for fantasy production. In Week 9, Montgomery will face a Minnesota Vikings defense that has allowed the 10th-fewest rushing touchdowns (five) in the NFL this season. In his lone outing against Minnesota in 2024, Montgomery rushed for just 31 yards on nine carries, although he did add three catches for 39 yards. He profiles as a low-end fantasy RB2 in a difficult Week 9 matchup against the Vikings.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 9,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 40,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

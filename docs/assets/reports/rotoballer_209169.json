@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209169",
+  "title": "What Does Kimani Vidal's Fantasy Outlook Look Like Moving Forward?",
+  "description": "Los Angeles Chargers running back Kimani Vidal has been the Chargers' primary running back while Omarion Hampton (ankle) has been working his way back from an ankle injury he suffered in Week 5. Recent reports have suggested that Hampton has been limited in practice all week and is expected to return to the lineup. The Chargers have until Saturday afternoon to activate Hampton from the IR, and that may determine the fate of second-year running back Vidal, out of Troy University, and whether he remains fantasy relevant or not. Once healthy, Hampton figures to handle a majority of the workload, as the rookie running back out of North Carolina has rushed for 314 yards and two touchdowns while catching 20 passes for 136 yards over five games this season and is clearly the better back from a skill-set standpoint, which is why the Chargers spent a first-round draft pick on him in the 2025 NFL Draft. Vidal has stepped in and has been productive in Hampton's absence, with 417 rushing yards, 52 receiving yards, and three touchdowns, and is deserving of earning a portion of the running back touches even with Hampton healthy. The question is whether that amount of touches is enough to remain fantasy-relevant or not. Fantasy managers should hold onto Vidal for another week or two and see how things play out while Hampton ramps up.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 25,
+  "tgt": 1,
+  "touches": 26,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 126,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

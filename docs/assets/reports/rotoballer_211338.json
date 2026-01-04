@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211338",
+  "title": "Josh Jacobs \"More Doubtful than Probable\" to Play in Week 16?",
+  "description": "In a recent radio appearance, Green Bay Packers beat writer Rob Demovsky of ESPN said Packers running back Josh Jacobs (knee, ankle) is \"more doubtful than probable\" to play in the team's Week 16 matchup against the Chicago Bears on Saturday. Jacobs is officially listed as questionable to play after missing practice all week as he battles a lingering knee injury. The 27-year-old has rushed for 890 yards and 13 touchdowns on 218 carries across 13 games this season. If Green Bay does indeed hold Jacobs out, Emanuel Wilson would likely be in line for a sizable workload increase against Chicago. In Jacobs' lone missed game this season in Week 12 against the Minnesota Vikings, Wilson recorded 125 scrimmage yards and two touchdowns on 30 touches. The final word is unlikely to come until gametime on Saturday, so managers will need to monitor Jacobs' injury situation closely.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206829",
+  "title": "Nick Chubb Back at Practice on Thursday",
+  "description": "Houston Texans running back Nick Chubb (foot) is back at practice on Thursday after missing practice on Wednesday with a foot injury, according to DJ Bien-Aime of ESPN. It's a good sign that Chubb will be able to suit up this Sunday when the team takes on the division-rival Jacksonville Jaguars, but the 29-year-old might need to upgrade to a full practice before Friday to avoid taking a questionable tag into the weekend. Chubb has been pretty lackluster on the ground in his first year with the Texans, and he could be facing more defenders in the box this weekend if he's active, since starting quarterback C.J. Stroud has already been ruled out with a concussion. Chubb has been Houston's preferred choice on early downs since Joe Mixon (ankle, foot) has yet to play in 2025, and he's run for 355 yards and two touchdowns on 91 carries. If Chubb is limited at all this weekend, rookie Woody Marks would see an expanded workload.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 10,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

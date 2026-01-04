@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210325",
+  "title": "Quick Turnaround for Bijan Robinson After Disappointing Week 14",
+  "description": "Atlanta Falcons running back Bijan Robinson rushed 20 times for 86 yards in Sunday's 37-9 loss to the Seahawks, adding two catches for eight yards. While it was a solid effort, the team was unable to record a single touchdown in the contest, leaving Robinson well outside the RB2 ranks for the week. With Kirk Cousins playing mediocre football right now, and with Tyler Allgeier eating into Robinson's red zone opportunities, the 23-year-old has been less consistent than he was earlier in the season. Nevertheless, he's talented enough to bust loose at any moment, as he had done the week prior (193 total yards, one touchdown), and season-long fantasy managers will need to continue to plug in the former first-rounder as the fantasy playoffs descend on many leagues this week. Week 15 brings a Thursday night matchup against a pretty stout Buccaneers rush defense, which held the third-year pro to his lowest rushing output of the season way back in Week 1, but Robinson also managed to rack up 100 yards through the air in that game. He'll still likely be an RB1 for this week's matchup.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 15,
+  "team": "ATL",
+  "opp": "TB",
+  "att": 19,
+  "tgt": 11,
+  "touches": 30,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 93,
+  "receiving_catches": 8,
+  "receiving_yards": 82,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 4
+}

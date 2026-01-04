@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210400",
+  "title": "Bijan Robinson a Top Option at Running Back for Week 15 on TNF",
+  "description": "Atlanta Falcons running back Bijan Robinson put up solid numbers on the ground in Week 14, rushing 20 times for 86 yards, however, he caught just two passes for eight yards and did not score. Despite getting down big in the second half, Kirk Cousins targeted the 2024 Pro Bowler just two times, which was as many targets as Tyler Allgeier received, while Dylan Drummond and David Sills V combined for nine targets. Robinson was averaging over six targets per game with Michael Penix Jr. (knee) under center, but has seen that total drop to just over three targets per contest with Cousins, which has lowered his fantasy floor at the worst possible time for fantasy managers. Even so, on Thursday night, the 23-year-old faces a Buccaneers defense that has been easier to run on than they have been in recent years despite the presence of run-stuffing Vita Vea, yielding the 13th-most fantasy points to opposing running backs this season, along with allowing a league-worst 53.9 receiving yards per game to opposing backs. The University of Texas product will again be a high-end RB1 in Week 15, with plenty of upside if Cousins can direct a few more passes his way instead of the less explosive supporting cast.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 15,
+  "team": "ATL",
+  "opp": "TB",
+  "att": 19,
+  "tgt": 11,
+  "touches": 30,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 93,
+  "receiving_catches": 8,
+  "receiving_yards": 82,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 4
+}

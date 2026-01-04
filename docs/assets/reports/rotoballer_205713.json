@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205713",
+  "title": "Kareem Hunt \"Good to Go\" for Week 8",
+  "description": "Kansas City Chiefs running back Kareem Hunt (ankle) is off the injury report and \"good to go\" for his team's Week 8 matchup against the Washington Commanders on Monday night, per Tom Pelissero of NFL Network. Hunt suffered an ankle injury during Kansas City's Week 7 win over the Las Vegas Raiders. He was able to return to the game, but recorded a season-low four touches. Across seven games this season, Hunt has recorded 260 yards from scrimmage and three touchdowns on 60 total touches. The Chiefs have split backfield work between Hunt, Isiah Pacheco, and Brashard Smith so far in 2025. Given that Hunt was limited in practice this week due to the ankle injury, he's unlikely to have a workhorse role against Washington. At best, Hunt profiles as a deep-league desperation flex option for fantasy managers in Week 8.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 8,
+  "team": "KC",
+  "opp": "WAS",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 40,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 13
+}

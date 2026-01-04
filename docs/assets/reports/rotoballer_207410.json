@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207410",
+  "title": "Josh Jacobs is Automatic for the Packers and Fantasy Managers",
+  "description": "Green Bay Packers running back Josh Jacobs has been as automatic a fantasy start as it gets this season. Jacobs has scored in every game this season but one and has been a top-10 fantasy running back in five of the last six weeks. Adding to that total in his game with the Philadelphia Eagles in Week 10, Jacobs put up 107 yards from scrimmage with five receptions and a rushing score. While Jacobs hasn't posted a 100-yard rushing game this season and has averaged just 68 rushing yards per game, fantasy managers are still beaming at just how inevitable Jacobs has been when it comes to scoring and his involvement in the Packers' offense. With the offensive game plan flowing through Jacobs and the run game each week, he's been the only thing that's consistently worked this season for Green Bay. Against the New York Giants, who are dead last in the NFL in defensive EPA per carry, Jacobs is a no-brainer RB1 lock for fantasy lineups in Week 11.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 11,
+  "team": "GB",
+  "opp": "NYG",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 40,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 48
+}

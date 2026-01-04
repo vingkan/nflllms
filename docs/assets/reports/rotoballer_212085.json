@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212085",
+  "title": "De'Von Achane Remains a Top Running Back Play in Week 17",
+  "description": "Miami Dolphins running back De'Von Achane is once again a top-ten starting option this week as his team hosts the Bucs. Rookie Quinn Ewers will make his second straight start at quarterback for Miami, and last week Achane had 81 rushing yards and nine receiving yards in support of the rookie in the team's 45-21 loss to the Bengals. Achane had one touchdown, giving him 12 scores on the season, and he's already up to 1,267 rushing yards and 459 receiving yards with two games to play. The Bucs have been a fairly neutral matchup for running backs this season, giving up 14 RB touchdowns in 15 games with an average of 53.6 receiving yards out of the backfield for the position. Achane is the No. 7 RB in the RotoBaller Week 17 rankings, making him a strong start in most standard-sized leagues, since he's been a fantasy stalwart despite his team's struggles this season.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 17,
+  "team": "MIA",
+  "opp": "TB",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 83,
+  "receiving_catches": 3,
+  "receiving_yards": 29,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 17
+}

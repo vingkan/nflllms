@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202876",
+  "title": "Alvin Kamara Set to Carry Workload Again in Week 4",
+  "description": "New Orleans Saints running back Alvin Kamara rushed 18 times for 42 yards and caught one of two targets for 14 yards in the Week 3 blowout loss to the Seahawks. Head coach Kellen Moore continues to rely on Kamara, who ranks ninth in the league with 50 carries through three weeks. His involvement in the passing game has been sporadic, averaging just 3.3 targets per game compared to his career average of 6.25. Fellow back Kendre Miller also saw increased action in Week 3, recording a season-high nine touches as the game slipped away. Kamara will need to carry the load against the Bills, making him an RB2, but it comes with some snap-risk if the game falls out of hand.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 4,
+  "team": "NO",
+  "opp": "BUF",
+  "att": 15,
+  "tgt": 5,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 4,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 29
+}

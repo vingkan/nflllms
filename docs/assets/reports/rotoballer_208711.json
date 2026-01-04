@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208711",
+  "title": "Sean Tucker Should See Heavy Workload in Week 12",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker is coming off a fantastic performance against the Buffalo Bills. Last week, Tucker rushed 19 times for 106 yards and scored two touchdowns in the loss. He also hauled in two receptions for 34 yards and an additional score through the air. All signs are pointing to Tucker once again having a large role in the backfield during the Week 12 matchup against the Los Angeles Rams. Lead back Bucky Irving (shoulder, toe) remains out for at least one more week. Tucker seems to have the edge over Rachaad White after that 100-plus yard performance. The expectation is that Tucker sees enough snaps to warrant high-end RB3 value for this weekend.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

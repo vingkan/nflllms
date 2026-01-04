@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203028",
+  "title": "D'Andre Swift Suiting Up for Week 4 Against Las Vegas",
+  "description": "Chicago Bears running back D'Andre Swift (hip) is officially active for Sunday's Week 4 contest against the Las Vegas Raiders. He was listed as questionable after being a limited participant in practice. Swift has delivered modest production through the first three games of the season, amassing 143 rushing yards, 69 receiving yards, and one touchdown. He ranks as the 24th-best running back in terms of fantasy scoring but should really be viewed as a mid-to-low RB3/flex, especially given that his snap share has declined since Week 1. We could see more Kyle Monangai on Sunday, but Swift will still be the primary option.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 4,
+  "team": "CHI",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 20
+}

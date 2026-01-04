@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209432",
+  "title": "Jaret Patterson Elevated to Active Roster Ahead of Week 13",
+  "description": "The Los Angeles Chargers have promoted running back Jaret Patterson from the practice squad to their active roster ahead of Week 13's game against the Las Vegas Raiders. This move is likely to increase depth in a weakened Chargers backfield and support lead running back Kimani Vidal. Vidal has been the only healthy running back on the roster since fellow running backs Omarion Hampton (ankle), Najee Harris (Achilles), and Hassan Haskins (hamstring) have landed on injured reserve. Patterson has proven to be a capable change-of-pace running back in the NFL, having played for both the Chargers and the Washington Commanders. He will aim to relieve Vidal and share some of the workload in Week 13.",
+  "player_id": 7537,
+  "player_name": "Jaret Patterson",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 54,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 27
+}

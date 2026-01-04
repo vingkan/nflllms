@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205860",
+  "title": "Quinshon Judkins Considered Day-to-Day",
+  "description": "Cleveland Browns rookie running back Quinshon Judkins (shoulder) is considered day-to-day after leaving Sunday's loss to the Patriots with a shoulder injury. Judkins has been a bright spot on an otherwise pedestrian Browns offense, but in limited action on Sunday, he was held to only 19 yards on nine carries by a New England defense that has yet to allow a 50-yard rusher this season. With the Browns on a Week 9 bye, Judkins' next chance to see the field will be in a much more favorable Week 10 matchup with the New York Jets. His status should be monitored over the next two weeks, but if he is active when the team returns from the bye, he could see one of the week's highest projections.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 75,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 26
+}

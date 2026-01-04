@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203422",
+  "title": "Zavier Scott A High-Risk Bet After Breakout Game",
+  "description": "Following his best game in the NFL, Minnesota Vikings running back Zavier Scott is a risky RB4/Flex option heading into a matchup against the Cleveland Browns. The former Maine standout is a converted wide receiver who caught six passes and a touchdown last week, showing his fantasy appeal and making him a hot waiver commodity. Minnesota, however, has its hands full in Week 5. Three of the Vikings' five starting offensive lineman are out due to injury, and they'll play a Browns defense that leads the NFL in rushing defense with 2.7 yards per carry. Already the clear second option to starter Jordan Mason, Scott's opportunity could be diminished if the patchwork Minnesota offensive line can't hold up against Cleveland.",
+  "player_id": 11299,
+  "player_name": "Zavier Scott",
+  "week": 5,
+  "team": "MIN",
+  "opp": "CLE",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 18,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 71
+}

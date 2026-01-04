@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207846",
+  "title": "Tyrone Tracy Jr. Profiles As Low-End RB2 For Week 11",
+  "description": "New York Giants running back Tyrone Tracy Jr. has taken over as the team's lead back over the past two games with Cam Skattebo (ankle) out for the season. After playing fewer snaps than veteran Devin Singletary in Week 9 against the 49ers, Tracy took back the lead role in Week 10, playing 65.7% of the snaps and handling 14 carries for 71 yards, and added one reception (two targets) for no yards. The first half was a struggle for the second-year back, gaining zero yards on five carries, but he bounced back with a strong second half and should have some positive momentum rolling into Week 11 against the Packers. Tracy could catch more passes with a less mobile Jameis Winston filling in for an injured Jaxson Dart (concussion) on Sunday, and ranks as RotoBaller's RB24 in PPR leagues.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 11,
+  "team": "NYG",
+  "opp": "GB",
+  "att": 19,
+  "tgt": 4,
+  "touches": 23,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 88,
+  "receiving_catches": 4,
+  "receiving_yards": 51,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 13
+}

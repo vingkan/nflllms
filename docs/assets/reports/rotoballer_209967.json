@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209967",
+  "title": "Emanuel Wilson Back to Minimal Role in Packers Backfield",
+  "description": "Green Bay Packers running back Emanuel Wilson was a popular waiver-wire pickup after starting RB Josh Jacobs injured his knee in the Week 11 win over the New York Giants. Wilson took full advantage of Jacobs' absence in the team's Week 12 victory over the Minnesota Vikings, carrying the ball a season-high 28 times for 107 yards and two touchdowns while adding two receptions for 18 yards. Before that spike performance, the 26-year-old hadn't seen more than eight carries (Sept. 28) in a game behind Jacobs. In the win over the Detroit Lions on Thanksgiving Day last Thursday, with Jacobs back in action, Wilson saw just four carries for 14 yards and wasn't targeted through the air. The 26-year-old showed that he can be successful for fantasy managers in a lead-back role, but unless Jacobs misses time with an injury again, Wilson just cannot be trusted in starting fantasy lineups.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 14,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 10,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 66
+}

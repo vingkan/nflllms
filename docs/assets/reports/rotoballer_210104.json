@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210104",
+  "title": "Ashton Jeanty Facing Tough Week 14 Matchup",
+  "description": "Las Vegas Raiders rookie running back Ashton Jeanty has displayed his receiving ability in recent weeks, recording at least six receptions in three straight games. Jeanty has struggled to be efficient as a runner all season due to the Raiders' poor offensive line, but he's still found ways to deliver for fantasy managers. Since Week 9, the rookie first-rounder has recorded 70 carries for 190 yards and a touchdown to go with 28 receptions for 165 yards and two touchdowns on 34 targets. His 28 receptions during that span trail only Christian McCaffrey, and he ranks as the RB10 in that stretch with 16.3 PPR points per game. Jeanty will look to stay productive as a receiver in Week 14 against the Denver Broncos' stout defense. The rookie totaled 19 carries for 60 yards and a touchdown with three receptions (three targets) for five yards against them in Week 10, and he profiles as an upside RB2 in Week 14.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 14,
+  "team": "LV",
+  "opp": "DEN",
+  "att": 10,
+  "tgt": 4,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 42
+}

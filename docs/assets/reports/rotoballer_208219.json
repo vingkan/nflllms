@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208219",
+  "title": "Raheem Mostert A Low-Upside Handcuff",
+  "description": "Las Vegas Raiders running back Raheem Mostert has served as the primary backup to rookie Ashton Jeanty in his age-33 season, recording 19 carries for 90 yards and six catches (six targets) for 45 yards in seven games. Jeanty has held down one of the heaviest workloads in the league, which has resulted in Mostert's most touches in a game being seven, which came back in Week 5 against the Colts. The veteran back has also served on special teams as a kick returner, leading the league with a 30.9 average yards per return. Even if Jeanty were to miss time, the offensive line and overall offensive environment don't create a lot of upside for Mostert as a contingency option.",
+  "player_id": 2749,
+  "player_name": "Raheem Mostert",
+  "week": 12,
+  "team": "LV",
+  "opp": "CLE",
+  "att": 1,
+  "tgt": 3,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 42
+}

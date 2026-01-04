@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207129",
+  "title": "Jerome Ford Not a Strong Fantasy Option in Week 10",
+  "description": "Cleveland Browns running back Jerome Ford will come out of his bye to take on the New York Jets on the road in Week 10. Ford has been lightly used behind starter Quinshon Judkins this season, seeing just 21 carries and 21 receptions over eight games. The veteran running back draws a plus matchup in theory against the Jets, who are allowing the eighth-most fantasy points per game to running backs. That said, Ford is unlikely to see a large enough workload to rack up fantasy points against New York. He remains a solid bench stash as a handcuff, but should not be in fantasy lineups heading into Week 10.",
+  "player_id": 8143,
+  "player_name": "Jerome Ford",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 1,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 68
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202010",
+  "title": "D'Andre Swift Questionable to Play in Week 3",
+  "description": "Chicago Bears running back D'Andre Swift (quad) is questionable to play in his team's Week 3 matchup against the Dallas Cowboys due to a quad injury, according to Sean Hammond of the Chicago Tribune. Swift has dominated snaps at running back so far this year for Chicago, logging 134 scrimmage yards and a touchdown on 35 total touches. If Swift were to miss Week 3, rookie running back Kyle Monangai would likely be the lead back in Chicago, with Roschon Johnson potentially working in as a short-yardage option. Monangai has recorded just 47 scrimmage yards on nine total touches through his first two games. Dallas' defense has struggled so far this season, so Monangai would potentially have some appeal as a flex option if called into action as Chicago's RB1.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 3,
+  "team": "CHI",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207395",
+  "title": "Bhayshul Tuten Still Working as Clear Backup RB in Jacksonville",
+  "description": "Jacksonville Jaguars rookie running back Bhayshul Tuten had a season-high nine carries for 29 yards and scored his third touchdown of the year in the Week 9 overtime win over the Las Vegas Raiders. However, Tuten was unable to build on that performance in the Week 10 loss to the Houston Texans, carrying the ball just four times for five yards while catching one of his two targets for five additional yards. The 23-year-old played a season-high 27% of the offensive snaps, but fellow rookie LeQuint Allen Jr. saw a season-high 32% of the snaps as well. Travis Etienne Jr. remains the Jags' clear top back in Jacksonville, even though Tuten has teased fantasy managers in his rookie season with explosiveness and power out of the backfield. Tuten has fantasy value as a handcuff to Etienne, but he'll continue to be hard to trust as a touchdown-dependent RB4 heading into a Week 11 contest against the Los Angeles Chargers.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 11,
+  "team": "JAX",
+  "opp": "LAC",
+  "att": 15,
+  "tgt": 0,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 74,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

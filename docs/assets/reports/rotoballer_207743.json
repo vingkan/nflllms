@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207743",
+  "title": "Bijan Robinson a High-End RB1 in Rematch Against Carolina",
+  "description": "Atlanta Falcons running back Bijan Robinson has had at least 86 yards from scrimmage in eight of nine games he's played so far this season and is averaging almost five catches per contest, but he has been stuck on four touchdowns (two rushing, two receiving) since last finding paydirt in Week 7. Week 11 brings a home matchup against the Panthers, a defense that is middle of the pack this year in terms of fantasy points allowed to opposing running backs, but that has allowed 157 yards rushing per game over the last three weeks, which is the fourth-highest total in the league. The 23-year-old tallied 72 rush yards and 39 receiving yards the last time these teams squared off in Week 3, and he appears set for a similar workload on Sunday. The third-year pro projects as a top-three running back this week in a game that the Falcons have an implied total of over three touchdowns (22.5), and is as reliable as they come with his high fantasy floor.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 11,
+  "team": "ATL",
+  "opp": "CAR",
+  "att": 23,
+  "tgt": 5,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 104,
+  "receiving_catches": 4,
+  "receiving_yards": 39,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 30,
+  "ppr_scoring_position_rank": 4
+}

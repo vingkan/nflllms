@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211697",
+  "title": "Raheim Sanders Ascending Backfield Pecking Order",
+  "description": "Cleveland Browns running back Raheim Sanders projects to garner a considerable workload over the season's remaining few weeks after teammate Quinshon Judkins (leg, knee) went down with a severe injury in Week 16. Judkins suffered a gruesome lower-leg injury during Sunday's 23-20 loss to the visiting Buffalo Bills. In his stead, Sanders and backfield mate Trayveon Williams split snaps dead evenly (20-20), with the former handily out-touching the latter 11-3 on the ground. However, Williams was the preferred option in the receiving game, boasting four targets (4/38) to Sanders' one. That said, Dylan Sampson (hand) figures to occupy the receiving role once healthy, and it's likely he'd pick up a few more carries than Williams did working in his stead. Sanders may not see as many opportunities on the ground as Judkins has, but he's trending up in a Cleveland offense that's moved the ball much better with rookie QB Shedeur Sanders under center.",
+  "player_id": 12472,
+  "player_name": "Raheim Sanders",
+  "week": 17,
+  "team": "CLE",
+  "opp": "PIT",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

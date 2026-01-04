@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208049",
+  "title": "Devin Singletary Scores Twice Despite Lackluster Rushing Numbers",
+  "description": "New York Giants running back Devin Singletary averaged only 2.8 yards per carry on the ground (44 yards) in the 27-20 loss to the visiting Green Bay Packers at MetLife Stadium on Sunday, but he scored two touchdowns and had a season-high 16 rushing attempts. It was a high-volume day for New York's rushing attack, as Tyrone Tracy Jr. led the team with 19 carries and 88 rushing yards. Singletary's 16 rushing attempts doubled his previous high of eight, which he had in each of the last two games since Cam Skattebo's season-ending ankle injury. The 28-year-old caught one of his three targets for three yards through the air. Singletary will remain involved going into a tough Week 12 matchup against the Detroit Lions, but he's the clear No. 2 behind Tracy and should be viewed as a touchdown-dependent RB3/flex in fantasy. His two TDs on Sunday were his first of the year, and he entered the day averaging a career-low 3.3 yards per tote.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 12,
+  "team": "NYG",
+  "opp": "DET",
+  "att": 14,
+  "tgt": 0,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

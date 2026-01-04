@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210017",
+  "title": "Isiah Pacheco Should Increase Workload Against Texans",
+  "description": "Kansas City Chiefs running back Isiah Pacheco only handled three carries for 16 yards in last week's loss to the Dallas Cowboys, but he should handle more work this week. The 26-year-old returned from his knee injury in Week 13, which explains his light workload, but his playing time should increase against the tough Houston defense in Week 14. The Texans defense has allowed the 10th-fewest fantasy points to opposing running backs this season, making it a tough spot for Pacheco amid a split backfield. Pacheco also popped up on the injury report with a knee injury, but was a full participant in practice all week and is good to go for the weekend. The second-year back was pulling away with the lead role before his injury, so the split could lean in his direction eventually, but it is difficult to say when that might be. Pacheco is ranked RB46 in our RotoBaller Half-PPR rankings, making him a tough player to start this week.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 14,
+  "team": "KC",
+  "opp": "HOU",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 54
+}

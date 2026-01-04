@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206773",
+  "title": "Aaron Jones Sr. Listed as DNP on Wednesday",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder, toe) is dealing with multiple injuries and was unable to practice on Wednesday. In addition to an AC joint sprain in his right shoulder that he suffered in the Week 9 win against the Detroit Lions, Jones is dealing with a toe issue that leaves his availability up in the air for this Sunday's home tilt versus the visiting Baltimore Ravens. The 30-year-old veteran is truly questionable as of right now, and he'll likely need to get back on the practice field on either Thursday or Friday to avoid being ruled out in Week 10. If Jones is limited at all or out entirely this weekend, Jordan Mason would see the lion's share of backfield work and would elevate to RB2 status in fantasy football. Jones has only played in four games so far in 2025 due to injuries and has yet to find the end zone as a runner, although he is averaging 5.1 yards per carry on his 27 rushing attempts.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

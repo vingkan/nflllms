@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208511",
+  "title": "Emanuel Wilson into High-End RB3 Territory Against Minnesota",
+  "description": "Green Bay Packers running back Emanuel Wilson could see more work than he typically does with the Packers hosting the Minnesota Vikings in Week 12. With Josh Jacobs (knee) leaving Week 11's game due to the injury, Wilson saw an uptick in work and production. With 12 touches for 49 yards, Wilson saw his second-highest opportunities of the season and his most involvement on the field with a season-high 71 percent of snaps. Minnesota is an above-average defense when it comes to stopping opposing running backs, as they've allowed the 12th-fewest fantasy points per game to the position. Wilson's fantasy viability comes down to Jacobs' availability on Sunday. If Jacobs, who is questionable on the injury report heading into Week 12, were unable to suit up, Wilson would be a high-end RB3 for fantasy managers. If Jacobs returns, Wilson should be left on the bench for fantasy.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 12,
+  "team": "GB",
+  "opp": "MIN",
+  "att": 28,
+  "tgt": 2,
+  "touches": 30,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 107,
+  "receiving_catches": 2,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 3
+}

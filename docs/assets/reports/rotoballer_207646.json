@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207646",
+  "title": "Is Devin Singletary Start-Worthy in Week 11 for Fantasy Football?",
+  "description": "New York Giants running back Devin Singletary rushed eight times for 20 yards, adding another 53 yards on three of three receiving in Sunday's 24-20 loss to the hosting Chicago Bears. However, he saw his snap percentage decrease from 56% to 33% in Week 10, after in Week 9, he played 56% of the snaps. At this time, the Giants' offensive backfield appears to be a running back by committee between Singletary and Tyrone Tracy Jr., making both of them RB3/flex options at best. Jameis Winston is now under center for the Giants as Jaxson Dart (concussion) has been ruled out for Week 11. Additionally, the Giants fired head coach Brian Daboll, and Mike Kafka has been named the interim head coach. It's unclear how he will approach this backfield. Their matchup in Week 11 also includes the Green Bay Packers, who are the fifth-best at limiting opposing running backs, making Singletary and Tracy difficult to trust in your lineups this week.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 11,
+  "team": "NYG",
+  "opp": "GB",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 14
+}

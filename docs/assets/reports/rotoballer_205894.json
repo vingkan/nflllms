@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205894",
+  "title": "Emanuel Wilson Looks Impressive in Win on Sunday Night",
+  "description": "Green Bay Packers running back Emanuel Wilson was able to break out with a solid performance on the ground during Sunday's game against the Pittsburgh Steelers. Wilson saw a season-high 11 carries for 61 yards on the ground. He also hauled in three of his four targets for 26 additional yards through the air. Lead back Josh Jacobs struggled on the ground, which gave Wilson additional carries. The 26-year-old made the most of his chances, but is unlikely going to take away a ton of carries from Jacobs. Wilson shouldn't be viewed as anything more than a desperation play for Week 9.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 9,
+  "team": "GB",
+  "opp": "CAR",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

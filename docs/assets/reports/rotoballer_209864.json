@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209864",
+  "title": "Kyren Williams Limited Again with Ankle Injury",
+  "description": "Los Angeles Rams running back Kyren Williams (ankle) was a limited participant in practice on Thursday. This was the second day in a row that Williams was listed as limited on the team's official injury report. It's refreshing to see the 25-year-old get on the field in any capacity, but ideally, he'll log a full session on Friday to avoid any sort of injury designation heading into the weekend. It's also possible that the Rams have reduced Williams' workload in practice to keep him healthy down the stretch. Offensive coordinator Mike LaFleur recently told ESPN's Dan Graziano that Los Angeles' decision to split touches between Williams and Blake Corum has kept Williams fresh, so we can expect that they'll continue to manage his practice and game workload going forward. Nevertheless, he remains an impactful pass-catching and touchdown threat out of the backfield, keeping him in the low-end RB1 tier for Week 14 against the Arizona Cardinals.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 14,
+  "team": "LAR",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

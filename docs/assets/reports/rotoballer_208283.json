@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208283",
+  "title": "Alvin Kamara Still Dealing With Ankle Injury",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is still dealing with an ankle issue coming out of the team's bye and was listed as a limited practice participant on Wednesday, according to Katherine Terrell of ESPN. Kamara has been a mainstay on the team's injury report ever since injuring his ankle in early October, but he hasn't missed any games. The 30-year-old's status bears watching heading into a Week 12 game this Sunday against the division-rival Atlanta Falcons, but he should be able to suit up. Negative game script certainly hasn't helped Kamara's cause in 2025, as he's averaging a career-low 3.6 yards per tote on 128 rushing attempts for 460 yards and just one touchdown in 10 games. The five-time Pro Bowler did have a season-high 22 carries for 83 yards on the ground in the Week 10 win over the Panthers, though. In a bad Saints offense, Kamara has become more of a high-end RB3/flex play.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 12,
+  "team": "NO",
+  "opp": "ATL",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 11,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

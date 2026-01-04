@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209447",
+  "title": "George Holani Hits Injured Reserve",
+  "description": "Per the team, Seattle Seahawks running back George Holani (hamstring) has been placed on injured reserve due to a hamstring injury picked up in last weekend's 30-24 win over the Tennessee Titans. The Boise State product will now miss at least the next four games, with his earliest return date coming for the team's outing against the Carolina Panthers in Week 17. In a corresponding move, Seattle signed veteran RB Myles Gaskin from their practice squad to the active roster. While Gaskin may work intermittently in place of Holani, he'll still be a distant third option behind teammates Kenneth Walker III and Zach Charbonnet in the Seahawks' backfield. Seattle's ground attack will get a dream matchup in Week 13 against a struggling Minnesota rush defense.",
+  "player_id": 12048,
+  "player_name": "George Holani",
+  "week": 13,
+  "team": "SEA",
+  "opp": "MIN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

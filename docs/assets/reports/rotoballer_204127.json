@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204127",
+  "title": "Hassan Haskins Enters Week 6 in a Split Backfield",
+  "description": "Los Angeles Chargers running back Hassan Haskins is now stepping into a primary role after Omarion Hampton (ankle) was placed on IR this week as the team faces the Miami Dolphins on Sunday. Haskins, who had an unimpressive five carries for 13 yards last week following Hampton's injury, will share work with Kimani Vidal after OC Greg Roman said it will be \"all hands on deck\" when asked who the lead back would be. Haskins' advantage comes from his 6-2, 228lb frame and familiarity with Jim Harbaugh's system from their time together at Michigan. While his 3.0 career yards per carry is underwhelming, the Miami Dolphins are dead last against the run, giving up over 200 rushing yards to Carolina Panthers backup Rico Dowdle last week. Despite the favorable matchup, the split workload and a more explosive Vidal should temper volume expectations. RotoBaller projects Haskins as RB30. He's a mid-range RB3/FLEX option based on potential goal-line usage and favorable matchup, but managers shouldn't expect a workhorse role.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 51
+}

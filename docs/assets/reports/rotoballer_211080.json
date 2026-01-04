@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211080",
+  "title": "Josh Jacobs Still Managing Knee Injury",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) took another big hit in Sunday's loss to the Denver Broncos, and if the team were practicing on Tuesday, he would not be on the field, according to ESPN's Rob Demovsky. Jacobs went into Sunday's game in Denver with a questionable tag, but he ended up suiting up while scoring two touchdowns, including just the second receiving score of his career. The 27-year-old had 12 carries for 73 yards and a TD on the ground, adding two receptions on three targets for 19 yards and a second score. Jacobs only played 55% of the offensive snaps, but he was still effective, busting a 40-yard touchdown run while also catching a 14-yard pass for an impressive TD in the back of the end zone. Fantasy managers shouldn't be surprised if he misses more practice time this week, but he should be active for another big divisional contest against the Bears this Sunday, where he'll be a must-start fantasy RB. Jacobs had 20 carries for 86 yards and a TD in the win over Chicago two weeks ago.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

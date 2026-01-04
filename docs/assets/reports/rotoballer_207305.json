@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207305",
+  "title": "Rico Dowdle Rushes for 53 Yards in Loss to Saints",
+  "description": "Carolina Panthers running back Rico Dowdle rushed for 53 yards on 18 carries and scored the team's only touchdown in a 17-7 loss to the Saints. He also tacked on 10 receiving yards on three receptions and logged 15.3 PPR fantasy points, marking the fifth time in the last six games that he registered double-digit PPR points. Against the Atlanta Falcons in Week 11, Dowdle has the opportunity to display his better form again. The Falcons ranked 31st in Fantasy Points Per Game allowed to running backs (32.08) in the four weeks leading up to Week 10.. Jonathan Taylor trampled the Falcons with 244 rushing yards and three TDs while posting 49.6 PPR fantasy points in Week 10. Dowdle is a no-doubt starting option on all formats, as he is capable of being a major fantasy difference-maker in Week 11.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 11,
+  "team": "CAR",
+  "opp": "ATL",
+  "att": 19,
+  "tgt": 7,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 45,
+  "receiving_catches": 5,
+  "receiving_yards": 55,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 17
+}

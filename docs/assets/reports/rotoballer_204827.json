@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204827",
+  "title": "Fluctuating Role Keeps Zavier Scott On Backburner",
+  "description": "Minnesota Vikings running back Zavier Scott should be considered only as a desperation RB5 when his team takes on Philadelphia in Week 7 due to his low volume in the offense. Playing an elevated role due to the injury to Aaron Jones (hamstring), Scott caught six passes for 43 yards and a touchdown in Week 4 against Pittsburgh, but isn't getting enough touches overall to be relied upon in fantasy. With Jordan Mason getting the lion's share of work, Scott is drawing an average of just over seven touches per game, which generally isn't enough to consider for fantasy lineups. The Eagles have struggled against fantasy running backs, but playing Scott would be totally dependent on the possibility that he scores a touchdown in one of his limited opportunities.",
+  "player_id": 11299,
+  "player_name": "Zavier Scott",
+  "week": 7,
+  "team": "MIN",
+  "opp": "PHI",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 61
+}

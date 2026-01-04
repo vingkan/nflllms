@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206756",
+  "title": "Panthers \"Counting on\" Rico Dowdle in Week 10",
+  "description": "Carolina Panthers head coach Dave Canales said the team is being smart with running back Rico Dowdle (quadriceps), which is why he was held out of Wednesday's practice, according to Darin Gantt of Panthers.com. \"We're counting on him this weekend,\" Canales said. It sounds as though the Panthers are expecting Dowdle to be fine to play this Sunday against the division-rival New Orleans Saints, but he'll need to get back onto the practice field in the coming days. The 27-year-old has taken over lead-back duties from Chuba Hubbard in Carolina by running for 652 yards and three touchdowns on 103 carries in the last five games while adding 10 catches for 112 yards and another trip to paydirt. Fantasy managers will want to keep a close eye on Dowdle's status the rest of the week, but as long as he's active in Week 10, he's a no-doubt RB1 against the Saints.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 10,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

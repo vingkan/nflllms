@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203456",
+  "title": "Tony Pollard Offers Flex Appeal",
+  "description": "Tennessee Titans running back Tony Pollard has seen a fairly heavy workload through the first four games of the season. Pollard has carried the ball 14 times or more every game, but he could see his workload decrease going forward. Fellow back Tyjae Spears (ankle) is currently questionable for the Week 5 matchup against the Arizona Cardinals. Spears has been out all season long, but appears to be almost ready to go. Pollard will likely see less carries once Spears returns. Until then, Pollard figures to remain the workhorse back in Tennessee. Pollard has rushed for 60 yards or more in three of his first four games of the season. The status of Spears could shift his value, but for now Pollard has flex appeal for Week 5.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 5,
+  "team": "TEN",
+  "opp": "ARI",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 67,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 17
+}

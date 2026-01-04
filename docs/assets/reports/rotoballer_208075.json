@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208075",
+  "title": "Rico Dowdle Totals 100 Yards Between the Air and the Ground In Week 11",
+  "description": "Carolina Panthers running back Rico Dowdle had one of his worst performances on the ground this season in Carolina's 30-27 win over the Atlanta Falcons. The Carolina RB rushed for 45 yards on 19 carries while averaging 2.4 yards per attempt, his lowest since Week 2. In the air, Dowdle did have his best game since Week 6, as he totaled 55 yards on a season-high five receptions. Despite the disappointing rushing numbers, Dowdle totaled at least 15 Fantasy PPR Points for the third straight week. In Week 12, the Carolina Panthers will face the San Francisco 49ers, who ranked 21st in Fantasy Points Per Game allowed to RBs in the last four weeks leading up to Week 11. Fantasy players should continue to start Dowdle every week, as he provides a solid statistical floor in any matchup.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 12,
+  "team": "CAR",
+  "opp": "SF",
+  "att": 6,
+  "tgt": 4,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

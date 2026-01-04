@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204452",
+  "title": "Josh Jacobs Scores Two Touchdowns in Victory Over Cincinnati",
+  "description": "Green Bay Packers running back Josh Jacobs carried the ball 18 times for 93 rushing yards and two rushing touchdowns during Sunday's Week 6 win over the Cincinnati Bengals. He also caught all five of his targets for an additional 57 receiving yards. Jacobs now has four rushing touchdowns over his last two games, taking advantage of favorable matchups and showcasing his ability to succeed around the goal line. He also has a total of 14 catches and 172 receiving yards over his last three contests. Jacobs' contributions in the passing game have been quite refreshing after he saw just one target over the first two weeks of the season. Between his pass-catching role and scoring tendencies, Jacobs has re-solidified himself as a solid RB1 option. Fantasy managers should get excited about his favorable matchup against the Arizona Cardinals in Week 7.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 7,
+  "team": "GB",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 1,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 55,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

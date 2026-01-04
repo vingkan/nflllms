@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209467",
+  "title": "Kimani Vidal Should Bounce Back in Week 13",
+  "description": "Los Angeles Chargers running back Kimani Vidal gave fantasy managers a dud during the Week 11 loss to the Jacksonville Jaguars. Vidal rushed the ball five times for 13 yards in the defeat. To be fair, the Chargers were getting blown out, so they basically had to abandon the rushing game. Vidal should return to his workhorse workload with Hassan Haskins (hamstring) and Omarion Hampton (ankle) both sidelined in Week 13. He'll draw a favorable matchup against the Las Vegas Raiders defense this weekend. Fantasy managers should feel comfortable plugging Vidal in as an RB2 for this Week 13 matchup.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 25,
+  "tgt": 1,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 126,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

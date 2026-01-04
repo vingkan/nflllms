@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205819",
+  "title": "Jonathan Taylor Continues Dominant Season With Three-Touchdown Performance",
+  "description": "Indianapolis Colts running back Jonathan Taylor continued his dominant season with a monster showing in his team's 38-14 Week 8 victory over the Tennessee Titans. Taylor recorded 12 carries for 153 yards and two touchdowns, adding two catches for 21 yards and a receiving score as well. The 26-year-old running back is arguably on an MVP pace so far this season. Through eight games, Taylor has recorded 850 rushing yards and 12 touchdowns on 143 carries as well as 206 receiving yards and two touchdowns on 25 catches. He's the engine of a dominant Colts offense that is currently averaging over 30 points per game. Indianapolis will travel to Pittsburgh to take on the Steelers in Week 9. As long as Taylor is healthy, he profiles as a must-start fantasy running back every week.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 9,
+  "team": "IND",
+  "opp": "PIT",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 29
+}

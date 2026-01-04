@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208070",
+  "title": "Kareem Hunt Records Third Straight Game with Rushing Touchdown in Week 11",
+  "description": "Kansas City Chiefs running back Kareem Hunt scored a rushing touchdown for the third consecutive game in his team's 22-19 Week 11 loss to the Denver Broncos. The 30-year-old finished the game with 13 carries for 59 yards and one score. With Isiah Pacheco (knee) sidelined by a knee injury, Hunt has taken over as Kansas City's lead rusher in the team's last two games. While he's not an explosive player at this point in his career, Hunt has six rushing touchdowns on the season and has proven to be an effective goal-line rusher. Pacheco could return in Week 12 against the Indianapolis Colts, which would cause Hunt to lose a few touches. However, Hunt seems likely to retain his goal-line role even when Pacheco gets back on the field. In leagues where Hunt remains available, he could be worth targeting on the waiver wire as a touchdown-dependent flex option for fantasy managers.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 12,
+  "team": "KC",
+  "opp": "IND",
+  "att": 30,
+  "tgt": 3,
+  "touches": 33,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 104,
+  "receiving_catches": 3,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 8
+}

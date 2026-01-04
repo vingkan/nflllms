@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202429",
+  "title": "Kyle Juszczyk Scores Touchdown In Win",
+  "description": "San Francisco 49ers fullback Kyle Juszczyk caught a one-yard touchdown pass in Sunday's 16-15 win over the Arizona Cardinals. The score, four minutes into the fourth quarter, was the first trip to the end zone by either side and broke what was then a 6-6 tie. Even with the 49ers' injury woes in the first three weeks of the season, Juszczyk's fantasy appeal is nil. He is turned to so infrequently that his fluke touchdowns (the last time he had more than two in a season was 2020) simply aren't worth chasing. Through the first three games of 2025, Juszczyk has four receptions for 38 yards and a touchdown.",
+  "player_id": 1379,
+  "player_name": "Kyle Juszczyk",
+  "week": 4,
+  "team": "SF",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 0,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 999
+}

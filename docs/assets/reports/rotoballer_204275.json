@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204275",
+  "title": "Justice Hill an Extremely Volatile Play in Week 6",
+  "description": "Baltimore Ravens running back Justice Hill has hit one very high output among many lows so far this season. His biggest value continues to be in full PPR formats, and the fact that the Ravens' defense has been so terrible that the offense has to abandon the run early. Hill has only registered one week finishing in the top 30 at the position, and has one more finish inside the top 36. The Los Angeles Rams are one of the toughest defenses against opposing backfields, which diminishes his value even further, even though Cooper Rush will likely have plenty of dump-off throws. Hill is projected as the RB51 and is avoidable in most league sizes this week.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 6,
+  "team": "BAL",
+  "opp": "LAR",
+  "att": 6,
+  "tgt": 6,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 16,
+  "receiving_catches": 5,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 20
+}

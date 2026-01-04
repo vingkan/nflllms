@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204304",
+  "title": "Michael Carter a Possible Flex Play in Week 6?",
+  "description": "Arizona Cardinals running back Michael Carter leap-frogged the rest of the depth chart when he was elevated from the practice squad last week. After James Conner (ankle) and Trey Benson (knee) both went down for extended periods of time, Carter saw 23 touches and 57.4% of the offensive snaps. Leaving Emari Demercado and Bam Knight to pick up the scraps. He seems to be in line for a similar workload, especially if Kyler Murray (foot) can't play, but Week 6 presents a tough matchup. The Indianapolis Colts are ranked as the sixth-toughest unit against opposing backfields, allowing just 18.12 fantasy points per game. Carter seems to have a ceiling of a low-end RB2, which could be a decent flex play in deeper leagues.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 6,
+  "team": "ARI",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

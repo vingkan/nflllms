@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210573",
+  "title": "Aaron Jones Sr. in Flex Territory at Cowboys",
+  "description": "The Minnesota Vikings may have developed a rest-of-season formula last week, which could mean continued RB3/flex potential for running back Aaron Jones Sr. (shoulder) against the Dallas Cowboys. In a 31-0 rout of Washington last week, the Vikings leaned on their running game, which led to 14 carries and 76 rushing yards for Jones. The veteran still hasn't had a breakout game this season, but has maintained a steady floor, even as the Vikings have struggled for much of the year. Additionally, he'll see a plus matchup against a Dallas defense that ranks 28th against PPR running backs and presents added potential for Jones, who has 31 targets in nine games. Jones has been battling a shoulder injury for over a month now, but has still appeared in all five games since sustaining the injury, so managers can consider him a high-floor flex option in Week 15.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 15,
+  "team": "MIN",
+  "opp": "DAL",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 3,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 32
+}

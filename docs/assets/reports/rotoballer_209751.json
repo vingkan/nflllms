@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209751",
+  "title": "Omarion Hampton \"on Track and Looking Good\" for Week 14",
+  "description": "Los Angeles Chargers head coach Jim Harbaugh told reporters on Wednesday that rookie first-round running back Omarion Hampton (ankle) is \"on track and looking good\" to come off Injured Reserve and play on Monday Night Football against the Philadelphia Eagles in Week 14, per Omar Ruiz of NFL Network. \"He's ramping up,\" Harbaugh said when asked about his confidence level on whether Hampton will play on Monday. The 22-year-old from North Carolina has been out since Week 5 due to a fracture in his ankle, but he's trending toward playing in Week 14. It's perfect timing with the fantasy football playoffs starting in most leagues next week. However, Hampton still isn't a lock to play on Monday, and if he does, the Chargers are expected to have a shared backfield with Hampton and Kimani Vidal to ease Hampton back into the fold. The Chargers hold their first official practice of the week on Thursday, so check back to see what Hampton's participation is.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

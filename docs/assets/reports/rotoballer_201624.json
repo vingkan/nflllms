@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201624",
+  "title": "Kyle Juszczyk Ruled Out with Concussion",
+  "description": "San Francisco 49ers fullback Kyle Juszczyk (concussion) has been ruled out for the remainder of his team's Week 2 game against the New Orleans Saints. Juszczyk is a key piece of the San Francisco offense as both a blocker and receiver. The 49ers entered the game already without quarterback Brock Purdy (toe), tight end George Kittle (hamstring), and wide receiver Brandon Aiyuk (knee). Juszczyk's absence may create even more reason for San Francisco to get the ball in the hands of star running back Christian McCaffrey.",
+  "player_id": 1379,
+  "player_name": "Kyle Juszczyk",
+  "week": 3,
+  "team": "SF",
+  "opp": "ARI",
+  "att": 0,
+  "tgt": 1,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 999
+}

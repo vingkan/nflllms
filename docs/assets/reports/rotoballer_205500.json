@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205500",
+  "title": "Aaron Jones Sr. Held to 30 Scrimmage Yards in First Game Back From Injury",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. returned in Week 8 from a hamstring injury that sidelined him for four games. The 30-year-old had a quiet game in his team's 37-10 Week 8 loss to the Los Angeles Chargers, recording five carries for 15 yards and hauling in two catches for 15 yards on four targets. It was a miserable night for the Minnesota offense overall, as it recorded just 164 yards of total offense. On the positive side for Jones Sr., he earned more total touches (seven) than fellow Vikings running back Jordan Mason (five). That could change in future weeks when Minnesota has a more neutral or positive game script. Most likely, Jones Sr. and Mason will split backfield work relatively equally, making the Vikings' backfield a difficult one for fantasy managers to parse.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 9,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 78,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 18
+}

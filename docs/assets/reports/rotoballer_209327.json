@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209327",
+  "title": "Ty Johnson a Distant Second in Bills Rushing Attack",
+  "description": "Buffalo Bills running back Ty Johnson does not boast fantasy appeal in Week 13 despite operating as the primary handcuff to backfield mate James Cook. The 28-year-old has actually seen his role in the passing game remain steady since Week 9, collecting at least two targets and receptions over the four-game sample. Still, he's failed to carry the ball more than twice in any game over that stretch, and has done so just twice on the season as a whole, with Cook handily leading the backfield. Furthermore, quarterback Josh Allen has more than tripled Johnson's carry total (70-21), leaving little volume left to go around on the ground. Johnson is worthy of a stash in the deepest of PPR formats for his stable work in the receiving game, but his floor is low, and the ceiling is nearly nonexistent. He's RotoBaller's PPR RB64 ahead of Week 13.",
+  "player_id": 6039,
+  "player_name": "Ty Johnson",
+  "week": 13,
+  "team": "BUF",
+  "opp": "PIT",
+  "att": 2,
+  "tgt": 5,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 5,
+  "receiving_catches": 3,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 48
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206255",
+  "title": "Kenneth Walker III Poised to Continue Time Share in Week 9",
+  "description": "Seattle Seahawks running back Kenneth Walker III is a flex play in Week 9 against the Washington Commanders. The Commanders' defense has been middle-of-the-pack against opposing running backs in fantasy. However, it may be difficult for Walker to exploit the matchup while he continues to split time with Zach Charbonnet in this backfield. Walker is currently the RB28 in fantasy, and he has not scored more than 9.6 fantasy points since Week 4. His rushing volume has remained solid, but he is a non-factor in the receiving game. He has one or fewer receptions in six of seven games this year. With no receiving volume, Walker's upside is completely capped. Given that Charbonnet is the goal line back, Walker needs to break off a big play to be fantasy relevant. Based on where you drafted him, you may not have a better option with four teams on a bye. He is a flex option with limited upside in Week 9.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 9,
+  "team": "SEA",
+  "opp": "WAS",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

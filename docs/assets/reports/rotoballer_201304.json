@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201304",
+  "title": "Josh Jacobs Scores in 10th Straight Game",
+  "description": "Green Bay Packers running back Josh Jacobs continued to have success during Thursday's game against the Washington Commanders. Last week, Jacobs rushed 66 yards with a touchdown in the win over the Detroit Lions. Jacobs continued his success on Thursday with 84 yards on 23 rushing attempts with a touchdown in the victory over the Commanders. He carried the ball into the endzone in the second quarter for his second score of the season and it marked his 10th straight game with a touchdown. Jacobs will remain a RB1 and the workhorse back heading into their Week 3 matchup versus the Cleveland Browns.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 3,
+  "team": "GB",
+  "opp": "CLE",
+  "att": 16,
+  "tgt": 9,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 5,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 19
+}

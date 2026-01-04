@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203769",
+  "title": "Antonio Gibson Slated for Testing After Monday Night Injury",
+  "description": "New England Patriots head coach Mike Vrabel reports that running back Antonio Gibson (knee) will undergo further testing on Monday to determine the severity of his injury. Gibson exited Sunday night's 23-20 upset win over the Buffalo Bills in the second quarter after sustaining a knee injury and was quickly ruled out for the remainder of the contest. Rookie backfield mate TreVeyon Henderson picked up marginally more work in his stead, and figures to split fairly evenly with Rhamondre Stevenson while Gibson is shelved with his injury. The 27-year-old was the team's third option out of the backfield, but with Henderson's inexperience and Stevenson's fumbling issues, he was getting a decent carry share. If Gibson is forced to miss extended time, Henderson would become an increasingly intriguing play.",
+  "player_id": 6945,
+  "player_name": "Antonio Gibson",
+  "week": 6,
+  "team": "NE",
+  "opp": "NO",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

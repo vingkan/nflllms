@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207299",
+  "title": "Sean Tucker Leads Bucs in Rushing for Second Consecutive Outing",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker paced the backfield in Week 10, totaling 53 yards on nine carries in their 28-23 loss to the New England Patriots. He lost two yards on 1-of-2 receiving. Tucker saw a season-high in carries his last time out and has now out-rushed backfield mate Rachaad White in back-to-back contests. White is an excellent all-around back, but there's reason to believe that Tucker is the better pure runner. When teammate Bucky Irving (foot, shoulder) makes his way back from injury, the 24-year-old will likely return to a limited workload. Until then, it wouldn't be surprising to see him pick up some more rushing work due to White's inconsistencies in the run game. Tucker is difficult to project as a standalone option, though he'll be one of the higher-end handcuffs for as long as Irving is out.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 11,
+  "team": "TB",
+  "opp": "BUF",
+  "att": 19,
+  "tgt": 2,
+  "touches": 21,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 106,
+  "receiving_catches": 2,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 34,
+  "ppr_scoring_position_rank": 2
+}

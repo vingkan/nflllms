@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202307",
+  "title": "D'Andre Swift Active for Week 3 Against Cowboys",
+  "description": "Chicago Bears running back D'Andre Swift (quadriceps) is officially active for Sunday's Week 3 contest against the Dallas Cowboys. He had been listed as questionable but was trending in the right direction ahead of gameday. The veteran running back will play through his injury while leading Chicago's backfield against Dallas. He has delivered very modest production through two weeks, totaling 35 touches, 134 scrimmage yards, one touchdown, and one lost fumble. He ranks as a mid-range RB3/flex in fantasy football.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 3,
+  "team": "CHI",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

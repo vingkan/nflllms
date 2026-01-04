@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209882",
+  "title": "David Montgomery Breaks Off Big Touchdown Run in Week 14 Win",
+  "description": "Detroit Lions running back David Montgomery had six carries for 60 rushing yards and one rushing touchdown during Thursday's Week 14 win over the Dallas Cowboys. He also converted his lone target into a 13-yard reception. The highlight of Montgomery's outing was a 35-yard rushing touchdown that extended Detroit's lead to multiple possessions in the second quarter. Although Jahmyr Gibbs, who had 120 scrimmage yards and three touchdowns on Thursday, remains the primary running back in the Lions' offense, Montgomery has been able to maintain a fantasy-relevant role of his own. He has double-digit fantasy points (PPR) in four of his last six games, as well as a touchdown in three of those six. The veteran should continue to be viewed as a high-end RB3/flex heading into Week 15 against the Los Angeles Rams, who have allowed the third-fewest fantasy points to opposing running backs in 2025.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 15,
+  "team": "DET",
+  "opp": "LAR",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 32,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 34
+}

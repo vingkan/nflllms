@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208265",
+  "title": "Jaylen Warren Not Seen at Wednesday's Practice",
+  "description": "Pittsburgh Steelers running back Jaylen Warren (ankle) was not seen with the rest of the RBs at the portion of practice open to the media on Wednesday, according to Alan Saunders of PGH Steelers Now. Although Warren said the ankle injury he suffered in the Week 11 win over the Cincinnati Bengals wasn't serious, his status is uncertain for a Week 12 clash against the Chicago Bears this Sunday. The 27-year-old was held out of the entire fourth quarter of last Sunday's victory, although the Steelers had the game wrapped up by then. Fantasy managers looking for RB depth should consider Kenneth Gainwell a speculative pickup this week, just in case Warren is out or limited against Chicago. Gainwell had nine carries for 24 yards last Sunday and also caught a season-high seven passes for 81 yards and two touchdowns through the air. He's rostered in half of Yahoo leagues at the moment.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 18,
+  "tgt": 0,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 68,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 18
+}

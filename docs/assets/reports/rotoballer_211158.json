@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211158",
+  "title": "Devin Neal Ruled Out for Sunday",
+  "description": "New Orleans Saints rookie running back Devin Neal (hamstring) has been ruled out for Sunday's game against the New York Jets, according to Sara Palczewski of Louisiana First News. Neal left early during the Week 15 win over the Carolina Panthers due to a hamstring injury, and he'll be forced to miss at least one game. The rookie sixth-rounder had started three straight games for the Saints in place of an injured Alvin Kamara (knee, ankle) and totaled 32 yards and a touchdown on eight touches before exiting. With Kamara still not practicing on Wednesday, the Saints will rely on the duo of Audric Estime and Evan Hull to lead the backfield. Estime would be the preferred option in fantasy football, having totalled three carries for 11 yards and three catches (three targets) for 39 yards in Neal's absence last week, compared to Hull's four carries for 12 yards. Keep in mind, though, that rookie quarterback Tyler Shough could continue to take away valuable rushing attempts in this Saints offense.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 16,
+  "team": "NO",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

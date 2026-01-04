@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205071",
+  "title": "Jahmyr Gibbs Could See More Receiving Work in Week 7",
+  "description": "Detroit Lions running back Jahmyr Gibbs has been a featured piece in his team's offense all season long, recording 502 yards from scrimmage and five touchdowns on 110 total touches. However, Gibbs has seen his role in the passing game decrease in recent games. After earning 19 targets across the first three weeks of the season, he's seen just six over the last three. If Gibbs is not featured as a receiver in Week 7, he may have a difficult time producing against the Tampa Bay Buccaneers. Tampa Bay currently ranks fifth in the NFL in yards per carry allowed. If there's a bright spot for Gibbs, it's that he logged seven receptions in Detroit's Week 2 matchup against Tampa Bay last season. The 23-year-old still profiles as a must-start fantasy running back in Week 7, even in a less-than-ideal matchup against the Buccaneers.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 7,
+  "team": "DET",
+  "opp": "TB",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 136,
+  "receiving_catches": 3,
+  "receiving_yards": 82,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 36,
+  "ppr_scoring_position_rank": 2
+}

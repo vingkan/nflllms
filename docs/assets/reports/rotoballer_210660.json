@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210660",
+  "title": "Kimani Vidal Maintains Flex Value in Split Backfield, Faces Tough Chiefs Run Defense",
+  "description": "Los Angeles Chargers running back Kimani Vidal heads into Week 15 against the Kansas City Chiefs with an almost evenly split backfield, following the recent return of Omarion Hampton (14 carries for Vidal vs. 13 for Hampton). Vidal ran the ball 14 times for 44 yards (3.1 YPC) but made a notable impact with one reception for 60 yards, resulting in a 68.9% snap share. Chargers OC Greg Roman recently said he prefers a hot-hand approach, but right now, he is \"seeing two guys with the hot hand,\" which is \"a good problem to have.\" Although the Chiefs are more vulnerable on the ground than through the air, they still rank in the top seven in rushing yards allowed, making this a tough matchup for both backs. RotoBaller projects Vidal as RB43 this week. Given his involvement in the passing game and the team's ongoing reliance on the run due to Justin Herbert's injury, Vidal is a low-end FLEX option in deeper leagues.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 15,
+  "team": "LAC",
+  "opp": "KC",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 33,
+  "receiving_catches": 1,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 44
+}

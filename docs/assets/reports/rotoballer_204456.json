@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204456",
+  "title": "Jonathan Taylor Has Another Enormous Showing Against Arizona",
+  "description": "Indianapolis Colts running back Jonathan Taylor carried the ball 21 times for 123 rushing yards and one rushing touchdown during Sunday's Week 6 win over the Arizona Cardinals. He also caught all four of his targets for an additional 14 receiving yards. Taylor has been one of the most productive running backs this season, scoring eight touchdowns over his last five games and ranking as the overall RB1 in standard and half-PPR scoring. (He is the RB2 behind Christian McCaffrey in PPR leagues.) As long as Indianapolis continues to consistently operate from a neutral or positive game script, there will be plenty of opportunities for Taylor to produce. This is far from the last 20-carry, 100-yard game we'll see from the 26-year-old in 2025. He remains a high-end RB1 option heading into Week 7 against the Chargers.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 7,
+  "team": "IND",
+  "opp": "LAC",
+  "att": 16,
+  "tgt": 3,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 94,
+  "receiving_catches": 3,
+  "receiving_yards": 38,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 34,
+  "ppr_scoring_position_rank": 3
+}

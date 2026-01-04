@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205858",
+  "title": "Tony Pollard Reportedly Available for Trade",
+  "description": "The Tennessee Titans have reportedly made running back Tony Pollard available in trade discussions after having already dealt away cornerbacks Jason Brownlee and Roger McCreary. The 28-year-old back has been workmanlike in his efforts this year, averaging just under four yards per carry on an offense that's had to fight for every inch. Pollard's contract runs through the 2026 season, but his dead cap for next year is only $2 million, and with him and 24-year-old Tyjae Spears seeing a near 50/50 split in recent weeks, he is clearly not a part of the Titans' long-term plans. With the NFL trade deadline just over a week away, some teams that have reportedly been in the running back market are the Kansas City Chiefs, Los Angeles Chargers, and New England Patriots.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 9,
+  "team": "TEN",
+  "opp": "LAC",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 56,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 28
+}

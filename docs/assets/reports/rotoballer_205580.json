@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205580",
+  "title": "Ollie Gordon II is Still Getting a Few Carries Each Week",
+  "description": "Miami Dolphins running back Ollie Gordon II hasn't been able to break through yet in his rookie season, but he does continue to get some work each week. Coming into Week 8's game against the Falcons, Gordon has played around 25% of snaps over the last few weeks. He has multiple carries in each of the last five weeks, dating back to his one game with a touchdown against the Bills. He has 25 carries over his last five games, but he has only been able to manage 58 rushing yards. He's added a few catches as well, but he only has seven receiving yards all year. Gordon's low volume and the fact that Jaylen Wright is rumored to be more involved this week make Gordon an extremely high-risk play this week. He's the No. 48 RB in RotoBaller's rankings this week, meaning he shouldn't be a starter in most formats even though he does get some work.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 8,
+  "team": "MIA",
+  "opp": "ATL",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 46,
+  "receiving_catches": 1,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 18
+}

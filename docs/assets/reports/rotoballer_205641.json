@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205641",
+  "title": "Woody Marks Taking Over the Texans Backfield?",
+  "description": "Houston Texans running back Woody Marks had a monster game in Week 4 that made him one of the hottest names on the waiver wire market. He had a down game in Week 5 before his bye week, though, causing many to question his role going forward. When the Texans returned on Monday in Seattle, he only had 15 rushing yards on 10 carries but did add three catches for 20 receiving yards and a touchdown. Even more encouraging for his value, he played a season-high 63% of snaps, compared to just 25% of snaps for Nick Chubb. Part of that could have been due to the game script with the Texans playing from behind, but it seems like the rookie is gaining more work in the timeshare. Marks has good upside against the 49ers in Week 8 as a flex play. He is ranked as the No. 27 RB in RotoBaller's rankings for this week, making him a RB3 or flex option against the 49ers, who have allowed seven running back touchdowns in seven games on the season, including five in the last three games.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 8,
+  "team": "HOU",
+  "opp": "SF",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 4,
+  "receiving_yards": 49,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

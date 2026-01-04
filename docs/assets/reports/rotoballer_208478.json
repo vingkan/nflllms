@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208478",
+  "title": "Jaylen Warren Cleared From Injury Report Ahead of Week 12",
+  "description": "Pittsburgh Steelers running back Jaylen Warren (ankle) was a full participant in Friday's practice session and doesn't have an injury designation heading into Sunday's matchup against the Chicago Bears, per Mike DeFabo of The Athletic. Warren made steady progress throughout the week as he began the week with a DNP on Wednesday before being upgraded to limited on Thursday and ultimately clearing the injury report by Friday. The 27-year-old injured his ankle during Pittsburgh's win over the Bengals in Week 11, but said that he could have re-entered the game if the team needed him to. Kenneth Gainwell went off while Warren was sidelined, collecting a season-high seven catches for 81 yards with two touchdowns. Gainwell has been more involved recently, and he could continue to see more work with how productive he's been and with Warren banged up, but Warren is still the Steelers' best back and can be started as an RB2 for Week 12 against the Bears.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 18,
+  "tgt": 0,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 68,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 18
+}

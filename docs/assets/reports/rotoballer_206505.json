@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206505",
+  "title": "Christian McCaffrey Looks Unstoppable in Win",
+  "description": "San Francisco 49ers running back Christian McCaffrey was seemingly unstoppable during Sunday's game against the New York Giants. He got the fun started early with a five-yard touchdown grab in the first quarter. The Giants' defense never seemed to figure out how to stop McCaffrey throughout this game. He rushed 28 times for 106 yards with a touchdown. He also hauled in five of his six targets for 67 yards and an additional score in the victory. McCaffrey posted an ugly outing against the Houston Texans last week, but bounced back nicely here. The 29-year-old remains one of the best fantasy players in the league.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 10,
+  "team": "SF",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 10,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 8,
+  "receiving_yards": 66,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

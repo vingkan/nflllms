@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207419",
+  "title": "Bam Knight Still Listed as Cardinals RB1 on Depth Chart Ahead of Week 11",
+  "description": "Arizona Cardinals running back Bam Knight is still listed as the team's RB1 on the depth chart ahead of their Week 11 matchup against the San Francisco 49ers. Knight has maintained a narrow edge in snaps over Emari Demercado over the past two weeks, playing 71 snaps to Demercado's 56. The 24-year-old Knight has ceded more work on passing downs, but has handled four of the seven carries inside the 10-yard line in the past two games. Trey Benson (knee) is expected to return soon and should retain his duties as the lead back, but his timeline is still uncertain as of now. Knight will remain in RB3 territory in Week 11 if Benson is out.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

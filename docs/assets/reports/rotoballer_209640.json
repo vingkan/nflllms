@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209640",
+  "title": "Devin Singletary Motors to the End Zone Monday; More Work Ahead?",
+  "description": "New York Giants running back Devin Singletary had 12 carries for 68 yards and a touchdown against the Patriots on Monday Night Football and added three catches for 34 more yards. He played 28 snaps (51%) compared to 27 for Tyrone Tracy Jr. (49%), who took some big hits and was ultimately carted to the locker room. Tracy has been banged up, and the Giants will likely be careful with him going forward, leaving more work potentially for Singletary. The Giants are on a bye in Week 14, but they have favorable matchups against the Commanders and Raiders in two of their next three contests. After getting double-digit carries in three straight games and scoring three touchdowns in that span, Singletary is definitely a low-end flex option in those favorable matchups following the bye.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 13,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

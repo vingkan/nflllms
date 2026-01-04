@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208664",
+  "title": "Bhayshul Tuten Has Exciting Upside in Week 12 with Usage Trending Up",
+  "description": "Jacksonville Jaguars rookie running back Bhayshul Tuten (ankle) was listed as limited in practice every day this week, but was cleared from the injury report and will play in Week 12 against the Arizona Cardinals. Tuten finally had his breakout game of the season in Week 11 against the Chargers, handling 15 carries for 74 yards and a touchdown in the win. He injured his ankle during the game, which forced him to exit early, but it doesn't seem to be an issue. The rookie fourth-rounder played a season high 42.9% of the snaps and out-carried fellow running back Travis Etienne Jr. 15 to 12 before leaving. The dynamic rookie's role should continue to expand in the coming weeks as he has looked great in his opportunities. Etienne followed a similar pattern to Tuten this week in practice as he was limited with a shoulder injury, but heads into Sunday without an injury designation. Etienne should still serve as the RB1, but Tuten has earned more work, and it could wind up being close to a 50-50 split on Sunday in Arizona. Tuten ranks as RotoBaller's RB30 in PPR formats for Week 12.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 55
+}

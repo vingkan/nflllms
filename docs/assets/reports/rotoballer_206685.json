@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206685",
+  "title": "Jordan Mason In Uncertain Role Going Forward?",
+  "description": "Though Minnesota Vikings running back Aaron Jones Sr. (shoulder) left Sunday's win at Detroit, the team does not believe the injury is serious, which could mean a changing role for fellow running back Jordan Mason. The first-year Viking held down the backfield in Jones' absence with a hamstring injury, but Jones was the more effective of the two options against Detroit by gaining 42 more yards on one fewer carry. Vikings coach Kevin O'Connell said the team found \"an element of play style and physicality\" that it had been lacking, and Jones was the main benefactor. Additionally, Mason probably hasn't helped his cause with a few bad pass-blocking reps that contributed to sacks during the past two weeks. Minnesota may opt to ride the hot hand at running back every week, which can be tricky from a fantasy perspective. But if the Vikings aim to recreate their successful Week 9 game plan, Jones may feature more than Mason in the weeks to come.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 25,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 45
+}

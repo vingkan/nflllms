@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206159",
+  "title": "Ollie Gordon II Questionable to Return on TNF With Ankle Injury",
+  "description": "Miami Dolphins rookie running back Ollie Gordon II (ankle) suffered an ankle injury in the first half of the Thursday night game against the Baltimore Ravens and is questionable to return, according to Marcel Louis-Jacques of ESPN. Before leaving the contest to be checked out in the blue medical tent on the sideline, Gordon had only two carries for six yards and caught his lone target for a three-yard pickup. Jaylen Wright was a healthy scratch for this contest, so the Dolphins won't have anyone to back up starter De'Von Achane if Gordon is unable to return in the second half. And if Gordon's injury keeps him out beyond Week 9 -- they don't play again until Sunday, Nov. 9, against the division-rival Buffalo Bills - Wright would move up into the No. 2 role behind Achane in Miami's backfield. UPDATE: Gordon was seen \"walking fine\" in the locker room after not returning in the second half of Thursday's loss to Baltimore.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 70
+}

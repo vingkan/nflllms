@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206325",
+  "title": "Kyle Monangai Set For Lead Role in Favorable Week 9 Matchup",
+  "description": "Chicago Bears rookie running back Kyle Monangai is in to handle the bulk of the carries with starter D'Andre Swift (groin) ruled out for Sunday's game against the Cincinnati Bengals. The rookie out of Rutgers has seen his workload increase over the last few weeks in a complementary role to Swift, but now should be expected to see the most touches of his young career. Fantasy managers who have been holding Monangai this season have been waiting for an opportunity to plug-and-play him as an RB2, and the matchup doesn't get much better in Week 9 against a porous Bengals defense. In Monangai's only game with 10 or more touches this season, he produced 94 total yards and a touchdown on 15 touches in Week 7 against the Saints. Monangai profiles as a borderline RB1 in Week 9, ranking as RotoBaller's RB13 in PPR leagues.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 9,
+  "team": "CHI",
+  "opp": "CIN",
+  "att": 26,
+  "tgt": 5,
+  "touches": 31,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 176,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 3
+}

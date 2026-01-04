@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205381",
+  "title": "D'Andre Swift Doesn't Practice Wednesday",
+  "description": "Chicago Bears running back D'Andre Swift (groin) did not participate in Wednesday's practice, according to the team. Swift was limited in practice last week due to the injury, but still managed a season-high 19 carries for 124 yards and a touchdown, along with one reception for 14 yards in Week 7 against the Saints. The 26-year-old has maintained a consistent workload in Chicago's backfield with at least 15 touches in every game and has been surging of late, becoming the fourth running back this season to rush for over 100 yards in consecutive games after his last two games. His injury status will be updated throughout the week, and if he is unable to play on Sunday, rookie Kyle Monangai would likely handle the majority of the touches.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

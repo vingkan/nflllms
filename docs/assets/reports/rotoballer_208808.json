@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208808",
+  "title": "Tyrone Tracy Jr. Totals 130 Yards in Week 12 Loss",
+  "description": "New York Giants running back Tyrone Tracy Jr. handled 20 carries for 62 yards to go along with three catches (four targets) for 68 yards as a receiver in Sunday's 34-27 overtime loss to the Detroit Lions. Tracy played a season-high 72% of the snaps in Week 12 and had three of the four running back carries inside the 10-yard line, which is notable because veteran Devin Singletary handled all nine carries near the goal line in the past two weeks. The 26-year-old has now gone over 130 yards from scrimmage in back-to-back games, handling 23 touches in each matchup. Singletary was still involved, carrying the ball 14 times for 47 yards, but Tracy operated as the clear RB1, earning the goal-line touches and receiving work that makes him a much more appealing fantasy asset. Tracy should be viewed as a solid RB2 heading into Week 13 against the New England Patriots.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 13,
+  "team": "NYG",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 36,
+  "receiving_catches": 1,
+  "receiving_yards": -3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 57
+}

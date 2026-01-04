@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207543",
+  "title": "Emari Demercado Could See Expanded Role Sunday",
+  "description": "Arizona Cardinals running back Emari Demercado could see an increased workload heading into the team's Week 11 matchup with the San Francisco 49ers. With Bam Knight (ankle) a limited participant in Wednesday's practice, Demercado may build on his career-best performance last week, where he picked up 104 yards from scrimmage on just seven touches. The 26-year-old back is likely to see heavy usage moving forward, with quarterback Jacoby Brissett poised to get the ball out quickly to his playmakers.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 8,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 47
+}

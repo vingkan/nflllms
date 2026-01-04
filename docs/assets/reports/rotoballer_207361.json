@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207361",
+  "title": "Saquon Barkley Totals 91 Yards in Monday Night Win Over Packers",
+  "description": "Philadelphia Eagles running back Saquon Barkley recorded 22 carries for 60 yards and added three receptions (three targets) for 41 yards in Monday night's 10-7 win over the Green Bay Packers. It was a struggle for Barkley and the Philadelphia offense all night, as he averaged just 2.7 yards per carry, and even his 41 receiving yards came entirely on one reception. It was a disappointing performance for the 28-year-old after having his best game of the season before the bye in Week 8 against the Giants, totaling 174 yards and two touchdowns. He did tweak his groin in that game, but was cleared from the injury report earlier this week. Barkley has already posted five games with fewer than four yards per carry this season after having just two such games all of last season. His involvement as a receiver this season has at least helped offset the lack of breakaway runs, with 27 receptions through nine games compared to 33 in 16 games last year. Barkley will look to bounce back in Week 11 against the Detroit Lions.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 11,
+  "team": "PHI",
+  "opp": "DET",
+  "att": 26,
+  "tgt": 2,
+  "touches": 28,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 27
+}

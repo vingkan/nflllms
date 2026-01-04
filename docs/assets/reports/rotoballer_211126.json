@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211126",
+  "title": "Travis Etienne Jr. has Been Carrying Fantasy Managers",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. exploded for three receiving touchdowns in the Week 15 blowout win over the New York Jets. Etienne added 12 carries for 32 yards and three catches for 73 yards on four targets in the game. The 26-year-old continued his breakout campaign, becoming the eighth player this season and the first running back with three receiving scores. Etienne entered the game with only three career receiving touchdowns, but he doubled that mark on Sunday. There have only been four other running backs to record three touchdown catches in a game since 2015. Despite averaging just 3.0 yards per carry over the last three games, Etienne has totalled the fourth-most PPR points among running backs (57.8) during that stretch. He is firmly entrenched as one of the best weekly running back options in fantasy, even in a tough Week 16 matchup against the Denver Broncos.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 16,
+  "team": "JAX",
+  "opp": "DEN",
+  "att": 16,
+  "tgt": 5,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 18
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205534",
+  "title": "Devin Neal Expected To Take On Bigger Role",
+  "description": "New Orleans Saints rookie running back Devin Neal is expected to see more work after Kendre Miller's season-ending ACL injury. Neal will now slide in as the team's No. 2 running back behind veteran Alvin Kamara. The 2025 sixth-round pick from Kansas missed time in training camp with a hamstring injury, which set him back and allowed Miller to run away with the No. 2 running back duties. Neal suited up and played seven offensive snaps in Week 1, but then served as a healthy inactive for the next four weeks. The rookie again played only seven snaps on offense in Week 7 against the Bears, but caught the eyes of head coach Kellen Moore with an impressive rep in pass protection. Neal has been continually praised by his teammates for his intelligence, which bodes well for his chances of seeing more opportunities. He's a good player to stash as a handcuff in 12-team leagues.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

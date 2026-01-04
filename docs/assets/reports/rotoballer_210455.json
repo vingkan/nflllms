@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210455",
+  "title": "De'Von Achane to Start the Week as Limited in Practice",
+  "description": "According to head coach Mike McDaniel, Miami Dolphins running back De'Von Achane (ribs) will kick off this week as a limited practice participant as they gear up for a Monday night matchup with the hosting Pittsburgh Steelers. McDaniel also notes that the 24-year-old will wear a red non-contact jersey at least for Thursday's session. Achane exited Sunday's 34-10 win over the Jets in the second quarter with a rib injury, although he apparently could have reentered the contest if necessary. Fortunately, it appears he's avoided a significant issue, but Miami will be cautious with him as they prep for Monday Night Football. As it stands, it doesn't seem that Achane will be in danger of missing Week 15, though fantasy managers should closely monitor his status throughout the week.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 6,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

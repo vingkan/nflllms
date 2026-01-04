@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205723",
+  "title": "Kareem Hunt Off Injury Report, Ready To Face Commanders In Week 8",
+  "description": "Kansas City Chiefs running back Kareem Hunt will play against the Washington Commanders in Week 8. Hunt was banged up this week with ankle and knee injuries, back he practiced in full on Saturday and will be active for Monday night's game. Hunt handled four carries for 18 yards in the 31-0 victory over the Las Vegas Raiders in Week 7. Hunt briefly exited last week's contest with an injury and was able to return, but was not needed since the Chiefs had a huge lead. The 30-year-old back has taken a backseat to Isiah Pacheco in recent weeks, handling just 10 carries in the last two games compared to 27 carries for Pacheco. That trend will likely continue given that Hunt has been the more inefficient back this season and the team has stated they'd like to get rookie Brashard Smith more involved each week. The matchup will also not help out Hunt since the Commanders have been middle-of-the-pack in terms of fantasy points allowed to opposing running backs this season. Hunt is ranked RB43 in our RotoBaller Half-PPR rankings and should not find his way into fantasy lineups unless there are no other options available.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 8,
+  "team": "KC",
+  "opp": "WAS",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 40,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 13
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207444",
+  "title": "Tony Pollard Set to Lose Touches Coming Out of Bye Week?",
+  "description": "Across nine games played in 2025, Tennessee Titans running back Tony Pollard has recorded 623 scrimmage yards and two touchdowns on 138 total touches, an average of 15.3 touches per game. However, Pollard's usage was clearly trending downwards heading into Tennessee's Week 10 bye. After seeing at least 14 carries and 17 total touches in each of the Titans' first five games of the season, Pollard failed to crack 12 total touches in any of his most recent four outings. Tennessee has been steadily evening out the workload between Pollard and third-year back Tyjae Spears. Coming out of the bye week, there seems to be little reason for the 1-8 Titans to feed the veteran Pollard over the up-and-coming Spears. Spears has also been more efficient, averaging over a yard per touch more than Pollard. Heading into a Week 11 matchup against the Houston Texans, Pollard is tough for fantasy managers to trust as anything more than a low-end flex option.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 11,
+  "team": "TEN",
+  "opp": "HOU",
+  "att": 10,
+  "tgt": 3,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 22,
+  "receiving_catches": 3,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 43
+}

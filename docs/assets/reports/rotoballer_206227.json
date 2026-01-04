@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206227",
+  "title": "Struggling Line, Difficult Matchup Damper Jordan Mason's Week 9 Outlook",
+  "description": "Coming off his worst game of the season, Minnesota Vikings running back Jordan Mason looks to have tough sledding again in Week 9 against the Detroit Lions. Only three teams in the NFL have allowed fewer rushing yards than Detroit, which is holding opposing teams to an average of 87.7 rushing yards. Further, the former San Francisco 49er ran for just three yards and played a season-low 35% of Minnesota's offensive snaps when Aaron Jones Sr. returned to the lineup in Week 8. The Vikings will see the return of starting quarterback J.J. McCarthy, but they finished last week with three backups on the offensive line as both tackles continue to work their way back from knee injuries. Given the number of hurdles this week, Mason should be considered a low-end flex option in most standard formats.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 9,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 36,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 40
+}

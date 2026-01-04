@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204473",
+  "title": "Kyren Williams Salvages Week 6 Performance with Another Rushing Touchdown",
+  "description": "Los Angeles Rams running back Kyren Williams carried the ball 13 times for 50 rushing yards and one rushing touchdown during Sunday's Week 6 win over the Baltimore Ravens. He also caught each of his two targets for a total of 37 receiving yards. Williams didn't nearly match his fantasy total from the week prior on Thursday Night Football, but he still contributed with a touchdown and a solid receiving stat line. He has multiple catches in each of his last five games, as well as four touchdowns over his last four contests. He should continue to be treated as a low-end RB1 heading into Week 7 against the Jaguars.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 7,
+  "team": "LAR",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 54,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 25
+}

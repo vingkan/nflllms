@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206382",
+  "title": "Bam Knight Will be the \"First One Out There\" in Week 9",
+  "description": "Arizona Cardinals head coach Jonathan Gannon said on Saturday that running back Bam Knight will be the \"first one out there\" on Monday night against the Dallas Cowboys in Week 9 at RB, but the work will likely go to whichever back is most effective, per Darren Urban of AZCardinals.com. Knight will be battling for lead-back duties with Michael Carter, who got work in with the first-team offense at practice this week and will rejoin the active 53-man roster. Meanwhile, Emari Demercado (ankle) will be active after missing Week 7 with an ankle injury. Knight has operated as Arizona's primary back over Carter the last two games, receiving 25 combined carries for 91 yards (3.6 yards per tote) and a touchdown while adding four catches for 27 yards receiving. He will be the \"starter\" on Monday, but he might need to perform to hold off Carter. Knight is shaping up as a shaky low-end RB2/high-end RB3/flex option in a good matchup against Dallas this week.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 27,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

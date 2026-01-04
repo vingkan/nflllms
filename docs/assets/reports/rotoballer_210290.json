@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210290",
+  "title": "Kimani Vidal Goes Over 100 Total Yards in Monday Night Win",
+  "description": "Los Angeles Chargers running back Kimani Vidal recorded 14 carries for 44 yards while adding one catch for a team-leading 60 receiving yards on three targets in Monday's overtime win over the Philadelphia Eagles. Vidal still narrowly led the Chargers in carries over rookie Omarion Hampton, who handled 13 carries for 56 yards in his first game since Week 5. On the Chargers' first third down of the game, Vidal slipped out of the backfield for a checkdown from quarterback Justin Herbert and burst down the sideline for a 60-yard gain. It marked the longest play of the second-year back's career, and he continues to make the most of his opportunities. Since Vidal took over in Week 6 after Hampton's injury, he's totaled 131 carries for 569 yards and three touchdowns with 13 receptions (19 targets) for 102 yards and another score as a receiver, ranking as the RB13 in total PPR points in that time. The 24-year-old running back's role will decrease with Hampton back, but he should continue to stay involved as an important piece of the Chargers' offense.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 15,
+  "team": "LAC",
+  "opp": "KC",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 1,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 44
+}

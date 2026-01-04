@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209227",
+  "title": "Omarion Hampton Ruled Out for Week 13",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton (ankle) has officially been ruled out for Sunday's game against the Las Vegas Raiders, according to Alex Insdorf of the Bolt Beat. Hampton has been sidelined since Week 5, and it was recently reported that he was dealing with a fractured ankle. The rookie first-rounder was listed as limited every day in practice this week, and will need at least another week before he's ready to go. It's also possible that Hampton operates in a timeshare with second-year back Kimani Vidal when he returns, as indicated by offensive coordinator Greg Roman. That could limit the rookie's rest of season upside, but he was producing at a high level before going down with injury, recording 66 carries for 314 yards and two touchdowns along with 20 receptions (22 targets) for 136 yards as a receiver. Vidal is in line to handle the bulk of the touches again in Week 13 against the Raiders.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

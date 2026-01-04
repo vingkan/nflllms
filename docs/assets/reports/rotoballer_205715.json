@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205715",
+  "title": "Devin Neal Remains Tough for Fantasy Managers to Trust in Week 8",
+  "description": "New Orleans Saints rookie running back Devin Neal has seen very limited usage so far this season, recording just three carries for 10 yards in the three games he's been active for. However, with Saints back Kendre Miller (knee) suffering a season-ending knee injury in Week 7, Neal now slots into the team's RB2 role behind veteran Alvin Kamara. Before getting injured, Miller had recorded at least nine touches in four consecutive games. There's no guarantee that Neal will assume the same workload that Miller had. However, there's no question that Neal's role in the offense will grow to some degree. The Saints have a tough matchup in Week 8 against the Tampa Bay Buccaneers, who are allowing just 3.9 yards per carry. That makes Neal tough to trust for fantasy managers in Week 8. Still, Neal could be a player worth stashing in deep leagues for his season-long upside.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

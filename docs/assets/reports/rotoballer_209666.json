@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209666",
+  "title": "Omarion Hampton Likely to Return in Week 14",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton (ankle) is likely to return in Week 14 against the Philadelphia Eagles, according to Matt Zenitz of CBS Sports. Hampton is expected to return to action on Monday night after missing the last seven games with a fracture in his ankle. The rookie first-rounder was listed as a limited participant every day in practice last week before ultimately being ruled out against the Las Vegas Raiders. The rookie could be eased back into action after missing a significant amount of time. Offensive coordinator Greg Roman indicated that Hampton and second-year back Kimani Vidal could operate in a timeshare upon his return, which creates some uncertainty for his fantasy value in what will be a tough first matchup back against the Eagles. Hampton should still operate as the lead back, but it may not be in the workhorse role right away like we saw before his injury.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

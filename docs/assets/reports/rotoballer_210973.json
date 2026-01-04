@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210973",
+  "title": "Bam Knight has \"Bad Sprain,\" Unlikely to Play in Week 16",
+  "description": "ESPN's Adam Schefter reports that Arizona Cardinals running back Bam Knight (ankle) is trending toward being inactive for Week 16's home game in Week 16 against the Atlanta Falcons. Knight was out there for just one snap in the team's 40-20 loss to the Houston Texans, handling one carry for negative two yards before injuring his ankle and being carted off the field. Schefter notes that Knight will undergo an MRI on Monday to assess the severity, although it's being described as a \"bad sprain.\" It's good news that initial testing revealed no breaks. Either way, it seems that his chances of suiting up against the visiting Falcons are slim at best. Teammate Michael Carter stepped up in Week 15 (14/56), with the 24-year-old unable to continue, though it's possible he splits more work with Emari Demercado as the latter regains health from an ankle injury of his own.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 16,
+  "team": "ARI",
+  "opp": "ATL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

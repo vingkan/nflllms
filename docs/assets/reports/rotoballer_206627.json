@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206627",
+  "title": "Bhayshul Tuten Involved in Jaguars Return from Their Bye Week",
+  "description": "Jacksonville Jaguars running back Bhayshul Tuten matched his season-high with 10 offensive touches in Week 9, taking nine carries for 29 yards and his third NFL touchdown while also adding a catch on his only target for a loss of three yards. While he was involved, Tuten still played solidly behind Travis Etienne Jr., who had a season-high 27 touches. Tuten actually played fewer snaps than fellow rookie LeQuint Allen as well, but Allen only had two touches. The fourth-round rookie is primarily an early-down, change-of-pace option right now for the Jaguars, but he has shown enough upside to deserve a look on waiver wires if you need running back depth. He has touchdown-dependent upside going forward, even though he and the Jags have a tough matchup against the strong Texans' defense in Week 10.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 10,
+  "team": "JAX",
+  "opp": "HOU",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 5,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 54
+}

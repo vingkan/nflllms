@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207144",
+  "title": "Aaron Jones Sr. Expected to Play Sunday Against Ravens",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder) is expected to play in Week 10 against the Baltimore Ravens, according to Jeremy Fowler of ESPN. Jones was limited in practice on Thursday and Friday after sitting out Wednesday, but he appears on track to play Sunday. The 30-year-old returned in Week 9 after missing four games due to a hamstring injury and looked good against Detroit, totaling 98 yards from scrimmage on 11 touches. Jones was playing ahead of Jordan Mason in his first game back, and should likely maintain the slight upper hand on Sunday against Baltimore. Mason will still be involved a good amount on early downs, but Jones has flex appeal in PPR leagues. He is ranked as RotoBaller's RB28 for Week 10.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

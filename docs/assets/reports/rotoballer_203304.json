@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203304",
+  "title": "Browns To Lean On Quinshon Judkins More in Week 5?",
+  "description": "The Cleveland Browns could be turning more to rookie running back Quinshon Judkins now that the team has formally made a change at quarterback, according to Zac Jackson of The Athletic. Cleveland's offense has been one of the very worst in the league, prompting the club to bench quarterback Joe Flacco in favor of rookie Dillon Gabriel for this week's game against Minnesota, which will be played in London. Judkins looks to be a benefactor of the switch, as the Browns likely will look to their running attack to give the first-time starting quarterback some help against a good defensive line. Judkins has drawn 19 and 25 touches, respectively, during the past two weeks, opening the possibility he's going to get feature-back work as long as he's healthy.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 5,
+  "team": "CLE",
+  "opp": "MIN",
+  "att": 23,
+  "tgt": 2,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 110,
+  "receiving_catches": 1,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

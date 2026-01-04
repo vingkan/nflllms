@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206112",
+  "title": "Justice Hill Not Much of an Option in Week 9",
+  "description": "Baltimore Ravens running back Justice Hill hasn't held much value throughout this season despite being the main pass-catching back for the team. He's had two finishes in the top 25 of running backs in half-PPR formats, and saw his snapshare fall a bit in Week 8 as Keaton Mitchell was active for the first time. Lamar Jackson returns for the Week 9 tilt against the Miami Dolphins, which means some more running plays designed for the QB and fewer touches for Hill. The Dolphins are ranked 28th against opposing backfields after giving up a total of 941 yards and six touchdowns on the ground versus 322 yards and one touchdown through the air. That likely means even more work for Derrick Henry, and if Mitchell keeps getting some snaps, that leaves Hill off the fantasy radar.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 9,
+  "team": "BAL",
+  "opp": "MIA",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 2,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 43
+}

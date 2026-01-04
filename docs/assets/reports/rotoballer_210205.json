@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210205",
+  "title": "Chase Brown Scores Two Touchdowns in Week 14 Loss",
+  "description": "Cincinnati Bengals running back Chase Brown handled 12 carries for just 23 yards while adding three receptions (four targets) for 12 yards and another touchdown as a receiver in Sunday's loss in snowy Buffalo. Brown continues his stretch of strong production for fantasy managers, averaging 19.2 PPR points per game over his last six outings. The 25-year-old running back surprisingly had his lowest yards-per-carry mark in a game this season against a Bills defense that allowed 5.2 yards a pop entering the game, the second-worst mark in the league. It comes after three straight games in which the speedy back averaged over five yards per tote. But Brown made up for his lack of efficiency by posting his second two-touchdown game of the season. He will remain a high-end fantasy option in Week 15's divisional matchup against the Baltimore Ravens.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 15,
+  "team": "CIN",
+  "opp": "BAL",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 53,
+  "receiving_catches": 7,
+  "receiving_yards": 37,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 13
+}

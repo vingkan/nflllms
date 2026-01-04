@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210614",
+  "title": "Javonte Williams Projects to be a Low-End RB1 on Sunday Night",
+  "description": "Dallas Cowboys running back Javonte Williams projects to be a must-start low-end RB1 on Sunday night when the Cowboys welcome the Minnesota Vikings. Last week, Williams continued his massive bounce-back campaign by punching in his ninth rushing score of the season and his 11th total score from scrimmage. Despite facing a Detroit defense that had allowed the fewest PPR points to opposing RBs this season, Williams racked up 14.7 PPR points and was quite effective with his opportunities, tallying 67 yards on 17 attempts. Since Week 11, the former first-round pick has posted a solid 4.0 YPC and averaged 13.5 PPR points per game. While his ceiling may be limited, facing a Vikings defense that has allowed the 12th-fewest PPR points to opposing RBs, Williams carries high upside to find the back of the end zone, playing on one of the sport's top offensive units. In addition, his massive workload as the lead back (averaging 76% of the team's total snaps) gives him a high floor, making him a must-start, low-end RB1, in all formats.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 15,
+  "team": "DAL",
+  "opp": "MIN",
+  "att": 15,
+  "tgt": 0,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 91,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

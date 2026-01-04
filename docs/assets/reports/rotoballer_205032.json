@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205032",
+  "title": "Bijan Robinson a High-End RB1 Against a Banged-Up San Francisco Defense",
+  "description": "Atlanta Falcons running back Bijan Robinson ran wild on the Bills last week, racking up 238 yards from scrimmage and a touchdown. He's now gone over 100 scrimmage yards in each of the team's first five contests while averaging a league-best 5.8 yards per rush (minimum 50 attempts) and almost five receptions per game. Week 7's matchup on Sunday night against the 49ers brings a matchup against a defense that's yielded the 13th-most fantasy points to opposing running backs, and will again be without Nick Bosa (knee) and Fred Warner (ankle). Game script hasn't mattered in relation to Robinson's fantasy production, as the 23-year-old will be involved whether the team goes run or pass-heavy. With just a 2.5 point spread, this one figures to be close, which should keep all of the Falcons' key offensive pieces involved, and former first-round draft pick will again be a high-end RB1 on Sunday night.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 7,
+  "team": "ATL",
+  "opp": "SF",
+  "att": 14,
+  "tgt": 8,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 40,
+  "receiving_catches": 6,
+  "receiving_yards": 52,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 5
+}

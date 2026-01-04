@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207037",
+  "title": "Tyrone Tracy Jr. Faces Uphill Climb Against Chicago's Run Defense",
+  "description": "New York Giants running back Tyrone Tracy Jr. is in a precarious fantasy position entering Week 10, as he is dealing with a murky workload split and a difficult opponent. Despite the season-ending injury to Cam Skattebo, Tracy Jr. saw only five carries for 18 yards in Week 9, being out-carried by Devin Singletary (eight) as the Giants transitioned to a running back committee approach. As the 47th-ranked fantasy RB, averaging 5.56 points per game, Tracy Jr.'s outlook is dimmed by the upcoming matchup with the Chicago Bears, who, while generally a poor defense, have been tougher against the run. The Bears are the 21st-ranked fantasy defense against running backs, allowing a hefty 22.73 points per game, which does offer a glimmer of hope for a committee back. Given his diminished role and low 3.5 yards per carry average, Tracy Jr. remains a risky Flex option.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 10,
+  "team": "NYG",
+  "opp": "CHI",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 71,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 34
+}

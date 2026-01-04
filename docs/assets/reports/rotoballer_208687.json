@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208687",
+  "title": "Rico Dowdle Remains a Must-Start for Week 12",
+  "description": "In Week 11, Carolina Panthers running back Rico Dowdle totaled 100 scrimmage yards, with 45 on the ground and 55 through the air. He finished with 15 PPR points. Carolina's opponent for Week 12 is the San Francisco 49ers, who rank 18th in fantasy points per game allowed to RBs this season. San Francisco's injury-riddled defense ranks 21st in fantasy points per game allowed to RBs over the past four weeks. Dowdle remains a must-start in all formats, especially as he provides a solid fantasy floor in any matchup. The 6-5 Panthers might stick close to San Francisco, so Dowdle should get enough work as a runner.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 12,
+  "team": "CAR",
+  "opp": "SF",
+  "att": 6,
+  "tgt": 4,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

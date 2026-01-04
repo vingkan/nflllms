@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203900",
+  "title": "Cam Skattebo Faces a Tough NFC East Test",
+  "description": "New York Giants running back Cam Skattebo is a volatile RB2 for the Week 6 Thursday night matchup against the Philadelphia Eagles, despite his recent workhorse usage. Skattebo, currently the RB17 in fantasy points per game (12.26 FPTS/G) on the season, has commanded a 66.7% timeshare in his last two games, recording 63 carries for 240 yards and two touchdowns, plus 18 receptions for 143 yards. The Eagles defense is a moderate run matchup, ranking 22nd by allowing 126.8 rushing yards per game and giving up four rushing touchdowns, yet they are a top-tier challenge near the goal line, boasting the 3rd best red-zone defense with a 42.9% touchdown rate. Furthermore, the Eagles have been generous to fantasy running backs, allowing 23.26 fantasy points per game (25th in the NFL), but the potential return of Tyrone Tracy Jr. and Skattebo's costly red-zone fumble last week temper expectations, making him a touchdown-dependent RB2/Flex play.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 6,
+  "team": "NYG",
+  "opp": "PHI",
+  "att": 19,
+  "tgt": 2,
+  "touches": 21,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 98,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 31,
+  "ppr_scoring_position_rank": 4
+}

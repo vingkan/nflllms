@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205435",
+  "title": "Kenneth Gainwell Relegated to Handcuff Role",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has cooled off significantly after his breakout Week 4 performance. With Jaylen Warren returning to full strength, Gainwell has managed just nine carries for 36 yards over the past two games. Over that span, Gainwell has played 36% of the snaps, while Warren has commanded 61%, establishing himself as the team's lead back. Gainwell now profiles as a third-down back and a handcuff option in fantasy formats. While Gainwell could offer some PPR upside, unless Warren misses time, Gainwell holds little standalone fantasy value moving forward.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 8,
+  "team": "PIT",
+  "opp": "GB",
+  "att": 5,
+  "tgt": 2,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

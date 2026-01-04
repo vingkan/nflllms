@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206801",
+  "title": "J.K. Dobbins Remains a High-End RB2 vs. the Raiders Despite Touchdown Drought",
+  "description": "Denver Broncos running back J.K. Dobbins has still been the king of the backfield through nine weeks from a touch standpoint, but he will strive to get back in the end zone for the first time since Week 5 as he faces the Las Vegas Raiders at home on Thursday night. At first glance, averaging 77.2 rushing yards per game would sound like a no-brainer RB1 statistic. However, the presence of running back RJ Harvey has certainly been a threat to Dobbins' scoring opportunities. Harvey has now outscored Dobbins on the season with six total touchdowns to four, with five of them coming within the past three games. With Dobbins' healthy floor, thanks to currently accounting for the fifth most rushing yards in the league, he is RotoBaller's 13th-ranked running back for Week 10.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 10,
+  "team": "DEN",
+  "opp": "LV",
+  "att": 18,
+  "tgt": 1,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 77,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 30
+}

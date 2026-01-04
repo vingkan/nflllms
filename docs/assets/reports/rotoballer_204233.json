@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204233",
+  "title": "Brian Robinson Jr. No More Than A Handcuff",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. has been unable to produce much of anything in the team's Christian McCaffrey-powered offense. Injuries to starters Brock Purdy (toe), Ricky Pearsall (knee), Jauan Jennings (ankle, ribs), and George Kittle (hamstring) have led to McCaffrey seeing snap shares north of 85% in each of the last three weeks. Even with the 49ers piling as much on McCaffrey's plate as he can handle, very little is being asked of Robinson in the way of relieving the star. Robinson has a snap share of 13% going back to Week 3, and has handled 12 carries in the same span with zero targets. Robinson can't be started in fantasy lineups but is worth a bench stash. If the 49ers' injury bug comes for McCaffrey, Robinson will take over as the team's feature back.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 6,
+  "team": "SF",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 3,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

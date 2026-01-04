@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207459",
+  "title": "Breece Hall Predicted to Land a Long-Term Deal in the Offseason?",
+  "description": "ESPN's Matt Bowen and Jeremy Fowler wrote about their 2026 NFL free agency early top-25 rankings and predictions. According to what they are hearing, New York Jets running back Breece Hall could secure a contract similar to Josh Jacobs, with a deal in the ballpark of a four-year, $48 million contract. Hall was very involved in speculation to be traded at the trade deadline, and the Jets stood firm on wanting a third-round pick in return for him, but they never got it. Hall is in his prime at 25 years old and brings a dual-threat element to the backfield. He has 174 receptions in his career, while averaging 92.0 total yards. He also has 82 rushes of 10 or more yards over three seasons, so he's a three-down back that can make big plays. Although we don't know which team he will be joining, this provides some insight into what the expected contract should be, barring any unforeseen developments over the next couple of months.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 11,
+  "team": "NYJ",
+  "opp": "NE",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 33
+}

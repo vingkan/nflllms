@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206813",
+  "title": "Ty Johnson Could See More Work in Week 10",
+  "description": "Buffalo Bills running back Ty Johnson could see increased usage in Week 10. Through eight games, he has logged 17 carries for 72 yards and a touchdown, along with four receptions for 31 yards. With James Cook (foot/ankle) not practicing, Johnson may be in line for a larger workload. Johnson has outsnapped Ray Davis this season, but in the one game Cook missed last year, Davis played 63% of the snaps compared to Johnson's 35%. Cook's status will dictate how the backfield shakes out, so monitor practice reports closely. If Cook sits, both Johnson and Davis would see expanded roles against a vulnerable Miami defense.",
+  "player_id": 6039,
+  "player_name": "Ty Johnson",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

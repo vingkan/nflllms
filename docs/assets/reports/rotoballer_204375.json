@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204375",
+  "title": "Alvin Kamara Doesn't Want to be Traded",
+  "description": "New Orleans Saints running back Alvin Kamara has been a possible mid-season trade target given the direction the organization is going right now. The Los Angeles Chargers are reportedly in the market for a running back with multiple backs going down with injuries. On paper, Kamara makes sense for the Chargers, but the 30-year-old doesn't want to leave New Orleans. Kamara said he wants to stay with the Saints and retire with the organization. It remains to be seen if something will change over the next few weeks, but for now Kamara is resistant to any trades.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 31,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 14
+}

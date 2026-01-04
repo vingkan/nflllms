@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209676",
+  "title": "Christian McCaffrey Scores 13th Touchdown of 2025 in Week 13 Win",
+  "description": "San Francisco 49ers running back Christian McCaffrey handled 20 carries for 53 yards and a touchdown in the team's 26-8 win over the Browns in Week 13. He also caught all four of his targets for 21 receiving yards. Sunday's game was just the third time this season that McCaffrey finished with fewer than 100 scrimmage yards, and his four targets were a season low. Still, the two-time All-Pro finished as a top-12 running back in PPR scoring for the twelfth time in 13 weeks. Fantasy football managers will have to do without McCaffrey's services in Week 14 while the 49ers are on bye. Those lucky enough to have sewn up a spot in the fantasy football playoffs get to look forward to a matchup against the Titans in Week 15.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

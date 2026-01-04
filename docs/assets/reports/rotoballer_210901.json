@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210901",
+  "title": "Josh Jacobs Active Vs. Broncos",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) will be active for Sunday's contest with the hosting Denver Broncos, according to NFL Network's Tom Pelissero. Jacobs has been dealing with a knee injury since Week 11, though he's missed just one appearance because of it. Despite being tagged with two DNPs leading up to this weekend's outing, the 27-year-old will suit up and should be slated for his usual workhorse role against the Broncos. Fortunately for Green Bay, second-string rusher Emanuel Wilson (illness) is also expected to play, meaning the team's ground game will be at full strength against the league's second-best rush defense. Even with the injury, Jacobs is a high-floor RB2 option in Week 15.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

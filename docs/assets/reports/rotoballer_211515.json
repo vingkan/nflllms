@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211515",
+  "title": "Malik Davis Remains in Depth Role for Matchup Against Chargers",
+  "description": "Dallas Cowboys running back Malik Davis saw more run in last week's loss to the Minnesota Vikings after Javonte Williams (neck) missed time in the first half. The 26-year-old ended up playing a career high 53% of the offensive snaps and handled eight carries for 21 yards and a touchdown while adding two catches (three targets) for 16 yards. Williams eventually returned for the second half and was a full participant in practice this week. Still, it remains clear that Davis is the primary backup ahead of rookie Jaydon Blue, who has been a healthy inactive for the past six games. Davis' fantasy upside for Sunday's matchup against the Los Angeles Chargers remains capped, as he hasn't seen much usage when Williams has been healthy, handling just 14 touches in the five games leading up to last week.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 58
+}

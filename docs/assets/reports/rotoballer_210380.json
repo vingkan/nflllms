@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210380",
+  "title": "Tyrone Tracy Jr. Practicing Coming Out of the Bye Week",
+  "description": "New York Giants running back Tyrone Tracy Jr. (hip) is at practice on Wednesday, according to Jordan Raanan of ESPN. Tracy suffered a bruised hip in the Monday night loss to the New England Patriots in Week 13, but he had the Week 14 bye to rest up and is now back at practice as the Giants begin preparations for a Week 15 divisional clash this Sunday against the Washington Commanders. The 26-year-old's injury didn't look good at the time, and he had to be carted to the locker room. He'll probably end up limited on Wednesday, but his presence at practice is a good sign for his availability this weekend. Devin Singletary had 15 touches in Week 13 for 102 scrimmage yards and a touchdown, which has made him a popular waiver-wire pickup going into the fantasy playoffs. Singletary's upside in Week 15 will take a hit, though, if Tracy is able to return to New York's backfield.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 5
+}

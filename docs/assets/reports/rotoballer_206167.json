@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206167",
+  "title": "Aaron Jones Sr. Poised For Larger Role in Second Game Back From Injury?",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. made his return in Week 8 against the Chargers after being put on injured reserve with a hamstring injury earlier in the season. It was a relatively quiet first game back for Jones, handling five carries for 15 yards and catching two of his four targets for 15 yards. The Vikings' offense was stuck in the mud all night, and they should see better days moving forward. However, that is dependent on how second-year quarterback J.J. McCarthy (ankle) performs, as he is expected to return as the starter in Week 9 against the Lions. Jones had the most touches of the Vikings running backs in his return, with Jordan Mason recording only five and third-string back Zavier Scott mixing in for four. The 30-year-old dual-threat back should see his snaps and touches increase as he gets further removed from his injury, but will likely still see close to an even split with Mason moving forward.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 9,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 78,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 18
+}

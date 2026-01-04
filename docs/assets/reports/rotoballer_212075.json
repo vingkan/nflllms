@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212075",
+  "title": "Christian McCaffrey Projected For Another RB1 Finish",
+  "description": "San Francisco 49ers running back Christian McCaffrey has finished outside of the top ten at his position just twice in 2025. The heart of San Francisco's offense, McCaffrey leads the team in targets per game, is averaging 125.9 scrimmage yards per game, and has scored a touchdown in all but four of the 49ers' games this season. CMC's role in the passing game regressed in recent weeks until his 6-29-2 line on eight targets in Week 16. His target share may remain elevated in Week 17, as tight end George Kittle (ankle) is a game-time decision and Ricky Pearsall (knee, ankle) is questionable. McCaffrey has a welcome matchup against the Bears in Week 17. Chicago has allowed the sixth-most rushing yards per game and the second-most rushing yards before contact per attempt this year. As always, McCaffrey is in contention for an RB1 finish and should be locked into lineups for the final weekend of the fantasy football season.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 17,
+  "team": "SF",
+  "opp": "CHI",
+  "att": 23,
+  "tgt": 6,
+  "touches": 29,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 140,
+  "receiving_catches": 4,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 4
+}

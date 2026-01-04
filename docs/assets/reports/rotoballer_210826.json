@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210826",
+  "title": "Jaylen Wright's Week 15 Fantasy Value Hinges on Teammate's Health",
+  "description": "Miami Dolphins running back Jaylen Wright has been buried on the Dolphins' depth chart this season, and it looks like he'll return to a minimal role after making the most of his chance last week and posting a breakout game. Wright and the Dolphins face the Steelers on Monday, but De'Von Achane (ribs) is on track to return, relegating Wright back to a reduced role. While filling in against the Jets in Week 14, Wright ripped off 107 rushing yards with a touchdown on 24 carries. He only had 18 carries before that game in the whole season, though, so if Achane returns, Wright's role will be too limited for him to be a strong fantasy play. In RotoBaller's Week 15 rankings, Wright is the No. 51 RB, so he can be left on the bench or the waiver wire in almost all formats, despite reminding everyone of his potential ceiling if he gets playing time.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 65
+}

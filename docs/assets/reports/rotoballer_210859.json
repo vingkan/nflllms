@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210859",
+  "title": "Christian McCaffrey Trending Toward Playing in Week 15",
+  "description": "San Francisco 49ers running back Christian McCaffrey (back) \"should be good to go\" for Sunday's Week 15 contest against the Tennessee Titans, according to Ian Rapoport of NFL.com. McCaffrey entered the weekend without an injury designation, but he was added to the injury report on Saturday with a questionable tag. In the end, the star running back is expected to suit up in a very favorable matchup against a struggling Titans run defense that has allowed the third-most rushing touchdowns to opposing running backs in 2025. If he's near 100 percent, McCaffrey will rank as a high-end RB1 in fantasy football.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

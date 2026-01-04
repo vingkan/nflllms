@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205285",
+  "title": "Tony Pollard to See More Touches?",
+  "description": "After a 31-13 loss to the Patriots, in which the team had only 12 rushing attempts, Tennessee Titans OC Nick Holz told reporters, \"You want to be able to run the ball a little more.\" Six of the team's carries went to Tony Pollard, who converted them into only 18 yards but salvaged his fantasy day with six catches for an additional 43 yards. Unfortunately, the Titans are unlikely to experience a sudden influx of positive game scripts. Through seven weeks, they've run a total of 11 offensive plays while holding a lead. Pollard can still be started because of his reliable work in the passing game, but playing mostly from behind, along with a slowly increasing workload from Tyjae Spears, is not a recipe for a second-half fantasy boon.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 8,
+  "team": "TEN",
+  "opp": "IND",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 34
+}

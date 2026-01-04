@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211099",
+  "title": "RJ Harvey Dealing With Rib Injury",
+  "description": "Denver Broncos rookie running back RJ Harvey (rib) left Sunday's win over the visiting Green Bay Packers with a rib injury, according to Jon Heath of Broncos Wire. However, there has been no official update on Harvey's injury or whether it could impact his status for the upcoming Week 16 matchup in Denver versus the Jacksonville Jaguars. The 24-year-old's injury came late in the Week 15 contest, and he did not return in the final two minutes with the Broncos salting the clock away. Fantasy managers will want to check back on Harvey's status on Wednesday after the team's first practice of the week. The Broncos claimed RB Cody Schrader off waivers on Tuesday, potentially indicating a serious injury for Harvey. If Harvey is limited or out this weekend, Jaleel McLaughlin would most likely be the team's early down back, with Tyler Badie handling third-down duties.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 16,
+  "team": "DEN",
+  "opp": "JAX",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 71,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 11
+}

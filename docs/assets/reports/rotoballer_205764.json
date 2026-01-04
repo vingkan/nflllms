@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205764",
+  "title": "R.J. Harvey's Minimal Workload Sparks Concern Despite Favorable Matchup",
+  "description": "Denver Broncos running back R.J. Harvey has been a minimal factor in the team's offense recently, giving way to a heavy workload from veteran J.K. Dobbins. Harvey had zero rushing yards on four carries last weekend, but he did salvage his fantasy performance with a touchdown catch. The rookie hasn't been a major scoring threat this year, though, ranking as the overall RB3 with fewer than 7.5 fantasy points (PPR) in each of his last three games. Furthermore, Harvey has played fewer than one-third of the snaps in each of his last three contests, as well as six of seven games this year. The UCF product's fantasy value has become highly dependent on breaking off a big play or scoring a touchdown. That could certainly happen this week against a Cowboys defense allowing the most total offense in 2025, but managers also need to remember that Dobbins has a firm grasp on the lead-back role in this backfield. Harvey ranks as low-floor RB3/flex against the Cowboys, who have allowed the fourth-most fantasy points to opposing running backs in 2025.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 8,
+  "team": "DEN",
+  "opp": "DAL",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 46,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 6
+}

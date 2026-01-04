@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205218",
+  "title": "Kimani Vidal Stalls in Loss, Remains Game-Script Dependent",
+  "description": "Los Angeles Chargers running back Kimani Vidal couldn't capitalize on last week's breakout, rushing nine times for only 20 yards and adding four catches for 15 yards in Sunday's 38-24 loss to the Indianapolis Colts. A negative game script forced the Chargers to abandon the run early, giving Vidal little room to operate. With a short week ahead against the Minnesota Vikings, the Bolts may need to rely more on the ground game to balance their offense. The Vikings are much more vulnerable against the run than the pass, providing Vidal a potential opportunity for rebound, but only if the Chargers can keep the game close. He remains the clear RB1 until Omarion Hampton (ankle) returns from IR.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 8,
+  "team": "LAC",
+  "opp": "MIN",
+  "att": 23,
+  "tgt": 2,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 117,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 8
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205525",
+  "title": "Kareem Hunt to Practice in Some Capacity on Friday",
+  "description": "After missing the team's first practice of the week on Thursday, Kansas City Chiefs running back Kareem Hunt (ankle/knee) will reportedly get back to work in some capacity on Friday. Hunt is dealing with a bone bruise that could have contributed to his season-low 15 snaps in a Week 7 win over the Raiders. With the Chiefs playing on Monday night, Hunt will have an extra day to recuperate, so his Saturday practice participation should be monitored. While Hunt has seen his workload decrease over the past few weeks, a full absence on Monday night would put Isiah Pacheco in a position to see his heaviest usage of the season against a Commanders team that has been middle of the pack at defending the run. Rookie Brashard Smith, coming off a season-high 14 carries, also has flex appeal in a matchup that sees Washington without starting quarterback Jayden Daniels and the Chiefs favored heavily at home. UPDATE: Hunt was limited in Friday's practice.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 8,
+  "team": "KC",
+  "opp": "WAS",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 40,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 13
+}

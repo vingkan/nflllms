@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210521",
+  "title": "Bijan Robinson Dismantles Buccaneers Defense in Week 15 Upset",
+  "description": "Atlanta Falcons running back Bijan Robinson had 19 carries, 93 rushing yards, and one rushing touchdown during Thursday's Week 15 win over the Tampa Bay Buccaneers. He also caught eight of his 11 targets for an additional 82 receiving yards. The lone blemish on Robinson's final stat line was a fumble in the third quarter. Outside of the turnover, the former first-round pick had an enormous showing on Thursday Night Football, playing a major role in the Falcons' comeback victory. He was efficient on the ground, heavily involved and productive as a receiver, and contributed to the scoring with a nifty rushing touchdown. Unlike in some previous weeks, Robinson was able to fend off Tyler Allgeier from having much of a role in Week 15. Robinson played 90.1% of the snaps with 27 total touches, whereas Allgeier played just 16.9% of the snaps with two touches. Allgeier's 16.9% snap share was his second-lowest mark of the season, trailing only Week 3 when he played fewer than 10%. Long story short, Robinson remains the undisputed workhorse here, and he's going to play a massive role in helping managers pursue a fantasy championship over the next few weeks. He should continue to feast against the Arizona Cardinals in Week 16.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 16,
+  "team": "ATL",
+  "opp": "ARI",
+  "att": 16,
+  "tgt": 11,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 76,
+  "receiving_catches": 7,
+  "receiving_yards": 92,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 4
+}

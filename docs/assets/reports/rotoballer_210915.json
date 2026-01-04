@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210915",
+  "title": "Devin Neal Ruled Out with Hamstring Injury",
+  "description": "According to Adam Schefter of ESPN, New Orleans Saints running back Devin Neal (hamstring) has been ruled out for the remainder of their Week 15 contest due to a hamstring injury. Neal sustained this injury in the first half. Before exiting, he was able to punch in a rushing score and tally 28 yards on seven attempts. The rookie also brought his lone target for four yards. With Alvin Kamara (knee) on the shelf and Kendre Miller (knee) shut down for this season, Neal has taken over RB1 duties in New Orleans. For the remainder of this contest, fantasy managers should expect Audric Estime and Evan Hull to split the backfield. Managers should keep a close eye on Neal's status during the week, as he would carry RB2 upside in a favorable matchup against the Jets in Week 16.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 16,
+  "team": "NO",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

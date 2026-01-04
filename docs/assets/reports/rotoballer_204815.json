@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204815",
+  "title": "Bears \"Hopeful\" That D'Andre Swift Will Play in Week 7",
+  "description": "Chicago Bears head coach Ben Johnson said he is \"hopeful\" that running back D'Andre Swift (groin) will be healthy enough to play in the team's Week 7 matchup against the New Orleans Saints, per Chris Emma of 670 The Score. Swift has been limited in practice this week due to a groin injury and is officially listed as questionable for Sunday. The 26-year-old has mostly dominated backfield snaps in Chicago this season, recording 447 scrimmage yards and three touchdowns on 85 total touches through five games. If Swift were unable to play, rookie running back Kyle Monangai would likely step into a workhorse role with third-year back Roschon Johnson possibly mixing in as well. Should Swift be able to give it a go, he profiles as a solid fantasy RB2 in Week 7 against New Orleans.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 7,
+  "team": "CHI",
+  "opp": "NO",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 124,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 6
+}

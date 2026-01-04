@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210814",
+  "title": "Evan Hull Not in Play for Week 15",
+  "description": "New Orleans Saints running back Evan Hull was a popular waiver add heading into Week 15 following reports of an abdomen issue for rookie Devin Neal (abdomen). Alvin Kamara (knee, ankle) has already been ruled out for Sunday, and Neal began the week with limited practices on Wednesday and Thursday. However, Neal was able to return to full participation on Friday and should resume the bellcow role he's carried in each of the last two games. Hull, who has handled a total of nine carries across the previous two games, is no longer worth rostering, and fantasy managers in the playoffs can comfortably drop him to free up the bench spot.",
+  "player_id": 9220,
+  "player_name": "Evan Hull",
+  "week": 15,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 69
+}

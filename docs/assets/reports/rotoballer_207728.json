@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207728",
+  "title": "Jordan Mason Tough To Trust In Erratic Vikings Offense",
+  "description": "Minnesota Vikings running back Jordan Mason's evaporating workload in the Vikings' backfield has made the proposition of playing him difficult ahead of a Week 11 clash against the Chicago Bears. In two of the past three weeks, Mason has failed to reach five total carries. During the past two games, in particular, Aaron Jones Sr. has been the team's top option, commanding nearly three-quarters of the offensive snaps last week against Baltimore. Mason was a quality, if unremarkable, fantasy option when Jones was on injured reserve, but Jones' return has suggested less of a split than managers rostering Mason had hoped. Against a Bears defense squarely in the middle of the pack against fantasy running backs, Mason is a low-end RB4 option who will probably need some goalline work to make starting him worth the investment.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 11,
+  "team": "MIN",
+  "opp": "CHI",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 45,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

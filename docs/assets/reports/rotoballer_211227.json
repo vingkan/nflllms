@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211227",
+  "title": "Jawhar Jordan Could be in for Significant Workload Against Raiders",
+  "description": "Houston Texans second-year running back Jawhar Jordan could have a significant workload for the second straight week this Sunday in an excellent matchup against the visiting Las Vegas Raiders with Houston's backfield beat up at the moment. Nick Chubb (ribs) missed the Week 15 win over the Arizona Cardinals, and rookie Woody Marks (ankle) was forced from Sunday's game and never returned. In his NFL debut against Arizona after Marks left, Jordan carried the ball 15 times for 101 yards and also caught two passes for 17 yards as the lead back over Dare Ogunbowale. Chubb has returned to practice this week and Marks apparently could have gone back into Sunday's game if it wasn't a blowout, but it's unclear if either back will be available in Week 16. That puts the 26-year-old Jordan on standby for potential lead-back duties for the Texans if Chubb and Marks cannot go. Jordan is still only rostered in 7% of Yahoo leagues.",
+  "player_id": 11588,
+  "player_name": "Jawhar Jordan",
+  "week": 16,
+  "team": "HOU",
+  "opp": "LV",
+  "att": 15,
+  "tgt": 5,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 5,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 26
+}

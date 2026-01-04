@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210175",
+  "title": "De'Von Achane Avoids a Broken Rib in Week 14",
+  "description": "Miami Dolphins running back De'Von Achane (rib) did not suffer any fractures during Sunday's Week 14 win over the New York Jets. He exited in the second quarter and did not return, but head coach Mike McDaniel said that Achane could have come back into the game if necessary. Instead, he was replaced by Jaylen Wright, who exploded for 24 carries, 107 rushing yards, and one rushing touchdown. McDaniel's comments seem to indicate that Achane has a good chance to play against the Pittsburgh Steelers in Week 15, but fantasy managers should still check back for updates as the upcoming week progresses.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 6,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

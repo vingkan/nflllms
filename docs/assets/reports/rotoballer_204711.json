@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204711",
+  "title": "Chase Brown Facing Uphill Battle Against Steelers",
+  "description": "Cincinnati Bengals running back Chase Brown has been a major disappointment in the 2025 season. After a breakout campaign in 2024, Brown has managed just 304 scrimmage yards and one touchdown through six games. The third year back is averaging only 2.7 yards per carry, with just 1.2 yards before contact (last among qualified RBs) and 1.5 yards after contact (fourth worst). The injury to quarterback Joe Burrow has severely limited the Bengals' offense, and Brown has struggled to find any rhythm on the ground. His Week 7 matchup against the Pittsburgh Steelers won't make things any easier, as they have allowed the fifth-fewest fantasy points to running backs this season. Unless Brown sees a spike in receiving volume, it's hard to justify starting him in any fantasy format this week. Consider Brown a desperate flex option at best in Week 7.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 7,
+  "team": "CIN",
+  "opp": "PIT",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 108,
+  "receiving_catches": 2,
+  "receiving_yards": -8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 19
+}

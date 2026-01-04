@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206787",
+  "title": "Ollie Gordon II Limited During Wednesday's Practice",
+  "description": "Miami Dolphins running back Ollie Gordon II (ankle) was a limited participant during Wednesday's practice session. Gordon is currently considered day-to-day after suffering an ankle injury during last Thursday's loss to the Baltimore Ravens. The rookie back saw a high-season 10 carries during the Week 8 win over the Atlanta Falcons. Outside of that, Gordon has played a minimal role in the backfield this season. If he's unable to play, Jaylen Wright would likely take over as the backup to De'Von Achane during the Week 10 matchup against the Buffalo Bills.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 70
+}

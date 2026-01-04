@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211751",
+  "title": "Isiah Pacheco Back in the Lead in the Chiefs' Backfield",
+  "description": "Kansas City Chiefs running back Isiah Pacheco took back over as the lead back for the Chiefs this week, stepping in ahead of veteran Kareem Hunt and taking eight carries for 34 yards while adding six catches for 41 yards in the team's loss to the Titans last week. Pacheco could be in for a heavy workload moving forward, since the team could phase out Hunt now that the playoffs are no longer a possibility. The team could take the next two weeks to evaluate Pacheco and rookie Brashard Smith for their future roles, but Pacheco is in a brutal matchup this week against the Broncos, who have been elite against the run. Pacheco does have touchdown-dependent upside and should get a good workload, but he's still a long-shot flex play to add off the waiver wire this week due to the matchup.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 17,
+  "team": "KC",
+  "opp": "DEN",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 32,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 52
+}

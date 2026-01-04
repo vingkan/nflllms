@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204748",
+  "title": "D'Andre Swift Listed as Limited Practice Participant on Thursday",
+  "description": "Chicago Bears running back D'Andre Swift (groin) was listed as a limited practice participant on Thursday due to a groin injury. Swift was not on Wednesday's injury report, which could indicate that he tweaked the groin during Thursday's practice. The 26-year-old has recorded 447 yards from scrimmage and three touchdowns on 85 total touches through five games so far this season. If he is unable to suit up in Week 7 against the New Orleans Saints, Bears running back Kyle Monangai would likely see a majority of the backfield work. Third-year back Roschon Johnson could factor into the mix as well. Assuming Swift can play on Sunday, he profiles as a solid fantasy RB2 in Week 7.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 7,
+  "team": "CHI",
+  "opp": "NO",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 124,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 6
+}

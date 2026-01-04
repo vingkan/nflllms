@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209692",
+  "title": "Tyler Allgeier Remains a Touchdown-Dependent RB Option",
+  "description": "Atlanta Falcons running back Tyler Allgeier has been a headache all season long for fantasy managers. Allgeier is the backup to Bijan Robinson, but he continues to vulture touchdowns in goal-line situations. For example, Allgeier rushed eight times for 20 yards and a touchdown during last week's loss to the New York Jets. His touchdown plunge came from just one yard out after Robinson was held to no gain on the play before. This has been a theme all season long, as Allgeier has eight rushing touchdowns, but only 344 yards on the ground. That being said, Allgeier will remain a touchdown-dependent option ahead of the team's Week 14 matchup against the Seattle Seahawks. It's a tough matchup for Allgeier against an elite Seahawks run defense (they allow the second-fewest rushing yards per game), so fantasy managers in 12-team formats should be able to find someone that isn't so reliant on TDs.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 14,
+  "team": "ATL",
+  "opp": "SEA",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 33,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 31
+}

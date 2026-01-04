@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207272",
+  "title": "Kyren Williams Scores Twice in Week 10 Victory",
+  "description": "Los Angeles Rams running back Kyren Williams has seen a reduced role in the backfield this season. Despite that, Williams continues to find ways to succeed, which he did once again on Sunday. Williams rushed 14 times for 73 yards and scored two touchdowns in the win over the San Francisco 49ers. He has now scored three touchdowns over his last two games. The biggest downside is that Williams continues to split up the backfield duties with Blake Corum. The Rams might need to rely on Williams more heavily next weekend in what could be a high-scoring affair against the Seattle Seahawks.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 11,
+  "team": "LAR",
+  "opp": "SEA",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 91,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 15
+}

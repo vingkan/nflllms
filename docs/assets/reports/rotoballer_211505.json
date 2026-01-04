@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211505",
+  "title": "Jaylen Warren Offers Upside as Flex Option Against Lions",
+  "description": "Pittsburgh Steelers running back Jaylen Warren was outshined by teammate Kenneth Gainwell last week but will look to get back on track against the Detroit Lions in Week 16. Detroit has been much stronger defensively against the run than the pass this season, but it has softened up a bit as of late. The Lions have surrendered 4.2 yards per carry and over 20 fantasy points per game to running backs over the past four weeks. With this contest projected for a healthy amount of points, fantasy managers should look to start offensive pieces on both sides. Even if Pittsburgh continues to take a hot-hand approach in the backfield, Warren should see enough volume on the ground to provide fantasy value while offering touchdown upside. The 27-year-old checks in as the RB28 in RotoBaller's Week 16 rankings and should be viewed as a high-end flex play.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 16,
+  "team": "PIT",
+  "opp": "DET",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 143,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 5
+}

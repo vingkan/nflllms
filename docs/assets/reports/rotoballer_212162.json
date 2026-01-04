@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212162",
+  "title": "D'Andre Swift Eyeing Bounce Back Against 49ers",
+  "description": "Chicago Bears running back D'Andre Swift had 13 carries for 58 yards and added 12 yards on two receptions in the 22-16 overtime win over the Green Bay Packers. After lighting up the Cleveland Browns in Week 15, Swift struggled, posting his second-lowest fantasy output this season. With the Bears adopting an RB-by-committee approach featuring seventh-round rookie Kyle Monangai, Swift's production has been inconsistent in recent weeks. Swift and Monangai have been fairly split since the Week 5 bye, but with the Bears running the ball effectively under Ben Johnson, both backs carry fantasy value moving forward. He faces a 49ers defense that has ranked in the middle of the pack against the run this season. With the current landscape in this Bears backfield, Swift will be hit or miss in Week 17.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 17,
+  "team": "CHI",
+  "opp": "SF",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "performance",
+  "rushing_yards": 54,
+  "receiving_catches": 2,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 8
+}

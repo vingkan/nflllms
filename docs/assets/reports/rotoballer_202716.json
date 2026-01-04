@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202716",
+  "title": "D'Andre Swift Officially Questionable to Play in Week 4",
+  "description": "Chicago Bears running back D'Andre Swift (hip) is officially listed as questionable to play in his team's Week 4 matchup against the Las Vegas Raiders. Swift was limited in practice throughout this week due to a hip injury. For what it's worth, the veteran running back logged three limited practices leading into Week 3 with a quad injury, and ended up playing in his team's win over the Dallas Cowboys. Swift has recorded 212 yards from scrimmage and a touchdown on 51 total touches so far in 2025. If he were to miss Week 4 or see a limited workload due to the injury, Bears rookie running back Kyle Monangai would likely be the beneficiary. Assuming Swift is good to go on Sunday, he profiles as a solid RB3/flex option against Las Vegas.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 4,
+  "team": "CHI",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 20
+}

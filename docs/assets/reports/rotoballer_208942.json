@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208942",
+  "title": "Blake Corum Worth Rostering in Limited Role in L.A.?",
+  "description": "Los Angeles Rams running back Blake Corum was beginning to carve out some standalone fantasy value after three straight weeks with double-digit carries. However, his momentum has stalled in the last two weeks, as he's seen a combined 15 carries for 34 yards on the ground while catching just one pass for a loss of five yards. Despite the Rams blowing out the Tampa Bay Buccaneers on Sunday night, the 25-year-old had only seven carries for 24 yards and wasn't targeted in the passing game. Corum has had a bigger role behind Kyren Williams in 2025 in his second year in the league, but it has led to just 82 rushing attempts for 341 yards and one touchdown on the ground in 11 games. He's a fine handcuff for fantasy managers who have Williams rostered, but he won't be recommended as a flex play when the Rams face the Carolina Panthers in Week 13.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 13,
+  "team": "LAR",
+  "opp": "CAR",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 81,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 19
+}

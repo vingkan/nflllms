@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211221",
+  "title": "Josh Jacobs Expected to Play in Week 16",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) is expected to play in Week 16, according to NFL Network's Ian Rapoport. Jacobs has been fighting through a knee injury since Week 11, when he slammed his knee onto the turf against the New York Giants. While he may be fighting through an injury, his production hasn't changed, putting up 92 scrimmage yards and two touchdowns on 14 attempts against the strong Denver Broncos defense. He faces the Chicago Bears in Week 16, who have been middle-of-the-pack against the run this season. While Jacobs will likely be limited in practice this week, he should be able to play and be an RB1 for fantasy managers this week.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

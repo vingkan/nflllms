@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201223",
+  "title": "Josh Jacobs A Solid RB1 Against the Commanders",
+  "description": "Green Bay Packers running back Josh Jacobs looks to build off a solid Week 1 performance in his Week 2 matchup at home against the Washington Commanders on Thursday Night. Jacobs scored a touchdown and took 19 totes for 66 yards on the ground with a catch for yards through the air. It was a typical line for Jacobs, who has been a touchdown-scoring machine for the Packers since last season's Week 10 bye, having scored at least one rushing touchdown in every game since. He's one of the most dependable fantasy running backs in the league with volume and production on what looks like one of the best teams in the NFL. Jacobs is an easy RB1 for Week 2's matchup with Washington, with his typical volume as he looks to make it 10 straight regular-season games with a rushing touchdown.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 2,
+  "team": "GB",
+  "opp": "WAS",
+  "att": 23,
+  "tgt": 0,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 84,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 21
+}

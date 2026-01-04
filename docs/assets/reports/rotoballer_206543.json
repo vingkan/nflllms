@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206543",
+  "title": "Jaylen Warren Records First Career Two-Touchdown Game in Week 9 Win Over Colts",
+  "description": "Pittsburgh Steelers running back Jaylen Warren handled 16 carries for 31 yards and two touchdowns while adding two catches for minus-two yards in Sunday's win over the Indianapolis Colts. Warren found the end zone twice on the day for the first time in his career, but was bottled up on his touches otherwise. The 16 carries were also tied for the second most Warren had ever had in a game, but it was one of his most inefficient outings as the Colts' run defense shut off rushing lanes. The 27-year-old has established himself as the Steelers' workhorse and a focal point of their offense. Aaron Rodgers frequently looks for him on checkdowns, where Warren is electric after the catch. Warren should continue to project as a high-end RB2 for fantasy in the coming weeks.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 10,
+  "team": "PIT",
+  "opp": "LAC",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 2,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 23
+}

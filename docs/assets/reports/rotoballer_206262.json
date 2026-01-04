@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206262",
+  "title": "Ollie Gordon II Considered Day-to-Day With Ankle Sprain",
+  "description": "Miami Dolphins rookie running back Ollie Gordon II (ankle), who suffered an ankle injury in Thursday night's loss to the Baltimore Ravens, is considered day-to-day with an ankle sprain, a source told Ian Rapoport of NFL Network. The Dolphins have 10 days before their Week 10 divisional contest against the Buffalo Bills, so Gordon \"should miss limited time.\" The 21-year-old was walking without a noticeable limp in the locker room after Thursday's game, but it remains to be seen if he'll be active in Week 10. Before leaving in the first half due to his ankle sprain against Baltimore, Gordon had only two carries while logging 13 offensive snaps. If he is unable to gain clearance to play against Buffalo next week, Jaylen Wright, who was a healthy inactive on Thursday, would be active as the backup to starter De'Von Achane. Gordon hasn't been much more than a handcuff to Achane in fantasy in his first NFL season.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 70
+}

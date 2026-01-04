@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207009",
+  "title": "Jaylen Warren A Borderline Must-Start in Week 10",
+  "description": "Pittsburgh Steelers running back Jaylen Warren is fresh off a two-touchdown performance and will look to stay hot against the Los Angeles Chargers in Week 10. While the Chargers rank middle-of-the-pack against fantasy running backs, they have allowed the sixth-most yards per carry and fifth-most rushing touchdowns to the position. Los Angeles has been much tougher through the air than on the ground, so Pittsburgh may lean on Warren and the running game to keep pace on the road. Kenneth Gainwell and Kaleb Johnson will mix in for a few touches, but Warren's role as the Steelers' RB1 remains secure. Fantasy managers can confidently start him as a top-15 play on Sunday night.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 10,
+  "team": "PIT",
+  "opp": "LAC",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 2,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 23
+}

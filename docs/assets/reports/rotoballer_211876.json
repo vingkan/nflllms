@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211876",
+  "title": "David Montgomery Tough to Trust in Difficult Matchup",
+  "description": "Detroit Lions running back David Montgomery (illness) is officially questionable to play in his team's Week 17 matchup against the Minnesota Vikings after being limited in practice on Wednesday with an illness. If Montgomery is active, he will be looking to rebound from one of his least productive games as a Lion in Week 16 against the Pittsburgh Steelers. Montgomery recorded just four carries for 14 yards against Pittsburgh, marking his sixth straight outing with eight or fewer rush attempts. The 28-year-old also played just 13 snaps against the Steelers, his fewest in any game this season. On the bright side, Montgomery had a solid game in his first time out against Minnesota this season, recording 50 scrimmage yards and a touchdown on 13 touches. Still, Montgomery's recent workload trend makes him tough for fantasy managers to trust. If active, Montgomery profiles as a low-end flex option in Week 17.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 17,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 25,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 39
+}

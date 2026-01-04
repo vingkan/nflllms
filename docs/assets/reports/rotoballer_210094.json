@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210094",
+  "title": "Chase Brown Remains in the Must-Start Conversation for Week 14",
+  "description": "Cincinnati Bengals running back Chase Brown is coming off a strong showing, finishing with 15 attempts for 78 yards in the Week 13 win over the Baltimore Ravens. With Tee Higgins (concussion) sidelined for that one, Brown was more involved on the receiving end, catching all seven targets for 35 yards. Samaje Perine was more included than usual on the offensive end, amassing 39 yards off 14 carries. However, he averaged an ugly 2.8 yards per carry. Higgins' return for Sunday's meeting with the Buffalo Bills could mean Brown won't see as many receiving opportunities, although that still may not matter, considering he is usually involved as a pass-catcher. With that said, Perine's uptick in work in Week 13 isn't a reason to panic. Fantasy managers should keep Brown rolling in any format, with a slight bump for those starting him in PPR setups.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 14,
+  "team": "CIN",
+  "opp": "BUF",
+  "att": 12,
+  "tgt": 4,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 23,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 6
+}

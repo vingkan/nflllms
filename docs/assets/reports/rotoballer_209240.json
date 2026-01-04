@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209240",
+  "title": "Ollie Gordon II Is Only a Deep Sleeper In Week 13",
+  "description": "Miami Dolphins running back Ollie Gordon II will continue to be the team's primary backup as they come back from their bye week and host the Saints. Gordon had a touchdown in Week 11 with nine carries for 45 rushing yards and a touchdown against the Commanders in Madrid. He has three touchdowns on the year, totaling 164 rushing yards on 50 carries. He played a limited role for a few weeks while dealing with an ankle issue, but he seemed to be past that issue in Week 11 and should definitely be 100% after the bye week. He played 39% of snaps and should continue to get a few opportunities each week as a change-of-pace back. He is the No. 57 RB in RotoBaller's Week 13 rankings, meaning that he is best left on the bench in most standard-sized formats in his role, even in this favorable matchup.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 13,
+  "team": "MIA",
+  "opp": "NO",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 71
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207259",
+  "title": "Bam Knight Questionable to Return with Ankle Injury",
+  "description": "Arizona Cardinals running back Bam Knight (ankle) exited during the third quarter of Sunday's Week 10 contest against the Seattle Seahawks. He is officially listed as questionable to return, but it seems unlikely he gets back into the game since Arizona trails by multiple scores in the waning minutes. If Knight's day is indeed done, he finishes Week 10 with 10 carries for 28 rushing yards. He also converted four targets into just one catch for an additional five receiving yards. It was a relatively inefficient outing for the 24-year-old and could cost him some opportunities heading into Week 11 against the San Francisco 49ers. Emari Demercado, who has more than 180 scrimmage yards over the last two games, could poach some of Knight's volume. Demercado remains the most intriguing Arizona running back in fantasy football, ranking as an RB3/flex. Knight falls into the RB4 tier.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

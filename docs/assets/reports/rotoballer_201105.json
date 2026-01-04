@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201105",
+  "title": "Jonathan Taylor is \"Good\" After Taking a Hit to his Neck in Week 1",
+  "description": "Indianapolis Colts head coach Shane Steichen said that running back Jonathan Taylor (neck) is \"good\" after he took an awkward hit to his neck area in Sunday's Week 1 blowout win over the Miami Dolphins, according to James Boyd of The Athletic. Steichen added that Taylor could have gone back into the game, but with the Colts up big in the second half, it wasn't worth it. The Colts also took the opportunity to get an extended look at rookie DJ Giddens with Tyler Goodson (elbow) inactive. Taylor had 18 carries for 71 yards and caught all three of his targets for 27 yards in the 33-8 win before departing and not returning. It was a bummer to see quarterback Daniel Jones fall into the end zone at the goal line instead of Taylor, but all in all, it was a plus for JT's fantasy managers to see Indy's offense humming in Week 1. Taylor should be able to play in Week 2, albeit against a much stouter Denver Broncos defense.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 2,
+  "team": "IND",
+  "opp": "DEN",
+  "att": 25,
+  "tgt": 2,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 165,
+  "receiving_catches": 2,
+  "receiving_yards": 50,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 1
+}

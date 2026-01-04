@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203296",
+  "title": "Christian McCaffrey Set Up For Another Massive Workload",
+  "description": "San Francisco 49ers running back Christian McCaffrey will be relied on to carry the team's offense in Week 5. This is not unusual, but the load will be even heavier (metaphorically, but likely also literally) on Thursday, with wide receivers Ricky Pearsall (knee) and Jauan Jennings (ankle/ribs) declared out due to injuries. Quarterback Brock Purdy (toe) will also be on the sidelines, and cede starting duties to Mac Jones for the third time in four games. McCaffrey has been a force regardless of who is under center, starting the season with four straight top-10 PPR finishes at running back. He has been especially productive through the air, ranking second in the league in targets (43) and eighth in yardage (305). The rest of San Francisco's offense might be falling apart, but for as long as McCaffrey is healthy, he has RB1 potential and should be locked into starting fantasy lineups.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 5,
+  "team": "SF",
+  "opp": "LAR",
+  "att": 22,
+  "tgt": 9,
+  "touches": 31,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 57,
+  "receiving_catches": 8,
+  "receiving_yards": 82,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 27,
+  "ppr_scoring_position_rank": 4
+}

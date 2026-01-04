@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206011",
+  "title": "Cam Skattebo Facing 4-6-Month Recovery Timetable",
+  "description": "The injury to New York Giants rookie running back Cam Skattebo (ankle) has a four- to six-month recovery timeline, which would set up Skattebo to be ready for offseason OTAs and minicamp, according to Ian Rapoport of NFL Network. Skattebo had one of the more gruesome injuries that you will see, and ultimately suffered a dislocated ankle, fractured fibula, and a deltoid ligament rupture. The 23-year-old had a successful surgery to close the wound and put him on track to make a full recovery. The fourth-rounder out of Arizona State was having a great rookie campaign, totaling 410 rushing yards and five touchdowns on 101 carries to go with 24 receptions for 207 yards and two scores on 32 targets through eight games. Second-year back Tyrone Tracy Jr. will be expected to take over as the lead back in New York, with veteran Devin Singletary mixing in.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

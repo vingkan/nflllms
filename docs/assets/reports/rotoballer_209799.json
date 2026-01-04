@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209799",
+  "title": "Javonte Williams has RB1 Upside in Week 14 Against Detroit",
+  "description": "Dallas Cowboys running back Javonte Williams hasn't been as efficient a runner in recent games, but he still has one of the biggest workloads among RBs. In Weeks 1-7, Williams recorded 111 carries for 592 yards (5.2 yards per tote ) and six touchdowns while adding 23 receptions (32 targets) for 85 yards and a touchdown as a receiver, ranking as the RB7 in PPR points per game (19.0). Over the past five games, the 25-year-old has still been solid, but not quite as dynamic, with 87 carries for 363 yards (4.2 YPC) and two touchdowns to go with eight receptions (10 targets) for 43 yards and a touchdown. He still ranks as the RB20 with 13.3 PPR points per game in that span, which fantasy managers will take if that is considered his floor. Williams should be in line for a big workload again Thursday night versus the Detroit Lions in a game featuring the highest projected point total of the week. The Lions' defense has been stingy against the run, but Williams' body of work this year has made him matchup-proof.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 14,
+  "team": "DAL",
+  "opp": "DET",
+  "att": 17,
+  "tgt": 4,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 67,
+  "receiving_catches": 2,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 17
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205439",
+  "title": "Emanuel Wilson Stuck in Insurance Role",
+  "description": "Green Bay Packers running back Emanuel Wilson was not impactful for fantasy in Week 7 despite racking up a season-high in backfield snap share (34%). Wilson was expected to see an elevated workload while teammate Josh Jacobs (calf) dealt with an injury and illness. While the 26-year-old was out there quite a bit to spell Jacobs, it only amounted to seven touches (six carries) and 15 total yards of output. Wilson is clearly the team's preferred second option ahead of Chris Brooks, although it hasn't amounted to enough value for fantasy managers to feel comfortable starting him with Jacobs active. For now, he's exclusively on the handcuff radar. However, that could change with the impending return of backfield mate MarShawn Lloyd (hamstring).",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 8,
+  "team": "GB",
+  "opp": "PIT",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 61,
+  "receiving_catches": 3,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

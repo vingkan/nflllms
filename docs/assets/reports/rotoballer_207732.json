@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207732",
+  "title": "Aaron Jones Sr. Playable as Leader of Minnesota Backfield",
+  "description": "Running back Aaron Jones Sr. (shoulder/toe) of the Minnesota Vikings does not appear on the Week 11 injury report and should be considered an RB2 option when his team plays host to NFC North rival Chicago on Sunday. Since the veteran returned from a hamstring injury that required a stint on injured reserve, he has clearly been the favored option over backfield mate Jordan Mason. Jones played more than 70% of the team's offense snaps against Baltimore in Week 10, and he's shown he can help managers even when the offense is struggling. Despite a sloppy overall game last week, Jones still managed 47 rushing yards and a touchdown on nine carries, and three catches for 22 yards. Jones already has a steady role in a decent offense, but there is some added potential this week against a Bears defense that has been middling against fantasy running backs.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 11,
+  "team": "MIN",
+  "opp": "CHI",
+  "att": 16,
+  "tgt": 6,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

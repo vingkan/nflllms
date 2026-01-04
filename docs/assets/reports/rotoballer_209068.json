@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209068",
+  "title": "Derrick Henry Draws a Great Matchup on Thanksgiving",
+  "description": "Baltimore Ravens running back Derrick Henry has finished as an RB1 in each of the last two weeks, and has registered double-digit fantasy points over his last six consecutive games in half-PPR formats. Despite an ugly average of 3.0 yards per carry last week, he's always a threat to score, like he did twice against the New York Jets. Their Week 13 matchup against the Cincinnatti Bengals should mean a huge green light for Henry. They're ranked 32nd against opposing backfields and have allowed an average of 32.18 fantasy points per game. Henry is projected as a mid-level RB1 this week and should remain in starting lineups regardless of format.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 13,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 60,
+  "receiving_catches": 1,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 11
+}

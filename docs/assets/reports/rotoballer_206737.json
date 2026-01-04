@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206737",
+  "title": "Ray Davis Could Have Expanded Role in Week 10",
+  "description": "Buffalo Bills running back Ray Davis hasn't had the season he was hoping for in 2025, but that could change in Week 10 against the division-rival Miami Dolphins this Sunday. The Bills announced that RB James Cook (ankle, foot) will not practice, which leaves his status up in the air for the weekend. Speculative fantasy managers in need of an RB this week with four teams on bye might want to look to Davis or Ty Johnson if Cook's injury is serious enough to sideline him against Miami. The 25-year-old played only 5% of the offensive snaps in the win over the Kansas City Chiefs in Week 9, and he didn't receive a single carry. Davis has been the RB3 for most of the year behind Cook and Johnson, carrying the ball just 22 times for 46 yards and catching three of his five targets for 18 yards in eight games. However, he'd be much more involved in a great matchup against the Dolphins if Cook cannot suit up.",
+  "player_id": 11575,
+  "player_name": "Ray Davis",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 2,
+  "tgt": 2,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": -2,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 60
+}

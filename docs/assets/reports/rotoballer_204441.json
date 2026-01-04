@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204441",
+  "title": "Rico Dowdle has Another Huge Performance in Revenge Game",
+  "description": "Carolina Panthers running back Rico Dowdle showed that he isn't a one-hit wonder during Sunday's game against the Dallas Cowboys. Last week, Dowdle shocked the fantasy football world when he rushed for 206 yards against the Miami Dolphins. Dowdle continued to have success this weekend as he rushed for 183 yards on 30 attempts in the win over the Cowboys. He also hauled in four of his five targets for 56 yards and a touchdown through the air. Chuba Hubbard (calf) missed his second straight game which led to increased carries for Dowdle. When healthy, Hubbard is going to have a tough time taking away carries from Dowdle with the way he's running the ball. Dowdle figures to lose some value once Hubbard returns, but remains a viable option versus the New York Jets next week.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 7,
+  "team": "CAR",
+  "opp": "NYJ",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 22
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204394",
+  "title": "Michael Carter Won't Lead the Cardinals Backfield in Week 6",
+  "description": "Arizona Cardinals running back Michael Carter is not expected to lead the team's backfield during Week 6 against the Indianapolis Colts, according to ESPN's Adam Schefter. Instead, Bam Knight will handle lead-back duties for Arizona. The Cardinals have been experimenting with personnel after losing James Conner (foot) and Trey Benson (knee). Third-string running back Emari Demercado has remained in a third-down role, and it was Carter who led the unit with 18 carries last Sunday. However, he was relatively inefficient with just 2.8 yards per carry, which could be the reason why he's now in the backup role and Knight is getting an opportunity to lead the way. Knight, who had four rushes for 11 yards and a touchdown last week, hasn't started an NFL game since his rookie campaign with the New York Jets in 2022. The Colts represent a tough matchup, so Carter's reduced volume takes him off the fantasy radar in most formats.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 6,
+  "team": "ARI",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210696",
+  "title": "Isaiah Davis Could See Increased Work, Still Off the Radar for Fantasy",
+  "description": "New York Jets running back Isaiah Davis could be in line for more work in this weekend's road meeting with the Jacksonville Jaguars, but it will remain difficult to trust him for fantasy. The second-year pro has seen his share of the backfield touch load taper off significantly over the last month or so, picking up just three targets and 11 carries over the previous five games. However, he could see an elevated workload in Week 15. Teammate Breece Hall carries no designation into Sunday's outing, although he dealt with a knee injury this week, potentially leading to the team scaling back his workload when they take on the hosting Jaguars. Furthermore, it wouldn't be surprising to see the Jets lean on the ground game with rookie signal-caller Brady Cook getting his first start under center. That said, Jacksonville has been one of the more challenging matchups for opposing rushers, yielding the fifth-fewest fantasy points per game (17.92) to the position. Even if Davis boasts an increased opportunity this Sunday, it doesn't figure to be impactful for fantasy. He'll rank as RotoBaller's PPR RB66 ahead of Week 15.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 15,
+  "team": "NYJ",
+  "opp": "JAX",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 58,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 18
+}

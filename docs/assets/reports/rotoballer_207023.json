@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207023",
+  "title": "Cam Skattebo's Rehab Not Expected to be Complicated",
+  "description": "New York Giants running back Cam Skattebo (ankle) underwent season-ending surgery last week, but he is not expected to face a very complicated rehab process, according to NFL Network's Ian Rapoport. Although the rookie suffered a dislocated ankle, fractured fibula, and ruptured deltoid ligament in Week 8, he quickly underwent successful surgery and is on track to return to football action within six months. \"Even at the very latest benchmark, he should be ready to roll for OTAs and minicamp,\" Rapoport wrote in an X post about Skattebo. As the Giants approach the back half of their season, they'll turn to Devin Singletary and Tyrone Tracy Jr. to lead their backfield. Redraft managers can drop Skattebo, but dynasty managers should hold onto him, as he'll likely be a high-end RB2 next season.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 10,
+  "team": "NYG",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

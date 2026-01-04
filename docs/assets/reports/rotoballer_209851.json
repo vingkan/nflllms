@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209851",
+  "title": "Aaron Jones Sr. Remains Limited in Practice on Thursday",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder) logged his second straight limited practice on Thursday. The 31-year-old suffered a shoulder injury during Minnesota's Week 13 loss to the Seattle Seahawks that forced him to exit the game early. However, it appears Jones Sr. may be able to avoid missed time and suit up for his team's Week 14 contest against the Washington Commanders. If Jones Sr. were to suffer a setback or see his usage limited, fellow Vikings back Jordan Mason could see an increase in playing time. However, both backs have struggled to be productive in recent weeks due to the overall struggles of the Minnesota offense. Jones Sr. profiles as a low-end flex option for fantasy managers in Week 14 against Washington if he's healthy enough to play.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 76,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 35
+}

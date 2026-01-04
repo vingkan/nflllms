@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207128",
+  "title": "Emari Demercado Has Flex Value in Week 10 Against Seattle",
+  "description": "Arizona Cardinals running back Emari Demercado led the team in rushing in their Week 9 win over the Dallas Cowboys, handling 14 carries for 79 yards. Demercado's role for Week 10, however, is still uncertain after head coach Jonathan Gannon has provided no insight whatsoever into their plans for how they will manage the backfield on Sunday in Seattle. Arizona's backfield has been a nightmare for fantasy managers to figure out recently, but Demercado provides some element of explosiveness and big-play ability that Bam Knight and Michael Carter don't offer. Knight has maintained the slight upper hand on snaps in recent weeks, while Carter has slid to the RB3 role. Demercado has the most juice as a receiver out of the backfield, which is an area that Seattle has struggled with this season, allowing the second-most receptions (48) to opposing running backs. It's tough to know for certain, but Knight and Demercado project to split most of the touches on Sunday, with Knight on early downs and Demercado on pass downs.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 10,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 4,
+  "tgt": 4,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 64,
+  "receiving_catches": 3,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

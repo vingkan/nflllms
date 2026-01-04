@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204460",
+  "title": "Christian McCaffrey Tops 100 Scrimmage Yards for Sixth Consecutive Game",
+  "description": "San Francisco 49ers running back Christian McCaffrey shouldered another monster workload in his team's 30-19 Week 6 loss to the Tampa Bay Buccaneers. McCaffrey recorded 17 carries for 54 yards, adding seven catches for 57 yards on eight targets as a receiver. The 29-year-old has now topped 100 yards from scrimmage in every game the 49ers have played so far this season. McCaffrey has struggled with rushing efficiency, recording 336 rushing yards and a touchdown on 108 carries (3.1 yards per attempt). However, he's saved his numbers by hauling in 46 catches for 444 yards and three scores. For as long as he's able to stay healthy, McCaffrey is a must-start fantasy running back.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 7,
+  "team": "SF",
+  "opp": "ATL",
+  "att": 24,
+  "tgt": 8,
+  "touches": 32,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 129,
+  "receiving_catches": 7,
+  "receiving_yards": 72,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 39,
+  "ppr_scoring_position_rank": 1
+}

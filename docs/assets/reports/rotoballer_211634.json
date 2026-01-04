@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211634",
+  "title": "Quinshon Judkins Done for the Season with Broken Leg",
+  "description": "Cleveland Browns running back Quinshon Judkins (leg, knee) has been diagnosed with a broken leg and will miss the remainder of the 2025 season, according to Ian Rapoport of NFL.com. He is also being evaluated for a knee injury. It's a devastating end to a promising rookie campaign for the second-round pick out of Ohio State. He finishes the season with 827 rushing yards, 171 receiving yards, and seven touchdowns through 15 games. Judkins will now begin recovering in hopes of making a full recovery ahead of the 2026 season. If healthy, he'll rank as a fringe top-12 running back in next summer's fantasy drafts. As for the Browns' short-term outlook, Dylan Sampson (hand) has a chance to return in Week 17 and lead Cleveland's backfield the rest of the way. Raheim Sanders should also earn more touches out of the backfield.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 17,
+  "team": "CLE",
+  "opp": "PIT",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

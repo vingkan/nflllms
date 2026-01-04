@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208690",
+  "title": "Chuba Hubbard Should be Kept as a Backup Running Back in Week 12",
+  "description": "Last week, Carolina Panthers running back Chuba Hubbard played on 19% of the offensive snaps, logged 21 rushing yards on four carries, and caught one pass for seven yards as he continued to operate as a backup RB. Since his return from a calf injury in Week 7, Hubbard has registered 117 rushing yards and is averaging 5.0 PPR fantasy points per game. The fifth-year RB should only be rostered as a handcuff for Rico Dowdle. He will only be a fantasy asset if Dowdle misses time. At this point in the season, if you roster Hubbard and not Dowdle, you can simply cut the Panthers' backup RB.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 12,
+  "team": "CAR",
+  "opp": "SF",
+  "att": 3,
+  "tgt": 4,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 4,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 29
+}

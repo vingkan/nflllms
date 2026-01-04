@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211898",
+  "title": "Javonte Williams Primed for Big Bounce-Back Game on Christmas",
+  "description": "Dallas Cowboys running back Javonte Williams (neck) posted his worst fantasy performance of the season last week against the Los Angeles Chargers, handling a season low nine carries for 34 yards while adding two catches (three targets) for nine yards. It marked his fewest total yards in a game since Week 6 against the Carolina Panthers. Williams played through a neck injury last Sunday but doesn't carry an injury designation heading into the Christmas game versus the Washington Commanders. The former Denver Bronco has a dream spot on Christmas Day against the Commanders to rebound and finish his strong first season in Dallas on a high note. The 25-year-old compiled 19 carries for 116 yards and a touchdown to go with one reception (four targets) for two yards in their Week 7 matchup. Washington is one of only four teams to allow over five yards per carry while also allowing the third-highest rate of runs that result in 10 yards or more over the last five games. Williams ranks as a borderline RB1 in Week 17.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 17,
+  "team": "DAL",
+  "opp": "WAS",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 54,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 19
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207426",
+  "title": "Jerome Ford Quiet in Week 10 Loss to Jets",
+  "description": "Cleveland Browns running back Jerome Ford carried the ball just one time for one yard while failing to corral his lone target in a 27-20 loss to the New York Jets in Week 10. Ford has been lightly used in the Cleveland offense of late, having seen just four carries over his past three games. The veteran tailback has taken a backseat to rookie Quinshon Judkins, who has been operating as the team's bell-cow back this season. Ford isn't even a particularly strong handcuff option as he would have to split work with Dylan Sampson if Judkins were forced to miss time at any point. Ford can be left on waivers ahead of a Week 11 home matchup against the Baltimore Ravens.",
+  "player_id": 8143,
+  "player_name": "Jerome Ford",
+  "week": 11,
+  "team": "CLE",
+  "opp": "BAL",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 74
+}

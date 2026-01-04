@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209950",
+  "title": "MarShawn Lloyd Won't Make Season Debut in Week 14",
+  "description": "Green Bay Packers running back MarShawn Lloyd (calf) has been ruled out and will not come off Injured Reserve to play on Sunday at Lambeau Field against the division-rival Chicago Bears in Week 14, according to the team. Lloyd finally returned to practice for the first time earlier this week, but he's not ready to play in games just yet. The 24-year-old former third-round pick in 2024 out of USC hasn't played at all this season and managed to suit up in just one game in his rookie campaign last year due to injuries. He has reportedly put in plenty of time and effort to get his body right so that he can hopefully put his injuries in the rearview mirror for good. The Packers had high hopes for Lloyd when they drafted him, but he just hasn't been able to stay on the field. It's unclear how much more time he'll need, but when he is activated from IR, he'll merely be vying for a backup role alongside Emanuel Wilson and Chris Brooks behind starter Josh Jacobs.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 14,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

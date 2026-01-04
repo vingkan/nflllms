@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207109",
+  "title": "Devin Singletary to Remain Involved Despite Not Starting",
+  "description": "New York Giants running back Devin Singletary's fantasy value is largely dependent on game flow, and he could split snaps with Tyrone Tracy Jr. during Sunday's Week 10 contest against the Chicago Bears. Singletary handled 56 percent of the snaps last week, registering eight carries for 43 yards, plus an additional two catches and eight receiving yards. Offensive coordinator Mike Kafka recently confirmed that Tracy will earn the start in Week 10, but his comments indicated that the exact workload split is dependent on game flow. In other words, Singletary could pace the backfield in snaps, Tracy could lead the way, or we might see another 50-50 split. With uncertainty continuing to surround this backfield post-Cam Skattebo (ankle) injury, fantasy managers should be wary of deploying Singletary as anything more than a low-end RB3/flex. He's merely a desperation option who can help managers short-term as their roster deals with bye weeks or injuries.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 10,
+  "team": "NYG",
+  "opp": "CHI",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 3,
+  "receiving_yards": 53,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 28
+}

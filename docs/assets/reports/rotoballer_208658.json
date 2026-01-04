@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208658",
+  "title": "Javonte Williams Remains a Strong Starter in Week 12",
+  "description": "Across 10 games this season, Dallas Cowboys running back Javonte Williams has recorded 809 rushing yards and eight touchdowns on 161 carries. The 25-year-old has dominated backfield touches in Dallas all year long and should continue to do so even after the Cowboys signed running back Malik Davis to the active roster on Saturday. Dallas has a difficult matchup in Week 12 against the Philadelphia Eagles, who have not allowed an opposing offense to score 10 points since Week 8. Still, Philadelphia's biggest strength is against the pass, as they rank 18th in yards per carry allowed (4.3) and 21st in rushing touchdowns allowed (11) among NFL defenses. In his first matchup of the season against the Eagles in Week 1, Williams recorded 64 scrimmage yards and two touchdowns on 17 touches. He profiles as a must-start fantasy running back in Week 12.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 12,
+  "team": "DAL",
+  "opp": "PHI",
+  "att": 20,
+  "tgt": 3,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 87,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 20
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206817",
+  "title": "Ray Davis Could See Major Week 10 Role",
+  "description": "Buffalo Bills running back Ray Davis could be in line for a significant workload in Week 10. The second-year back has struggled to produce this season, totaling just 64 scrimmage yards on 25 touches across eight games. However, with James Cook (foot/ankle) not practicing on Wednesday, Davis could be in a position to start and have a big role in Week 10. In the one game Cook missed in 2024, Davis played 63% of the snaps and handled 23 touches for 152 yards. Fantasy managers should monitor Buffalo's practice reports closely, as the starting running back in this offense would be a clear must-start against a struggling Miami Dolphins defense.",
+  "player_id": 11575,
+  "player_name": "Ray Davis",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 2,
+  "tgt": 2,
+  "touches": 4,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": -2,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 60
+}

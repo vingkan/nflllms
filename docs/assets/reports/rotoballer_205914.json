@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205914",
+  "title": "Kyle Monangai Getting Good Playing Time",
+  "description": "Chicago Bears running back Kyle Monangai continues to share time with D'Andre Swift and has had about a 50% snap share the last two weeks. In Week 8, he played 29 snaps while Swift played 31 against the Ravens. The rookie from Rutgers had 13 carries for 81 yards and a touchdown in Week 7 against the Saints, but he only managed 24 yards on seven carries against the Ravens. Swift had a little more success, but Monangai had the longest running back run with his 15-yard carry. He wasn't targeted in the passing game this week, but he has shown he can be a good receiver out of the backfield when called upon. Even though he didn't have huge numbers this week, he remains a strong pickup from the waiver wire based on his playing time. He's also in a great matchup in Week 9 against the Bengals, who have been an exceptional matchup for running backs this season.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 9,
+  "team": "CHI",
+  "opp": "CIN",
+  "att": 26,
+  "tgt": 5,
+  "touches": 31,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 176,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 3
+}

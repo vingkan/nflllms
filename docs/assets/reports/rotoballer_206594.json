@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206594",
+  "title": "Omarion Hampton Not Expected to Return to Practice Until After Week 12 Bye",
+  "description": "Los Angeles Chargers head coach Jim Harbaugh said on Monday that he doesn't think the team will open the 21-day practice window for rookie first-round running back Omarion Hampton (ankle) until after their Week 12 bye, according to Kris Rhim of ESPN. The 22-year-old rookie is eligible to return to practice this week as the club prepares to take on the Pittsburgh Steelers on Sunday Night Football, but Hampton will not be on the practice field and isn't going to be eligible to return to action until Week 13 against the division-rival Las Vegas Raiders on Sunday, Nov. 30. Fantasy managers must continue to be patient and keep Hampton stashed, as he should take over RB1 duties in the backfield again when he's healthy. In the meantime, Kimani Vidal will continue to see most of the backfield touches for the Bolts, making him at least an RB3/flex option until Hampton is cleared to return from Injured Reserve.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 10,
+  "team": "LAC",
+  "opp": "PIT",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

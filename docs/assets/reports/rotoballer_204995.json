@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204995",
+  "title": "D'Andre Swift Expected to Play, Will be a Solid RB2 Against Saints",
+  "description": "Chicago Bears running back D'Andre Swift (groin) enters Week 7 listed as questionable, but he has expressed confidence that he'll suit up against the Saints. Swift is coming off a massive Week 6 performance, racking up 175 total yards and a touchdown on just 16 touches against a solid Commanders run defense. He handled 60% of the snaps, while rookie Kyle Monangai logged 31%, confirming Swift's hold on the lead role in Chicago's backfield. Facing a Saints defense that ranks 12th against running backs, Swift's volume will be crucial in this one. With the Bears favored for the second time this season and a run-heavy game script likely, Swift projects as a strong high-end RB2, assuming he's good to go against the Saints.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 7,
+  "team": "CHI",
+  "opp": "NO",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 124,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 6
+}

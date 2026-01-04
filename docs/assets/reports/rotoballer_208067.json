@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208067",
+  "title": "Devin Singletary Emerging as the Goal-Line Back in New York?",
+  "description": "New York Giants running back Devin Singletary scored his first two rushing touchdowns of the season in his team's Week 11 loss to the Green Bay Packers, finishing the game with 16 carries for 44 yards and two scores. With Giants running back Cam Skattebo (ankle) lost for the season with an ankle injury, Singletary has now recorded double-digit touches in three straight games. The 28-year-old appears to be in a timeshare with Tyrone Tracy Jr. in the New York backfield, as Tracy Jr. recorded 23 touches against Green Bay. Tracy Jr.'s presence limits Singletary's upside, particularly as a pass-catcher. However, the veteran Singletary could be the preferred option at the goal line. Heading into a Week 12 matchup against the Detroit Lions, Singletary could be a flex option for fantasy managers to consider off the waiver wire.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 12,
+  "team": "NYG",
+  "opp": "DET",
+  "att": 14,
+  "tgt": 0,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

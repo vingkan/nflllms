@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210842",
+  "title": "Kyle Monangai Maintaining Role in Bears Offense",
+  "description": "Chicago Bears rookie running back Kyle Monangai has taken on a significant role in the team's backfield over the second half of the season. The rookie seventh-rounder posted only one game with more than 10 carries over the first eight weeks of the season, but has cleared that mark in five out of six games since Week 9. Monangai has working in tandem with D'Andre Swift and has been a key part of one of the best rushing attacks in the league. The workloads between the two backs have been similar since Week 9, with Monangai averaging 16.3 touches per game to Swift at 16.6. Swift earns more work as a receiver, while Monangai's bruising running style has granted him more opportunities near the goal line. The Rutgers product has a tough matchup on Sunday against a stout Cleveland Browns run defense, but Monangai can still be viewed as a viable flex play in Week 15.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 15,
+  "team": "CHI",
+  "opp": "CLE",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 33,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 52
+}

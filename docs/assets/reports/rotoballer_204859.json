@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204859",
+  "title": "Dylan Sampson Not a Strong Option in Week 7",
+  "description": "Cleveland Browns running back Dylan Sampson will take on the Miami Dolphins at home in Week 7. Sampson has been quiet since a big Week 1 where he caught eight passes for 64 yards. With Quinshon Judkins dominating the backfield work, Sampson handled just five touches in a Week 6 loss to the Pittsburgh Steelers. The Dolphins have struggled against the run this year as their defense is allowing the fifth-most fantasy points per game to opposing running backs thus far. That being said, Sampson is unlikely to see enough work to take advantage of the plus matchup. He is best left on fantasy benches heading into Sunday's games.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 7,
+  "team": "CLE",
+  "opp": "MIA",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 8,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 51
+}

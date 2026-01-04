@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208575",
+  "title": "Christian McCaffrey Primed For Another RB1 Finish Against Panthers",
+  "description": "San Francisco 49ers running back Christian McCaffrey was the overall RB1 in Week 11, his third such finish in the last five weeks and his tenth top-10 finish in 2025. McCaffrey is in a good spot to attempt a repeat against the Carolina Panthers on Monday night. Much of McCaffrey's production in 2025 has come as a pass-catcher, but with Carolina offering up 4.72 yards per carry to opposing running backs this season, there is reason to believe he will do more damage on the ground than usual in Week 12. Carolina has been especially bad over the last four weeks, giving up a league-worst six rushing touchdowns and the fourth-most fantasy points per game to running backs. It goes without saying that McCaffrey should be in starting lineups in Week 12, but fantasy football managers are justified in feeling especially optimistic about what the superstar will produce in his first game against his former team.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 12,
+  "team": "SF",
+  "opp": "CAR",
+  "att": 24,
+  "tgt": 7,
+  "touches": 31,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 89,
+  "receiving_catches": 7,
+  "receiving_yards": 53,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 27,
+  "ppr_scoring_position_rank": 2
+}

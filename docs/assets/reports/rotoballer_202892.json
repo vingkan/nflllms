@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202892",
+  "title": "D'Andre Swift a Touchdown-Dependent RB2 Against Las Vegas",
+  "description": "Chicago Bears running back D'Andre Swift (hip) is listed as questionable for Week 4 against the Raiders. Swift was limited in practice throughout the week, but early signs suggest he's trending toward suiting up on Sunday. Through three games, he's logged 42 carries for 149 yards and a touchdown, along with nine receptions for 63 yards. While the numbers don't jump off the page, there are some positives point to better days ahead. The Bears' offense has been rolling under new head coach Ben Johnson, ranking ninth in points scored and coming off a statement win over Dallas. Swift has also been the clear lead back, handling 66% of the snaps and dominating backfield touches. Week 4 brings a matchup with the Las Vegas Raiders, who have allowed the 10th-fewest fantasy points to running backs this season. In a game that projects to be high scoring, Swift should again see steady usage, and any trip to the end zone would push him into RB2 territory, assuming he's good to go.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 4,
+  "team": "CHI",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 20
+}

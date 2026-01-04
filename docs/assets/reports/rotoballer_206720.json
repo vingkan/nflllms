@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206720",
+  "title": "Isaiah Davis' Breakout Halted by Trade Deadline Outcome",
+  "description": "New York Jets running back Isaiah Davis was one of the bigger losers of the trade deadline. After weeks of speculation that the team might move Breece Hall, the Jets ultimately held onto their starter, keeping him locked in as the clear RB1. Davis was coming off the best performance of his young career before the bye, totaling 109 scrimmage yards on 12 touches, showing burst and efficiency when given opportunities. However, his path to meaningful volume remains limited with Hall still leading the backfield. The Jets also face a difficult Week 10 matchup against Cleveland, a defense allowing the second-fewest fantasy points to running backs. Davis currently profiles as a stash-and-hold handcuff rather than a startable option.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 53
+}

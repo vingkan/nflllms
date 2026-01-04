@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211191",
+  "title": "Zach Charbonnet a Risky Option in Week 16",
+  "description": "Seattle Seahawks running back Zach Charbonnet will continue his high-risk, mid-reward season in Week 16 against the Los Angeles Rams. Charbonnet has been up and down all season, with most of his fantasy production coming from touchdowns. He is not receiving enough rushing volume, nor is he efficient enough to hold value outside of the end zone. The Rams boast one of the best defensive fronts in the NFL. They are likely to shut down the Seahawks' running game with relative ease on Thursday night. As such, Charbonnet's main path to fantasy relevance is to find the end zone. If Seattle finds itself inside the five-yard line, Charbonnet will get a crack at the end zone. However, he has very little upside, and he carries a lot of risk. If you are hurting badly at running back, you can throw Charbonnet in your flex and hope for a touchdown. Beware that if he does not score, he could ruin your fantasy week.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 16,
+  "team": "SEA",
+  "opp": "LAR",
+  "att": 9,
+  "tgt": 4,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 32,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 16
+}

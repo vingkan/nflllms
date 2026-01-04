@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211467",
+  "title": "Breece Hall Eyeing Rebound Vs. Exploitable Saints' Defense",
+  "description": "New York Jets running back Breece Hall is coming off one of his worst performances of the season in last weekend's road loss to the Jaguars, but he will look to rebound against a porous New Orleans Saints rush defense in Week 16. The Nebraska native tied a season-low percentage of team plays last Sunday (54%) while totaling 35 scrimmage yards on 14 combined touches. It was a disappointing output for him, even in a less-than-ideal matchup. Despite not missing any time in practice this week while designated with a knee injury, it's unclear if the issue played a part in his Week 15 workload. Fortunately, New Orleans presents as a much more favorable matchup, and he'll have a chance to bounce back against a unit that's yielded 130.6 yards per game on the ground to the opposition (seventh-most). Hall will still be a risky play with rookie Brady Cook under center, but slots in as a low-end RB2, and, officially, RotoBaller's PPR RB18 for this week's slate of action.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 16,
+  "team": "NYJ",
+  "opp": "NO",
+  "att": 16,
+  "tgt": 3,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 54,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 38
+}

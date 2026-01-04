@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205162",
+  "title": "D'Andre Swift Goes for Season-High 124 Rushing Yards in Week 7 Win",
+  "description": "Chicago Bears running back D'Andre Swift is on a roll as the team's feature back. In the 26-14 win over the visiting New Orleans Saints on Sunday in Week 7, Swift carried the ball a season-high 19 times and ran for a season-high 124 yards while also scoring his third rushing touchdown of the year. He added one catch on his only target for a 14-yard gain. The Bears leaned heavily on their backfield in this one, with rookie Kyle Monongai also seeing 13 carries that he took for 81 yards and a touchdown. The 26-year-old Swift was extremely efficient with his opportunities against New Orleans, and he's been a big part of head coach Ben Johnson's offense all year, seeing at least 12 rushing attempts in all six of his games so far in 2025. The Bears have now won four games in a row and will look to make it five in Week 8 against the Baltimore Ravens. Swift will look to make it three straight 100-yard rushing games in that contest against the Ravens' suspect defense.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

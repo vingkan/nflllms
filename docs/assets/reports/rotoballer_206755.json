@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206755",
+  "title": "TreVeyon Henderson on Track to Lead Backfield in Week 10?",
+  "description": "New England Patriots running back TreVeyon Henderson played a season-high (and, thus, career-high) 75 percent of the offensive snaps during Week 9 against the Atlanta Falcons. The rookie took advantage of Rhamondre Stevenson (toe) being sidelined and tallied 14 carries, 55 rushing yards, four receptions, and 32 receiving yards. While he did earn the bulk of the backfield snaps, carries, and targets, he shared more touches than expected with Terrell Jennings, who had 11 carries and one catch. Nevertheless, the backfield mostly belonged to Henderson, and we could see this trend continue in Week 10 against the Tampa Bay Buccaneers. Stevenson did not practice on Wednesday, leaving Henderson to handle first-team reps as the Patriots prepare for the Bucs. Stevenson will likely need to get on the field in some capacity on Thursday or Friday to have a chance to play in Week 10. Even if Stevenson does suit up, he's not a lock to start; his 3.4 yards per carry and three lost fumbles in 2025 are concerning, and Henderson's decent showing last week could be enough for the Patriots to give him the keys to the backfield. To make a long story short, Henderson will continue to face competition from Stevenson or Jennings no matter what, but the rookie out of Ohio State is one step closer to taking full control of the New England backfield. At the moment, he ranks as a low-end RB2 in redraft leagues.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 10,
+  "team": "NE",
+  "opp": "TB",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 147,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 4
+}

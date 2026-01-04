@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202321",
+  "title": "James Conner Ruled Out with Ankle Injury",
+  "description": "Arizona Cardinals running back James Conner (ankle) has been ruled out for the rest of Sunday's game against the San Francisco 49ers. Conner took an ugly tackle on a one-yard run during the third quarter. He immediately grabbed his right leg after the play. Conner needed to be carted off the field, which is never a good sign. He'll finish this game with 22 yards on nine rushing attempts while hauling in three receptions for 15 yards through the air. This looked like a brutal multi-week injury, but more information should be known after further testing is done. For now, Trey Benson will step up and be asked to take on a larger role on offense.",
+  "player_id": 4137,
+  "player_name": "James Conner",
+  "week": 4,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

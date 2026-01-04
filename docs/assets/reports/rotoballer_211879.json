@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211879",
+  "title": "Jahmyr Gibbs Reliant on Receptions for Week 17 Production?",
+  "description": "Detroit Lions running back Jahmyr Gibbs has been inconsistent as a rusher in recent weeks, as he's been held to 3.6 yards per carry or less in five out of his last six games. The 23-year-old was able to save his Week 16 production with his work as a receiver, recording 10 catches for 66 yards and a touchdown on 13 targets against the Pittsburgh Steelers. Gibbs has been heavily involved in the Lions' passing game since Detroit placed tight end Sam LaPorta (back) on Injured Reserve. Across six games without LaPorta, Gibbs has hauled in 40 catches for 333 yards and two touchdowns on 51 targets. Gibbs' receiving work may need to continue carrying his production in Week 17 against the Minnesota Vikings. The Vikings enter the week ranked 12th in the NFL in yards per carry allowed (4.1). Gibbs had his least productive game of the season in his first matchup of the year against Minnesota, racking up just 28 scrimmage yards on 12 touches in Week 9. However, he may see a few more touches this time around, as Lions back David Montgomery (illness) is officially listed as questionable to play on Thursday. Gibbs remains a must-start fantasy running back, but fantasy managers may want to downgrade expectations in Week 17.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 17,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 41,
+  "receiving_catches": 2,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 36
+}

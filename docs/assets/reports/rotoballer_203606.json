@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203606",
+  "title": "Justice Hill High-Risk After Breakout Game",
+  "description": "Baltimore Ravens running back Justice Hill had a monster game last week, but should be considered only a RB4/Flex option in deeper formats in Week 5 against the Houston Texans. Hill has appeared with outsized fantasy performances from time to time during his career, but has never had back-to-back top-10 finishes as a fantasy running back. With quarterback Lamar Jackson (hamstring) out, the Ravens are set to lean on the Derrick Henry-led running attack, which could mean fewer targets for Hill, the primary driver of his fantasy value. Against a Houston defense that allows scoring drives at the lowest rate in the NFL, managers should tread cautiously with Hill before expecting a repeat of last week.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 5,
+  "team": "BAL",
+  "opp": "HOU",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

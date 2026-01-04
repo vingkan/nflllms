@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211680",
+  "title": "Jawhar Jordan Contributes to Another Texans' Victory",
+  "description": "Houston Texans running back Jawhar Jordan broke through with a huge NFL debut last week, and he built on that performance in Week 16 against the Raiders. Jordan was the primary back for Houston with Woody Marks (ankle) out, getting 20 touches compared to just seven for veteran Nick Chubb. Jordan racked up 53 rushing yards on 15 carries and 17 receiving yards by turning all five of his targets into receptions. After two solid performances, Jordan could remain involved in the backfield again next week as the Texans take on the Chargers, but his role will depend on Marks' recovery. If Marks does return, Jordan could still get work, but his role would likely be dramatically reduced. He's worth watching, though, since he has been more effective than Chubb and could remain the team's secondary running back after a pair of promising performances.",
+  "player_id": 11588,
+  "player_name": "Jawhar Jordan",
+  "week": 17,
+  "team": "HOU",
+  "opp": "LAC",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 50
+}

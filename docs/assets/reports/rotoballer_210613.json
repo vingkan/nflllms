@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210613",
+  "title": "Breece Hall Will be Active Against Jaguars",
+  "description": "New York Jets running back Breece Hall (knee) was able to practice in full on Friday and has been removed from the Week 15 injury report, according to Rich Cimini of ESPN. Hall came down with some knee soreness following last week's loss to the Miami Dolphins and did not practice on Wednesday. He was limited on Thursday before being a full-go on Friday. Hall has averaged 4.4 yards per carry on 201 rushing attempts in 13 games in 2025, but New York's putrid offense has lowered his fantasy ceiling considerably. He comes into Week 15 as the RB17 in half-PPR scoring with 877 rushing yards and three touchdowns on the ground, adding 30 receptions for 309 yards and another score. Things could get even worse this weekend, too, with rookie quarterback Brady Cook making his first career start. Hall needs to be downgraded in fantasy to a low-upside RB2 this weekend against a Jaguars defense that allows the fewest rushing yards per game.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 15,
+  "team": "NYJ",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 23,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

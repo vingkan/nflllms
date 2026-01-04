@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201496",
+  "title": "J.K. Dobbins Viewed as Solid RB2 Facing Colts",
+  "description": "Denver Broncos running back J.K. Dobbins carries solid RB2 value facing the Indianapolis Colts in Week 2. Dobbins was expected to split the backfield with rookie RJ Harvey early in the season. However, the veteran appears to be viewed as the clear leader for the time being, as he took 16 carries while Harvey took only six in the season opener. Dobbins was also very productive operating as the lead back, tallying 63 yards and a score during their victory over the Titans. As a pass catcher, Dobbins was able to bring in both of his targets for five yards. Last season, the 26-year-old enjoyed a career season playing for the Chargers, totaling 905 yards and nine scores across 13 contests. While Harvey will likely see his role grow over the season, for the time being, this appears to be Dobbins' backfield. As a result, he carries solid RB2 value facing the Colts.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 2,
+  "team": "DEN",
+  "opp": "IND",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 76,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

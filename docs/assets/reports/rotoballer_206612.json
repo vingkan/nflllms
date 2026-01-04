@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206612",
+  "title": "Devin Singletary Leads Team in Carries in Week 9",
+  "description": "New York Giants running back Devin Singletary was expected to have an increased role this weekend with Cam Skattebo (ankle) sidelined for the rest of the season. Singletary was expected to play a backup role to Tyrone Tracy Jr. in the backfield. However, Singletary ended up seeing the most carries in the backfield this past weekend. Singletary rushed eight times for 43 yards, while hauling in two receptions for eight yards in the loss to the San Francisco 49ers. His 5.3 yards per carry should help Singletary earn a bigger role in the backfield going forward. It's tough to call Singletary a viable streaming choice, but he's someone to watch heading into the Week 10 matchup against the Chicago Bears.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 10,
+  "team": "NYG",
+  "opp": "CHI",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 3,
+  "receiving_yards": 53,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 28
+}

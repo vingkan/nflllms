@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205282",
+  "title": "David Montgomery Struggles Again in Week 7, No Longer a Viable Starting Option?",
+  "description": "Detroit Lions running back David Montgomery had a rough game in Week 7 against the Tampa Bay Buccaneers, recording 13 carries for 21 yards and two catches for 18 yards. 15 total touches is a positive sign for Montgomery after he saw just six in Week 6, but the 28-year-old has now been held under 25 rushing yards and out of the end zone in three out of the last four weeks. Lions running back Jahmyr Gibbs dominated in Week 7, recording 218 scrimmage yards and two touchdowns on 20 total touches. With Detroit not having as much success in the power-run game as in years past, it appears Montgomery could be sliding into a true RB2 role behind Gibbs. At best, Montgomery profiles as a touchdown-dependent flex option for fantasy managers as the Lions head into their Week 8 bye.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 9,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 40,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

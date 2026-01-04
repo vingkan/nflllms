@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207981",
+  "title": "Big Day for De'Von Achane in Madrid",
+  "description": "Miami Dolphins running back De'Von Achane put together an excellent fantasy day in his team's overtime victory against the Washington Commanders by compiling 165 total yards on 26 touches. Though he didn't score, Achane caught all five targets for 45 yards and ended the day with 120 rushing yards from 21 carries. As Miami's best offensive weapon, Achane was involved early and often, and he performed capably against a struggling Washington defense. Unfortunately for fantasy managers, Ollie Gordon II scored a one-yard touchdown, the team's only one of the day. Still, Achane has shown he deserves the benefit of the doubt every week, even on a Dolphins team that has underperformed overall.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 13,
+  "team": "MIA",
+  "opp": "NO",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 134,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 6
+}

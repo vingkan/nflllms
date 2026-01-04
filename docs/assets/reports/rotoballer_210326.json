@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210326",
+  "title": "Colts to Give Jonathan Taylor a \"Heavy Dose\" of Work",
+  "description": "Indianapolis Colts running back Jonathan Taylor is expected to see a \"heavy dose\" of work in the coming weeks after starting quarterback Daniel Jones (Achilles) tore his Achilles in the Week 14 loss to the Jacksonville Jaguars. Taylor, who is currently second in the league with 282 total touches, will have an even bigger workload as the Colts look to take some pressure off of 44-year-old quarterback Philip Rivers, who will be expected to start for the Colts sooner rather than later. The superstar running back has slowed down from his torrid early-season pace over the past three games, handling 58 carries for 217 yards and a touchdown with five receptions (eight targets) for 44 yards as a receiver. It remains to be seen if Taylor will be taking hand-offs from Rivers or Brett Rypien in Week 15, but he'll look to get back on track in a tough matchup on the road against the Seattle Seahawks.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 15,
+  "team": "IND",
+  "opp": "SEA",
+  "att": 25,
+  "tgt": 4,
+  "touches": 29,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 87,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

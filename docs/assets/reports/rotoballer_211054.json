@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211054",
+  "title": "LeQuint Allen Jr. on the Fantasy Radar for Week 16",
+  "description": "Jacksonville Jaguars rookie running back LeQuint Allen Jr. hasn't played a significant role this season behind Travis Etienne Jr. and fellow rookie Bhayshul Tuten, but he is likely to see an uptick in snaps with Tuten set to miss a few weeks with a finger injury that will require surgery. Allen handled five touches for 16 yards in the Week 15 blowout win over the New York Jets, his most since Week 11. The rookie seventh-rounder will step into the RB2 role behind Etienne and becomes an interesting deep-league option heading into the Week 16 game against the Denver Broncos on the road. His appeal is limited to deep leagues only, but he could have some standalone value with more touches likely coming his way.",
+  "player_id": 12544,
+  "player_name": "LeQuint Allen",
+  "week": 16,
+  "team": "JAX",
+  "opp": "DEN",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 10,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 71
+}

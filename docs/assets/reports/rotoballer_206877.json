@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206877",
+  "title": "RJ Harvey Ends Touchdown Streak on Thursday Night",
+  "description": "Denver Broncos rookie running back RJ Harvey fell back down to earth as the offense struggled to produce much in Thursday's 10-7 win against their division rival, the Las Vegas Raiders. The Broncos' rookie running back rushed for nine yards on four carries while catching two of three targets for nine yards in Thursday's victory. Harvey had scored subsequently over the past three weeks, but the Broncos only produced 10 points as a unit on Thursday night. Counterpart J.K. Dobbins has been dominating the backfield touches and continued to do so, out-touching Harvey 19-6 in this matchup. There was a red zone possession that Harvey seemed to be featured on, but with the lack of offensive scoring this week, it was hard for him to unlock his weekly scoring upside. Despite a disappointing performance on Thursday, Harvey remains a high-end FLEX play and will look to bounce back against the Kansas City Chiefs in Week 11.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 11,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 3,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 37
+}

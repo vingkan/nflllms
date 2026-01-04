@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210612",
+  "title": "Christian McCaffrey Ready to Roll in Week 15",
+  "description": "San Francisco 49ers running back Christian McCaffrey (illness) was a full-go in practice on Friday and was removed from the Week 15 injury report, according to Cam Inman of the Bay Area News Group. McCaffrey is fully expected to play on Sunday against the visiting Tennessee Titans after he came down with an illness this week and was limited in practice on Thursday. CMC is an absolute must-start in Week 15 against the Titans, a team that allows 122.5 rushing yards per game. The 29-year-old comes into Week 15 action as the RB2 in half-PPR points on the year, thanks to 849 rushing yards and eight touchdowns on 237 carries. McCaffrey hasn't been that great on the ground, but where he excels is as a pass-catcher, as he leads all backs in catches (85), targets (107), receiving yards (806), and touchdowns (five), and it's not even close.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

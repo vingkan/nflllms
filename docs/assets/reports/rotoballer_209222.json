@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209222",
+  "title": "Jordan Mason A Major Risk In Week 13",
+  "description": "Minnesota Vikings running back Jordan Mason is far down the list of fantasy options with his offense in rough shape as it prepares to take on the Seattle Seahawks in Week 13. The Vikings will be down to their third-string quarterback, undrafted rookie Max Brosmer, who has never made a start in the NFL before. Minnesota will be without left guard Donovan Jackson (ankle), and could also be missing star left tackle Christian Darrisaw (knee, foot). Additionally, Seattle ranks fourth against half-PPR running backs. Mason has two catches in four November games and is averaging 6.4 rushing attempts in Minnesota's past five games, diminishing his fantasy value as Minnesota has preferred Aaron Jones Sr. when both backs have been available. Ranked as RotoBaller's No. 47 running back for Week 13, Mason is a big risk in fantasy lineups this week.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 13,
+  "team": "MIN",
+  "opp": "SEA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

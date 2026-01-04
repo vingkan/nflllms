@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209960",
+  "title": "De'Von Achane Is An Elite RB to Build Around",
+  "description": "Miami Dolphins running back De'Von Achane has been one of the top running backs in the NFL over the last few weeks, and he's a great play this week against the Jets. Achane has at least 120 rushing yards to power the Dolphins to three straight wins in his last three games against the Bills, Commanders, and Saints. He finished with 134 rushing yards and a touchdown last week against the Saints, and is averaging 86.2 rushing yards and 30.8 receiving yards per game on the season with 10 total touchdowns. The Jets have been the sixth-best matchup for running backs this season, and last week, the Falcons running backs totaled 162 rushing yards, 86 receiving yards, and two touchdowns against New York. In such a great matchup with plenty of momentum and a large expected workload, Achane is the No. 1 RB in the entire NFL in RotoBaller's Week 14 rankings.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 14,
+  "team": "MIA",
+  "opp": "NYJ",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 92,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 9
+}

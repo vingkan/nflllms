@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210082",
+  "title": "Tyjae Spears Could Struggle in Tough Week 14 Matchup",
+  "description": "Tennessee Titans running back Tyjae Spears has done most of his work as a receiver so far this season, recording 28 catches for 173 yards on 30 targets across eight games played. The 24-year-old has earned at least five targets in three straight weeks entering Week 14. Unfortunately for Spears, he's been brutal as a rusher over that same span, recording six total rushing yards on nine carries. The Titans are deploying a near dead-even backfield split between Spears and veteran back Tony Pollard. Since the team's Week 10 bye, Pollard has played 95 snaps to Spears' 92. The Titans have a tough matchup in Week 14 against the Cleveland Browns, who enter the week ranked second among NFL defenses in yards per carry allowed (3.7). Spears' receiving work gives him some desperation flex appeal in deep-PPR fantasy leagues, but his production upside is limited in Week 14.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 14,
+  "team": "TEN",
+  "opp": "CLE",
+  "att": 8,
+  "tgt": 4,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 19,
+  "receiving_catches": 2,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207376",
+  "title": "Jacory Croskey-Merritt Loses Starting Role in Week 10",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt had started every game since Week 5, but his recent struggles led to the team starting third-year back Chris Rodriguez Jr. in Week 10 against the Detroit Lions. Rodriguez ended up leaving the game early due to a shoulder injury, but he played 72% of the snaps in the first half compared to Croskey-Merritt at 16%. As a result of the injury and the game being out of hand, the rookie seventh-rounder played 65.4% of snaps in the second half. It was still another inefficient outing on the ground for the 24-year-old with just 30 yards on 11 carries. Croskey-Merritt hasn't surpassed four yards per carry in a game since his 150-yard, two-touchdown performance in Week 5 against the Chargers. Rodriguez's status will be updated throughout the week as the Commanders travel to Madrid to take on the Dolphins in Week 11, but it looks like Croskey-Merritt has lost grip on the starting running back duties in Washington.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 11,
+  "team": "WAS",
+  "opp": "MIA",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 46
+}

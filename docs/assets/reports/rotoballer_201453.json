@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201453",
+  "title": "Christian McCaffrey Cleared For Week 2",
+  "description": "San Francisco 49ers running back Christian McCaffrey is not listed on the team's final injury report for Week 2. McCaffrey did not practice on Wednesday with his injury description listed as both calf and resting, but practiced in full on Thursday and Friday. The 29-year-old carried a questionable tag into the season opener but logged 31 touches for 162 scrimmage yards in the 49ers' 17-13 win over the Seahawks. With quarterback Brock Purdy (toe, shoulder) ruled out and tight end George Kittle (hamstring) on injured reserve, the offense can be expected to run through McCaffrey once again when the 49ers face the Saints on Sunday. A weekly favorite for an RB1 finish, he is a must-start for Week 2.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 2,
+  "team": "SF",
+  "opp": "NO",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 55,
+  "receiving_catches": 6,
+  "receiving_yards": 52,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 5
+}

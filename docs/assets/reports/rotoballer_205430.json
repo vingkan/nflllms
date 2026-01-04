@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205430",
+  "title": "Bhayshul Tuten Still Looking For Breakout",
+  "description": "Running back Bhayshul Tuten of the Jacksonville Jaguars is still looking for a breakout week as the Jags take their bye in Week 8. A popular mid-round pick from the 2025 NFL Draft, the rookie landed in a situation with two established running backs in Travis Etienne Jr. and Tank Bigsby, but the Jags traded Bigsby to Philadelphia early in the season. The move ostensibly opened the way for Tuten, but he has yet to play more than 30% of the team's snaps in a game so far. The rookie scored touchdowns in Weeks 2 and 3, but recorded just 19 touches in the four games that followed. Tuten remains a hold in dynasty formats, but he can be left on waivers in most redraft leagues as long as Etienne is healthy.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 9,
+  "team": "JAX",
+  "opp": "LV",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 1,
+  "receiving_yards": -3,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 24
+}

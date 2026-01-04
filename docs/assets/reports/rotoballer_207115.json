@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207115",
+  "title": "James Cook Primed to Feast Again in Miami",
+  "description": "Buffalo Bills running back James Cook has been removed from the injury report and will play Sunday against the Miami Dolphins, presumably without any limitations. This is great news for Cook and his fantasy managers, as a matchup against the Dolphins provides an enormous opportunity for the 26-year-old to rack up fantasy points. Miami has been miserable against the run this year, surrendering the third-most rushing yards and fifth-most fantasy points to opposing running backs in 2025. Cook is the overall RB7 in PPR leagues so far with 867 rushing yards, 100 receiving yards, and seven touchdowns. In his last outing against Miami, he accrued 118 scrimmage yards and one touchdown. Fantasy managers should have full confidence deploying Cook as a mid-to-high RB1 this week.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 53,
+  "receiving_catches": 5,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

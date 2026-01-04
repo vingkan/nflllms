@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202918",
+  "title": "Texans Expect Joe Mixon Update Next Month",
+  "description": "The Houston Texans are expecting clarity on running back Joe Mixon (foot/ankle) by mid-October, reports Dianna Russini of the Athletic. The veteran back hasn't seen the field at all in 2025 and remains on the Non-Football Injury list. Houston, meanwhile, signed running back Nick Chubb and drafted Woody Marks to man the backfield for the time being. Whether Mixon returns this year has been an open question for Houston, which is 0-3 and in need of all the offensive help it can get. If he returns, Mixon would be back for fantasy playoffs, but it seems like Houston's backfield will be a platoon even if he's healthy.",
+  "player_id": 4018,
+  "player_name": "Joe Mixon",
+  "week": 4,
+  "team": "HOU",
+  "opp": "TEN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

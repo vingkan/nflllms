@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210633",
+  "title": "Woody Marks Poised for a Big Week Against the Cardinals?",
+  "description": "Houston Texans running back Woody Marks (knee) missed some practice earlier this week but does not have an injury designation and is ready to go for the Texans' Week 15 matchup against Arizona. The Cardinals have allowed 18 running back touchdowns in 13 games, including eight in the last four weeks. Marks could get more of the workload with Nick Chubb (ribs, questionable) banged up. Marks checks in as the No. 17 RB in RotoBaller's Week 15 rankings, so he's a strong RB2 play this week after setting a new career-high with 26 carries last week. He scored his fifth touchdown of the season in the Texans' win over the Chiefs, and he has a much better matchup this week, giving him a good ceiling, especially if he gets all the work in this favorable matchup. He crushed the Titans as the focal point of the offense in a similar scenario earlier this season, and he's a strong start in Week 15.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 15,
+  "team": "HOU",
+  "opp": "ARI",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208621",
+  "title": "Tony Pollard Difficult to Trust Against Relentless Run Defense",
+  "description": "Tennessee Titans running back Tony Pollard remains the primary ball-carrier on his team, but he's still tough to trust heading into Week 12 against the Seattle Seahawks. He's averaging just 3.7 yards per carry over his last five games and faces off against a Seattle run defense allowing the third-fewest rushing yards to opposing running backs in 2025. To make matters worse, Pollard has started to see his workload decline with Tyjae Spears back in action, tallying 11 or fewer carries in each of his last five contests. If Pollard came into this tough matchup with greater efficiency or a larger workload, managers could still feel comfortable deploying him in lineups. However, his volume, efficiency, and matchup are all major red flags, relegating him to the bench in most fantasy leagues. He ranks as the overall RB37 in RotoBaller's latest fantasy rankings.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 12,
+  "team": "TEN",
+  "opp": "SEA",
+  "att": 11,
+  "tgt": 5,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 20,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 31
+}

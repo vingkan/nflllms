@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207592",
+  "title": "Bam Knight Practicing Again on Thursday",
+  "description": "Arizona Cardinals running back Bam Knight (ankle) was seen at practice for the second straight day on Thursday, according to Dani Sureck of AZCardinals.com. Knight was listed as a limited participant in the team's walkthrough practice on Wednesday after injuring his ankle in the Week 10 loss to the Seattle Seahawks on Sunday. The 24-year-old may need a full practice this week to avoid a questionable tag going into the weekend, but as of right now, two practices suggest he has a chance to be active this Sunday versus the San Francisco 49ers. Since the team's bye in Week 8, Knight and Emari Demercado have been splitting most of Arizona's backfield touches, with Demercado being the more productive back. Knight hasn't scored since Week 6 and has averaged just 3.4 yards per carry on 33 rushing attempts in his three \"starts.\" If he's active against San Fran, fantasy managers should consider him a low-upside RB3/flex option.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

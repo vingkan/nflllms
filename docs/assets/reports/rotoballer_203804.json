@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203804",
+  "title": "Tyjae Spears' Role Set to Increase Going Forward",
+  "description": "Tennessee Titans running back Tyjae Spears made his return in Week 5 from a high-ankle sprain that kept him out for the first four games of the season. Spears saw limited usage in his first game back, playing 17 total snaps and recording four carries for 14 yards against the Arizona Cardinals. However, Titans head coach Brian Callahan said Spears' role will increase in future weeks, per Jim Wyatt of TennesseeTitans.com. The 24-year-old recorded 536 yards from scrimmage and five touchdowns on 114 total touches across 12 games last season. Spears and Titans back Tony Pollard will split backfield work to some degree once Spears is fully healthy and re-integrated into the offense. For now, Spears should be rostered by fantasy managers, but likely cannot be trusted as a starter in Week 6 against the Las Vegas Raiders.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 6,
+  "team": "TEN",
+  "opp": "LV",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 4,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 21
+}

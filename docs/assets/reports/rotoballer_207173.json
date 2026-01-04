@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207173",
+  "title": "Terrell Jennings Should Remain Involved Against Buccaneers",
+  "description": "New England Patriots running back Terrell Jennings will likely remain involved in the team's offensive game plan after Rhamondre Stevenson (toe) was ruled out for Week 10 against the Tampa Bay Buccaneers. TreVeyon Henderson will still lead the backfield, but Jennings should carve out a role, just like he did last week against the Atlanta Falcons when he played 25 percent of the snaps, touched the ball 12 times, and scored a touchdown. The trip to the end zone salvaged his fantasy performance, and he'd likely need to score again this week to have meaningful fantasy value. With a touchdown far from guaranteed, especially in the backup role, Jennings can be left on the bench in leagues with 14 or fewer teams.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 10,
+  "team": "NE",
+  "opp": "TB",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204066",
+  "title": "Kimani Vidal Offering Some Flex Appeal in Week 6",
+  "description": "Los Angeles Chargers running back Kimani Vidal is expected to be part of a running back-by-committee approach in Week 6 against the Miami Dolphins. Vidal is expected to handle more of the pass-catching duties and third-down work in an offense that has been pass-happy so far in 2025, throwing 62.58% according to teamrankings.com. In leagues that are PPR, Vidal should carry a safer floor compared to Hassan Haskins, who is expected to have most of the early-down work and red zone carries. Most reports from Jim Harbaugh and offensive coordinator Greg Roman suggest that both Vidal and Haskins will be involved, so neither should be viewed or ranked that much higher than the other. The Chargers take on the Dolphins in Week 6, who are currently allowing the fifth most points to the running back position, which is why Vidal is offering some flex appeal in Week 6. Fantasy managers can start him in a pinch, but if they have other stronger options, start them.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 124,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

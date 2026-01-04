@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204920",
+  "title": "Chris Rodriguez Jr. Back in Play for Week 7 Against Dallas?",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. played only one snap in Week 6 against the Bears after missing practice all week with a calf injury. Rodriguez is now off the injury report heading into Sunday and should be expected to play a bigger role. He did, however, drift back into a depth role in Week 5 against the Chargers. He played only four snaps in the first three quarters while rookie Jacory Croskey-Merritt handled the bulk of the touches. All five of Rodriguez's carries in that game came in the fourth quarter when Washington was leading by two scores. Croskey-Merritt will likely lead the backfield again, leaving Rodriguez with only a handful of touches against a Dallas defense that has been repeatedly gashed by opposing running backs. He's safe to leave on waivers for Week 7.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 7,
+  "team": "WAS",
+  "opp": "DAL",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 12,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 31
+}

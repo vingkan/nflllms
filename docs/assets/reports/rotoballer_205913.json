@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205913",
+  "title": "Jeremy McNichols Leads the Commanders in Receiving Yards",
+  "description": "Washington Commanders running back Jeremy McNichols only had one carry for four yards against the Chiefs in Week 8, but he had a strong game as a receiver out of the backfield. He actually led the team in catches, targets, and receiving yards, hauling in five of his six targets for 64 yards. Marcus Mariota wasn't able to get much going, especially in the second half, so the team will hope to have Jayden Daniels (hamstring) back next week against the Seahawks. McNichols remains in a backfield committee with rookie Jacory Croskey-Merritt and Chris Rodriguez Jr., but for now, it looks like he's the preferred passing-down option. He played 42% of snaps since the Commanders were trying to rally. Next week, he'll be a high-risk flex play against the Seahawks, getting a boost if Mariota has to start again since the two have such a strong connection.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 9,
+  "team": "WAS",
+  "opp": "SEA",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210267",
+  "title": "Cardinals Could Hold Trey Benson Out Another Week",
+  "description": "Arizona Cardinals head coach Jonathan Gannon said that activating running back Trey Benson (knee) off Injured Reserve and giving him another week on the shelf \"is an option\" if he can't check all the appropriate health boxes by Wednesday, according to Tyler Drake of Arizona Sports. Benson has not played since suffering a knee injury in Week 4 that required surgery. It's possible that the 23-year-old second-year RB from Florida State needs another week, and it's also possible that he's held out for the remainder of the season with the Cardinals out of the playoff hunt. Benson was cleared to return to practice two weeks ago. He initially was limited in practice before sitting out all of last week, suggesting he may have suffered a setback. Emari Demercado (ankle) has also missed the last few games, leaving Bam Knight and Michael Carter to share backfield duties. Knight could be in line for lead-back work again in Week 15 versus the Houston Texans.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

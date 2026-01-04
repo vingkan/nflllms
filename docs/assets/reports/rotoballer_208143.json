@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208143",
+  "title": "Tony Pollard Held in Check in Crushing Week 11 Loss",
+  "description": "Tennessee Titans running back Tony Pollard had 10 carries for 22 yards in Sunday's 16-13 loss to the Houston Texans in Week 11. Pollard also had three catches for four yards on three targets. The 28-year-old veteran scored a season low of 5.6 fantasy points and was out-snapped for the third time this season by backfield mate Tyjae Spears. Since Week 6, Pollard has only been able to eclipse over eight fantasy points once. The former explosive fantasy favorite has become a low-upside, touchdown-dependent flex option for managers. Pollard was been unable to find paydirt for a fifth straight week and has only been able to find the end zone twice this year. Heading into Week 12, Pollard will be a desperation flex option in deeper leagues in a difficult matchup against the Seattle Seahawks.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 12,
+  "team": "TEN",
+  "opp": "SEA",
+  "att": 11,
+  "tgt": 5,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 20,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 31
+}

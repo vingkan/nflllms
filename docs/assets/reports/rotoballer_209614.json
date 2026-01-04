@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209614",
+  "title": "Jaret Patterson Punches in Touchdown, Fantasy Role on Borrowed Time",
+  "description": "Los Angeles Chargers running back Jaret Patterson carried the ball 11 times for 54 yards and a touchdown in the team's 31-14 win over the Las Vegas Raiders. After being signed to the active roster early last week, Patterson served as the primary back behind Kimani Vidal as the Chargers totaled 192 rushing yards and two rushing touchdowns. Patterson looked decisive and scored his first rushing touchdown of the season as the offense relied heavily on the ground game following Justin Herbert's hand injury. Looking ahead, rookie Omarion Hampton's return from IR is imminent after his 21-day practice window opened last week, which would move Patterson behind Hampton and Vidal. Next Monday night, the Bolts face a Philadelphia Eagles defense that has recently been vulnerable against the run. However, Patterson's fantasy value depends entirely on Hampton's availability in Week 14. If Hampton returns, Patterson might not even see the field. If he doesn't, Patterson will remain a depth piece with a few change-of-pace carries.",
+  "player_id": 7537,
+  "player_name": "Jaret Patterson",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

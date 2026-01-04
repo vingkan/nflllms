@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209971",
+  "title": "Isiah Pacheco Running Out of Time to Make an Impact",
+  "description": "Kansas City Chiefs running back Isiah Pacheco returned in last week's Thanksgiving Day loss to the Dallas Cowboys on Thursday for the first time since Week 8 due to a knee injury. It wasn't a triumphant return for the 26-year-old, as he played a season-low 30% of the snaps and had a season-low three rushing attempts for 16 yards while grabbing both of his targets for an additional 17 yards. Pacheco played well ahead of rookie Brashard Smith, but it's clear that veteran Kareem Hunt has solidified his role as KC's preferred RB, even in goal-line situations. Fantasy managers can hold out hope that Pacheco is more involved in the coming weeks as he puts his knee injury in the rearview mirror, but at no point in 2025 has he looked deserving of a bigger workload. Pacheco has yet to top 60 rushing yards in nine games, and he should be left on benches in Week 14 against the Texans and their No. 1 defense.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 14,
+  "team": "KC",
+  "opp": "HOU",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 54
+}

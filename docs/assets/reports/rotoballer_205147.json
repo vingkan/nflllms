@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205147",
+  "title": "Jonathan Taylor Produces Another Three-Touchdown Outing",
+  "description": "Indianapolis Colts running back Jonathan Taylor carried the ball 16 times for 94 rushing yards and three rushing touchdowns during Sunday's Week 7 win over the Los Angeles Chargers. He also caught all three of his targets for an additional 38 receiving yards. Taylor turned in his best fantasy performance of the season in PPR leagues, shrinking the gap between him and this year's overall RB1, Christian McCaffrey. The 26-year-old has scored three touchdowns in three different games this season, totaling 10 scores over his last five contests. Taylor should continue to feast next week against a Titans defense that has allowed the third-most fantasy points to running backs and just surrendered 88 yards and a touchdown to Rhamondre Stevenson. He's in the mix to be next week's overall RB1.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 8,
+  "team": "IND",
+  "opp": "TEN",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 153,
+  "receiving_catches": 2,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 37,
+  "ppr_scoring_position_rank": 1
+}

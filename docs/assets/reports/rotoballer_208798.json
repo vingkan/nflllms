@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208798",
+  "title": "Dylan Sampson Records Long Catch-and-Run Touchdown in Week 12 Win",
+  "description": "Cleveland Browns rookie running back Dylan Sampson recorded 81 scrimmage yards and a touchdown on nine touches in his team's 24-10 Week 12 win over the Las Vegas Raiders. The 21-year-old delivered one of the biggest plays of the game in the fourth quarter when he took a short completion from Browns quarterback Shedeur Sanders and turned it into a 66-yard catch-and-run touchdown. Sampson has provided the majority of his production this season in the passing game. Across 11 games, he's recorded 23 catches for 185 yards and two touchdowns on 27 targets. Fellow Browns rookie running back Quinshon Judkins remains the early-down rushing workhorse in Cleveland, limiting Sampson's upside. However, he's flashed upside as a pass-catching back that could keep him on deep-league radars down the stretch of the fantasy season. Cleveland will host the San Francisco 49ers in Week 13.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 13,
+  "team": "CLE",
+  "opp": "SF",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 62
+}

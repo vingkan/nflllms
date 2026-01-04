@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203977",
+  "title": "A.J. Dillon Still Only Useful as a Handcuff",
+  "description": "Philadelphia Eagles running back A.J. Dillon once again saw himself get priority over Will Shipley for second-in-command in the backfield this past Sunday, but that meant playing just 14.8% of offensive snaps compared to Shipley's 13.1%. Dillon carried the ball twice for 12 yards, with one attempt coming in the red zone. It seems like Shipley will get more usage in the passing game than his counterpart, being targeted twice while Dillon did not get any looks. Regardless, neither Dillon nor Shipley are involved enough to warrant a start in fantasy this week.",
+  "player_id": 6828,
+  "player_name": "A.J. Dillon",
+  "week": 6,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 2,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

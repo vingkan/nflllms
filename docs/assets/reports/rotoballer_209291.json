@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209291",
+  "title": "Nick Chubb Continues to Work in Reduced Role",
+  "description": "Houston Texans running back Nick Chubb continues to play a reduced role in the team's backfield, which keeps him from being a good fantasy play in most formats this week. Chubb has only totaled 14 rushing attempts in his last three games for a total of 80 yards, along with two catches for only four receiving yards. He has played under 30% of his team's offensive snaps in each of his last three weeks as well, as the team leans more heavily on rookie Woody Marks. Chubb's fantasy value is extremely touchdown-dependent, which is not usually a good thing since he hasn't found the end zone since Week 5 against the Ravens. He's only the RB57 in RotoBaller's Week 13 rankings, so he should be left on the bench or waiver wire in most formats.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 13,
+  "team": "HOU",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 38
+}

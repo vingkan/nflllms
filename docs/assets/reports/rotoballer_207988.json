@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207988",
+  "title": "Kimani Vidal Returns in Week 11 After Brief Injury Absence",
+  "description": "Los Angeles Chargers running back Kimani Vidal (thigh) has returned to his team's Week 11 matchup against the Jacksonville Jaguars after briefly exiting due to a thigh injury. Keeping Vidal healthy is critical given that the Chargers' backfield is already without top running backs Omarion Hampton (ankle) and Najee Harris (Achilles). If Vidal were to suffer another injury, Amar Johnson and Trayveon Williams would be the likely candidates in Los Angeles to handle backfield work for the remainder of Week 11. As long as he can stay on the field, Vidal should be expected to dominate backfield work against Jacksonville.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 25,
+  "tgt": 1,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 126,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

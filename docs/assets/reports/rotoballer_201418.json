@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201418",
+  "title": "Kareem Hunt Remains Short-Yardage, Third-Down Back in Chiefs Backfield",
+  "description": "Kansas City Chiefs running back Kareem Hunt remains locked into the short-yardage role to open the 2025 season. In Week 1's loss to the Chargers, Hunt logged five carries for 16 yards and added two receptions for 10 yards while splitting work with Isiah Pacheco. Notably, Hunt dominated the high-leverage snaps, playing 15 of 17 opportunities on third and fourth down, while Pacheco handled 19 of 25 first-down snaps. The committee approach makes it difficult to trust any Chiefs running back in fantasy, and Week 2 brings a brutal matchup against the Philadelphia Eagles defense, which allowed the fewest fantasy points to running backs in 2024. Hunt is unstartable in most formats, though his goal-line role gives him deep-league FLEX appeal.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 2,
+  "team": "KC",
+  "opp": "PHI",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 31,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 48
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210721",
+  "title": "Michael Carter Should be Avoided in Difficult Week 15 Matchup",
+  "description": "Arizona Cardinals running back Michael Carter fell under double-digit touches in the Week 14 loss to the Los Angeles Rams. Carter was quickly phased out of the offense and was only able to garner five touches for 31 scrimmage yards. The 26-year-old's role in the offense will remain up in the air with Emari Demercado (ankle) listed as questionable in Week 15. Demercado has missed the last three games with an ankle injury, but was able to be a limited participant in each practice this week. In a murky situation, Carter will face a difficult matchup against the Houston Texans. The Texans' defense has allowed the fourth-fewest receptions and the fifth-fewest rushing yards this season. It will be tough sliding for Carter on Sunday, even as a pass-catcher, going against a solid Texans' linebacker core. In a difficult Week 15 matchup, Carter will be a risky desperation flex option in deep PPR leagues.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 14,
+  "tgt": 4,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 56,
+  "receiving_catches": 4,
+  "receiving_yards": 38,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

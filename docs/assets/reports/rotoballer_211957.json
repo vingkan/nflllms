@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211957",
+  "title": "Omarion Hampton Could See a Massive Workload on Saturday",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton continues to separate himself as the most dynamic option in the backfield, recording an 85-yard, one-touchdown performance against the Dallas Cowboys. Averaging 5.3 yards per carry, Hampton was far more explosive than teammate Kimani Vidal, who is now dealing with a neck injury. Even if Vidal is active, the Chargers are likely to lean on Hampton against a Houston Texans defense that is more vulnerable on the ground than through the air. Houston ranks fifth in fewest rushing yards allowed, but has shown cracks against physical, efficient runners recently. With the Chargers needing to protect Justin Herbert from Houston's fierce pass rush, a heavy dose of Hampton is expected. He is a high-end RB2/FLEX option for championship week.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 17,
+  "team": "LAC",
+  "opp": "HOU",
+  "att": 14,
+  "tgt": 8,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 29,
+  "receiving_catches": 8,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 10
+}

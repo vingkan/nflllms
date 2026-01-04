@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208899",
+  "title": "Omarion Hampton Set to Return in Week 13?",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton has missed six consecutive games since being placed on injured reserve with an ankle injury suffered during a Week 5 loss to the Washington Commanders. Head coach Jim Harbaugh said he does not expect Hampton's practice window to be opened until after their Week 12 bye, so there should be a new update coming soon on the rookie's status. The 22nd overall pick in this past year's draft was working off to the side in practice before the bye and is now out of the walking boot, which should give him a decent shot of suiting up in Week 13 against the Raiders. Hampton was having a strong rookie season before the injury, recording 66 carries for 314 yards and two touchdowns to go with 20 receptions (22 targets) for 136 yards in five games, good for an average of 15.4 PPR points per game. Second-year back Kimani Vidal will return to a backup role, and Hampton should slot back in as a high-end RB2 in fantasy upon his return.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

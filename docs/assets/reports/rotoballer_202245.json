@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202245",
+  "title": "Samaje Perine Remains No. 2 Back, Still Nowhere Near a Starting Fantasy Option",
+  "description": "Cincinnati Bengals running back Samaje Perine caught only two passes for six yards in the Week 1 win over the Browns. It's hard to play worse than that. However, that's exactly what happened in Week 2 versus Jacksonville, with Perine finishing without a blip in any statistical category. While the 30-year-old continues to serve as the backup to running back Chase Brown, he likely won't be given many opportunities to produce in the Week 3 meeting with the Minnesota Vikings, no matter if he logs more than the 20 snaps he had against the Jags. With Jake Browning under center in place of the injured Joe Burrow (toe), Perine's outlook remains the same. Keep him out of any fantasy lineup on Sunday.",
+  "player_id": 4147,
+  "player_name": "Samaje Perine",
+  "week": 3,
+  "team": "CIN",
+  "opp": "MIN",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 75
+}

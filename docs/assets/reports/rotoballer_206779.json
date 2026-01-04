@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206779",
+  "title": "Jacory Croskey-Merritt Limited on Wednesday After Having Dental Work Done",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt (mouth) was wearing a non-contact jersey on Wednesday and was listed as a limited practice participant after having dental work done, according to John Keim of ESPN. Croskey-Merritt should be available to play on Sunday against the visiting Detroit Lions, but the better question is whether he'll lose any playing time to Jeremy McNichols and Chris Rodriguez Jr. after stumbling the last few weeks. The 24-year-old seventh-rounder has been the team's lead back since Austin Ekeler suffered a season-ending Achilles tear in Week 2, but Bill hasn't scored since Oct. 5 and is averaging just 3.1 yards per carry for 157 yards on 51 rushing attempts in the last four games. Expect defenses to load the box more to stop the run against Washington now, with quarterback Jayden Daniels (elbow) out for the foreseeable future. JCM is trending down as an RB3/flex play heading into this weekend.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

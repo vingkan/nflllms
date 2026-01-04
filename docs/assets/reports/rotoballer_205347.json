@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205347",
+  "title": "Isaiah Davis Emerging as Potential Late-Season Sleeper",
+  "description": "New York Jets running back Isaiah Davis could quietly become a factor down the stretch of the 2025 season. So far, Davis has logged 10 carries for 44 yards and added nine receptions for 73 yards through the air. With Braelon Allen (knee) sidelined after undergoing surgery, Davis stepped in as the RB2, playing 39% of the snaps in his absence. Now, with trade rumors swirling around Breece Hall, Davis' role could expand even further. The winless Jets (0-7) may look to move Hall, who's in the final year of his contract. If that happens, Davis could find himself in line for a much larger workload. Even if New York brings in another back, Davis' fantasy value is on the rise. The Jets face the Cincinnati Bengals, who currently rank as the worst run defense in the NFL, making Week 8 a key opportunity to see how Davis performs with limited touches.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 8,
+  "team": "NYJ",
+  "opp": "CIN",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 65,
+  "receiving_catches": 5,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 11
+}

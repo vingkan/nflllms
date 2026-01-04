@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203488",
+  "title": "Trevor Etienne has Deep-League Value",
+  "description": "Carolina Panthers running back Trevor Etienne is expected to see additional carries in the backfield in Week 5. The Panthers are going to be without Chuba Hubbard (calf) for this weekend. That being said, Rico Dowdle will be the lead back with Etienne as the primary backup. The 21-year-old hasn't done much early in the season. Last week, Etienne rushed the ball seven times for 33 yards in the loss to the New England Patriots. It was a limited workload, but the 4.71 yards per carry is nice to see. His workload will likely also be dependent on the game flow as the Panthers could abandon the running game if it becomes a blowout. The hope is that Etienne gets about 10 touches, which might be able to give him deep league value for this game against the Miami Dolphins.",
+  "player_id": 12531,
+  "player_name": "Trevor Etienne",
+  "week": 5,
+  "team": "CAR",
+  "opp": "MIA",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 22,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 44
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203328",
+  "title": "Rachaad White Poised For Bigger Role If Bucky Irving Sits",
+  "description": "Tampa Bay Buccaneers running back Rachaad White could be in line for an increased workload in Week 5 if starter Bucky Irving (foot/shoulder) is unable to suit up. White logged 10 touches in last week's loss to the Eagles and has been the most efficient runner in Tampa Bay's backfield, averaging 4.7 yards per carry on 23 attempts while also drawing nine targets in the passing game. With the Buccaneers showing a more balanced offensive attack this season, White's versatility as both a rusher and receiver keeps him positioned for expanded snaps, particularly on third downs and in two-minute situations. The matchup won't be easy against a Seahawks defense that ranks sixth in the NFL against the run, allowing just 89.8 rushing yards per game, but White would still carry flex appeal in fantasy formats if Irving is forced to miss Sunday's contest.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 5,
+  "team": "TB",
+  "opp": "SEA",
+  "att": 14,
+  "tgt": 4,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 41,
+  "receiving_catches": 4,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 7
+}

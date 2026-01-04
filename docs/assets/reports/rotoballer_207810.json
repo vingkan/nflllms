@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207810",
+  "title": "Christian McCaffrey Has Promising Matchup In Week 11",
+  "description": "San Francisco 49ers running back Christian McCaffrey had his second-lowest rushing total of the season in Week 10, gaining just 30 yards on the ground on 12 carries against the Rams. McCaffrey hasn't been as productive in the run game as he has been in years past, averaging 62.6 rushing yards per game in 2025. Still, McCaffrey has been an invaluable fantasy asset thanks to what he has done as a receiver. The double-threat is second in the NFL in receptions behind only Ja'Marr Chase and sixth in receiving yards. In Week 11, McCaffrey will do plenty of damage against the Arizona Cardinals. Last week, Arizona gave up 181 rushing yards and two touchdowns to the Seahawks' running backs. McCaffrey is a regular contender for overall RB1, and his projection for Week 11 is no different.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 11,
+  "team": "SF",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 6,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 81,
+  "receiving_catches": 5,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 35,
+  "ppr_scoring_position_rank": 1
+}

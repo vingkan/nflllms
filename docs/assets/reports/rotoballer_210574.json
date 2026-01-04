@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210574",
+  "title": "Jordan Mason In Middle Ground Against Cowboys",
+  "description": "Minnesota Vikings running back Jordan Mason is coming off a solid performance last week, but remains a risky, mid-tier option when his team travels to Dallas in Week 15. The first-year Viking has been solid when called upon, but has only finished better than 20th among PPR running backs one time this season. The Vikings have favored the run more than usual as they attempt to acclimate second-year quarterback J.J. McCarthy, though Mason has drawn double-digit touches only once in the past five weeks as Minnesota has continued to favor Aaron Jones Sr. The Cowboys rank a lowly 28th against PPR running backs, but Mason has just 13 catches on the season and has become a touchdown-dependent fantasy play. Ranked as RotoBaller's No. 41 running back for Week 15, Mason is likely best saved for deeper formats.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 15,
+  "team": "MIN",
+  "opp": "DAL",
+  "att": 10,
+  "tgt": 0,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210823",
+  "title": "Ty Chandler Won't Be Activated Off Injured Reserve This Week",
+  "description": "Minnesota Vikings running back Ty Chandler (knee) won't come off Injured Reserve this week and has been ruled out for Sunday night's game against the Dallas Cowboys. Chandler hasn't played since injuring his knee back in Week 1's win over the Chicago Bears. The 27-year-old had his practice window opened ahead of Week 13 against the Seattle Seahawks, but the team has still determined that he is not ready to return for game action. Chandler was a full participant in practice this week, so it seems he is getting close. He will need to be activated by next week, or he will revert to Injured Reserve and miss the remainder of the season. If he can return, Chandler will contribute primarily on special teams while serving as the RB3 behind Aaron Jones Sr. and Jordan Mason.",
+  "player_id": 8230,
+  "player_name": "Ty Chandler",
+  "week": 15,
+  "team": "MIN",
+  "opp": "DAL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

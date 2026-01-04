@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207547",
+  "title": "Blake Corum Continues to Carve Out Role in Rams Offense",
+  "description": "Los Angeles Rams running back Blake Corum remains a steady producer alongside Kyren Williams, as Williams held a slight lead in touches, 16 to 13, last week. While Williams continues to see the majority of the offensive snaps (58%), head coach Sean McVay has found ways to utilize his change-of-pace back. Corum has seen 12 or more carries in each of the last three games, but faces a stiff Seattle Seahawks defense in Week 11.  Corum should be considered a speculative add on the waiver wire this week, with exploitable defenses down the road.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 11,
+  "team": "LAR",
+  "opp": "SEA",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 61
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212125",
+  "title": "Jonathan Taylor Remains a Must-Start Running Back in Week 17",
+  "description": "Indianapolis Colts running back Jonathan Taylor has been excellent overall this season, recording 1,840 scrimmage yards and 19 touchdowns on 329 touches across 15 games. However, the 26-year-old's rushing efficiency has nose-dived in the second half of the season. Across his last seven games played, Taylor has averaged more than four yards per carry just once. In the two games since Philip Rivers took over as the starting quarterback in Indianapolis, Taylor is averaging 3.2 yards per rush attempt. In Week 17, Taylor faces a tough matchup against the Jacksonville Jaguars, who enter the week ranked sixth in the NFL in yards per carry allowed (4.1). However, Jacksonville has allowed 19 rushing touchdowns on the season, which ranks tied for fourth-worst in the league. Additionally, Taylor remains a safe bet for a heavy workload, as he's seen at least 19 touches in six straight weeks. Despite the efficiency concerns, Taylor remains a must-start fantasy running back in Week 17.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 17,
+  "team": "IND",
+  "opp": "JAX",
+  "att": 21,
+  "tgt": 6,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

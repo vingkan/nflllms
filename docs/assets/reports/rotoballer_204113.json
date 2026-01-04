@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204113",
+  "title": "Locked-In RB1 Josh Jacobs Looks To Feast In Week 6",
+  "description": "Green Bay Packers running back Josh Jacobs looks to maintain his robust role and bring the production along as the Packers host the Cincinnati Bengals in Week 6. While the volume and workload for Jacobs are certainly strong, the per-rush output for Jacobs is certainly concerning. Jacobs only has 266 rushing yards this season on 80 carries for a 3.3 yards per carry mark. That's one of the lowest in the league among qualified running backs. He's buoyed that inefficiency with four rushing touchdowns and 10 receptions for 115 yards in the receiving game. If there's a game to get Jacobs' efficiency going, it's this week against the Bengals. Cincinnati has allowed 122.6 rushing yards to opposing rushers, which is tied for third-worst in the NFL. Additionally, they've also allowed the most fantasy points per game (26.8) to backfields this season. Lock in Jacobs as a top running back for fantasy this week in a great matchup.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 6,
+  "team": "GB",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 93,
+  "receiving_catches": 5,
+  "receiving_yards": 57,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 3
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211298",
+  "title": "Zach Charbonnet's Touchdown Makes Up for Low Yardage in Week 16",
+  "description": "Seattle Seahawks running back Zach Charbonnet had nine carries for 32 rushing yards and one rushing touchdown during Thursday's Week 16 win over the Los Angeles Rams in overtime. He also caught all four of his targets for an additional 22 receiving yards. Charbonnet was outperformed by Kenneth Walker III in terms of touches, yards, and fantasy points, but he did still lead the backfield with his 56% snap share on Thursday night. Managers should expect the two backs to continue splitting work roughly 50/50 in this backfield from now on. That lowers the floor for both players, but if Seattle's offense plays well over the final two weeks, Charbonnet and Walker could each carve out standalone fantasy value as low-end RB2 or high-end RB3/flex options. Charbonnet should be a top-36 fantasy running back in Week 17, when he takes on a well-rounded Carolina Panthers squad.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 17,
+  "team": "SEA",
+  "opp": "CAR",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 110,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 6
+}

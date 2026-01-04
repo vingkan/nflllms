@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206879",
+  "title": "J.K. Dobbins Dominates Backfield in Touches Once Again",
+  "description": "Denver Broncos running back J.K. Dobbins fought through some pain in the second half as he paced the backfield with touches again, showing great patience and swift cuts in Thursday's 10-7 win against the Las Vegas Raiders in their primetime matchup. With 18 rush attempts on the night, Dobbins worked hard for his 77 yards against a Raiders defense that certainly came to play. Dobbins added one catch for seven yards on a night where quarterback Bo Nix struggled to produce much for the offense. The veteran out-touched running back mate RJ Harvey 19-6 is encouraging for his control in the offense, but notably, Harvey did steal a red-zone possession from Dobbins. Still looking to end the touchdown drought, Dobbins should maintain his healthy floor on a volume basis alone and is an RB2 in Week 11's matchup against the Kansas City Chiefs.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 11,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206684",
+  "title": "Vikings To Lean On Run Game Led By Aaron Jones Sr.?",
+  "description": "The Minnesota Vikings found their running game behind Aaron Jones Sr. (shoulder) last week in a win against the Detroit Lions, and head coach Kevin O'Connell said the success was something the team sorely needed. \"There was an element of play style and physicality that needed to be found, and I thought we did those things,\" O'Connell said of the victory, in which Minnesota rushed for nearly five yards per carry. The head coach was clearly happy with Jones, who piled up 98 total yards on nine carries and two catches, but departed the game with a sprained AC joint that the team does not believe is serious. The veteran was the more effective option when compared to Jordan Mason, whose struggles with pass protecting may impact the team's thinking going forward. Managers should keep an eye on injury reports this week, but the Vikings may be developing a rest-of-season formula that favors Jones over Mason.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

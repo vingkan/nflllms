@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208566",
+  "title": "Jahmyr Gibbs Could Be Set Up for Monster Outing in Week 12",
+  "description": "Detroit Lions running back Jahmyr Gibbs was one of his team's lone bright spots in their 16-9 Week 11 loss to the Philadelphia Eagles. Gibbs rushed for just 39 yards on 12 carries against the Eagles, but he hauled in five receptions for 107 yards on eight targets. The 23-year-old has now recorded at least 140 scrimmage yards in three out of his last four games and has already topped 1,000 scrimmage yards for the season. On paper, Gibbs has a good chance to extend his hot streak in Week 12 against the New York Giants. New York is allowing the most yards per carry (5.5) to opposing running backs in the NFL so far this season. There's also reason to believe that Gibbs will continue to feature heavily in Detroit's passing game. In the two games since Lions head coach Dan Campbell has taken over as the team's play-caller, Gibbs has been targeted 12 times. He profiles as a must-start fantasy running back in Week 12 against New York.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 12,
+  "team": "DET",
+  "opp": "NYG",
+  "att": 15,
+  "tgt": 12,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 219,
+  "receiving_catches": 11,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 55,
+  "ppr_scoring_position_rank": 1
+}

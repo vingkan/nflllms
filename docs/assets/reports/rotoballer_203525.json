@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203525",
+  "title": "RJ Harvey Ready to Provide Stand-Alone Fantasy Value Against Eagles",
+  "description": "Denver Broncos rookie running back RJ Harvey was able to earn a season-best 41% of snaps in Week 4 against the Cincinnati Bengals. However, this was due to replacing J.K. Dobbins for the majority of the 4th quarter in a blowout win. The rookie running back will look to carve out a role against the Philadelphia Eagles on Sunday. While Harvey will increasingly develop confidence in the coaching staff and through his own experience on the field, it's likely that, barring an injury to Dobbins, he will continue to be a change-of-pace back in closer games. The explosive rookie is developing some standalone value as a flex starter. Still, Dobbins' strong performances might continue to hold him back from reaching his actual ceiling as a talented 2nd round pick. Harvey is considered a solid FLEX play and is currently RB34 in the latest RotoBaller Week 5 rankings.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 5,
+  "team": "DEN",
+  "opp": "PHI",
+  "att": 4,
+  "tgt": 3,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

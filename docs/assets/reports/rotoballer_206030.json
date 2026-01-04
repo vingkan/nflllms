@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206030",
+  "title": "Breece Hall Not a Sure Thing to be Traded",
+  "description": "For most of the season, it was looking like a slam dunk that New York Jets running back Breece Hall would be traded, but ESPN's Dan Graziano's sense now is that \"it's no longer a sure thing.\" Hall is in the final year of his deal with the Jets, and the team has a pair of RBs they like behind him in Braelon Allen (knee) and Isaiah Davis. However, Allen is already out for the rest of this season, and there are people in the Jets building who are \"leery of the idea of trading Hall.\" The 24-year-old showed in the Week 8 upset win over the Cincinnati Bengals that he's still explosive, going for 133 rushing yards and two touchdowns, and throwing a touchdown. If the Jets receive a really strong offer for Hall, they will probably take it, but he's no longer a slam dunk to be traded. Ahead of next Tuesday's trade deadline, Hall's chances of being dealt could be 50-50.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "unknown",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

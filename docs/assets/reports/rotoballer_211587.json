@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211587",
+  "title": "Ameer Abdullah Should Stay Involved in Week 16",
+  "description": "Indianapolis Colts running back Ameer Abdullah saw his highest usage of the season during last week's loss to the Seattle Seahawks. Abdullah was basically a non-factor all season until getting nine touches in last week's defeat. Adbullah rushed the ball four times for 15 yards, while hauling in five receptions for 32 additional yards through the air. It appears Abdullah is going to benefit by having Philip Rivers under center in Indy, as the veteran QB looked his way quite often in the short passing game. Given his success last week, the Colts are likely going to continue using Adbullah in short-yardage situations as a check-down option for Rivers. There could be some flex appeal in deep PPR leagues for Abdullah ahead of this Monday Night matchup against the San Francisco 49ers, given that they allowed Tony Pollard to total 18.2 PPR points last week.",
+  "player_id": 2359,
+  "player_name": "Ameer Abdullah",
+  "week": 16,
+  "team": "IND",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 1,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 80
+}

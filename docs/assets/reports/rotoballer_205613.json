@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205613",
+  "title": "Breece Hall Eyes Bounce-Back Game Against Leaky Bengals' D",
+  "description": "New York Jets running back Breece Hall (knee) is in store for an excellent Week 8 matchup with the hosting Cincinnati Bengals. Hall picked up a minor knee issue in last weekend's loss to the Panthers that held him to a season-low in snap share (54%). Per head coach Aaron Glenn, he's trending toward suiting up for Sunday's contest, and the Jets could use him with wide receiver Garrett Wilson (knee) set to miss another appearance. If Hall is active, he'll be poised for a significant workload against a very beatable Bengals defense. Through seven weeks, Cincinnati has afforded opposing rushing attacks the sixth-most yards on the ground per game (137.3), and the second-most points per game (30.6). This is a superb spot for Hall, although his touchdown upside remains low in a struggling Jets' attack. The 24-year-old lands as RotoBaller's PPR RB16 for his meeting with the Bengals.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 8,
+  "team": "NYJ",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 133,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 4
+}

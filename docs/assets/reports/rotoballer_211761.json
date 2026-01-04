@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211761",
+  "title": "Tony Pollard Trending Towards Timeshare in Week 17?",
+  "description": "Tennessee Titans running back Tony Pollard could be trending towards a timeshare during their week 17 contest against the Saints. According to OC Nick Holtz, the split workload between Tyjae Spears and Pollard was \"how he envisioned\" their usage given their respective skill sets. In their victory over the Chiefs, Pollard took the bulk of the carries on the ground, logging 21 compared to Spears' 13. However, in the passing game, Spears took the load as he was targeted five times and brought in all five for 53 yards, while Pollard was not targeted once. While Pollard's upside as a pass catcher may continue to be limited, he is finding his footing on the ground, averaging a strong 122.3 rushing yards per game over his last three contests. During these three games, Pollard has only drawn two total targets in the receiving game. Pollard should still be viewed as a high-floor RB2 in all formats heading into a Week 17 tilt against the Saints. Spears has entered FLEX territory for those in deeper PPR formats.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 17,
+  "team": "TEN",
+  "opp": "NO",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 85,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 18
+}

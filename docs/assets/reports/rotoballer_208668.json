@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208668",
+  "title": "Blake Corum Continues to Have a Role Ahead of Week 12",
+  "description": "Los Angeles Rams running back Blake Corum continues to factor into the team's plans as they prepare for Week 12 against the Tampa Bay Buccaneers. Corum is averaging 12.8 carries over his last four games, but his efficiency has been far from desired. Last week, he had just 1.3 yards per carry and also lost two yards on his lone reception. Despite the efficiency concerns, Los Angeles continues to trust him to handle a standalone role behind Kyren Williams. While Williams remains the primary back, Corum has played at least 28% of the snaps in each of his last four games. This week's matchup looks intriguing on paper as the Buccaneers have allowed the ninth-most fantasy points to running backs in 2025. However, a large portion of those points have occurred in the passing game, and Corum doesn't have much of a receiving role. In fact, the Bucs have allowed the eighth-fewest rushing yards to running backs. As a result, Corum ranks outside the top-36 running back range for Week 12. Specifically, he's the overall RB41 in RotoBaller's latest fantasy rankings.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 12,
+  "team": "LAR",
+  "opp": "TB",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 50
+}

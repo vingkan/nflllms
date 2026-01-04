@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204185",
+  "title": "Javonte Williams Remains a Strong Starting Fantasy Option",
+  "description": "Dallas Cowboys running back Javonte Williams has been one of the best backs in the league early in the season. The 25-year-old has found a new home in Dallas and appears to be earning himself a nice payday at the end of the season. Last week, Williams rushed 16 times for a season-high 135 yards with a touchdown in the win over the New York Jets. Williams has rushed for over 75 yards in four of the first five games this season. He remains an elite RB1 for the upcoming plus-matchup against the Carolina Panthers in Week 6.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 6,
+  "team": "DAL",
+  "opp": "CAR",
+  "att": 13,
+  "tgt": 8,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 5,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

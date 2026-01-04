@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207767",
+  "title": "Will Shipley Could be the New Saquon Barkley Understudy",
+  "description": "Philadelphia Eagles running back Will Shipley set his season high for touches in a game last week against the Packers, carrying the ball four times and hauling in two catches. This resulted in 34 total yards, which is also his best in a single game this year. Philly's backfield has been tough to keep track of through the first 10 weeks, as Shipley, Tank Bigsby, and A.J. Dillon have rotated between the lead backup role behind Saquon Barkley. While Bigsby shined with over 100 rushing yards in Week 8, he got only 12.7% of offensive snaps against Green Bay compared to Shipley's 19%. Regardless of who gets the bulk going forward, Shipley is best left out of lineups this week against the Lions and should be rostered as a handcuff at best.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 11,
+  "team": "PHI",
+  "opp": "DET",
+  "att": 26,
+  "tgt": 2,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 27
+}

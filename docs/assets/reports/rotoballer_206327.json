@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206327",
+  "title": "Jonathan Taylor a Top-Three Fantasy RB in Week 9",
+  "description": "Indianapolis Colts running back Jonathan Taylor is putting together a historic season so far in 2025. Through eight games, Taylor has rushed for 850 yards and 12 touchdowns while adding two receiving touchdowns for the Colts. The best player in fantasy over the first half of the season, Taylor has scored exactly three touchdowns in a game four times so far this season, with the most recent instance coming in a Week 8 win over the Tennessee Titans. He will look to keep it going in a road matchup against the Pittsburgh Steelers in Week 9. The Steelers have been solid against the run this season, allowing just the 22nd-most fantasy points per game to the running-back position through seven games. Despite the tougher matchup, Taylor remains a top-three fantasy running back in Week 9.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 9,
+  "team": "IND",
+  "opp": "PIT",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 29
+}

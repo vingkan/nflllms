@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211430",
+  "title": "Chase Brown Still in the Must-Start Conversation in Week 16",
+  "description": "Cincinnati Bengals running back Chase Brown struggled on the ground in the last three games. However, he at least made up for it by catching 17 passes during that span. Without question, fantasy managers were expecting more from the 25-year-old after a quality 2024 campaign. Still, the upside is there, as evident by his two-touchdown effort in the Week 14 loss to the Buffalo Bills. The Bengals have already been eliminated from postseason contention. While that could result in Brown and some of the other starters shutting it down before the end of the regular season, he should handle his usual workload versus Miami in Week 16, keeping him in the must-start conversation. That applies even more for PPR participants if Tee Higgins (concussion) can't suit up, considering Brown will presumably remain in line for additional pass-catching opportunities.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 16,
+  "team": "CIN",
+  "opp": "MIA",
+  "att": 12,
+  "tgt": 4,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 66,
+  "receiving_catches": 4,
+  "receiving_yards": 43,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 2,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209221",
+  "title": "Aaron Jones Sr. On Starting Fringe In Risky Week 13 Game",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. has been solid when available, but a bad draw in Week 13 against Seattle makes him a risky start in fantasy lineups. Jones has finished between No. 12 and No. 27 among PPR running backs in four straight games, even in the midst of the team's offensive struggles, but this week may bring a new level of unpredictability. Due to injuries, Minnesota will play undrafted rookie quarterback Max Brosmer, who has never started an NFL game. They will also be without left guard Donovan Jackson (ankle), while standout left tackle Christian Darrisaw (knee, foot) is questionable. All of this comes against a Seattle defense that ranks seventh against PPR running backs. Jones gets enough receiving work to be in RB3/flex consideration, but managers can't be faulted for avoiding the Vikings' offense this week.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 13,
+  "team": "MIN",
+  "opp": "SEA",
+  "att": 6,
+  "tgt": 4,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 56
+}

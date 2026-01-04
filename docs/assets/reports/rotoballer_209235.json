@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209235",
+  "title": "Bam Knight Listed as Questionable for Week 13",
+  "description": "Arizona Cardinals running back Bam Knight (knee) is listed as questionable for the Week 13 game on Sunday against the hosting Tampa Bay Buccaneers, according to Darren Urban of AZCardinals.com. The Cardinals' backfield could be dangerously thin if Knight isn't able to play this weekend. Trey Benson (knee) will not come off the Injured Reserve, and Emari Demercado (ankle) has been ruled out for another game, too. If the 24-year-old Knight doesn't get cleared by Sunday, Michael Carter would jump into the RB1 role for the Cardinals, with Jermar Jefferson likely backing him up. Knight has been serving as the team's No. 1 back with Benson out. He was limited in practice all week, suggesting that he's on the right side of questionable. He's averaging a paltry 3.1 yards per carry in nine games (five starts) this year. If active, he'll be a touchdown-dependent RB3/flex for fantasy managers.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

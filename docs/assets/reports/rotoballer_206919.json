@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206919",
+  "title": "Aaron Jones Sr. Questionable for Week 10",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder, toe) is officially listed as questionable for Week 10's matchup against the Baltimore Ravens, according to Alec Lewis of The Athletic. Jones was able to log two limited practices on Thursday and Friday after opening the week with a DNP on Wednesday. The 30-year-old suffered an AC joint sprain in Minnesota's Week 9 win over the Lions and was forced to leave early, but he is trending in the right direction headed into Week 10. Jones already missed four games earlier this season after being placed on Injured Reserve due to a hamstring injury, but this recent injury shouldn't force him to miss too much time. Jones profiles as an RB3 for Week 10 if he can play, but if he is unable to go, Jordan Mason would be in line to lead the backfield with Zavier Scott mixing in.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207083",
+  "title": "Aaron Jones Sr. a Wait-And-See Option in Week 10",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder, toe) faces a strong matchup in Week 10 against Baltimore, but he comes into the game with a questionable designation, so fantasy managers will have to check on his availability before setting their lineups on Sunday. The veteran gained 98 yards on only 11 touches against Detroit last week and was playing ahead of backfield mate Jordan Mason, but left the game due to the aforementioned shoulder injury and did not return. He'll take on a Baltimore defense that ranks 26th against half-PPR running backs, but one that has looked improved during its past three games. Baltimore's past three opponents averaged just 13 points, and the Ravens had a few extra days of rest after playing on Thursday in Week 9. With Mason still part of the picture, Jones won't have complete control of the Vikings' backfield even if he plays, but he can be considered a quality RB3/flex option against Baltimore if he's active on Sunday.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

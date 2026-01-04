@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203659",
+  "title": "Rico Dowdle Offers Streaming Value for Week 5",
+  "description": "Carolina Panthers running back Rico Dowdle will take over as the lead back ahead of the Week 5 matchup against the Miami Dolphins. The Panthers are without Chuba Hubbard (calf) this week, so Dowdle is the next man up. Over the last two games, Dowdle has rushed 19 times for 62 yards and one touchdown. The 27-year-old has been working as the primary backup, but should offer streaming value as the starter. Trevor Etienne and DeeJay Dallas could also be involved, but Dowdle is the best option of the bunch. Given the injuries and byes in Week 5, Dowdle is looking like a viable RB2 to plenty of fantasy managers.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 5,
+  "team": "CAR",
+  "opp": "MIA",
+  "att": 23,
+  "tgt": 4,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 206,
+  "receiving_catches": 3,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206248",
+  "title": "Jaret Patterson Could Resume Backup Role in Week 9",
+  "description": "Los Angeles Chargers running back Jaret Patterson was elevated from the practice squad last week, playing 15 snaps and carrying the ball 11 times for 30 yards, mostly in the fourth quarter when the game was already out of reach. Patterson is now expected to be elevated to the active roster this Sunday after the team parted ways with Nyheim Hines. While Patterson showed promise in college, with a 409-yard, eight-touchdown game at Buffalo, Kimani Vidal has become the clear lead back and will face a weak Tennessee Titans run defense. Patterson's role will likely be limited to spelling Vidal during the game or taking additional carries if the Chargers build a large lead. He should not be started and can be safely kept on the bench. His only fantasy value is strictly as a handcuff to Vidal.",
+  "player_id": 7537,
+  "player_name": "Jaret Patterson",
+  "week": 9,
+  "team": "LAC",
+  "opp": "TEN",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 44,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 41
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206098",
+  "title": "Ollie Gordon II Outside Starting Range In Week 9",
+  "description": "Fantasy managers in most standard formats should not start rookie running back Ollie Gordon II when the Miami Dolphins play host to the Baltimore Ravens in Week 9. Despite coming off his best game in the NFL with 66 total yards and a touchdown last week, the rookie isn't earning enough touches to be relied upon for fantasy purposes. Stuck behind star running back De'Von Achane, Gordon has not caught more than one pass in a game, and he has earned double-digit carries only once in eight tries, drawing exactly 10 carries last week in the Dolphins' blowout victory against Atlanta. In the RB4 range for this week's matchup, Gordon is mostly a handcuff for Achane as long as the latter is healthy.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 9,
+  "team": "MIA",
+  "opp": "BAL",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 6,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 54
+}

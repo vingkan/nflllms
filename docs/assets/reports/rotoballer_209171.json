@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209171",
+  "title": "Devin Singletary Not a Strong Fantasy Option in Week 13",
+  "description": "New York Giants running back Devin Singletary had 14 carries for 47 yards in Week 12's 34-27 loss in overtime to the Detroit Lions. While the 14 carries appear encouraging, the 3.36 YPC does not. Additionally, Tyrone Tracy Jr. played 71 percent of the snaps and out-touched Singletary 23 to 14. Additionally, Tracy Jr. continues to be a running back involved in the passing game and getting a majority of the carries, with Singletary being brought in as a goal-line or change-of-pace back. Given Singletary's 14 carries and the possibility of being the team's goal-line back, he is still worth a hold in fantasy, but not someone that can confidently be started unless we see a shift in snap percentage or Tracy were to go down with an injury. Week 13 presents a challenging task: going to Foxboro to take on New England's stiff run defense, which has allowed the fewest fantasy points to opposing running backs this season. Singletary will not be a recommended start in Week 13, but could be held on fantasy managers' bench if they have the spot available.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 13,
+  "team": "NYG",
+  "opp": "NE",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 68,
+  "receiving_catches": 3,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

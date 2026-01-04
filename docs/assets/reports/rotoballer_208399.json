@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208399",
+  "title": "James Cook Breaks Off Long Touchdown in Primetime Loss",
+  "description": "Buffalo Bills running back James Cook had 17 carries for 116 rushing yards and one rushing touchdown during Thursday's Week 12 loss against the Houston Texans. He also caught all three of his targets for an additional 13 receiving yards. The highlight of his game was a 45-yard touchdown run to break a scoreless tie in the first quarter. Even as the Bills' offense was slowed down by the Texans' strong defense, Cook still had a very productive game and carved out a terrific fantasy performance once again. He logged his first rushing touchdown since Week 8 and now has nine trips to the end zone this season. He remains a high-end RB1 option heading into Week 13 against the Pittsburgh Steelers.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 13,
+  "team": "BUF",
+  "opp": "PIT",
+  "att": 32,
+  "tgt": 3,
+  "touches": 35,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 144,
+  "receiving_catches": 3,
+  "receiving_yards": 33,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

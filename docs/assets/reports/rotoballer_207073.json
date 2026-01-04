@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207073",
+  "title": "Trey Sermon Promoted To Steelers Active Roster",
+  "description": "The Pittsburgh Steelers have promoted running back Trey Sermon to their active roster from the practice squad ahead of their Week 10 matchup against the Los Angeles Chargers. Sermon has only appeared in three games this season for Pittsburgh, logging just one offensive snap and working almost entirely on special teams. The 26-year-old should be expected to play in a similar role on Sunday night against the Chargers, and potentially be in the mix for some touches on offense if one of the Steelers running backs ahead of him were to go down.",
+  "player_id": 7593,
+  "player_name": "Trey Sermon",
+  "week": 10,
+  "team": "PIT",
+  "opp": "LAC",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

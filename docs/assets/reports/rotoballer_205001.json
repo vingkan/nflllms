@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205001",
+  "title": "Javonte Williams Poised for Bounce-Back Game in Week 7?",
+  "description": "Dallas Cowboys running back Javonte Williams had his worst game of the season in Week 6, recording just 34 scrimmage yards on 18 touches against the Carolina Panthers. Still, the 25-year-old is having an excellent season, as he's logged 559 yards from scrimmage and six touchdowns on 114 total touches through the first six weeks of 2025. The Cowboys have had a penchant for playing high-scoring games so far this season, and they could have another on tap in Week 7 against the Washington Commanders. Williams has played a workhorse, three-down role all year in Dallas, which put him in a good position to be productive each week. If there's any cause for concern, it's that Washington has allowed just four rushing touchdowns through its first six games. Still, Williams projects for close to 20 touches and profiles as a must-start fantasy running back in Week 7.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 7,
+  "team": "DAL",
+  "opp": "WAS",
+  "att": 19,
+  "tgt": 4,
+  "touches": 23,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 116,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

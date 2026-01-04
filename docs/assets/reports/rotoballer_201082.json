@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201082",
+  "title": "James Conner Saves Shaky Season Opener with Touchdown Reception",
+  "description": "Arizona Cardinals running back James Conner did not have an efficient game, but did score a touchdown in his team's 20-13 Week 1 victory over the New Orleans Saints. Conner rushed for 39 yards on 12 attempts and added four catches for five yards and a touchdown as a receiver. Notably, second-year Cardinals running back Trey Benson was much more successful as a rusher, finishing with 69 yards on eight carries. Arizona may feature Benson more heavily in 2025, especially given that Conner is now 30 years old. The veteran still figures to be his team's goal-line back, but the workload split between Conner and Benson is one for fantasy managers to monitor closely in the coming weeks.",
+  "player_id": 4137,
+  "player_name": "James Conner",
+  "week": 2,
+  "team": "ARI",
+  "opp": "CAR",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 1,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 25
+}

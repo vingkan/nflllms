@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207772",
+  "title": "Jahmyr Gibbs Could Be in Line for More Receiving Work in Week 11",
+  "description": "Detroit Lions running back Jahmyr Gibbs dominated the Washington Commanders in Week 10, recording 172 scrimmage yards and three touchdowns on 18 touches. He'll now face a significantly tougher test in Week 11 when the Lions travel to Philadelphia to take on the Eagles. The Eagles' defense is a mid-pack unit in yards per carry allowed (4.4). However, they rank in the top ten in the NFL in per-game opponent scoring (21.3 points per game). One possible boost for Gibbs' fantasy value in Week 11 is his potential for receiving work. The Lions will be without tight end Sam LaPorta (back) against Philadelphia, which could put Gibbs in position for more targets. Even in a tough matchup, Gibbs profiles as a must-start fantasy running back in Week 11.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 11,
+  "team": "DET",
+  "opp": "PHI",
+  "att": 12,
+  "tgt": 8,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 39,
+  "receiving_catches": 5,
+  "receiving_yards": 107,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 10
+}

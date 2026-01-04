@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203621",
+  "title": "Raheem Mostert Takes Over as Raiders' Primary Backup",
+  "description": "Las Vegas Raiders running back Raheem Mostert appears to have overtaken Zamir White as the team's No. 2 option behind starter Ashton Jeanty. In Week 4, Mostert handled all eight snaps that Jeanty didn't play, making the most of his limited workload with 62 rushing yards on just four carries and adding an 11-yard reception. His explosiveness and home-run ability bring an exciting change of pace to the Raiders offense, giving him value in best ball formats where big plays can swing outcomes. However, Mostert's fantasy appeal in standard leagues remains limited, as Jeanty continues to dominate the touches in Las Vegas. Unless an injury opens the door for a larger role, Mostert should be viewed as a stash or deep-league bench option rather than a weekly fantasy contributor.",
+  "player_id": 2749,
+  "player_name": "Raheem Mostert",
+  "week": 5,
+  "team": "LV",
+  "opp": "IND",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 22,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 55
+}

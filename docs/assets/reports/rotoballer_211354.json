@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211354",
+  "title": "Isiah Pacheco Should Retain Lead Role In Week 16",
+  "description": "Kansas City Chiefs running back Isiah Pacheco led the backfield in the Week 15 loss to the Los Angeles Chargers. Pacheco handled 11 carries for 21 yards and did not earn a single target. The 26-year-old supplanted Kareem Hunt as the back with the most opportunities, but Pacheco only averaged 1.9 yards per carry with those opportunities. That said, he should retain the lead role in Week 16 against the Tennessee Titans. The Titans have allowed the 11th-most fantasy points to opposing running backs this season, so Pacheco should have an easier time finding success on the ground. The Chiefs could also lean on the run game more with Patrick Mahomes out for the season. Minshew will step into the lead role at quarterback, which could decrease the overall efficiency of the offense. So, Pacheco may end up getting more work, but the scoring opportunities could be less frequent. Pacheco is ranked RB40 in our RotoBaller Half-PPR rankings, making him a low-end flex option this week.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 16,
+  "team": "KC",
+  "opp": "TEN",
+  "att": 8,
+  "tgt": 7,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 6,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

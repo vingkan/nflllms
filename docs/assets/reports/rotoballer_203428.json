@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203428",
+  "title": "Tough Task For Jordan Mason In Week 5",
+  "description": "Minnesota Vikings running back Jordan Mason is facing a brutal matchup in Week 5 against the Cleveland Browns, but has enough command over his team's backfield to still be considered a low-end RB2. The Browns have allowed the fewest yards per carry of any team in the NFL, and the Vikings will meet them without three of five starters on their offensive line and a backup quarterback. But with fellow running back Aaron Jones (hamstring) still on injured reserve, Mason still should see a significant amount touches and a similar game plan to last week, in which he carried the ball 16 times and was targeted three times, catching all of them. Despite the highly unfavorable matchup, there's enough opportunity here for Mason to be considered for starting lineups.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 5,
+  "team": "MIN",
+  "opp": "CLE",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 52,
+  "receiving_catches": 3,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 22
+}

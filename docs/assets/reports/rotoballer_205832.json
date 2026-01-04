@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205832",
+  "title": "Chuba Hubbard Continues to be Underwhelming In Week 8",
+  "description": "Carolina Panthers running back Chuba Hubbard delivered another underwhelming fantasy performance in Week 8. The fifth-year running back rushed for 34 yards on 12 carries, although he did slightly pad his mediocre totals with a garbage-time TD in the fourth quarter. Hubbard finished with 9.4 fantasy points and had 12 carries to Rico Dowdle's eight. He averaged just 2.8 yards per carry, though, while Dowdle was at 6.8 per attempt. Hubbard remains an inefficient runner this season, as it was his third consecutive game with less than 50 rushing yards and his fourth straight with less than 10 fantasy points. The outlook for Hubbard is not likely to improve much in Week 9's matchup against the Green Bay Packers. The Packers have reeled off three straight wins and scored 27-plus points in their last four games. He's not much of a factor in the passing game if the Panthers must work from behind again. Hubbard will be a somewhat shaky flex option for Week 9.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 56
+}

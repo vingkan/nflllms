@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206853",
+  "title": "Aaron Jones Sr. Returns to Practice in a Limited Capacity on Thursday",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder, toe) was able to log a limited practice on Thursday after being held out of practice on Wednesday due to toe and shoulder injuries. Jones Sr. suffered an AC joint sprain in his shoulder during his team's Week 9 win over the Detroit Lions that forced him to exit the game early. However, he appears to be trending in the right direction heading into Minnesota's Week 10 matchup against the Baltimore Ravens. Across four games played this season, the 30-year-old has recorded 218 scrimmage yards and a touchdown on 34 touches. If Jones Sr. can't go against Baltimore, Vikings running backs Jordan Mason and Zavier Scott would likely split backfield work. Assuming Jones Sr. is cleared to play, he profiles as a high-end fantasy RB3/flex option in Week 10.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

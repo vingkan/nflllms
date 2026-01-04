@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207216",
+  "title": "Aaron Jones Sr. Active for Week 10 Against Ravens",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder, toe) is officially active for Sunday's Week 10 contest against the Baltimore Ravens. He had been listed as questionable after logging a limited practice on Friday. Jones exited last week's game with a shoulder injury, but it wasn't too serious, and now he'll return to action just seven days later. The 30-year-old should lead the Vikings' backfield on Sunday, looking to build off his average of 8.7 yards per carry from Week 9. He remains a low-end RB2 in fantasy football.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

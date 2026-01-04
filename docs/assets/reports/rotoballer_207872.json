@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207872",
+  "title": "Kyle Monangai Not Startable Against Vikings",
+  "description": "Chicago Bears rookie running back Kyle Monangai has been able to carve out a role in this Bears backfield. In his rookie season, Monangai has had 75 carries for 390 yards and two touchdowns, while adding 83 yards on nine receptions through the air. Despite being mostly undrafted in fantasy leagues this season, the 2025 seventh-round pick has stepped up as a key piece for fantasy teams. However, his streak of facing easy matchups comes to an end this week, as the Minnesota Vikings have allowed the 13th fewest fantasy points to running backs this season. They have been as good as any in the last few weeks, holding Derrick Henry and Jahmyr Gibbs to under double-digit fantasy points in back-to-back weeks. With Swift healthy and a capped ceiling in this matchup, Monangai is a low-end RB3 in Week 11, and a player that should be on benches this week.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 11,
+  "team": "CHI",
+  "opp": "MIN",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 23,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

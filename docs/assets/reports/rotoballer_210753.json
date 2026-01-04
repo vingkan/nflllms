@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210753",
+  "title": "Chuba Hubbard has Flex Appeal for Week 15",
+  "description": "Chuba Hubbard delivered his best performance of the season in Week 13 against the Rams before going on bye. In that game, Hubbard totaled 83 rushing yards on 17 carries and 41 receiving yards on two receptions. The Carolina RB finished the game with 20.4 PPR points, marking the first time this year he registered over 20 PPR points. Hubbard and Rico Dowdle nearly split the workload in this game, with Hubbard seeing more of the snaps (59%) for the first time since Dowdle was named the starting RB in Week 9. Head coach Dave Canales confirmed that Hubbard would be the preferred back for third-down situations. Carolina faces the New Orleans Saints in Week 15. New Orleans ranks 18th in Fantasy Points Per Game allowed to RBs this season. In Week 10 against New Orleans, Hubbard finished with only 14 rushing yards on three carries and posted 2.5 PPR points. With a decent matchup and increased volume, Hubbard has fantasy appeal as a flex option in deeper leagues.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 15,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 49
+}

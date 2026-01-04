@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203590",
+  "title": "Chase Brown Faces Another Tough Matchup in Week 5",
+  "description": "Cincinnati Bengals running back Chase Brown has been one of fantasy football's biggest disappointments to start the 2025 season. Through four weeks, Brown has 57 carries for just 133 yards and one touchdown, along with 11 catches for 74 yards, ranking as the RB35 in half-PPR formats on a per-game basis. He's struggled badly behind Cincinnati's offensive line, sitting dead last in the league in both yards per carry (2.3) and yards before contact (1.0). Week 5 doesn't offer much relief, as the Bengals face the Detroit Lions, who have allowed the ninth-fewest fantasy points to opposing running backs. Detroit's run defense has been one of the best in football over the past two seasons, making running lanes nearly nonexistent. Given the tough matchup and Brown's inefficiency, he should be considered no more than a low-end FLEX option in Week 5 lineups.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 5,
+  "team": "CIN",
+  "opp": "DET",
+  "att": 8,
+  "tgt": 8,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 27,
+  "receiving_catches": 7,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 24
+}

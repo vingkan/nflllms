@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210822",
+  "title": "MarShawn Lloyd Dealing With New Injury",
+  "description": "Green Bay Packers running back MarShawn Lloyd (calf) has been on Injured Reserve the entire season with a calf injury, and he is now dealing with a hamstring injury, according to Tom Silverstein of the Milwaukee Journal Sentinel. It was reported on Friday that the second-year back will not be activated from Injured Reserve this week. A hamstring injury has been an ongoing issue since training camp for Lloyd, but it wasn't listed when he was designated to return. Lloyd now just has one week of practice eligibility left before he must be activated, or he will be out for the rest of the season. The 2024 third-rounder has been devastated by injury since entering the league, playing in only one game since entering the league last year. If Josh Jacobs (knee) is unable to play in Week 15 against the Denver Broncos, it will likely be Emanuel Wilson (illness) leading the way with Chris Brooks as the backup, though Wilson was also added to the injury report on Saturday with an illness.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

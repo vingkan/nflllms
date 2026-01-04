@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206551",
+  "title": "Kyle Monangai Emerging as the Lead Back in Chicago?",
+  "description": "Chicago Bears rookie running back Kyle Monangai had a monster game filling in for the injured D'Andre Swift (groin) in Week 9. Monangai recorded 198 scrimmage yards on 29 touches in his team's 49-42 win over the Cincinnati Bengals. Swift's injury is not expected to keep him out long-term, so fantasy managers should not expect Monangai to see 20-plus touches every week. However, the rookie was closing the gap between the backs even before Swift went down. In Week 8 against the Baltimore Ravens, Swift played 31 offensive snaps while Monangai was just behind him at 29. Monangai is currently averaging 5.3 yards per rush attempt, so his efficiency may make it difficult to keep him off the field. In fantasy leagues where he remains available, Monangai should be a priority waiver-wire target heading into a favorable Week 10 matchup against the New York Giants.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 10,
+  "team": "CHI",
+  "opp": "NYG",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

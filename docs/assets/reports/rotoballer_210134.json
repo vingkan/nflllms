@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210134",
+  "title": "Bhayshul Tuten has Low-End Flex Value vs. Colts",
+  "description": "Jacksonville Jaguars running back Bhayshul Tuten experienced a breakout performance during the Week 11 contest against the Los Angeles Chargers. The rookie back rushed 15 times for 74 yards and a touchdown during the victory. Outside of that, Tuten has been held to under 45 rushing yards in every other game. He remains the No. 2 option with Travis Etienne Jr. leading the way. The 23-year-old is set to back up Etienne once again in Sunday's matchup against the Indianapolis Colts. Most weeks, Tuten doesn't even see 30 percent of the offensive snaps. However, the forecast for Jacksonville calls for heavy rain, so Tuten could see more opportunities as the Jaguars might lean on the run more with inclement weather. Tuten hasn't been consistent enough to trust yet and is a low-end flex option in Week 14.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 14,
+  "team": "JAX",
+  "opp": "IND",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 5,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": -1,
+  "ppr_scoring_position_rank": 72
+}

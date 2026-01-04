@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204055",
+  "title": "Chris Rodriguez Jr. on the Week 6 Injury Report, Misses Practice Thursday",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (calf) was a notable addition to the team's Week 6 injury report due to a calf injury that kept him from taking part in the first practice of the week on Thursday. Rodriguez still has a couple of days to return to practice, but this puts his availability for Monday night's game against the Chicago Bears in question. If the 25-year-old cannot play this week, rookie Jacory Croskey-Merritt could have a second straight heavy-volume day in the backfield. The Commanders had been using a committee backfield approach with Rodriguez, Croskey-Merritt, and Jeremy McNichols until the rookie took a season-high 14 carries for his first career 100-yard rushing day and two touchdowns in last week's win over the Los Angeles Chargers. Rodriguez has seen his usage drop, going from 11 carries in his season debut in Week 3 against the Raiders to five carries on Sunday for just five yards.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 6,
+  "team": "WAS",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

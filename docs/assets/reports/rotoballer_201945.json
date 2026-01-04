@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201945",
+  "title": "D'Andre Swift Limited for Second Straight Day",
+  "description": "Chicago Bears running back D'Andre Swift (quadriceps) is dealing with a quad injury going into a Week 3 date with the Dallas Cowboys this Sunday and has put in two limited practices so far this week, according to Phillip Thompson of the Chicago Tribune. If Swift isn't a full-go in Friday's practice, he could head into Sunday with a questionable tag. The 26-year-old has been Chicago's clear RB1 through two weeks of the 2025 season, turning 29 carries into 116 yards (4.0 yards per tote) and a touchdown while adding six catches for 18 yards through the air. If he's able to play in Week 3 against what has been a porous Cowboys defense, Swift should be considered on the RB2/3 borderline in fantasy. If he is out or limited at all against Dallas, the Bears will use more of Roschon Johnson and rookie Kyle Monangai.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 3,
+  "team": "CHI",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

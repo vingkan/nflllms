@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205344",
+  "title": "Rhamondre Stevenson Solidifies Himself as the Workhorse in New England",
+  "description": "New England Patriots running back Rhamondre Stevenson has solidified himself as the clear workhorse in the backfield. Through seven games, Stevenson has totaled 69 carries for 245 yards and three touchdowns, while adding 15 receptions for 154 yards through the air. He showcased his trademark power running style in Week 7, rumbling for 88 yards and a touchdown on 18 carries against the Tennessee Titans. Many expected rookie TreVeyon Henderson to see an expanded role following Antonio Gibson's season-ending knee injury, but that hasn't materialized. Over the last two games, Stevenson has dominated the workload, playing 77% of the snaps, compared to Henderson's 15%. While Stevenson remains the lead back, fantasy managers should still proceed with caution, as any given week could feature a change in the backfield rotation, especially with the team's second-round investment in Henderson. For Week 8, Stevenson projects as a high-end RB3 against the Cleveland Browns, who boast one of the toughest run defenses in the league.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 8,
+  "team": "NE",
+  "opp": "CLE",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 1,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 35
+}

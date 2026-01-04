@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208401",
+  "title": "Woody Marks Efficient While Leading Texans' Backfield Against Bills",
+  "description": "Houston Texans running back Woody Marks rushed for 74 yards on 16 carries during Thursday's Week 12 win over the Buffalo Bills. He also caught his lone target for a loss of five yards. Marks led the Texans' backfield in the victory, notably logging 10 more carries than Nick Chubb. He averaged 4.6 yards per carry and was productive in short-yardage scenarios, rushing for a handful of first downs. Although Marks' lack of touchdowns and receptions resulted in him finishing below his fantasy projection in most formats, it was encouraging to see him handle the lead-back role with efficiency once again. He remains a mid-to-low RB2 with high volume heading into Week 13 against the Indianapolis Colts.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 13,
+  "team": "HOU",
+  "opp": "IND",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 64,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 42
+}

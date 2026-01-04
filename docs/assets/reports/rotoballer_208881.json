@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208881",
+  "title": "Bhayshul Tuten Worth a Look for Week 13",
+  "description": "Jacksonville Jaguars running back Bhayshul Tuten was unable to find much success in the running game during Sunday's game against the Arizona Cardinals. Tuten rushed the ball seven times for 17 yards in the overtime victory. It's worth noting that Tuten did carry an ankle injury into this game, so possibly that impacted his performance on the field. In Week 11, Tuten rushed for 74 yards with a touchdown in the win over the Los Angeles Chargers. The rookie back remains the backup, but should continue seeing nearly double digit carries per week. His struggles this week could make fantasy managers hesitant, but he does head into a plus matchup against the Tennessee Titans in Week 13.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 13,
+  "team": "JAX",
+  "opp": "TEN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 40
+}

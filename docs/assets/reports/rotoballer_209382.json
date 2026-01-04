@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209382",
+  "title": "Jaylen Warren Draws Perfect Matchup in Week 13",
+  "description": "Pittsburgh Steelers running back Jaylen Warren had a solid game last week and will look to build on that performance against the Buffalo Bills in Week 13. Buffalo has been solid against the pass but extremely vulnerable on the ground, surrendering the third-most rushing yards, the second-most yards per carry, and the third-most fantasy points to opposing running backs. Warren will continue to split work with Kenneth Gainwell, who has emerged as Pittsburgh's preferred receiving back. Still, Warren remains the clear leader on the ground. The 27-year-old has logged double-digit carries in every game he's played this season, while Gainwell has reached 10 carries just twice. Though the Steelers enter this matchup as underdogs, they are projected to keep it competitive at home, suggesting plenty of utilization for Warren throughout. Fantasy managers should treat Warren as a high-end RB2 with upside on Sunday.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 13,
+  "team": "PIT",
+  "opp": "BUF",
+  "att": 10,
+  "tgt": 4,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 35,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 23
+}

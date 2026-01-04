@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206153",
+  "title": "Josh Jacobs Still Limited in Thursday's Practice",
+  "description": "Green Bay Packers running back Josh Jacobs (calf) continues to deal with a calf injury and was limited again during Thursday's practice, according to Matt Schneidman of The Athletic. Jacobs has played through a calf injury each of the last two weeks, although he's had his two lowest snap rates in those games at just over 50%. The 27-year-old had only 33 rushing yards on 13 carries in the Sunday night win over the Pittsburgh Steelers, but he also found the end zone on the ground for the fourth straight week. While Jacobs hasn't gone over 100 yards in a game yet in 2025, he's been money for fantasy managers with nine rushing touchdowns in seven games played. The only game in which he didn't find the end zone was on Sept. 21 in the upset loss to the Cleveland Browns. Jacobs should be active this Sunday against the Carolina Panthers, where he'll be a touchdown-dependent midrange RB1 in fantasy.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 9,
+  "team": "GB",
+  "opp": "CAR",
+  "att": 17,
+  "tgt": 5,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 87,
+  "receiving_catches": 4,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

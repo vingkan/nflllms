@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209185",
+  "title": "Trey Benson Won't Return From Injured Reserve in Week 13",
+  "description": "According to head coach Jonathan Gannon, Arizona Cardinals running back Trey Benson (knee) will miss Sunday's outing with the hosting Tampa Bay Buccaneers. The Florida State alum returned to practice last week and worked in a limited capacity as he battles back from a lengthy absence due to a knee injury. Benson would start this week the same; however, he'd be downgraded to a DNP on Thursday, and will now miss his eighth consecutive contest. For what it's worth, Gannon noted that the 23-year-old won't be shut down long-term. With Emari Demercado (ankle) and Bam Knight (knee) also dealing with their own respective injuries, it could be Michael Carter and Jermar Jefferson manning the backfield against the Buccaneers. Jefferson has been active just once for the team and has yet to receive a touch in 2025.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

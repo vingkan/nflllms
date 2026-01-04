@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208389",
+  "title": "Michael Carter Back to Handling Larger Workload?",
+  "description": "Arizona Cardinals running back Michael Carter is trending up ahead of Sunday's Week 12 contest against the Jacksonville Jaguars. The 26-year-old was factored out of the Cardinals' plans in the two games following their bye week, but he returned to a larger role last Sunday, catching five of seven targets for 22 receiving yards. While the sample size is too small to make any guarantees, it certainly appears that Carter could be in line to operate as the Cardinals' top receiving back going forward. He'll earn some carries, too, and managers have to be intrigued after he edged out Bam Knight for the highest snap share in Arizona's backfield last week. Knight and Carter will split most of the opportunities on Sunday after Emari Demercado (ankle) was already ruled out for Week 12. Both backs will rank as RB3/flex options, with Carter gaining a slight advantage over his backfield-mate in full-PPR leagues.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 28,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

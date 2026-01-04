@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201227",
+  "title": "Chris Brooks To Retain Minor Role Behind Josh Jacobs in Week 2",
+  "description": "Green Bay Packers running back Chris Brooks looks to build on his minor role within the team's offense as the Packers host the Washington Commanders in Week 2. Brooks played well in Green Bay's preseason games, and his status in the running back pecking order ahead of fellow back Emanuel Wilson remained true. While Brooks remains a clear and distant role player for the Packers, he did get much more work than Wilson did. If something happened to Josh Jacobs, it's fair to say Brooks' role would increase in what would likely be a split backfield with Wilson. Brooks' situational role keeps him firmly on waivers for Week 2.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 2,
+  "team": "GB",
+  "opp": "WAS",
+  "att": 23,
+  "tgt": 0,
+  "touches": 23,
+  "actual": "high",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 84,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 21
+}

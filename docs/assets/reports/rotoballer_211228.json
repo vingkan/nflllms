@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211228",
+  "title": "Josh Jacobs Won't Practice on Thursday",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) will not practice on Thursday, according to head coach Matt LaFleur. The Athletic's Matt Schneidman guesses that Jacobs will be listed as questionable on the final Week 16 injury report, but he will play on Saturday night against the division-rival Chicago Bears. Jacobs was also questionable with his nagging knee injury last week, but he managed to suit up in the Week 15 loss to the Denver Broncos, where he handled 12 carries for 73 yards and a touchdown and added two receptions for 19 yards and another score as a receiver. Jacobs has not practiced all week, and it's clear that his knee is bothering him, but he plans to tough it out and play in a big divisional game this weekend in Chicago. Expecting 20-plus carries from Jacobs probably isn't wise, but as long as he's active, fantasy managers shouldn't be benching a RB who has 14 total touchdowns in 13 games in 2025.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

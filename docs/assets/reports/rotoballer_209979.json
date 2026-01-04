@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209979",
+  "title": "Jaylen Warren a Rock-Solid RB2 Against Baltimore",
+  "description": "Pittsburgh Steelers running back Jaylen Warren has scored in two consecutive contests and will look to keep that momentum going in a Week 14 road matchup with the Baltimore Ravens. The Ravens have been below average against the run this season, surrendering over 4.4 yards per carry and 11 rushing touchdowns. Baltimore has also struggled to contain pass-catching running backs, allowing the seventh-most targets, ninth-most receptions, and eighth-most receiving yards to the position. Warren hasn't been as consistently utilized through the air as he was early in the season, but he remains fully capable as a check-down option for quarterback Aaron Rodgers (wrist). Even with Kenneth Gainwell emerging as a reliable weapon for Pittsburgh, Warren is still the team's primary runner and preferred option on early downs. Fantasy managers should treat Warren as a solid RB2 heading into Sunday.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 14,
+  "team": "PIT",
+  "opp": "BAL",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 13,
+  "receiving_catches": 3,
+  "receiving_yards": 49,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

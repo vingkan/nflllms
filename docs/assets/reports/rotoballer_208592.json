@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208592",
+  "title": "Kyle Monangai Touchdown Dependent Against Tough Steelers Run Defense",
+  "description": "Chicago Bears rookie running back Kyle Monangai has found the endzone in back-to-back weeks and continues to be a factor in this offense. Since Week 7, Monangai has averaged 76.2 scrimmage yards per game and has scored three touchdowns in those five games. While his role has shrunk since the return of D'Andre Swift, Monangai continues to produce and find the endzone. However, without a key receiving role and a limited snap share (39%), Monangai is very risky entering a tough Week 12 matchup against the Pittsburgh Steelers. This Steelers defense has allowed the eighth fewest fantasy points to running backs this season and hasn't allowed two running backs on the same team to total over 35 rushing yards in a game. While Monangai is performing well, the seventh-round pick is a high-risk RB3 in Week 12.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 12,
+  "team": "CHI",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 0,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 48,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

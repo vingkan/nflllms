@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209828",
+  "title": "Woody Marks Returns to Thursday's Practice",
+  "description": "Houston Texans rookie running back Woody Marks (ankle) is back at practice on Thursday, according to Jonathan M. Alexander of the Houston Chronicle. Marks did not practice on Wednesday, but head coach DeMeco Ryans said the 24-year-old is expected to be fine to suit up in Week 14 on Sunday Night Football versus the Kansas City Chiefs. With veteran Nick Chubb lacking explosiveness, Marks has been the better upside play in fantasy football in Houston's backfield this year. The fourth-rounder out of USC has had double-digit carries in each of the last seven games, including at least 16 rushing attempts the last three weeks. Marks had a season-high 19 carries in last week's win over the Colts, producing 64 yards while also catching one pass for three yards. The Chiefs aren't an ideal matchup for Marks -- they've allowed only eight TDs to the position all year -- but for the volume alone, Marks is at least a low-end RB2 for fantasy.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 14,
+  "team": "HOU",
+  "opp": "KC",
+  "att": 26,
+  "tgt": 3,
+  "touches": 29,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 68,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

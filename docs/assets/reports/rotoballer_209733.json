@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209733",
+  "title": "Cardinals Non-Committal on Trey Benson's Return This Week",
+  "description": "The Arizona Cardinals have been non-committal on running back Trey Benson (knee) coming off Injured Reserve to play in Week 14 against the division-rival Los Angeles Rams, per Theo Mackie of The Arizona Republic. When asked if Benson has a chance to play this Sunday, head coach Jonathan Gannon said, \"We'll see.\" The 23-year-old second-year back has been out since Week 4 after needing surgery on his knee, but he practiced last week and is nearing a return to action. Fantasy managers who have been stashing Benson all of this time are chomping at the bit to get him back into their starting lineups with the fantasy playoffs just around the corner. However, he should be considered questionable for a bad matchup this weekend against L.A., and even if Benson does make his return, we won't be surprised if he's eased into more of a timeshare with Bam Knight in his first game back.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 14,
+  "team": "ARI",
+  "opp": "LAR",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

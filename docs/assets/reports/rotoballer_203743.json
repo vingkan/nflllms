@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203743",
+  "title": "David Montgomery Gets Involved in Trickery, Totals Two Touchdowns Against Cincy",
+  "description": "Detroit Lions running back David Montgomery rushed for 65 yards and a touchdown on 18 carries during Sunday's Week 5 win over the Cincinnati Bengals. He also converted his lone target into a six-yard reception. Furthermore, the veteran running back was involved in a trick play as he threw a three-yard touchdown pass to tight end Sam LaPorta. In the end, Montgomery finished the victory with 71 scrimmage yards and two total touchdowns. He was the team's leading rusher and also posted a season-high in carries. While we can't necessarily expect Montgomery to replicate this type of performance going forward, he has established himself as a high-end RB3/flex option once again in 2025. He should be started in leagues with at least 10 teams when he takes on the Kansas City Chiefs next week.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 6,
+  "team": "DET",
+  "opp": "KC",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 2,
+  "receiving_yards": 37,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 29
+}

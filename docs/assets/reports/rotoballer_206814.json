@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206814",
+  "title": "Chiefs Sent Jets Offer for Breece Hall",
+  "description": "At the trade deadline, the Kansas City Chiefs made an attempt to acquire New York Jets running back Breece Hall. Hall had been the subject of trade rumors and reportedly expressed interest in a change of scenery. The Jets were believed to be seeking a third-round pick, a steep price for a running back who is not under contract beyond the 2025 season. Kansas City ultimately chose not to make the move, signaling confidence in their current backfield of Isiah Pacheco, Kareem Hunt, and Brashard Smith. It sets up a fascinating offseason for Hall and the Jets, but whether the Chiefs will regret not landing the rising star remains to be seen.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

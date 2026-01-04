@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206274",
+  "title": "Chris Rodriguez Jr. Off Fantasy Radars For Week 9",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. has seen his snap share decline over the past few weeks. After playing at least 25% of the snaps and handling five or more carries in Weeks 3-5, he's logged just 12 snaps and four carries over the past three games. The backfield touches have consolidated around rookie Jacory Croskey-Merritt on early downs, with veteran Jeremy McNichols handling pass downs both as a receiver and pass protector. Rodriguez could see more touches in Week 9, but it's a brutal matchup against a Seattle defense that has allowed a league-best 3.3 yards per carry. Rodriguez should be left on waivers for Week 9.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 9,
+  "team": "WAS",
+  "opp": "SEA",
+  "att": 12,
+  "tgt": 0,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 65,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 16
+}

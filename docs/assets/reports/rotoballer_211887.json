@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211887",
+  "title": "Blake Corum Continues to Carve Out a Role in Rams Offense",
+  "description": "Los Angeles Rams running back Blake Corum has carved out a role in one of the most fantasy-productive offenses in the NFL. Since Week 13, Corum has scored more than 13 fantasy points and finished among the top 24 running backs in PPR formats. During this stretch, Corum has scored a touchdown in each game and has scored five touchdowns in total. The Rams have deployed a split backfield over the last couple of weeks to keep Kyren Williams fresh and healthy for a potential Super Bowl run. Despite splitting work, both running backs have remained fantasy viable. With the offense consistently playing in the red zone, both backs have been able to score touchdowns and produce for fantasy managers. Corum has built a solid resume that managers can depend on and can be trusted as a flex option during fantasy championships.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 17,
+  "team": "LAR",
+  "opp": "ATL",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 18,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 64
+}

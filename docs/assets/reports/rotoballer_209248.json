@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209248",
+  "title": "Zach Charbonnet Remains a Touchdown-Dependent Flex in Week 13",
+  "description": "Seattle Seahawks running back Zach Charbonnet is a risky play in Week 13 against the Minnesota Vikings. Minnesota is No. 11 against opposing running backs in fantasy. They are not world beaters, but they are allowing just 3.92 yards per carry to opposing running backs. Charbonnet has not been the most efficient running back this season, but he has been a great touchdown scorer. Charbonnet has scored seven touchdowns this season. In games in which Charbonnet scores a touchdown, he delivers RB2 or flex value. If Charbonnet does not score a touchdown, he is only able to score single-digit fantasy points. While the Vikings have a solid defense, Seattle should be able to move the ball against them. If they reach the five-yard line, Charbonnet will have a good chance to score. However, with no teams on bye this week and minimal running back injuries, Charbonnet is likely off the fantasy radar. If you are forced to start him, he is a very risky play.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 13,
+  "team": "SEA",
+  "opp": "MIN",
+  "att": 14,
+  "tgt": 0,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 52,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 29
+}

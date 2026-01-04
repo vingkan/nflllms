@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209410",
+  "title": "Devin Neal Offers Low-End RB2 Value for Week 13",
+  "description": "New Orleans Saints running back Devin Neal won't carry an injury designation into Sunday's game after dealing with an ankle injury throughout the week. It appears the rookie back is ready to go versus the Miami Dolphins. Neal will take over as the lead back with Alvin Kamara (knee, ankle) ruled out for this Week 13 contest. Neal carried the ball seven times for 18 yards, while hauling in five receptions for 43 yards during last week's loss to the Atlanta Falcons. The rookie back figures to be the primary option in the backfield with Audric Estime, Evan Hull, and Taysom Hill possibly getting involved as well. Neal should be able to do enough damage to be considered a low-end RB2 for this upcoming matchup.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 13,
+  "team": "NO",
+  "opp": "MIA",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 36
+}

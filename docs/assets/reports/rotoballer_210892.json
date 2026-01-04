@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210892",
+  "title": "Bam Knight Carted Off, Questionable To Return With Ankle Injury",
+  "description": "The Arizona Cardinals said running back Bam Knight (ankle) is questionable to return to Sunday's game against the Houston Texans after departing due to an ankle injury. The fourth-year pro was carted off, just the latest in a brutal season for the Cardinals. Quarterback Kyler Murray (foot), running back James Conner (foot), and running back Trey Benson (knee) are already out for the season, while 2024 first-round pick Marvin Harrison Jr. (heel) is out today for the fourth time in five weeks. If Knight is unable to return Sunday, the Cards likely will lean on the tandem of Michael Carter and Emari Demercado (ankle), the latter of whom was questionable for the game but is active.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 16,
+  "team": "ARI",
+  "opp": "ATL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

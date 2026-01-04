@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204163",
+  "title": "Rachaad White has Borderline RB1 Value",
+  "description": "Tampa Bay Buccaneers running back Rachaad White is set to make another start this Sunday versus the San Francisco 49ers. White made his first start of the season during last week's win over the Seattle Seahawks. The 26-year-old rushed 14 times for 41 yards with two touchdowns. He also hauled in four receptions for an additional 30 yards through the air. White figures to remain a focal point on offense with Bucky Irving (foot), Mike Evans (hamstring), and Chris Godwin (leg) all expected to miss Week 6. The Bucs really have no choice but to get White involved. He's a capable option in both the running and receiving game, which gives him borderline RB1 value for this weekend.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 6,
+  "team": "TB",
+  "opp": "SF",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 3,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206267",
+  "title": "Tyler Allgeier Ready to Play in Week 9",
+  "description": "Atlanta Falcons running back Tyler Allgeier (knee) doesn't carry an injury designation into Sunday's game against the New England Patriots. Allgeier was limited in practice on Thursday, but that won't stop him from playing in Week 9. The 25-year-old played through the same issue last week and handled a season-high 40 percent of the offensive snaps. The increase in playing time was likely due to the fact that the game was a blowout. Allgeier figures to return to his regular role this weekend. He's a touchdown-dependent option heading into Week 9.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 9,
+  "team": "ATL",
+  "opp": "NE",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 6,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

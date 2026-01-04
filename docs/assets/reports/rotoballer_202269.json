@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202269",
+  "title": "D'Andre Swift Will Play Through Injury On Sunday",
+  "description": "Chicago Bears running back D'Andre Swift (quadriceps) will play through the injury when his team plays host to the Dallas Cowboys on Sunday, according to NFL Network's Ian Rapoport. The running back is listed as questionable on the final injury report, but he'll be in Chicago's starting lineup come game time against Dallas. Swift has been solid for the struggling Bears, ranking as the No. 22 overall running back through two weeks despite the 0-2 start. Due to his steady receiving workload and a middling Cowboys defense against running backs, Swift is a startable flex option in Week 3.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 3,
+  "team": "CHI",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

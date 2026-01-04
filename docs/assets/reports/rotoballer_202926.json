@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202926",
+  "title": "Devin Singletary Still Facing Limited Workload in New York?",
+  "description": "New York Giants running back Devin Singletary has barely been utilized so far in 2025, recording just eight carries for 24 yards across three games. However, the Giants will be without running back Tyrone Tracy Jr. (shoulder) in Week 4 against the Los Angeles Chargers. That sets Singletary up to step into the RB2 role behind Giants rookie back Cam Skattebo. Skattebo has a three-down skill set, so fantasy managers should still expect Singletary's workload to be limited. Singletary is not worth starting in Week 4 against Los Angeles, but he could be worth rostering in deeper leagues as the handcuff to Skattebo while Tracy Jr. is sidelined.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 4,
+  "team": "NYG",
+  "opp": "LAC",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 55
+}

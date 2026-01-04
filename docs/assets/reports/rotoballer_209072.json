@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209072",
+  "title": "Keaton Mitchell a Risky Option in Week 13",
+  "description": "Baltimore Ravens running back Keaton Mitchell is set to see a bit more action in Week 13 after Justice Hill (neck) has officially been ruled out. In Week 12, Mitchell finished with more touches (3) than Hill (0) despite the fact that he had a 19% snap share compared to Hill's 25%. The young speedster has been more efficient and explosive with his touches this season, and more action against a vulnerable defense should mean great opportunities. The Cincinnati Bengals rank last against opposing backfields and have given up a total of nine touchdowns on the ground and five through the air to running backs. While this all equates to good things for Mitchell, he's still projected outside the top 50 and would be a very risky flex option, even in deeper leagues.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 13,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 2,
+  "tgt": 3,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 19,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 30
+}

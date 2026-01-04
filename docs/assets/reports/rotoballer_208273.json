@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208273",
+  "title": "D'Andre Swift Limited in Practice on Wednesday",
+  "description": "Chicago Bears running back D'Andre Swift (hip) was listed as a limited participant in Wednesday's practice session, according to the team's official website. Swift has been a regular on the injury report with various nagging injuries and missed Chicago's Week 9 win over the Bengals, but has played in each of the past two weeks and resumed his lead-back role. The 26-year-old handled a season-high 21 carries for 90 yards in a Week 11 win over Minnesota. Rookie Kyle Monangai stayed involved with 13 touches for 37 yards and a rushing touchdown, but Swift has still been their best option. Swift was limited in Wednesday's practice last week before being upgraded to full on Thursday and Friday, and he should be on track to play again in Week 12 against the Pittsburgh Steelers.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 12,
+  "team": "CHI",
+  "opp": "PIT",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 15,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 54
+}

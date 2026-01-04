@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211487",
+  "title": "Rico Dowdle is an RB2 Start Against the Buccaneers",
+  "description": "Rico Dowdle had 16 carries for 49 yards and one touchdown in Week 15 against the New Orleans Saints. The Carolina RB added five receiving yards on one reception to total 12.4 PPR points. Since Week 9, Dowdle has averaged 15.4 PPR points and finished with double-digit PPR points in five games. Carolina will face their NFC South rival, the Tampa Bay Buccaneers, in Week 16. Tampa Bay ranks 23rd in Fantasy Points Per Game allowed to RBs this season. They have also surrendered the most receiving yards to RBs in the league this year (783). With solid volume and a decent matchup, Dowdle is worth starting as an RB2 for the fantasy football playoffs, even with his workload being split with Chuba Hubbard. Dowdle has logged 16+ carries in five of his last six starts. He will see important work in the major NFC South showdown against the Buccaneers.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 16,
+  "team": "CAR",
+  "opp": "TB",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 29,
+  "receiving_catches": 4,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 39
+}

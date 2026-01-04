@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205749",
+  "title": "Breece Hall Expected to Play Against Cincinnati",
+  "description": "According to NFL Media's Ian Rapoport, New York Jets running back Breece Hall (knee) is expected to play in Sunday's game against the Bengals. The 24-year-old was limited to 38 yards off 11 carries in the Week 7 loss to the Carolina Panthers. He also picked up a knee injury, limiting him in practice on Wednesday and Thursday. While Hall managed to log a full session on Friday, his presence still wasn't enough to dodge a questionable designation for Week 8. The Jets' injury report is loaded, with Garrett Wilson (knee), Tyrod Taylor (knee), and Josh Reynolds (hip) all ruled out. As a result, it could be a busy day for Hall versus a Bengals defense that has allowed the most fantasy points to opposing backs throughout the 2025 campaign, giving him plenty of upside for managers in any format.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 8,
+  "team": "NYJ",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 133,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 4
+}

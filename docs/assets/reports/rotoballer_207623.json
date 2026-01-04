@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207623",
+  "title": "Omarion Hampton Works on Side Field on Thursday",
+  "description": "Los Angeles Chargers rookie first-round running back Omarion Hampton (ankle) was seen working off on a side field with a trainer again on Thursday, according to Kris Rhim of ESPN. Hampton last played in Week 5 and remains on Injured Reserve due to a high-ankle sprain, but he appears to be making progress in his recovery and could have his 21-day practice window opened by the Chargers soon. The 22-year-old will not return in Week 11 against the Jacksonville Jaguars before the team goes on their bye in Week 12. Depending on how much progress Hampton can make in the next couple weeks, though, he could have a chance to make his return for a divisional clash at home against the Las Vegas Raiders in Week 13 on Sunday, Nov. 30. Before his injury, Hampton was in line to be a workhorse for the Bolts after Najee Harris' (Achilles) season-ending surgery. Hampton should not be floating around on any waiver wires.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 11,
+  "team": "LAC",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

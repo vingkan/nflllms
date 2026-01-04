@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207991",
+  "title": "Bam Knight Will Play in Week 11 Against San Francisco",
+  "description": "Arizona Cardinals running back Bam Knight (ankle) is officially active for his team's Week 11 matchup against the San Francisco 49ers. Knight entered Sunday with a questionable injury designation after being limited in practice by an ankle injury. With running back Trey Benson (knee) still out, Knight and Emari Demercado should be expected to handle the majority of Arizona's backfield work against San Francisco. Veteran back Michael Carter could be a factor as well. Knight profiles as a low-end flex option for fantasy managers in Week 11.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

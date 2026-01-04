@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207257",
+  "title": "Chris Rodriguez Jr. Questionable to Return with Shoulder Injury",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (shoulder) exited during the second half of Sunday's Week 10 contest against the Detroit Lions. He is officially listed as questionable to return. At the time of his departure, he had six carries for 16 rushing yards and a touchdown, sharing work with Jacory Croskey-Merritt and Jeremy McNichols. As long as this backfield continues to operate out of a committee, all three backs will be tough to trust in fantasy football. Managers who roster any of the three running backs should stay tuned for updates on Rodriguez, as his status will impact the backfield split in Week 11 against the Miami Dolphins.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 11,
+  "team": "WAS",
+  "opp": "MIA",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 29
+}

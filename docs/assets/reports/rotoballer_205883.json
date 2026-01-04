@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205883",
+  "title": "Jaret Patterson Earns Backup Role, But for How Long?",
+  "description": "Los Angeles Chargers running back Jaret Patterson was elevated from the practice squad for Thursday night's 37-10 win over the Minnesota Vikings and served as the primary backup to Kimani Vidal. Patterson ran the ball 11 times for 30 yards (2.7 YPC), showing effort but little ability to break tackles. The Chargers ran the ball 43 times overall, relying heavily on Vidal as they controlled the game. With Hassan Haskins (hamstring) and Omarion Hampton (ankle) sidelined and Nyheim Hines seeing limited snaps, Patterson may get another opportunity in Week 9 against a struggling Tennessee Titans defense. Patterson's value depends on whether he's elevated again, as the team will need to make a roster decision soon with multiple injured backs. The 25-year-old played college football for the Buffalo Bulls before signing with the Washington Commanders as an undrafted free agent in 2021. He rushed for 1,072 yards in just six games with the Bulls and had a 409-yard, eight-touchdown game against Kent State during his junior year.",
+  "player_id": 7537,
+  "player_name": "Jaret Patterson",
+  "week": 9,
+  "team": "LAC",
+  "opp": "TEN",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 44,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 41
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209172",
+  "title": "Bhayshul Tuten Likely Limited to RB2 Work in Jacksonville",
+  "description": "Across 11 games this season, Jacksonville Jaguars rookie running back Bhayshul Tuten has recorded 316 scrimmage yards and four touchdowns on 75 total touches. The 23-year-old has spent the majority of the season playing the RB2 role in Jacksonville behind veteran back Travis Etienne Jr. Two weeks ago, Tuten recorded 15 carries for 74 yards and a touchdown against the Los Angeles Chargers, looking like a real threat to Etienne Jr. However, Tuten was forced to leave the game against the Chargers with an ankle injury. In Week 12, Etienne Jr. dominated the backfield workload and put up huge numbers against the Arizona Cardinals. Heading into the team's Week 13 matchup against the Tennessee Titans, there's little reason for fantasy managers to expect the Jaguars to go away from Etienne Jr. Tuten profiles as a low-end flex option at best in Week 13.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 13,
+  "team": "JAX",
+  "opp": "TEN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 40
+}

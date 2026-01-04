@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210020",
+  "title": "Jordan Mason Resorted to Backup Duties",
+  "description": "Minnesota Vikings running back Jordan Mason has been working firmly behind Aaron Jones Sr. (shoulder) in the team's backfield over the past month. Since Jones returned in Week 8 against the Los Angeles Chargers, Mason has played 37.1% of the snaps to Jones' 56.5%. Over that span, Jones has handled 71 total touches, while Mason has 42. The former San Francisco 49er has at least earned extra work closer to the end zone, handling seven carries compared to Jones with only four, and they've each found the end zone once. Jones was removed from the injury report on Friday and will suit up against the Washington Commanders on Sunday. Minnesota's weapons have been limited recently by the poor combination of QBs J.J. McCarthy and Max Brosmer, with all of them being tough to trust for fantasy purposes right now. The gauntlet of tough defenses faced in recent games hasn't helped, but it should get better in Week 14 against a banged-up Commanders unit  Mason projects as a low-end RB3 for Sunday in a more favorable matchup.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 52,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208202",
+  "title": "Chris Brooks a Candidate for Increased Carries",
+  "description": "Green Bay Packers running back Chris Brooks could possibly see a larger role on offense this weekend. Lead back Josh Jacobs (knee) is uncertain to suit up for the Week 12 matchup against the Minnesota Vikings. If he sits, Emanuel Wilson is likely to take over as the lead back in Green Bay. That means, Brooks would move up to the primary backup if Jacobs is unavailable. Brooks hasn't played much this season, but that's not surprising for a third string back. He could be worth a look as a desperation flex play if Jacobs is ruled out.",
+  "player_id": 11370,
+  "player_name": "Chris Brooks",
+  "week": 12,
+  "team": "GB",
+  "opp": "MIN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 46
+}

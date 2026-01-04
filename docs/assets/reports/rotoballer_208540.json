@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208540",
+  "title": "LeQuint Allen Jr. Remains Third-String Back",
+  "description": "Jacksonville Jaguars running back LeQuint Allen Jr. saw a season-high eight carries during last week's win over the Los Angeles Chargers. The rookie back normally doesn't see much of the field, but got a chance last week. He made the most of it as he rushed for 36 yards on his eight attempts, which is 4.5 yards per carry. It was a decent showing from the rookie back who will now return to his role as the third string back. Both Travis Etienne Jr. and Bhayshul Tuten have been cleared to play ahead of the Week 12 matchup against the Arizona Cardinals. Unless an injury happens, Allen is going to have a minimal role as the third string back.",
+  "player_id": 12544,
+  "player_name": "LeQuint Allen",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

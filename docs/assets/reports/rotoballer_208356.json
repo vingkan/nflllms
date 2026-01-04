@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208356",
+  "title": "D'Andre Swift Upgrades to Full Practice on Thursday",
+  "description": "Chicago Bears running back D'Andre Swift (hip) was a full participant in practice on Thursday as he continues to deal with a hip injury, according to Michal Dwojak of Bears Insider. Swift was listed as limited on Wednesday with his hip injury. The 26-year-old followed a similar practice plan last week before being cleared, playing 57% of the offensive snaps, and turning 21 carries into 90 rushing yards in the Week 11 win over the Minnesota Vikings. Rookie Kyle Monangai continues to be involved behind Swift and even scored again on Sunday, but if healthy, Swift is going to remain Chicago's clear lead back. Barring a setback in practice on Friday, Swift should be cleared from the Bears' final injury report heading into Week 12's game against the visiting Pittsburgh Steelers. The matchup isn't an ideal one, but Swift's volume alone should keep him in the RB2 tier for fantasy managers.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 12,
+  "team": "CHI",
+  "opp": "PIT",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 15,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 54
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201696",
+  "title": "Aaron Jones Sr. Unlikely to Play in Week 3 Due to Hamstring Injury",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (hamstring) is unlikely to play in Week 3 against the Cincinnati Bengals, according to head coach Kevin O'Connell. Jones injured his hamstring in Sunday night's 22-6 loss to the Atlanta Falcons in the second half and never returned to the game. Before the injury, the 30-year-old veteran didn't look very good, going for only 23 rushing yards on his five carries. He also didn't catch a single pass while playing only 20 offensive snaps. Jones was a consistent performer for fantasy managers in 2024 in his first year in Minnesota, but so far in 2025, he has been outshone by Jordan Mason, who will be a must-start in fantasy going forward if Jones misses any games. In addition to Mason having an elevated role, Zavier Scott would be bumped up to RB2 duties and could be worth a look off the waiver wire in deeper formats.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 3,
+  "team": "MIN",
+  "opp": "CIN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

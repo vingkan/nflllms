@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203844",
+  "title": "Chiefs to Continue Expanding Brashard Smith's Role in the Offense?",
+  "description": "Kansas City Chiefs rookie running back Brashard Smith recorded just one carry for four yards in his team's 31-28 Week 5 loss to the Jacksonville Jaguars. However, Smith recorded three catches for 32 yards on three targets, his second straight game with at least three receptions. It's a baby step in the right direction for Smith. He's still behind veterans Isiah Pacheco and Kareem Hunt on the running back depth chart in Kansas City, but the Chiefs may slowly be prioritizing ways to get the ball in Smith's hands. He now has 87 yards from scrimmage on 14 total touches this season, 11 of which have come over the last two weeks. Smith should not be expected to provide immediate fantasy production. Still, he should be stashed in all fantasy leagues with 12 or more teams heading into a Week 6 matchup against the Detroit Lions.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 6,
+  "team": "KC",
+  "opp": "DET",
+  "att": 0,
+  "tgt": 4,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 3,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

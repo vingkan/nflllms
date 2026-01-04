@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207789",
+  "title": "Chuba Hubbard's Fantasy Value on the Decline as RB2 in Carolina",
+  "description": "Carolina Panthers running back Chuba Hubbard is locked in as the backup running back for the Panthers. Last week against the Saints, Hubbard played on 21% of snaps, logged 14 yards on three carries, and finished with just 2.5 Fantasy PPR Points. Since his Week 7 return from a calf injury, Hubbard has totaled 96 rushing yards and is averaging 5.3 PPR Fantasy Points Per Game. Hubbard should only be rostered as a handcuff to those who roster Rico Dowdle.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 11,
+  "team": "CAR",
+  "opp": "ATL",
+  "att": 4,
+  "tgt": 3,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

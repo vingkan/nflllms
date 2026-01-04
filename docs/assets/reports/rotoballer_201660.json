@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201660",
+  "title": "Aaron Jones Sr. Injures Hamstring During Sunday Night Football",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (hamstring) exited during the second half of Sunday's Week 2 contest against the Atlanta Falcons and did not return. Minnesota officially listed him as questionable, but he did not return to the field after receiving that designation, nor did the team provide any more updates on his status. As a result, the veteran finished Week 2 with just five carries for 25 rushing yards, and he was unable to haul in his only target. Jordan Mason, who had already been eating into Jones' workload before his injury, took over as Minnesota's primary running back for the final quarter. Fantasy managers should closely monitor Jones' practice status during the upcoming week. He has seven days to get healthy before Minnesota takes on the Cincinnati Bengals in Week 3. If he's unable to suit up, Mason would have the lead-back role all to himself, ranking as a mid-range RB2 in fantasy football.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 3,
+  "team": "MIN",
+  "opp": "CIN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

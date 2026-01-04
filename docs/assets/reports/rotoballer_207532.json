@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207532",
+  "title": "Isaiah Davis' Outlook Clouded Amid Murky Jets' Offense",
+  "description": "New York Jets running back Isaiah Davis took a step back in Week 10, operating in a clear second capacity to backfield mate Breece Hall, again leaving his role in question. Davis entered New York's bye week coming off a season-high in touches (12), yards (109), and snap share (46%). However, he saw a dip in their win over the Browns, while the team leaned on Hall as its workhorse. The second-year pro looked to be on the upswing, but he'll slide in the rankings ahead of another rough matchup in the New England Patriots. In addition, head coach Aaron Glenn has declined to name a starting quarterback for the third consecutive game, leaving the offense's potential for flux high. While Davis might be worth handcuff consideration, Hall's domination of the backfield touches and New York's low offensive floor leave him on the lower end of that spectrum. He's RotoBaller's PPR RB49 ahead of Week 11.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 11,
+  "team": "NYJ",
+  "opp": "NE",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 11,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 63
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201736",
+  "title": "David Montgomery Finds End Zone in Week 2, Set for RB2 Workload in Detroit?",
+  "description": "Detroit Lions running back David Montgomery rushed for 57 yards and a touchdown on 11 carries in his team's 52-21 Week 2 win over the Chicago Bears. Since joining the Lions, Montgomery has been one of the NFL's most consistent red-zone backs. The 28-year-old has not gone consecutive games within a season without scoring a touchdown since December 2023. On a less positive note for fantasy managers, Montgomery appears set for a secondary role behind Jahmyr Gibbs in Detroit this season. Although Gibbs only earned one more carry than Montgomery in Week 2, Montgomery was on the field for 10 fewer snaps. The veteran has also recorded seven fewer touches than his backfield mate through the first two games of the season. Montgomery remains a consistent flex option in fantasy, but he'll likely be reliant on finding the end zone again to produce in Week 3 against the Baltimore Ravens.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 3,
+  "team": "DET",
+  "opp": "BAL",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 151,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 2
+}

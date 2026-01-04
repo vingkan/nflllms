@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211619",
+  "title": "Aaron Jones Sr. Returns To Action At Giants",
+  "description": "The Minnesota Vikings deemed running back Aaron Jones Sr. (ankle) questionable to return to Sunday's game at the New York Giants, but saw the veteran come back to action during the second quarter. Jones had to leave the opening drive, on which fellow running back Jordan Mason (ankle) also was injured. The Vikings weren't as lucky on Mason, who was quickly ruled out for the day. Now that the Vikings are down a running back, Zavier Scott will slide into the No. 2 role for the remainder of the game.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 17,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

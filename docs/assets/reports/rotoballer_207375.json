@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207375",
+  "title": "Kyle Monangai Shares Backfield Duties in Week 10 Win",
+  "description": "Chicago Bears rookie running back Kyle Monangai enjoyed a breakout game in the first start of his career in Week 9 against the Cincinnati Bengals, recording 198 total yards on 29 touches. With starter D'Andre Swift returning in Week 10, Monangai was still a part of the offense, but took a backseat to Swift as he continues to run well this season. The rookie seventh-rounder played 39.1% of the snaps and had seven carries for 28 yards in Chicago's Week 10 win over the Giants. Swift, on the other hand, played 60.9% of the snaps and handled 18 touches for 98 yards from scrimmage. The 60-40 split could be how head coach Ben Johnson manages the backfield moving forward, with Swift enjoying a resurgent season and Monangai serving as a physical, downhill back to complement Swift. Monangai remains a must roster player due to his upside when Swift is out and holds standalone value as a flex play for Week 11 against the Minnesota Vikings.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 11,
+  "team": "CHI",
+  "opp": "MIN",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

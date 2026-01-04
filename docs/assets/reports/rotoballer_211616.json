@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211616",
+  "title": "Vikings RB Aaron Jones Sr. Questionable To Return",
+  "description": "The Minnesota Vikings classified running back Aaron Jones Sr. (ankle) as questionable to return to the Vikings' game against the New York Giants on Sunday. The Vikings saw both of their top two running backs sustain injuries on their first offensive series. Jones departed the game first, then Jordan Mason (ankle) took a shot, was carted to the locker room, and was also given a questionable tag. Jones was shown warming up again on the sideline, but if neither can return, Minnesota likely will lean on running back Zavier Scott and fullback C.J. Ham to handle the running game.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 17,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

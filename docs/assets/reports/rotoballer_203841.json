@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203841",
+  "title": "More Clarity on Joe Mixon's 2025 Availability Coming Over the Next Few Weeks?",
+  "description": "Houston Texans general manager Nick Caserio said the team will have clarity on running back Joe Mixon's (foot/ankle) health status for the \"duration of the year\" at some point \"over the next few weeks.\" Mixon has not played yet in 2025, and the team has provided little to no information about a possible return timeline. It seems possible, if not likely, that the 29-year-old will miss the entirety of the season. If that's the case, Houston will likely continue splitting backfield work between veteran Nick Chubb and rookie Woody Marks. Chubb has recorded 58 carries for 249 yards and two touchdowns so far this season. Marks has logged 233 yards from scrimmage and two touchdowns on 42 total touches, and could eventually work his way into the lead role over the course of the season.",
+  "player_id": 4018,
+  "player_name": "Joe Mixon",
+  "week": 7,
+  "team": "HOU",
+  "opp": "SEA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

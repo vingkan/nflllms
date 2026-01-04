@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211510",
+  "title": "Kenneth Gainwell Carries Flex Value Into Week 16",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has been heavily involved over the past five weeks and should remain a focal point of the offense against the Detroit Lions in Week 16. The Lions' run defense has been stout for most of the season, but perhaps more importantly, Detroit has shut down opposing backs in the passing game, surrendering the second-fewest receiving yards, the fourth-fewest receptions, and zero receiving touchdowns to the position. On paper, this doesn't bode well for Gainwell, who has thrived as a check-down option for quarterback Aaron Rodgers. Still, Pittsburgh doesn't have many reliable pass-catchers outside of DK Metcalf, and Gainwell actually leads the team in receptions through 15 weeks. Expectations should be tempered, but Gainwell remains on the fantasy radar as a flex option on Sunday.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 16,
+  "team": "PIT",
+  "opp": "DET",
+  "att": 9,
+  "tgt": 7,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 50,
+  "receiving_catches": 5,
+  "receiving_yards": 78,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 8
+}

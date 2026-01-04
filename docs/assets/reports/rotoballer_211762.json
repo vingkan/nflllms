@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211762",
+  "title": "Rachaad White Could See Larger Role on Sunday",
+  "description": "According to head coach Todd Bowles, Tampa Bay Buccaneers running back Rachaad White could be given a larger role during their contest against the Miami Dolphins on Sunday afternoon. When asked about White's usage during their loss to the Panthers in Week 16, Bowles noted that he \"completely agrees\" that White should have been given more rushing attempts, given the success he enjoyed in his limited opportunities. In this contest, White took five carries for 45 yards and two receptions of 15 yards. Over the previous two games, White showed similar upside, tallying 73 yards on 12 rushing attempts. White's eight rushing attempts on Sunday placed him second on the depth chart, above Sean Tucker's four carries and behind Bucky Irving's 19 carries. Given that White seems poised for a larger role in Week 17, managers in deeper 12-team formats could consider him as a viable FLEX play facing a Miami defense that is allowing the eighth-most PPR points to opposing RBs.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 17,
+  "team": "TB",
+  "opp": "MIA",
+  "att": 2,
+  "tgt": 2,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 2,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

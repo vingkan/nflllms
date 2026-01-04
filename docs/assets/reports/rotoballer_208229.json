@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208229",
+  "title": "Kenneth Gainwell Emerging as Top Handcuff RB",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has emerged as a reliable backup running back this season. Through 10 games, he's totaled 448 yards and five touchdowns on 97 touches. He's been strong in the two games where starter Jaylen Warren either missed or exited early, racking up 239 scrimmage yards and four touchdowns on 41 touches. With Warren still banged up and an ideal Week 12 matchup on deck against the Chicago Bears, Gainwell could be in line for another heavy workload. Given how efficient he's been both in his backup role and starting role, fantasy managers should view Gainwell as one of the top handcuff running backs to target moving forward.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 10,
+  "tgt": 6,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 92,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

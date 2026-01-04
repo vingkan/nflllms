@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205103",
+  "title": "D'Andre Swift Active Against Saints in Week 7",
+  "description": "Chicago Bears running back D'Andre Swift (groin) is officially active for Sunday's Week 7 contest against the New Orleans Saints. He had been listed as questionable but was trending in the right direction ahead of kickoff. The 26-year-old is coming off a phenomenal performance in which he totaled 108 rushing yards, 67 receiving yards, and one touchdown. The outburst vaulted him to the overall RB18 in fantasy scoring this year. He remains a mid-range RB2 option in a potentially positive game script situation against the Saints.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 7,
+  "team": "CHI",
+  "opp": "NO",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 124,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 6
+}

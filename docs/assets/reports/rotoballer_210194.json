@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210194",
+  "title": "Travis Etienne Jr. Scores Two Touchdowns in Week 14",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. had a big day in his team's Week 14 win over the Indianapolis Colts, recording 74 rushing yards and two touchdowns on 20 carries. The 26-year-old also hauled in his lone target for an eight-yard reception. Etienne Jr. has now recorded at least 18 touches in six out of his last seven games played. Across 13 contests in 2025, he's logged 1,098 scrimmage yards and nine touchdowns on 227 touches. While the Jaguars have split work between Etienne Jr. and rookie running back Bhayshul Tuten at times this season, Etienne Jr. out-touched Tuten 20 to two in a crucial division matchup against Indianapolis. Etienne Jr. has established himself as a must-start fantasy running back heading into his Week 15 matchup against the New York Jets.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 15,
+  "team": "JAX",
+  "opp": "NYJ",
+  "att": 12,
+  "tgt": 4,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 32,
+  "receiving_catches": 3,
+  "receiving_yards": 73,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 3,
+  "ppr_scoring_fantasy_points": 31,
+  "ppr_scoring_position_rank": 1
+}

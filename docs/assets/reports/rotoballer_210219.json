@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210219",
+  "title": "Jaylen Wright a Must-Add Running Back Due to Injury Uncertainty in Miami",
+  "description": "Miami Dolphins running back Jaylen Wright had the best game of his career in Week 14, recording 24 carries for 107 yards and a touchdown against the New York Jets. After star Dolphins running back De'Von Achane (ribs) left the game in the second quarter with a rib injury, Wright got a chance to lead his team's backfield. Wright's elevation to the RB1 role was a bit of a surprise, as he's spent most of 2025 working behind both Achane and rookie back Ollie Gordon II. However, it appears Miami may be more comfortable keeping Gordon II in a secondary role, even if Achane is sidelined. The severity of Achane's injury is currently unclear. Should he miss time, Wright could provide starting-caliber fantasy production at the running back position. He's a must-add player off the waiver wire heading into his Week 15 matchup against the Pittsburgh Steelers.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 65
+}

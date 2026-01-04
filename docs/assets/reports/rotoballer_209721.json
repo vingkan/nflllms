@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209721",
+  "title": "Blake Corum's Stellar Play Leading to More Opportunities",
+  "description": "Los Angeles Rams running back Blake Corum had his best game of the season in Week 13, rushing for 81 yards and a touchdown on just seven carries. While the Rams were upset by the Carolina Panthers, Corum was a bright spot in the loss and is continuing to make an impact on this Rams' rushing attack. Earlier in the season, head coach Sean McVay expressed that he wanted the backfield to be a 65/35 split between starter Kyren Williams and Corum, and that has been the case this season. While Williams has been efficient in 2025, Corum has significantly cut into his workload and made a strong impact of his own. The Rams face the struggling Cardinals' run defense in Week 14, which has allowed double-digit fantasy points to every starting running back they've faced in 2025. While it's a full-blown committee in Los Angeles, both backs carry starting fantasy value in Week 14.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 14,
+  "team": "LAR",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

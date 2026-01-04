@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210774",
+  "title": "Chase Brown Looking to Stay Productive After a Two Touchdown Effort in Week 14",
+  "description": "Cincinnati Bengals running back Chase Brown has played better in the final stretch of the 2025 campaign. He was much improved as a runner leading up to the Week 14 loss to the Bills, amassing at least 5.2 yards per carry in five of his previous six appearances. Although the 25-year-old struggled on the ground in snowy Buffalo, he made up for it by finding the end zone twice. Brown has been back in the must-start conversation for weeks, which will continue to apply to Sunday's meeting with the Baltimore Ravens. With Tee Higgins (concussion) out, Brown could see even more attention on the receiving end, increasing his fantasy ceiling. He caught all seven of his targets for 35 yards when these clubs met in Week 13, a game in which Higgins also wasn't available.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 15,
+  "team": "CIN",
+  "opp": "BAL",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 7,
+  "receiving_yards": 37,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 13
+}

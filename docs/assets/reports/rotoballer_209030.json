@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209030",
+  "title": "Saquon Barkley Limited Again on Wednesday",
+  "description": "Philadelphia Eagles running back Saquon Barkley (groin) was listed as limited in Wednesday's practice, according to the team's official website. For the second straight day, Barkley was a limited participant as he manages a groin injury that he initially tweaked during the Eagles' Week 8 win over the New York Giants. The star running back hasn't missed any time because of the injury, but it's something that he and the team are managing on a short practice week as the Eagles host the Chicago Bears on Black Friday. Barkley should be good to go for that game and could clear the injury report by Thursday. It's been a disappointing season for the 28-year-old after his historic 2024 campaign, and he is coming off his worst rushing performance of the season in Week 12 against the Cowboys, rushing for just 22 yards on 10 carries, but added seven catches (eight targets) for 52 yards as a receiver. Tank Bigsby would be in line for a bigger role if Barkley were to miss Friday's matchup.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 13,
+  "team": "PHI",
+  "opp": "CHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 47
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207943",
+  "title": "Bam Knight is Expected to Play on Sunday",
+  "description": "Arizona Cardinals running back Bam Knight (ankle) is currently listed as questionable ahead of Sunday's Week 11 matchup against the San Francisco 49ers. Despite that, Knight is expected to play this weekend, according to Adam Schefter. Knight is stuck in a committee with Emari Demercado and Michael Carter. Last week, Knight saw 10 carries for 28 yards in the loss to the Seattle Seahawks. He hasn't been successful on the ground lately, so consider him a low-end flex option for Week 11.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

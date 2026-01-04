@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205586",
+  "title": "Rico Dowdle is an RB2 Start Against the Bills",
+  "description": "Rico Dowdle is in line for a potentially favorable matchup in Week 8 against the Bills. Over the last four weeks, Buffalo ranked 30th in fantasy points per game allowed to running backs. The Bills have a vulnerable run defense, allowing 31.1 fantasy points per game to RBs during that span. Expect Carolina to rely on their running game in Week 8 to stay in the game. Head coach Dave Canales mentioned that the workload between Dowdle and Chuba Hubbard will be split between the two running backs this week. Last week, Dowdle had a snap share of 46% compared to Hubbard, with 54%. Despite Hubbard having the advantage in snaps, Dowdle outrushed him 79 to 31 rushing yards. If the Panthers don't fall far behind, the running game can be productive because of the matchup. With six teams on a bye in fantasy football Week 8, lock Dowdle in as an RB2 start.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 8,
+  "team": "CAR",
+  "opp": "BUF",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 54,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

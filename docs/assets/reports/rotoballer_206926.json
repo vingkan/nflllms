@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206926",
+  "title": "Omarion Hampton Working Off To the Side on Friday",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton (ankle) worked off to the side at Friday's practice, according to Daniel Popper of The Athletic. Hampton appears to be making progress in his recovery after an extended period with no positive updates. The rookie running back was placed on Injury Reserve after suffering an ankle injury in Week 5 against the Washington Commanders. Head coach Jim Harbaugh said on Monday that he doesn't expect Hampton's 21-day practice window to be opened until after the Chargers' Week 12 bye. Second-year back Kimani Vidal has played well in Hampton's absence and will continue to be a decent RB2/flex option until Hampton is activated from IR to take over the RB1 duties in a few weeks.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 10,
+  "team": "LAC",
+  "opp": "PIT",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

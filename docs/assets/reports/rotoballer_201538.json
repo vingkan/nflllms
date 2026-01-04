@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201538",
+  "title": "Austin Ekeler Suffers Torn Achilles",
+  "description": "Washington Commanders running back Austin Ekeler suffered a torn Achilles during Thursday night's loss to the Green Bay Packers. Ekeler injured his ankle on the game's final drive while stepping back awkwardly. The lead back for Washington through the first two weeks, Ekeler totaled 14 carries for 43 yards and added five receptions for 38 yards. With 2024 starter Brian Robinson Jr. already traded, rookie Jacory Croskey-Merritt will now step into the starting role. Ekeler's contract expires after this season, making the injury an even bigger blow for the former star running back.",
+  "player_id": 4663,
+  "player_name": "Austin Ekeler",
+  "week": 3,
+  "team": "WAS",
+  "opp": "LV",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

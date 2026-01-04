@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210933",
+  "title": "Javonte Williams Questionable to Return in Week 15 With Shoulder Injury",
+  "description": "Dallas Cowboys running back Javonte Williams (shoulder) is questionable to return to his team's Week 15 matchup against the Minnesota Vikings on Sunday night due to a shoulder injury, per ESPN's Todd Archer. The 25-year-old recorded six carries for 13 yards and a touchdown before exiting the game. If Williams is unable to return, Malik Davis would be the only remaining running back on the Cowboys' active roster and would likely dominate backfield snaps for the remainder of Week 15. Fullback Hunter Luepke and wide receiver KaVontae Turpin could also handle some rushing work. Williams entered the week with 1,150 scrimmage yards and 11 touchdowns on 248 touches, so his absence would be a big loss for the Dallas offense.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 47
+}

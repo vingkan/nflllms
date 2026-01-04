@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209320",
+  "title": "Chuba Hubbard Remains the Second RB for Carolina in Week 13",
+  "description": "In Week 12, Carolina Panthers running back Chuba Hubbard played on 35% of the offensive snaps, registering 16 yards on three carries. He caught four passes for 27 yards. After returning from a calf injury in Week 7, Hubbard has totaled 133 rushing yards while averaging 5.5 PPR Points Per Game. As the second RB for Carolina, Hubbard should only be in fantasy rosters as a handcuff for Rico Dowdle. He will become fantasy-relevant if Dowdle misses any time. If you roster Hubbard and don't have Dowdle, you can cut the Panthers' backup RB.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 13,
+  "team": "CAR",
+  "opp": "LAR",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 83,
+  "receiving_catches": 2,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 5
+}

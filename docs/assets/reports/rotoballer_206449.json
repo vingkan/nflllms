@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206449",
+  "title": "Emanuel Wilson Could See More Touches",
+  "description": "Green Bay Packers running back Emanuel Wilson could see a bigger role in the backfield going forward. Last week, Wilson rushed 11 times for 61 yards, while hauling in three receptions for 26 yards in the win over the Pittsburgh Steelers. He remains the primary backup to Josh Jacobs, but outings like this will help him get more carries in the backfield. Jacobs has been cleared to play against the Carolina Panthers this weekend. However, Jacobs has been dealing with a lingering calf issue, so the Packers might elect to give Wilson more carries again. Sadly, his ceiling is limited as the backup to Jacobs, but he's worth keeping an eye on. The 26-year-old could be worth a stash in deep leagues, but isn't a recommended starting option for Week 9.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 9,
+  "team": "GB",
+  "opp": "CAR",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205477",
+  "title": "Breece Hall Still Day-to-Day With Knee Injury, Limited Again on Thursday",
+  "description": "New York Jets running back Breece Hall (knee) was limited in practice on Thursday for the second straight day this week while he manages a knee injury, according to Rich Cimini of ESPN. Head coach Aaron Glenn called Hall day-to-day earlier this week, but he could come down with a questionable tag for this weekend's game against the Cincinnati Bengals on Sunday if he is unable to upgrade to a full practice on Friday. Ultimately, Hall should play in Week 8, but his status is worth monitoring going into Friday. The Jets' offense has been a mess in 2025, which has torpedoed the 24-year-old's fantasy value. Veteran quarterback Tyrod Taylor could make the start over Justin Fields against the Bengals this weekend, but the Jets are trending towards missing receiver Garrett Wilson (knee) for a second straight game. At this point, a trade out of New York might be the only thing to save Hall's fantasy value this season.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 8,
+  "team": "NYJ",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 133,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 4
+}

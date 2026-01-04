@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203884",
+  "title": "Alvin Kamara's Workload at Risk After Low-Volume Week?",
+  "description": "New Orleans Saints running back Alvin Kamara recorded a season-low eight carries for 27 yards and added four receptions for 28 yards in the Week 5 win over the Giants. He has now gone five straight games without a touchdown as defenses continue to focus on stopping him. The run game could start to open up, however, as Rashid Shaheed's 87-yard touchdown reception may force defenses to respect the big-play threat. Another concern is that Kamara's snap count fell to a season-low 37, accounting for just 56% of the team's offensive snaps. With Kendre Miller emerging and trade rumors swirling around Saints veterans, fantasy managers should monitor Kamara closely. He ranks as an RB2 against the Patriots.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 14
+}

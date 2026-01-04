@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209176",
+  "title": "Isaiah Davis Struggling to Earn Meaningful Workload in New York",
+  "description": "Once New York Jets running back Braelon Allen (knee) landed on Injured Reserve after suffering an MCL sprain in Week 4, fellow Jets back Isaiah Davis stepped into the RB2 role in New York behind Breece Hall. However, despite the increased opportunity, Davis has failed to steal much work away from Hall. Across seven games since Allen went down, Davis has recorded 204 scrimmage yards on 33 touches. His 4.7 touches per game over that stretch pales in comparison to Hall, who has averaged 18.7 touches per contest. Even with Allen's status for the remainder of 2025 unclear, Davis appears unlikely to provide fantasy-relevant production as long as Hall stays healthy. Davis should remain off the radar of fantasy managers heading into the Jets' Week 14 matchup against the Atlanta Falcons.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 13,
+  "team": "NYJ",
+  "opp": "ATL",
+  "att": 0,
+  "tgt": 1,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

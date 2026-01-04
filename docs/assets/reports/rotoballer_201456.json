@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201456",
+  "title": "Saquon Barkley Looks For Another Heavy Workload In Week 2",
+  "description": "Philadelphia Eagles running back Saquon Barkley tied for the sixth-most rushing attempts in the league last week (18), once again proving that he has one of the most reliably-heavy workloads in the NFL. He also made PPR managers happy with his four receptions on five targets-both good for second-most on the team. In Week 2 Barkley faces a Chiefs defense that held Omarion Hampton to just 48 yards on 15 attempts last Friday, but that was a rookie, and this is Saquon Barkley. After leading Philly in targets and receptions in their last meeting against Kansas City in the Super Bowl, expect Barkley to have a prominent role in the passing game again this week. He's a top-tier RB1 as per usual.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 2,
+  "team": "PHI",
+  "opp": "KC",
+  "att": 22,
+  "tgt": 2,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 88,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

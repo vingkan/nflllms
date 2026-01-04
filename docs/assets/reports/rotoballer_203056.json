@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203056",
+  "title": "Justice Hill Carries Ravens Offense With Two Scores in Otherwise Gloomy Loss",
+  "description": "Baltimore Ravens running back Justice Hill had three carries, 76 rushing yards, five catches, 41 receiving yards, and two total touchdowns during Sunday's Week 4 loss to the Kansas City Chiefs. Baltimore lost by three possessions and also watched Lamar Jackson (hamstring) leave with an injury, so it's fair to say that Hill's big game was one of the lone bright spots. He probably won't be able to replicate his big outing next week, especially since one of his touchdowns came on a 71-yard rush in garbage time. However, his general involvement and productivity indicate that he could still be in line for a larger role going forward. Hill played more than 50 percent of the snaps in Week 3 and has 11 catches over his last three games. Last season, he scored at least 11.5 fantasy points (PPR) in one-third of his contests. Moving forward, he should be viewed as a mid-to-low RB4 with RB3 upside in PPR leagues.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 5,
+  "team": "BAL",
+  "opp": "HOU",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

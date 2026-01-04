@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206953",
+  "title": "Nick Chubb Cleared to Play in Week 10",
+  "description": "Houston Texans running back Nick Chubb (foot) doesn't carry an injury designation into Sunday's Week 10 matchup against the Jacksonville Jaguars. Chubb sat out practice to begin the week, but was able to return as a limited participant on Thursday. Now, Chubb has been removed from the injury report ahead of this divisional matchup. The 29-year-old figures to continue splitting up the backfield duties with Woody Marks. There has been a fairly even split between the two backs in recent weeks. That being said, both backs will have limited value until one pulls ahead as the lead back.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 10,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

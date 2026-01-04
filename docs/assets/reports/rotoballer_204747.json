@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204747",
+  "title": "Alvin Kamara Returns to Practice on Thursday",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) returned to practice on Thursday after missing Wednesday's practice, per ESPN's Katherine Terrell. Terrell previously reported that the team plans to hold Kamara out of Wednesday practices for the time being as part of a maintenance plan for his ankle. The 30-year-old should be on track to play in Week 7 against the Chicago Bears. Kamara has recorded 436 yards from scrimmage and one touchdown on 105 total touches through six games this season. He has not topped 80 scrimmage yards in a game since Week 2 and has not scored a touchdown since Week 1. Kamara profiles as a low-end fantasy RB2/high-end flex option in Week 7, even in a favorable matchup on paper against the Chicago Bears. UPDATE: Kamara was limited in his return to practice.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 7,
+  "team": "NO",
+  "opp": "CHI",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 3,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

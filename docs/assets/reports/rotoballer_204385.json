@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204385",
+  "title": "Bam Knight Will Operate as Lead Back Over Michael Carter",
+  "description": "Arizona Cardinals running back Bam Knight will take over as the team's lead back in Week 6 against the Indianapolis Colts, according to ESPN's Adam Schefter. Michael Carter will be relegated to the backup role while Emari Demercado handles the bulk of the third-down snaps. This represents a personnel change after Carter led the backfield with 18 touches last Sunday. Carter scored a touchdown in that game, but he was inefficient with just 2.8 yards per carry, which could be why Arizona is switching to Knight for Week 6. Fantasy managers should adjust their lineups accordingly. Knight is suddenly a solid RB3/flex option against the Colts, while Carter and Demercado should be benched in most leagues. All three have relatively low floors given the state of the Cardinals' offense, which will be led by Jacoby Brissett and not Kyler Murray (foot) in Week 6.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 6,
+  "team": "ARI",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

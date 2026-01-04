@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203386",
+  "title": "Isaiah Davis Promoted to Jets RB2 Role",
+  "description": "New York Jets running back Isaiah Davis is set to operate in an increased capacity moving forward due to the injury to teammate Braelon Allen (knee). Unfortunately, news surrounding Allen suggests that he'll miss more than the minimum of four games while on injured reserve. While he's out, Davis will operate as the primary handcuff to running back Breece Hall. With teammate Kene Nwangwu (hamstring) also battling injury, Davis is likely to see more volume than usual in their matchup against the Cowboys, considering Khalil Herbert only joined the team on Thursday. The 23-year-old was out there for a third of New York's snaps during their loss to the Dolphins in Week 4, and is worthy of a pickup -- at least for the Hall owner.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 5,
+  "team": "NYJ",
+  "opp": "DAL",
+  "att": 1,
+  "tgt": 4,
+  "touches": 5,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 3,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204269",
+  "title": "Derrick Henry Looking More Like an RB2 for Week 6",
+  "description": "Baltimore Ravens running back Derrick Henry continues to see his fantasy value diminish each week. In half-PPR formats, he's finished in RB1 territory only one time and has scored double-digit fantasy points twice. He only has one more touchdown than he does fumbles, and he still doesn't play any part in the passing game. Their opponent, the Los Angeles Rams, is currently ranked as the third-toughest team against running backs in fantasy as they give up just 15.56 fantasy points per matchup. They held Christian McCaffrey to 57 yards on 22 carries and Saquon Barkley to 46 yards on 18 carries. That combined with the Ravens' offensive line issues and fullback Patrick Ricard (calf) still sidelined, means Henry is projected to finish around RB19.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 6,
+  "team": "BAL",
+  "opp": "LAR",
+  "att": 24,
+  "tgt": 2,
+  "touches": 26,
+  "actual": "high",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 122,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 13
+}

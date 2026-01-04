@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206891",
+  "title": "Sean Tucker Bound for Another Elevated Workload?",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker should again see a modest workload this weekend when his team takes on the New England Patriots at home. Tucker and backfield mate Rachaad White have both seen their touch shares rise since Week 5, while teammate Bucky Irving (foot, shoulder) has tended to injury. With Irving trending toward being out another game, that should be the case again in Week 10. Tucker found standalone value for the first time this season before Tampa Bay's bye, punching in his second touchdown of the campaign. However, New England poses a far greater challenge than the Saints did the week before. The 24-year-old is on the fantasy radar, but only as a low-end flex asset.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 10,
+  "team": "TB",
+  "opp": "NE",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 53,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 39
+}

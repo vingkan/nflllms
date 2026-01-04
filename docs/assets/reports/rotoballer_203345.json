@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203345",
+  "title": "Tyjae Spears Listed as a Limited Practice Participant on Thursday",
+  "description": "Tennessee Titans running back Tyjae Spears (ankle) was listed as a limited practice participant for the second straight day on Thursday. Spears spent the first four weeks of the season on Injured Reserve due to a high ankle sprain, but the team opened his activation window earlier this week. Spears may not be ready for his team's Week 5 matchup against the Arizona Cardinals, but he should play a role alongside Titans running back Tony Pollard in the team's backfield once he returns. Across 12 games in 2024, Spears recorded 536 yards from scrimmage and five touchdowns on 114 total touches.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 5,
+  "team": "TEN",
+  "opp": "ARI",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 61
+}

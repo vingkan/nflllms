@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206925",
+  "title": "Rachaad White Offers RB2 Value",
+  "description": "Tampa Bay Buccaneers running back Rachaad White is in line to make another start versus the New England Patriots in Week 10. White came out strong once Bucky Irving (shoulder, foot) went down in Week 4. However, White has been held in check over the last few weeks. In each of the last two games, White has been held to 38 rushing yards or fewer in both contests. The 26-year-old hasn't done much in the receiving game either, so he has been a dud in fantasy leagues over the last few weeks. It's unlikely going to get much better for White this weekend against the Pats who have done a tremendous job at stopping the run this season. Despite that, the Bucs are limited in terms of offensive weapons and will need to get White involved. The 26-year-old should be able to offer RB2 value in PPR formats this weekend.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 10,
+  "team": "TB",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 5,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 27
+}

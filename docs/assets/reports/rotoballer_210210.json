@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210210",
+  "title": "Dare Ogunbowale Gets Into the End Zone on Sunday Night Football",
+  "description": "Houston Texans running back Dare Ogunbowale only had one carry on Sunday against the Chiefs, but he took that carry five yards for one of the team's two touchdowns of the night. The Texans extended their winning streak with a huge 20-10 win on the road in Kansas City, and Ogunbowale was more involved than usual since he helped fill in after Nick Chubb (rib) left with an injury in the first half. Ogunbowale could help fill in the gap if Chubb misses time moving forward, although Woody Marks carried the load on Sunday with 26 carries and two catches. The Texans trust Ogunbowale near the goal line and he's a solid receiver, so he'd be an interesting option if he got significant playing time in the next few weeks.",
+  "player_id": 4718,
+  "player_name": "Dare Ogunbowale",
+  "week": 15,
+  "team": "HOU",
+  "opp": "ARI",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 40
+}

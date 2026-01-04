@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206644",
+  "title": "Emari Demercado Emerging as a Trusted Piece of Cardinals' Backfield?",
+  "description": "Arizona Cardinals running back Emari Demercado led his team in both carries (14) and rushing yards (79) in their 27-17 Week 9 win over the Dallas Cowboys. Week 9 was Demercado's highest-usage game of the season by far, as he had not recorded more than four touches in any game leading into the week. Cardinals running back Trey Benson (knee) is eligible to return from Injured Reserve for the team's Week 10 matchup against the Seattle Seahawks. Still, there's no guarantee that Benson will be ready, or that he'll be able to handle a full workload even if he's active for the game. If Benson is compromised or remains out, Demercado could be the team's lead back for a second straight week. Seattle is a very tough matchup for running backs, but Demercado is still deserving of a waiver-wire look from fantasy managers.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 10,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 4,
+  "tgt": 4,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 64,
+  "receiving_catches": 3,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

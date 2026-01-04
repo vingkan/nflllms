@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206177",
+  "title": "Kenneth Gainwell Trending Down in Steelers' Backfield",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has been all but an afterthought in the team's rushing attack since the return of backfield mate Jaylen Warren in Week 6. Warren missed a game earlier in the season with a knee injury, in which Gainwell erupted for 134 total yards and two rushing scores. However, following Pittsburgh's Week 5 bye, the latter has taken a backseat in terms of playing time and touch share. With the way things have been, fantasy managers can't trust the University of Memphis product to provide standalone value. While Gainwell would handle a majority of the work in the event Warren were to miss more time, he's presently better relegated to handcuff duties.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 9,
+  "team": "PIT",
+  "opp": "IND",
+  "att": 3,
+  "tgt": 5,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": -1,
+  "receiving_catches": 4,
+  "receiving_yards": 35,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 30
+}

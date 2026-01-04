@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211854",
+  "title": "RJ Harvey Set to Deliver in Week 17 Championship Matchups",
+  "description": "Denver Broncos running back RJ Harvey gets to travel and face the Kansas City Chiefs on Christmas in Week 17. Since the Week 12 bye, Harvey has produced RB1 consensus numbers in all but one game, averaging 17.25 touches for 87 yards and 1.25 touchdowns per game in that four-week stretch. Profiling as a potential league winner on the season, Harvey will look to carry the momentum from his Week 16 performance against the Jacksonville Jaguars, in which he had 121 yards and a touchdown on 11 touches. With RotoBaller ranking Harvey as the RB14 overall for Week 17, he should be relied upon as a high-end RB2 with upside.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 17,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 43,
+  "receiving_catches": 5,
+  "receiving_yards": 33,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 11
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208370",
+  "title": "Trey Benson Limited Again on Thursday",
+  "description": "Arizona Cardinals running back Trey Benson (knee) was limited for the second day this week on Thursday as he attempts to return from a knee injury that has kept him out since Week 4, according to Zach Gershman of AZCardinals.com. Benson's 21-day practice window was opened on Wednesday, which means he's eligible to come off Injured Reserve and play this Sunday against the visiting Jacksonville Jaguars. The 23-year-old had surgery for a meniscus injury that he suffered in Week 4. Benson will most likely need a full practice on Friday for Arizona to even consider activating him from IR. The team's backfield is beat up going into the weekend, with Emari Demercado (ankle) already ruled out and Bam Knight (ankle) being limited so far in practice. All signs are pointing to Benson missing this week, with Knight and Michael Carter sharing backfield duties versus the Jags.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206083",
+  "title": "Dylan Sampson to be in Lead-Back Role After Bye Week?",
+  "description": "The Cleveland Browns are on their bye in Week 9, but rookie running back Dylan Sampson could be in line for the lead-back role in Week 10 when the team takes on the New York Jets. Fellow rookie Quinshon Judkins left the Week 8 loss to the New England Patriots in the third quarter with an AC joint sprain in his shoulder that could keep him sidelined coming out of the bye week. Sampson didn't have any rushing yards on only three carries in the blowout loss to the Patriots, but he did contribute five receptions for 29 yards, and he figures to be the Browns' first choice for RB1 duties in Week 10 if Judkins isn't ready to go. The 21-year-old fourth-round pick out of Tennessee is only rostered in 17% of Yahoo leagues, but that number should jump up next week if Judkins does not return to practice. The Browns also have Jerome Ford, but he's a candidate to be dealt by next Tuesday's trade deadline.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": -4,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 59
+}

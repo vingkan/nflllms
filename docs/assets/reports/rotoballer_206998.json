@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206998",
+  "title": "Woody Marks Is High Risk But Could Be the Focus of Houston's Offense",
+  "description": "Houston Texans running back Woody Marks could be poised to be the focus of the offense in Week 10 against the Jaguars in the absence of C.J. Stroud (concussion). Marks has been getting more snaps than his fellow running back, Nick Chubb, over the past several games, outsnapping Chubb in four of his last five games. Last week, he struggled to just 27 rushing yards on 10 carries and didn't have any catches against a tough Denver defense that knocked Stroud out of the game. Marks had been productive as a rusher and receiver in his previous games, posting double-digit PPR points in three of four weeks with three touchdowns during that span. He brings a very high ceiling, but there is also a high risk of him busting if the offense can't get going. He's the No. 29 RB in RotoBaller's rankings, making him a high-risk, high-reward flex play this week.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 10,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 63,
+  "receiving_catches": 2,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 11
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204470",
+  "title": "Rachaad White Sees 20 Touches, Scores Again in Lead-Back Role",
+  "description": "Tampa Bay Buccaneers running back Rachaad White has really stepped up in the team's lead-back role the last two weeks with Bucky Irving (foot, shoulder) nursing multiple injuries. In the 30-19 win over the visiting San Francisco 49ers on Sunday in Week 6, White stayed productive with a team-leading 17 rushing attempts for 65 yards and a touchdown while adding three catches on three targets for 21 additional yards. The 26-year-old hasn't been all that productive with his touches the last two weeks since seeing an expanded role in the backfield, but he has delivered for fantasy managers with a nose for the end zone, scoring three total times in the last two games with Irving out. It's unclear if Irving will return in Week 7 against the Detroit Lions on Monday Night Football, but if he misses a third straight game, White will maintain his plug-and-play RB2 status in fantasy.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 7,
+  "team": "TB",
+  "opp": "DET",
+  "att": 10,
+  "tgt": 6,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

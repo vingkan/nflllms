@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206426",
+  "title": "Michael Carter a Low-End Flex Play in Week 9",
+  "description": "Arizona Cardinals running back Michael Carter has rejoined the team and looks to split most of the carries with Bam Knight again. In their last two games before the bye, Carter saw 20 touches compared to Knight's 29, so he should still see some action even though Emari Demercado has been cleared from the injury report. Especially after it was reported that he was getting first-team reps in the last two days of practice. Despite the three-headed committee in the backfield, Carter gives some low-end flex value since the Dallas Cowboys allow the second-most fantasy points to opposing backfields. Plus, he usually tends to see more work on passing plays than Knight.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

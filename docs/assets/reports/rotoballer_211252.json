@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211252",
+  "title": "Josh Jacobs Listed as Questionable for Saturday Night",
+  "description": "Green Bay Packers running back Josh Jacobs (knee, ankle) is officially listed as questionable to play on Saturday night against the division-rival Chicago Bears after missing practice all week, according to Adam Schefter of ESPN. It's an injury that dates back to Week 11 for Jacobs. The 27-year-old was held out of Week 12, but he's played in each of the last three games and has maintained his workhorse role at less than 100%. Jacobs was also questionable going into last Sunday's loss to the Denver Broncos. He played through the knee injury on his way to 12 carries for 73 yards and a touchdown while adding two receptions for 19 yards and his first receiving TD of the year. Jacobs is expected to gut through his knee injury again versus Chicago, where he'll be a low-end RB1 for fantasy managers. He's found the end zone 14 total times in 2025 in 13 games played.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

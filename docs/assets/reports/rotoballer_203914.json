@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203914",
+  "title": "TreVeyon Henderson Remains on Precipice of Fantasy Radar",
+  "description": "New England Patriots running back TreVeyon Henderson continues to make a push for more opportunities within the offense, but he hasn't seen much change in his fantasy value after five weeks of the NFL season. The Patriots continue to lean on Rhamondre Stevenson a little more than Henderson, even after the former lost three fumbles in three games. Stevenson touched the ball nine times on Sunday and was set up for two easy touchdowns despite averaging just two yards per carry. On the other hand, Henderson had eight touches and averaged four yards per carry, but still played less than half of the offensive snaps. He'll need to carve out a much larger snap share or start getting involved as a primary target for Drake Maye in the passing game before he becomes a worthwhile fantasy starter. In the meantime, he should be stashed on the bench.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 6,
+  "team": "NE",
+  "opp": "NO",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 27,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203487",
+  "title": "Chris Rodriguez Jr. a Touchdown-Dependent Play in Week 5",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. has led the backfield in carries and rushing yards over the last two weeks, compiling 98 yards on 18 attempts. Rodriguez has served as an early down hammer back this season, with him being brought up to the active roster after Austin Ekeler was lost for the season in Week 2. Rodriguez has tied for the lead in snaps with rookie Jacory Croskey-Merritt in the past two weeks and should continue to be involved on early downs and in short distances. He faces a tough test against a Chargers defense that has given up the fewest amount of fantasy points to running backs this season. Rodriguez is best left out of lineups for Week 5.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 5,
+  "team": "WAS",
+  "opp": "LAC",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 7,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 67
+}

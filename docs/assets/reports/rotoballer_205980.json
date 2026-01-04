@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205980",
+  "title": "Brian Robinson Jr. Does Nothing in Week 8 Loss",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. posted his worst performance of the season this past weekend. Robinson has barely seen the field lately, but only played two offensive snaps during Sunday's loss to the Houston Texans. The 26-year-old saw nine rushing attempts in Week 7, so it's a bit odd to see Robinson basically not even touch the field. Surprisingly, Christian McCaffrey has stayed healthy this season, so Robinson's role has been limited in this offense. The expectation is that Robinson is only going to see a handful of touches at most going forward. Robinson isn't going to offer viable fantasy value while McCaffrey is healthy and thriving.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 9,
+  "team": "SF",
+  "opp": "NYG",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 53,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 20
+}

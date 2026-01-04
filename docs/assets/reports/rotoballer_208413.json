@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208413",
+  "title": "Rachaad White Could Continue to Lose Rushing Work in Tampa Bay",
+  "description": "With Tampa Bay Buccaneers running back Bucky Irving (shoulder, foot) sidelined by injury since Week 4, fellow Bucs back Rachaad White had the first chance to assume the team's RB1 role. However, White is averaging less than four yards per rush attempt this season, and in Week 11, it appeared as though the team made a shift to running back Sean Tucker. In Tampa Bay's Week 11 loss to the Buffalo Bills, Tucker exploded for 140 scrimmage yards and three touchdowns on 21 touches while White recorded just 62 scrimmage yards on 12 touches. Irving will remain out for Tampa Bay's Week 12 matchup against the Los Angeles Rams, which means both White and Tucker will likely get their share of playing time for another week. White has been a consistent feature in the passing game, recording 20 receptions for 110 yards on 23 targets in the six games Irving has missed. Still, White should be expected to continue to lose work to Tucker in the rushing game and profiles as a low-end flex option for fantasy managers in Week 12 against Los Angeles.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 38,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 41
+}

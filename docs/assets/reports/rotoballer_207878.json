@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207878",
+  "title": "D'Andre Swift Off Injury Report, Faces Tough Vikings Run Defense",
+  "description": "Chicago Bears running back D'Andre Swift is off the injury report and is set to play in Week 11 against the Minnesota Vikings. This marks the first time since Week 6 that Swift has no injury designation, as he has been playing through nagging hip and groin injuries throughout the season. Despite playing through injury, Swift has been a game-changer for the Bears this season. In eight games, he has 754 scrimmage yards and five touchdowns on 136 total attempts. However, Week 11 marks his first relatively tough opponent he's had since Week 2, as the Vikings have allowed the 13th fewest fantasy points to running backs this season. This run defense is no joke, as they've held Derrick Henry and Jahmyr Gibbs to under double-digit fantasy points in back-to-back weeks. Swift profiles as a risky RB2 this week, with his value dependent on whether he finds the endzone in Minnesota.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 11,
+  "team": "CHI",
+  "opp": "MIN",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 90,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 31
+}

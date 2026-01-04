@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208125",
+  "title": "Bam Knight Finds the End Zone in Week 11",
+  "description": "Arizona Cardinals running back Bam Knight saw a scaled back role in the rushing game during Sunday's game against the San Francisco 49ers. Heading into this game, Knight had seen nine carries or more in each of his last four games. However, Knight carried the ball only five times for 24 yards and scored a touchdown in the loss. He also hauled in all four of his targets through the air for 21 additional yards. The fact the game was a blowout could've contributed to the lack of carries for Knight. He figures to have a bigger role during next week's matchup against the Jacksonville Jaguars. Fantasy managers should be able to plug in Knight as a low-end flex option",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 12,
+  "receiving_catches": 4,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 16
+}

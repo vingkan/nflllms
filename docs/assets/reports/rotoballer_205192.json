@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205192",
+  "title": "Rhamondre Stevenson Dominates Backfield Work in Win Over Titans",
+  "description": "Despite his ball-security issues, the New England Patriots have stuck with running back Rhamondre Stevenson as their clear lead back, as evidenced by his 18 carries in the 31-13 blowout win on Sunday over the Tennessee Titans in Week 7. Meanwhile, rookie TreVeyon Henderson only had two carries for five yards. Stevenson averaged 4.9 yards per tote and had 88 rushing yards and a touchdown while also catching both of his targets for no gain. Stevenson's 75% snap share on Sunday was a season high, while Henderson's 14% snap share was a season low. Stevenson's 88 rushing yards were also a season high, while he scored on the ground for the third time this year and the third time in the last three weeks. He hasn't put the ball on the ground in the last two weeks, either, and appears to be separating himself from the struggling Henderson in terms of backfield workload. The Pats aren't just going to mothball Henderson, but the 27-year-old Stevenson has RB2 upside if he continues to be the clear RB1 in an improved Patriots offense.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 8,
+  "team": "NE",
+  "opp": "CLE",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 1,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 35
+}

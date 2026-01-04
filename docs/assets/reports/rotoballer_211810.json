@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211810",
+  "title": "Jacory Croskey-Merritt a Risky Option Against Cowboys",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt has scored in back-to-back weeks for the first time this season. Croskey-Merritt, aka Bill, played only 11 snaps in last week's loss to the Eagles, but handled eight carries for 25 yards and a score. The rookie seventh-rounder was still firmly behind Chris Rodriguez Jr. in snaps and touches, but he earned more work on the goal line, outcarrying Rodriguez four to three inside the 10. The Commanders could be starting Josh Johnson at QB this week, with Marcus Mariota (hand, quadriceps) uncertain to play on a short week. That would limit the fantasy appeal for Croskey-Merritt. Plus, he has a tough matchup against a Dallas Cowboys defense that is allowing the sixth-fewest rushing yards per game since acquiring Quinnen Williams at the trade deadline. JCM projects as a desperation flex option for Week 17.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 17,
+  "team": "WAS",
+  "opp": "DAL",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 105,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 7
+}

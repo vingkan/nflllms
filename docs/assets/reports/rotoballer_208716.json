@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208716",
+  "title": "Kareem Hunt Maintains Control of Top Backfield Role for Week 12",
+  "description": "Kansas City Chiefs running back Kareem Hunt will earn another start after Isiah Pacheco (knee) was ruled out for Sunday's Week 12 game against the Indianapolis Colts. Pacheco is on track to miss his third consecutive game. In each of his two previous absences, Hunt took over as the primary running back, logging at least a 79% snap share on both occasions. He's averaging 12 carries, 54 rushing yards, one reception, 4.5 receiving yards, and one touchdown in games he's started with Pacheco sidelined. The veteran running back should handle around 10-15 touches once again this Sunday against the Colts. Indianapolis has been effective against the run, allowing the seventh-fewest rushing yards and 10th-fewest fantasy points to opposing running backs in 2025. Despite the tougher matchup, Hunt's role and volume have vaulted him up to the RB25 spot in this week's RotoBaller fantasy rankings.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 12,
+  "team": "KC",
+  "opp": "IND",
+  "att": 30,
+  "tgt": 3,
+  "touches": 33,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 104,
+  "receiving_catches": 3,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 8
+}

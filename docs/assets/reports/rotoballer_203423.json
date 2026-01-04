@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203423",
+  "title": "Jahmyr Gibbs Poised for Success in Favorable Week 5 Matchup?",
+  "description": "Detroit Lions running back Jahmyr Gibbs is off to a hot start to the 2025 season with 350 yards from scrimmage and four touchdowns on 78 total touches through his first four games of the season. Gibbs is set up well to continue that success in Week 5, when he gets a favorable matchup on paper against the Cincinnati Bengals. Cincinnati has allowed the seventh-most rushing yards and fifth-most rushing touchdowns in the NFL through four weeks. Gibbs is a lock to be a significant part of the Lions' offensive game plan, so volume of touches should not be an issue. In Week 5, Gibbs is a must-start fantasy running back across all formats.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 5,
+  "team": "DET",
+  "opp": "CIN",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 54,
+  "receiving_catches": 2,
+  "receiving_yards": 33,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 13
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208030",
+  "title": "Christian McCaffrey Scores Three Touchdowns in Divisional Win",
+  "description": "San Francisco 49ers running back Christian McCaffrey had 13 carries for 81 rushing yards and two rushing touchdowns during Sunday's Week 11 win over the Arizona Cardinals. He also caught five of his six targets for an additional 40 receiving yards and one receiving touchdown. The superstar running back continues to demonstrate excellence as a rusher and receiver, and his big game officially propelled him past Jonathan Taylor for the overall RB1 spot (PPR) through 11 weeks. Given that he was a late-first-round pick in most redraft leagues this year, managers are getting even more than they expected from the 29-year-old. He remains a must-start RB1 for Week 12 against his old team, the Carolina Panthers.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 12,
+  "team": "SF",
+  "opp": "CAR",
+  "att": 24,
+  "tgt": 7,
+  "touches": 31,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 89,
+  "receiving_catches": 7,
+  "receiving_yards": 53,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 27,
+  "ppr_scoring_position_rank": 2
+}

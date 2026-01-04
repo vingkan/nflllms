@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207797",
+  "title": "Emanuel Wilson a Fantasy Afterthought with Starter Healthy",
+  "description": "Green Bay Packers running back Emanuel Wilson remains a non-factor in fantasy football as long as starter Josh Jacobs is healthy. Wilson has played in all nine games this season, and his snap share peaked at 42 percent when Jacobs was playing through an injury. That ratio dropped to 21 percent last week, and he logged just one carry and one reception along the way. In addition to having a small workload, Wilson has been inefficient lately, averaging just 2.1 yards per touch over his last two games. The 26-year-old should be avoided in all formats ahead of Week 11 against the New York Giants. He's nothing more than a handcuff, and if Jacobs were to get hurt, we'd expect to see some sort of committee showcasing a combination of Wilson, Chris Brooks, and MarShawn Lloyd (hamstring).",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 11,
+  "team": "GB",
+  "opp": "NYG",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 40,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

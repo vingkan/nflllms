@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203472",
+  "title": "Zach Charbonnet a Touchdown-Dependent Flex Play in Week 5",
+  "description": "Seattle Seahawks running back Zach Charbonnet is a flex option in Week 5 against the Tampa Bay Buccaneers. Charbonnet continues to split backfield duties with Kenneth Walker III. However, Charbonnet's lack of participation in the passing game is hurting his fantasy value. Charbonnet has scored double-digit fantasy points each time he has found the end zone this season. However, he scored one fantasy point in Week 2 when he did not score. The Seahawks trust Charbonnet as their short-yardage back. Given that this offense has demonstrated its ability to get into scoring position, Charbonnet is always a threat to score. However, he is too inconsistent to be considered for your RB2 spot. Additionally, the Buccaneers boast one of the better defensive fronts in the NFL. They have been middle-of-the-road against opposing running backs in fantasy, but opposing running backs are averaging less than three yards per carry. Charbonnet is a fine flex play, especially given that bye weeks have begun, but his upside is capped in Week 5.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 5,
+  "team": "SEA",
+  "opp": "TB",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 36,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 25
+}

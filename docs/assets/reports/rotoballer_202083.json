@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202083",
+  "title": "Saquon Barkley is a Boom Candidate for Week 3",
+  "description": "The last time the Eagles met the Rams was in November of 2024, when Saquon Barkley ran for 255 yards and two touchdowns and caught the ball four times for 47 yards. So, fantasy managers should be salivating at Philadelphia's upcoming matchup against Los Angeles in Week 3. The Rams have a below-average run defense this season as well, allowing 111.5 yards per game on the ground through their first pair of contests. There's never a doubt about Barkley being an RB1, but for this week especially, he should be counted on as a top fantasy asset.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 3,
+  "team": "PHI",
+  "opp": "LAR",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 46,
+  "receiving_catches": 4,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 30
+}

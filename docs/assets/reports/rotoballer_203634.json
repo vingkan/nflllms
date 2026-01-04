@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203634",
+  "title": "Kareem Hunt Locked In Backfield Committee For Week 5",
+  "description": "Kansas City Chiefs running back Kareem Hunt will face the Jacksonville Jaguars on Monday night in Week 5. Hunt rushed 13 times for 34 yards (2.62 yards per carry) and caught one pass for 13 yards in last week's win over the Baltimore Ravens. The 30-year-old veteran back continues to get valuable touches out of the Kansas City backfield despite his inefficiency, but that could change in the near future. Isiah Pacheco and Brashard Smith handled seven carries and four carries, respectively, in Week 4. The rookie Smith has seen his snap rate increase each week this season, and there's been a lot of buzz about getting him more involved in the offense. That said, Hunt will presumedly still be the lead back this week against the Jaguars, who allow the eighth-fewest fantasy points to opposing running backs. Hunt is ranked RB32 in our RotoBaller Half-PPR rankings, making him the highest-ranked running back for the Chiefs and an RB3/Flex option this week.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 5,
+  "team": "KC",
+  "opp": "JAX",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 8
+}

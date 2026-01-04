@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209441",
+  "title": "Can Tyrone Tracy Jr. Stay Hot in a Difficult Week 13 Matchup vs. Patriots?",
+  "description": "New York Giants running back Tyrone Tracy Jr. has taken control of the Giants' backfield. Tracy has had 39 carries for 150 rushing yards, along with seven catches for 119 yards on eight targets over his last two games. The 26-year-old has been maximizing his versatile skill set and is making a case to be a reliable running back for managers right before the fantasy playoffs. Heading into Week 13, Tracy will face a stout New England Patriots run defense. The Patriots have allowed the fifth-fewest rushing yards and the fewest rushing touchdowns this season. However, Tracy should be more efficient per touch with rookie quarterback Jaxson Dart (concussion) being cleared from concussion protocol. Dart's dual-threat ability will force run defenders to pay more attention to him, freeing up bigger running lanes for Tracy. In a difficult matchup, Tracy is an RB3 that can be inserted into flex spots for fantasy managers against New England in Week 13.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 13,
+  "team": "NYG",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 36,
+  "receiving_catches": 1,
+  "receiving_yards": -3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 57
+}

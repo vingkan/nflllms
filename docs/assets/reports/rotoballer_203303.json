@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203303",
+  "title": "Michael Carter A Hot Waiver-Wire Addition",
+  "description": "Arizona Cardinals running back Michael Carter is a suddenly relevant fantasy name who is sending managers rushing to the waiver wires this week ahead of a matchup against the lowly Tennessee Titans. The fifth-year back told reporters on Wednesday that he's poised to start the game after the Cardinals lost their top two runnings backs, James Conner (ankle) and Trey Benson (knee), in back-to-back weeks. While Benson should return this year, the Arizona Republic reports the Cards could turn to a committee approach with Carter, Emari Demercado, and Zonovan Knight, but it was Carter who took snaps first at Wednesday's practice. Carter was a top-30 fantasy running back in 2021, and the opportunity gives him the chance at becoming a valuable fantasy add, especially during bye weeks.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 5,
+  "team": "ARI",
+  "opp": "TEN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 51,
+  "receiving_catches": 5,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

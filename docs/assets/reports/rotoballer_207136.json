@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207136",
+  "title": "Kyren Williams Looking to Repeat Success Against 49ers",
+  "description": "Los Angeles Rams running back Kyren Williams remains a must-start fantasy option in Week 10 against the San Francisco 49ers as he looks to build on a successful first half of the 2025 season. Williams has 586 rushing yards, 166 receiving yards, and six touchdowns so far, ranking as the overall RB13 in PPR leagues. On paper, a matchup against the 49ers could pose a challenge for running backs, as San Francisco ranks near the middle of the league in fantasy points allowed to the position. They've also surrendered the seventh-fewest rushing touchdowns to running backs. However, Williams didn't see that level of shutdown defense when the 49ers faced the Rams in Week 5. During that matchup, the 25-year-old had 14 carries, 65 rushing yards, eight catches, 66 receiving yards, and two receiving touchdowns. His 32.1 points (PPR) represented a season-high. Williams will look to repeat his success against a banged-up 49ers defense this week, and he should continue to be deployed as an RB1 in most leagues.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 10,
+  "team": "LAR",
+  "opp": "SF",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 5
+}

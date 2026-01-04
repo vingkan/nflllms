@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207229",
+  "title": "Tyler Allgeier Scores Twice Against Indianapolis",
+  "description": "Atlanta Falcons running back Tyler Allgeier had 11 carries for 57 rushing yards and two rushing touchdowns during Sunday's Week 10 loss against the Indianapolis Colts. Allgeier's production has been inconsistent this year, and Sunday's overtime thriller saw him post his largest carry total since Week 4. The 25-year-old remains the backup option behind Bijan Robinson, showcasing that he can have standalone fantasy value from time to time. Unfortunately, his good games have been a bit unpredictable, so it's tough to trust him as a fantasy starter as long as he's healthy. For now, he remains a handcuff with low-end RB3/flex appeal in Week 11 against the Carolina Panthers.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 11,
+  "team": "ATL",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

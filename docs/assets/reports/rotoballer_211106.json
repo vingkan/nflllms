@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211106",
+  "title": "Kyle Monangai has Earned a Consistent Role in Chicago",
+  "description": "Chicago Bears rookie running back Kyle Monangai has had some impressive performances during his first year in the NFL. Monangai has rushed for over 100 yards twice but has been held in check lately. Even though D'Andre Swift remains Chicago's primary back, Monangai continues to get consistent playing time in the backfield. The 23-year-old has 10 carries or more in five straight contests. The biggest problem is that Swift has been the much more effective runner lately. The Bears have shown they will ride with the hot hand, which is Swift right now. Monangai is worth holding, but he shouldn't be considered as much more than a touchdown-dependent RB3/flex in fantasy for the rematch against the Green Bay Packers in Week 16 on Saturday night.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 16,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 9,
+  "tgt": 4,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 3,
+  "receiving_yards": 43,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 23
+}

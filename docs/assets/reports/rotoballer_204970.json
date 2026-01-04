@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204970",
+  "title": "Bam Knight is a Risky Flex Play in Week 7",
+  "description": "Arizona Cardinals running back Bam Knight was dealing with a knee injury earlier in the week, but was a full participant in Thursday and Friday's practice, so he's good to go. In their Week 6 loss to the Indianapolis Colts, Knight saw a 51% snap share and finished as a high-end RB2 in half-PPR leagues. With Emari Demercado (ankle) ruled out for the Week 7 game against the Green Bay Packers, Knight is set to share the backfield with Michael Carter again. While he is a worthwhile waiver add if available, his fantasy output will likely be very volatile. The Cardinals seem to be going with the hot hand approach between the two backs, which gives Knight a low-end flex value in deeper leagues.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 7,
+  "team": "ARI",
+  "opp": "GB",
+  "att": 14,
+  "tgt": 4,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 57,
+  "receiving_catches": 3,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 23
+}

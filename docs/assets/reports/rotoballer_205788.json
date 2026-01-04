@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205788",
+  "title": "Cam Skattebo Officially Ruled Out for Remainder of Week 8 Due to Ankle Injury",
+  "description": "New York Giants running back Cam Skattebo (ankle) has officially been ruled out for the remainder of his team's Week 8 matchup against the Philadelphia Eagles after suffering a serious-looking ankle injury. Skattebo had his lower leg placed in an air cast and was carted off the field. Before getting injured, Skattebo recorded 30 yards from scrimmage and a touchdown on four total touches. With Skattebo sidelined for the remainder of Week 8 and potentially much longer, the Giants will turn to a backfield combination of Tyrone Tracy Jr. and Devin Singletary. Tracy Jr. had recorded 174 yards from scrimmage and a touchdown on 43 total touches across five games entering Week 8.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

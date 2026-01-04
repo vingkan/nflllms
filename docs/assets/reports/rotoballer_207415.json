@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207415",
+  "title": "Josh Williams Suspended Six Games",
+  "description": "Tampa Bay Buccaneers running back Josh Williams has been suspended without pay for violating the NFL's Performance Enhancing Substance Policy, according to Tom Pelissero of NFL Network. Williams is eligible for reinstatement on December 16, which will come after Tampa Bay's Week 16 divisional matchup against the Carolina Panthers. Williams is an undrafted rookie out of LSU who has only appeared in three games this season, mostly as a special teamer. The 25-year-old has just eight offensive snaps in the three games, recording four carries for 11 yards in Tampa Bay's Week 8 blowout win over the Saints.",
+  "player_id": 12787,
+  "player_name": "Josh Williams",
+  "week": 11,
+  "team": "TB",
+  "opp": "BUF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

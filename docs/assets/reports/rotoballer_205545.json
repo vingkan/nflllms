@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205545",
+  "title": "Rachaad White Looks to Bounce Back in Week 8",
+  "description": "Tampa Bay Buccaneers running back Rachaad White is coming off a lackluster performance against the Detroit Lions last week. White rushed 10 times for 38 yards, while hauling in four receptions for an additional six yards through the air. The Bucs were playing from behind for basically the entire game, so they were exactly committed to the rushing attack. White will remain the lead back for at least one more week with Bucky Irving (foot, shoulder) still sidelined. The assumption is that White will bounce back against the shaky New Orleans Saints defense. White should be able to offer high-end RB2 value for this weekend.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 8,
+  "team": "TB",
+  "opp": "NO",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 35,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 30
+}

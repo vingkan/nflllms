@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205458",
+  "title": "Aaron Jones Sr. Activated, Likely to Play vs. Chargers",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (hamstring) has been activated from Injured Reserve and is expected to suit up in Thursday night's matchup with the Los Angeles Chargers. Jones appeared in just two games, recording 13 carries for 46 yards before suffering the injury. Jordan Mason has established himself as the featured back, meaning Jones should be eased back in gradually. His return is a welcome sight for the league's 20th-ranked rushing offense. The boost to their run game should also assist their time of possession, as the Vikings are averaging just 58.8 offensive snaps per game. Jones should be added if available as a likely committee member in the Vikings' backfield.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 8,
+  "team": "MIN",
+  "opp": "LAC",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 15,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

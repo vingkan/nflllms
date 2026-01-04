@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203861",
+  "title": "Kendre Miller's Snap Count on the Rise",
+  "description": "New Orleans Saints running back Kendre Miller has seen his snap share increase every game this season, and in Week 5, he was on the field for 26 of the Saints' 66 offensive plays. He saw double-digit carries for the second straight week and out-touched Alvin Kamara on the ground for the first time this year. In a relatively unremarkable waiver week, he becomes a priority add wherever he's still available, but fantasy managers should be leery of his almost non-existent usage in the passing game. He's seen only four targets through five weeks, and in the Saints' first win of the season, some of his increased workload can be explained away by a game script New Orleans is unlikely to repeat with regularity.",
+  "player_id": 9757,
+  "player_name": "Kendre Miller",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 47
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211385",
+  "title": "Kareem Hunt's Touchdown Upside Takes a Hit with Mahomes Out",
+  "description": "Kansas City Chiefs running back Kareem Hunt had his worst game of the season in Week 15, where he totaled 20 yards on seven attempts against the Los Angeles Chargers. Hunt was on a hot streak before last week, where he had a touchdown in five of his previous six games. The veteran running back played 49% of the snaps in Week 15, while Isiah Pacheco played 46%, which is his highest mark since injuring his knee in Week 8. While Hunt remains the lead back heading into Week 16, the injury to quarterback Patrick Mahomes may deteriorate his fantasy value moving forward. With Mahomes out, the Chiefs will likely struggle to move the ball, which will limit Hunt's goal-line attempts that have propelled his fantasy stock this season. Despite the easy matchup against the Tennessee Titans, Hunt is a risky FLEX at best in Week 16.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 16,
+  "team": "KC",
+  "opp": "TEN",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 77
+}

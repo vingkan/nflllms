@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205138",
+  "title": "Quinshon Judkins Capitalizes on Favorable Matchup, Scores Three Times",
+  "description": "Cleveland Browns rookie running back Quinshon Judkins carried the ball 25 times for 84 rushing yards and three rushing touchdowns during Sunday's Week 7 win over the Miami Dolphins. He was not targeted in the passing game. Judkins' yardage efficiency (3.4 YPC) was nothing special, but that's a moot point when you look at his touchdown efficiency. The rookie had a great opportunity to thrive this week against a Dolphins defense that has struggled to defend the run all year. Miami's offensive woes also helped Judkins, giving the ball back to Cleveland's offense quite often. Judkins certainly capitalized on his opportunities and now has double-digit fantasy points (PPR) in five of his six games. He should be viewed as a low-end RB1 heading into Week 8 against the New England Patriots.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 8,
+  "team": "CLE",
+  "opp": "NE",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 19,
+  "receiving_catches": 3,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 41
+}

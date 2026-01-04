@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208227",
+  "title": "Is Sean Tucker Worth a Start on Sunday Night Against the Rams?",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker exploded in Week 11 with 140 all-purpose yards and three touchdowns. He out-touched backfield mate, Rachaad White, 19-10, and has looked like the better, more efficient runner the past few weeks. Head coach Todd Bowles mentioned on Monday that \"it's hard to say\" if running back Sean Tucker will see more playing time even when Bucky Irving (foot, shoulder) comes back, according to the Pewter Report. It appears the Bucs may go with a hot-hand approach in the backfield while Irving remains out. Regardless, this Week 12 matchup is brutal for whoever the Bucs plan to roll out there. The Los Angeles Rams are tough against opposing running backs, ranking third overall in the fewest points allowed to the position. The positives for Tucker are that he may have overtaken White's early-down work, and, as a result, Tucker will remain in the RB3/flex conversations this week, assuming Irving is still not able to play. If Irving does play, Tucker should remain on fantasy managers' benches.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211274",
+  "title": "Jacory Croskey-Merritt Could Fall Back into Depth Role in Week 16",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt delivered his best game in more than two months in the Week 15 win over the New York Giants, handling a season-high 18 carries for 96 yards and a touchdown. Croskey-Merrit took advantage of his opportunities with Chris Rodriguez Jr. (groin) out of the lineup, but Rodriguez will be back for Saturday's divisional matchup against the Philadelphia Eagles. It's to be determined if the rookie seventh-rounder earned a larger role with his strong performance, but he looked dynamic and reminded fantasy managers why he generated buzz earlier in the season. Croskey-Merritt struggled mightily after his breakout game in Week 5, ranking 38th out of 38 running backs with at least 40 carries with a 3.0 yards-per-carry average in Weeks 6-11. However, over the past three games, he's turned things around, averaging 5.1 yards per tote and ranking ninth among backs with at least 25 carries. It's another good matchup for Washington running backs in Week 16, as the Eagles have allowed the seventh-most yards per carry (4.5) this season, but with the uncertainty around Croskey-Merritt's role, he profiles only as a deep-league flex option.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 16,
+  "team": "WAS",
+  "opp": "PHI",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 25,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 36
+}

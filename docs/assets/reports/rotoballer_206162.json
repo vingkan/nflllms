@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206162",
+  "title": "De'Von Achane Heavily Involved as Receiver in Loss to Baltimore",
+  "description": "Miami Dolphins running back De'Von Achane rushed for 67 yards on 14 carries during Thursday's Week 9 loss to the Baltimore Ravens. He also caught six of his 10 targets for an additional 39 receiving yards. While the speedy running back was held without a touchdown for the second time in the last three weeks, his heavy receiving workload salvaged his fantasy performance, especially in full-PPR and half-PPR formats. Achane ultimately led the Dolphins in targets on Thursday and finished second on the team in receptions, trailing Jaylen Waddle. Although his upside has been slightly capped by Miami's poor offensive output this season, his floor has remained one of the highest in the league. He has scored at least 12 fantasy points (full-PPR) in every game this year, ranking as the overall RB3 so far. A rare matchup-proof running back, Achane has shown that he belongs in lineups regardless of what Miami's offensive forecast looks like. He should be treated as a mid-to-high RB1 for Week 10 against the Bills.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 22,
+  "tgt": 6,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 174,
+  "receiving_catches": 6,
+  "receiving_yards": 51,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 40,
+  "ppr_scoring_position_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211015",
+  "title": "Jaylen Warren to Play Through Illness on Monday Night",
+  "description": "Pittsburgh Steelers running back Jaylen Warren (illness), who was a late addition to the Week 15 injury report due to an illness, is officially active for the Monday night game against the visiting Miami Dolphins, according to Teresa Varley of Steelers.com. Fantasy managers can leave the 27-year-old in their starting lineups, but Warren may be spelled a bit more by backfield mate Kenneth Gainwell against Miami. Warren has been Pittsburgh's primary RB all year and is averaging 12.0 half-PPR fantasy points per game on 652 rushing yards and four touchdowns on 159 rushing attempts. He's added 30 receptions for 277 yards and another two scores as a receiver. Warren has a pretty high ceiling as an RB2, as he's had double-digit touches in all 12 of his games in 2025 while averaging 15.8 touches and 77.4 scrimmage yards.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 15,
+  "team": "PIT",
+  "opp": "MIA",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 38
+}

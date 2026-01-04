@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206434",
+  "title": "Saints Expect Alvin Kamara to Play Vs. Rams",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle), who is questionable for Sunday's road clash with the Los Angeles Rams, is expected to play, per NFL Network's Ian Rapoport. Kamara has been on the team's injury report since Week 6 while he battles an ankle ailment, logging a full practice session just once in that time frame. Despite the issue, he's yet to miss an appearance and is projected to be out there again when New Orleans takes on the hosting Rams. Kamara and the Saints' offense have had a rough go all season, though it's worth mentioning he's eclipsed 30 rushing yards just once since Week 5. If he plays, fantasy managers can expect the University of Tennessee alum to be out there for his usual allotment of snaps, with backfield mate Devin Neal spelling him on occasion. He's a fringey RB2/3 with the extra variable of a new starting quarterback in rookie Tyler Shough.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 9,
+  "team": "NO",
+  "opp": "LAR",
+  "att": 6,
+  "tgt": 3,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 60
+}

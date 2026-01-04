@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208394",
+  "title": "Tyler Allgeier's Touchdowns Salvaging Low-Volume Role",
+  "description": "Atlanta Falcons running back Tyler Allgeier continues to earn goal-line opportunities, and his three touchdowns over the Falcons' last two games have salvaged his otherwise uninspiring performances. Allgeier has 14 carries for 67 yards over those two contests, plus a pair of receptions. However, he also has three rushing touchdowns, scoring at least 9.6 fantasy points (PPR) in each of the two games. The Falcons have shown a tendency to give the ball to their running backs around the goal line, as Bijan Robinson and Allgeier have combined for five touchdowns over the last two games, including three last Sunday. As long as there are enough goal-line opportunities to go around, Allgeier should continue to score touchdowns at a promising rate. He remains in the RB3/flex tier ahead of Week 12 against the New Orleans Saints, but managers must accept the fact that his value is heavily dependent on finding the end zone. As a result, he's more of a matchup-based play rest-of-season.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 12,
+  "team": "ATL",
+  "opp": "NO",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 37
+}

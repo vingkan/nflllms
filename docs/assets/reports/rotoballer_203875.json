@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203875",
+  "title": "Michael Carter Listed as RB1 on Cardinals Depth Chart",
+  "description": "Arizona Cardinals running back Michael Carter is listed as the RB1 on the team's depth chart going into a Week 6 clash against the Indianapolis Colts on the road on Sunday. Emari Demercado is listed as the No. 2, with Bam Knight following him. James Conner (ankle) is out for the rest of the season, while Trey Benson (knee) is out four to six weeks due to a knee injury. In Arizona's new-look backfield in the Week 5 loss to the Tennessee Titans, Carter operated as the clear lead back, carrying the ball 18 times for 51 yards and a touchdown and catching all five of his targets for another 22 yards. Demercado and Knight combined for only nine touches, with Demercado botching what would have been a 70-plus-yard touchdown. Even though Carter wasn't very efficient with his 23 touches, it's clear the Cardinals are going to lean heavily on him with Benson out. Carter should be scooped up off waivers this week if he's still available in your league.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 6,
+  "team": "ARI",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

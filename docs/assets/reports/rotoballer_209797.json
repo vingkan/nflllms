@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209797",
+  "title": "Kenneth Walker III Listed as Limited Participant on Wednesday",
+  "description": "Seattle Seahawks running back Kenneth Walker III (glute) was listed as a limited participant in Wednesday's practice as they prepare to face the Atlanta Falcons. Walker has been on the injury report for the past few weeks with a \"glute\" injury, but it hasn't affected his game status or role in the Seahawks' offense. Walker has totaled 180 touches for 908 yards in 12 games, but has only added four touchdowns this season, which has generated the majority of the headlines in this backfield. Walker and third-year back Zach Charbonnet have been an RB by committee this season, and while Walker has been far more efficient this season, Charbonnet has scored eight touches. Thursday and Friday's practice reports will be key, but Walker will continue to fight through injury and be the lead back for this Seahawks run game.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 14,
+  "team": "SEA",
+  "opp": "ATL",
+  "att": 10,
+  "tgt": 3,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 29,
+  "receiving_catches": 1,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

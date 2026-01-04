@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208651",
+  "title": "Sean Tucker Expected to See Heavy Workload in Week 12",
+  "description": "The Athletic's Dianna Russini writes that viewers should expect to see a \"heavy dose\" of Tampa Bay Buccaneers running back Sean Tucker in his team's Week 12 matchup against the Los Angeles Rams on Sunday Night Football. The 24-year-old had a breakout game in Week 11, recording 140 scrimmage yards and three touchdowns against the Buffalo Bills. With Buccaneers running back Bucky Irving (shoulder, toe) out for at least one more week, Tucker and Rachaad White will handle the backfield work for Tampa Bay in Week 12. Based on Tucker's recent performance and Russini's reporting, it appears that White may be fading into more of a complementary role. Tucker profiles as a high-end RB3/flex option for fantasy managers in a tough matchup against the Rams.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

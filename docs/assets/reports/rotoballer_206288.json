@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206288",
+  "title": "Rico Dowdle is Worth the Risk in Week 9?",
+  "description": "Rico Dowdle is a risky option in Week 9 against the Green Bay Packers, but with four teams on a bye, you may not have a viable alternative. The Packers' run defense has allowed 16.73 fantasy points per game to RBs this season, ranking third-best in the league. Dowdle was in a timeshare with Chuba Hubbard through the last two weeks, with Hubbard getting the majority of snaps. Head coach Dave Canales said that Dowdle will be the starter and will get the bulk of the touches this week over Hubbard. While Hubbard will be a part of the Carolina running game this week, Dowdle outperformed him at 5.7 yards per carry to Hubbard's 2.5 over the last two weeks, despite having the lower snap count. The matchup against Green Bay is not favorable, but with Dowdle expected to see the majority of snaps, he is a fantasy RB2 for Week 9. The potential volume signals that he should be kept in lineups.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 25,
+  "tgt": 3,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 130,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 2
+}

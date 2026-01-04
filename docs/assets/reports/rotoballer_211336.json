@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211336",
+  "title": "Rhamondre Stevenson Seeing Less Predictable Usage",
+  "description": "New England Patriots running back Rhamondre Stevenson has seen a notable decline in usage since returning from the toe injury that caused him to miss three games from Weeks 9-11. Prior to the injury, he was averaging 12.8 opportunities per game, while that number has slipped to just 10.7 over the past three weeks. He has taken exactly six handoffs in two of those three games, and the goal line work that was almost exclusively his to begin the year is now being split with explosive rookie TreVeyon Henderson. Stevenson looked good on his limited opportunities in a Week 15 loss to the Bills, but his touches all but dried up following an undisciplined penalty, leaving Henderson to handle most of the team's second-half work. The Patriots face an undaunting Ravens run defense in Week 16, but Stevenson looks to have fallen behind Henderson in New England's backfield committee, and he is RotoBaller's RB41 for the week.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 16,
+  "team": "NE",
+  "opp": "BAL",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 51,
+  "receiving_catches": 2,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 15
+}

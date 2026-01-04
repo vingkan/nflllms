@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206966",
+  "title": "Jeremy McNichols Looking to Bounce Back in Week 10",
+  "description": "Washington Commanders running back Jeremy McNichols only had one carry for four yards, but he added a season-high five catches on six targets for 64 receiving yards in the Week 8 loss to the Kansas City Chiefs while playing a season-high 43% of the offensive snaps. The 29-year-old couldn't stack another strong game on top of it, though, as he played only 26% of the snaps in the Week 9 loss to the Seattle Seahawks and wasn't targeted through the air. McNichols had just one carry again for no gain. It was the first time he was held without a catch since back in Week 3. Fantasy managers definitely can't realistically treat McNichols as a starting option, but both he and Chris Rodriguez Jr. may start to see more involvement with rookie Jacory Croskey-Merritt hitting a rookie wall. On the year, McNichols has only 272 scrimmage yards and a touchdown on 29 touches.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 25,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 46
+}

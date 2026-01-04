@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206214",
+  "title": "Alvin Kamara Questionable for Week 9, Trending Toward Playing",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is listed as questionable for Sunday's matchup against the Los Angeles Rams, but is trending positively to play, according to Jeff Nowak of Audacy Sports. Kamara was a limited participant in practice every day this week, but should be expected to suit up for Week 9. The 30-year-old running back got banged up in the Saints' Week 8 blowout loss against the Bucs and posted his lowest snap share of the season at 52.1%. Kamara has also struggled of late, recording 35 carries for 107 yards while adding 14 catches (16 targets) for 98 yards and no touchdowns over his last four games. He'll look to bounce back in Week 9 with rookie quarterback Tyler Shough making his first career start. It's a tough matchup for Kamara, however, as the Rams have allowed the second-fewest PPR points per game to opposing running backs.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 9,
+  "team": "NO",
+  "opp": "LAR",
+  "att": 6,
+  "tgt": 3,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 60
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208240",
+  "title": "Bhayshul Tuten Spotted at Practice on Wednesday",
+  "description": "Ryan O'Halloran of The Florida Times-Union did not list Jacksonville Jaguars running back Bhayshul Tuten (ankle) among the players who were not participating in the team's Wednesday walkthrough. Tuten was forced to exit early from his team's Week 11 win over the Los Angeles Chargers due to an ankle injury. However, his apparent on-field presence during practice on Wednesday could be a positive sign for his status in Week 12 against the Arizona Cardinals. Before leaving the game against the Chargers, Tuten was on his way to a breakout performance with 74 rushing yards and a touchdown on 15 carries. If he is active in Week 12, it's possible that Jacksonville will continue shifting touches away from veteran back Travis Etienne and towards Tuten. Fantasy managers should check back throughout the week as more information around Tuten's injury status is released.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 55
+}

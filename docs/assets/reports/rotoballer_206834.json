@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206834",
+  "title": "Rico Dowdle Back at Practice on Thursday",
+  "description": "Carolina Panthers running back Rico Dowdle (quadriceps) appears to be trending in the right direction heading into Sunday's matchup with the New Orleans Saints. Dowdle was seen stretching ahead of practice Thursday, after working on the side Wednesday. The emerging star is now wearing a helmet in practice, which is an encouraging sign. Continue to monitor injury reports through the weekend, with Dowdle viewed as a must-start if healthy. The 27-year-old has amassed 735 rushing yards and four touchdowns on just 131 carries this season, while adding another 132 yards and a touchdown through the air. The Saints are allowing 129.4 rushing yards per game, and it is unlikely that quarterback Tyler Shough will be able to sustain drives and keep Dowdle off the field Sunday. UPDATE: Dowdle was limited on Thursday.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 10,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203771",
+  "title": "Trevor Etienne Only Handles Five Touches in Week 5 Win Over Miami",
+  "description": "Carolina Panthers rookie running back Trevor Etienne was in line for a bigger workload in Week 5 against the visiting Miami Dolphins on Sunday with starter Chuba Hubbard (calf) ruled out due to injury. Etienne did play a season-high 20% of the offensive snaps in the 27-24 victory, but he only handled five touches (four carries and one reception), while Rico Dowdle had a career day with 23 rushing attempts for 206 yards and a touchdown. Dowdle also caught three of his four targets for 28 yards in the passing game. Etienne ran for 22 yards on his four carries and picked up seven yards on his lone reception against Miami. The 21-year-old could be right back to RB3 duties in Week 6 against the Dallas Cowboys if Hubbard is able to overcome his calf injury and get back on the field at practice this week. Even if Hubbard misses another game, Etienne isn't going to be in play as a starting flex option in fantasy lineups on Sunday.",
+  "player_id": 12531,
+  "player_name": "Trevor Etienne",
+  "week": 6,
+  "team": "CAR",
+  "opp": "DAL",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 59
+}

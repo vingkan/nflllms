@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202452",
+  "title": "Justice Hill Sees Increased Involvement in Passing Game",
+  "description": "Baltimore Ravens running back Justice Hill saw a season high of four targets in Monday night's loss to the Lions. He caught three for 45 yards, which more than doubled his passing yards from the first two weeks. However, in a game where bell cow Derrick Henry failed to get rolling, outside of an early touchdown run, and had a costly fumble late in the game, Hill was not given a single carry. On a Ravens team not projected to see many multiple-score deficits, this was the exact game script that should have been to Hill's benefit. And while 45 yards from the running back position can be a fantasy difference maker, it's less impactful when it's the entirety of his output. With a more favorable schedule coming up for Baltimore, there will be few, if any, opportunities to sneak Hill into a flex spot.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 4,
+  "team": "BAL",
+  "opp": "KC",
+  "att": 3,
+  "tgt": 6,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 76,
+  "receiving_catches": 5,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 4
+}

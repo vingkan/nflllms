@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211691",
+  "title": "Rhamondre Stevenson Could See Starting Opportunity in New England",
+  "description": "New England Patriots running back Rhamondre Stevenson has seen his workload fall off in recent weeks, as he's recorded double-digit carries in just one game since Week 8. However, Patriots rookie running back TreVeyon Henderson (head) was forced to leave New England's Week 15 win over the Baltimore Ravens early after suffering a head injury, which may open an opportunity for Stevenson. The 27-year-old had a solid game against Baltimore in Henderson's absence, recording 71 scrimmage yards and a touchdown on 10 touches. While he's struggled to be efficient as a rusher this season (3.7 yards per carry), Stevenson's numbers look better when his work as a receiver is factored in. He's racked up 693 yards from scrimmage on 140 touches, good for an average of five yards per touch. If Henderson is unable to play in Week 17 against the New York Jets, Stevenson could dominate backfield touches in a favorable matchup. In fantasy leagues where he is available, Stevenson is worth targeting on the waiver wire while Henderson's availability is in question.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 17,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 8,
+  "tgt": 5,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 5,
+  "receiving_yards": 55,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 27,
+  "ppr_scoring_position_rank": 5
+}

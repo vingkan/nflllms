@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207614",
+  "title": "J.K. Dobbins Misses Second Straight Practice on Thursday",
+  "description": "Denver Broncos running back J.K. Dobbins (foot) was held out of practice again on Thursday as he battles a foot injury he suffered in Week 10. The 26-year-old appears to be in serious jeopardy of missing his team's crucial Week 11 matchup against the Kansas City Chiefs, and earlier reporting has indicated that Dobbins may even be a candidate to be placed on Injured Reserve. Across 10 games this season, Dobbins has recorded 153 carries for 772 rushing yards and four touchdowns. If he is unable to play in Week 11, rookie running back RJ Harvey profiles as Denver's clear lead back, with Tyler Badie mixing in on passing downs as well. Dobbins' official status for Sunday won't be decided until later in the week, but fantasy managers would be wise to proceed as though he will not play in Week 11",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 11,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

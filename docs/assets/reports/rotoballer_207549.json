@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207549",
+  "title": "TreVeyon Henderson Set to Feast with Favorable Game Script and Workload",
+  "description": "New England Patriots running back TreVeyon Henderson is on track to lead the backfield in Week 11 after Rhamondre Stevenson (toe) was ruled out for a third consecutive game. After totaling 150 yards and two touchdowns against the Tampa Bay Buccaneers last week, Henderson will look to keep his momentum during a short week, facing off against the New York Jets on Thursday Night Football. New York ranks near the middle of the league in terms of fantasy points allowed to running backs, but a spread of New England -12.5 could lead to a heavy dose of touches for Henderson, as well as teammates Terrell Jennings (knee) and D'Ernest Johnson. The rookie still has some things to clean up -- he averaged just 1.96 YPC on non-scoring plays last week -- but if he can continue to play more than three-quarters of the snaps while carving out a role as a rusher and receiver, he'll be in line for a very strong fantasy outing in Week 11. He ranks as a solid RB2 with RB1 upside.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 19,
+  "tgt": 5,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 5,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 3
+}

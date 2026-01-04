@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206854",
+  "title": "Jacory Croskey-Merritt Practices in Full on Thursday",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt (tooth) was able to practice in full on Thursday after being limited on Wednesday due to a tooth issue. Croskey-Merritt's status for Washington's Week 10 matchup against the Detroit Lions does not appear to be in jeopardy. The 24-year-old has recorded 440 rushing yards and four touchdowns on 94 carries across nine games so far this season. However, Croskey-Merritt has failed to crack 38 rushing yards or score a touchdown since Week 6. In Washington's Week 9 loss to the Seattle Seahawks, Croskey-Merritt earned the same number of carries (12) as fellow Commanders back Chris Rodriguez Jr. Washington's unsettled backfield picture makes it difficult for fantasy managers to trust Croskey-Merritt as a starter. He profiles as a low-end RB3/flex option against Detroit in Week 10.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

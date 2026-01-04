@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211536",
+  "title": "Michael Carter an Intriguing Fantasy Play in Larger Role",
+  "description": "Arizona Cardinals running back Michael Carter should lead the backfield against the Atlanta Falcons in Week 16, reinforcing his fantasy value as a low-end RB2 or high-end RB3 in fantasy football. Carter will handle a larger workload this week after Zonovan Knight (ankle) was placed on injured reserve. After Knight exited last weekend, Carter played a season-high 80% snap share with 14 carries, 56 rushing yards, four catches, and 38 receiving yards. The 26-year-old is likely headed for similar volume this Sunday, but we also wouldn't be surprised if Emari Demercado eats into his workload slightly. Nevertheless, Carter should remain the clear No. 1 back heading into a favorable matchup against the Falcons, who have allowed the 13th-most rushing yards and 14th-most fantasy points to opposing running backs in 2025. A spread of ATL -3.0 also indicates that this should be a competitive game, which is another reason why we expect Carter to see a healthy dose of carries and targets. He ranks as the overall RB25 in RotoBaller's latest fantasy football rankings for Week 16.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 16,
+  "team": "ARI",
+  "opp": "ATL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 45
+}

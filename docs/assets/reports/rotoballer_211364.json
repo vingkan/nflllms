@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211364",
+  "title": "De'Von Achane Ready to Run Wild?",
+  "description": "Miami Dolphins running back De'Von Achane is in an excellent matchup against the Bengals this week. Cincinnati has allowed the most fantasy points to running backs this season, allowing 18 RB touchdowns in 14 games, along with an average of 129.1 rushing yards and 45.6 receiving yards. Achane should be ready for a monster performance, although there is a little uncertainty in how the Dolphins' offense will look with Quinn Ewers in place of Tua Tagovailoa at quarterback. Achane has been pretty matchup-proof, scoring 11 touchdowns and averaging 84.7 rushing yards and 32.1 receiving yards per game. He had six catches for 67 yards and 60 rushing yards for a big game against the Steelers last week, even though he didn't get into the end zone. This week, he's in such a great matchup against the Bengals that he's the No. 4 RB in RotoBaller's rankings, despite the QB switch. Achane should be started with confidence in all formats this week against the Bengals.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 16,
+  "team": "MIA",
+  "opp": "CIN",
+  "att": 15,
+  "tgt": 3,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 81,
+  "receiving_catches": 3,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 14
+}

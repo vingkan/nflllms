@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204290",
+  "title": "Kyle Monangai Eyeing Bigger Role in First Game Following Bye",
+  "description": "Chicago Bears rookie running back Kyle Monangai will look to build on his growing role coming out of the team's bye week. Through four games, the seventh-round pick has logged 17 carries for 62 yards and added three receptions for 23 yards. Monangai did not practice on Thursday with a thigh injury, but was a full participant on Friday, and should be able to go for the Bears in Week 6. While his production has been limited, head coach Ben Johnson has praised Monangai for making the most of his opportunities. With D'Andre Swift off to a slow start, Monangai could begin to push for a larger share of the backfield touches in the coming weeks. However, the matchup against the Washington Commanders isn't favorable, as they've allowed the 10th-fewest fantasy points to running backs this season. Monangai isn't a fantasy option just yet, but managers should keep an eye on his usage Monday night, as the rookie could quietly carve out a bigger role in Week 6 and beyond.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 6,
+  "team": "CHI",
+  "opp": "WAS",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 19,
+  "receiving_catches": 1,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 38
+}

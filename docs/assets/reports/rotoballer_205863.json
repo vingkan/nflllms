@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205863",
+  "title": "Rico Dowdle \"has Been Exceptional,\" to Start Seeing More Work?",
+  "description": "When asked about the team's running back situation involving both Rico Dowdle and Chuba Hubbard, Carolina Panthers head coach Dave Canales said, \"Chuba Hubbard has meant a lot to this team. We wanted to give him an opportunity following his calf injury. But we can't ignore the fact that Rico [Dowdle] has been exceptional.\" Canales' tone \"suggests Dowdle will get a heavier workload,\" according to Ari Meirov of The 33rd Team. In the team's Week 8 loss to the Buffalo Bills with a negative game script, Dowdle had eight carries for 54 yards and wasn't targeted in the passing game on just 36% of the offensive snaps. Meanwhile, Hubbard had a team-high 12 carries for 34 yards and a touchdown and didn't catch his only target on 57% of the snaps. Dowdle was more efficient on the ground on Sunday and has 123 yards on 25 carries in the two games since Hubbard returned from injury. Even if Dowdle sees a bit more work going forward, this backfield split is going to cap his fantasy value every week.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 25,
+  "tgt": 3,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 130,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 2
+}

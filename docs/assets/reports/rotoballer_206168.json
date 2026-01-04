@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206168",
+  "title": "Rico Dowdle In Line For Bigger Workload in Week 9",
+  "description": "Carolina Panthers running back Rico Dowdle is expected to be the team's featured back in Week 9 against the Packers following head coach Dave Canales' comments in his press interview on Monday. Dowdle has been impressive with his touches this season, handling 106 carries for 605 yards and two touchdowns while adding 13 catches (17 targets) for 121 yards and another touchdown as a receiver. Meanwhile, Chuba Hubbard has struggled after a breakout 2024 season that earned him a four-year contract extension, recording 79 carries for 282 yards with a touchdown and adding 15 catches (21 targets) for 118 yards with two touchdowns. The Panthers have made it clear that they don't plan on trading Hubbard, and while he'll still be involved, Dowdle has clearly earned more work and should be the preferred fantasy option moving forward. Dowdle is ranked as RotoBaller's RB18 for Week 9 against the Packers.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 25,
+  "tgt": 3,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 130,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 2
+}

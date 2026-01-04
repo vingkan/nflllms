@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207855",
+  "title": "Bam Knight Not a Comfortable Option Due to Performance, Injury",
+  "description": "Arizona Cardinals running back Bam Knight (ankle) is not a reliable fantasy option for Week 11 against the San Francisco 49ers. Knight flashed upside with 25 carries over two games earlier in the season, but his usage and productivity have taken a step backward with Emari Demercado re-joining the mix. Last week, Knight had 10 carries and four targets, but he finished the game with just 28 rushing yards, one reception, and five receiving yards. He posted 4.3 fantasy points (PPR) in the loss, which was his lowest mark of the season. Demercado showed more burst on the ground and had a similar snap share to Knight last week. There's no Arizona running back we feel very confident in, but if forced to choose one, Demercado would be the pick. In addition to struggling on the field lately, Knight also has the injury factor to consider; he's currently listed as questionable for Week 11 against the Niners, who have allowed the 13th-most fantasy points to opposing running backs in 2025.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

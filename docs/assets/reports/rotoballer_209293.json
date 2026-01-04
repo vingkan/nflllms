@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209293",
+  "title": "Quinshon Judkins a Low-End RB2 in Week 13",
+  "description": "Cleveland Browns running back Quinshon Judkins turned in a strong effort in a Week 12 win over the Las Vegas Raiders, rushing for two touchdowns, although he finished with just 47 yards on 16 carries. Judkins will look to find the end zone again in Week 13's home matchup against the San Francisco 49ers. The 49ers have been tough against the run this season, allowing just the 19th-most fantasy points per game to running backs thus far this season. Judkins has seven touchdowns in 10 games for the Browns this season but has seen his ceiling capped by a scuffling offense. He sets up as a low-end RB2 in Week 13.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 13,
+  "team": "CLE",
+  "opp": "SF",
+  "att": 23,
+  "tgt": 3,
+  "touches": 26,
+  "actual": "high",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 91,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

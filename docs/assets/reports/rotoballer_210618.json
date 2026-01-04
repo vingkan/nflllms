@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210618",
+  "title": "Malik Davis Remains Top Handcuff with Minimal Standalone Upside",
+  "description": "Dallas Cowboys running back Malik Davis has emerged as the primary No. 2 option behind workhorse Javonte Williams in the team's backfield. However, Davis has been unable to carve out a substantial role, which makes him a handcuff with RB4 value heading into a Week 15 matchup against the Minnesota Vikings. Since their Week 10 bye, Davis has been the only other running back Williams to log an offensive snap, suggesting he would see a massive workload in the event the former first-round pick misses time with an injury. However, during this four-game stretch, Davis has been unable to log over 20% of the snaps in a single game and has only logged more than three carries once. In Week 13, Davis made the most of his change-of-pace role, tallying 47 yards and a score on three attempts. However, in the other three games, Davis has totaled 50 yards on 10 carries. Given his current usage, managers should continue to view him as a top handcuff that should not be in their starting lineup outside of a cheap flier in a DFS single-game slate.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 15,
+  "team": "DAL",
+  "opp": "MIN",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 23
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207585",
+  "title": "Ollie Gordon II Limited Again on Thursday",
+  "description": "Miami Dolphins rookie running back Ollie Gordon II (ankle) was listed as a limited practice participant for the second straight day on Thursday due to an ankle injury that he suffered in Week 9, according to Travis Wingfield of MiamiDolphins.com. Gordon's ankle definitely played a part in the team's Week 10 upset win over the Buffalo Bills, as he played on just three offensive snaps and saw only one rushing attempt on the day. Meanwhile, Jaylen Wright played 10 snaps and had five carries as the RB2 behind workhorse back De'Von Achane. Before Gordon's ankle injury, he had been the clear backup to Achane over Wright in 2025, but that script has been flipped with Gordon at less than 100% health. Neither Gordon nor Wright has any standalone fantasy value, with Achane rarely coming off the field. Gordon has 41 rushing attempts in his first NFL season for 119 yards and a touchdown.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 11,
+  "team": "MIA",
+  "opp": "WAS",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 45,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212106",
+  "title": "Ray Davis Not in Play for Week 17",
+  "description": "Buffalo Bills running back Ray Davis (knee) has logged a week of full practice participation and was viewed as a valuable handcuff coming into Week 17. Fortunately for most fantasy managers, that handcuff is no longer required, as starting running back James Cook is at full health heading into a Week 17 matchup with the Eagles. Davis has put up 120 rushing yards on the year, an additional 51 receiving yards, and one touchdown through the air. With Cook currently leading the race for this year's rushing crown, it seems unlikely that Davis will see much run against an uncharacteristically beatable Eagles front, and he can be dropped wherever roster flexibility is needed for Championship weekend.",
+  "player_id": 11575,
+  "player_name": "Ray Davis",
+  "week": 17,
+  "team": "BUF",
+  "opp": "PHI",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 4,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 58
+}

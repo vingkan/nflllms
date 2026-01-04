@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207483",
+  "title": "Chris Rodriguez Jr. to Have a Key Role in Week 11",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (shoulder) will play in Madrid, Spain, on Sunday in Week 11 against the Miami Dolphins and will have a key role, according to Cameron Wolfe of NFL Network. Rodriguez, who exited the Week 10 blowout loss to the Detroit Lions early with a shoulder injury, put in a full practice on Wednesday and will be good to go this week. Before getting hurt on Sunday, the 25-year-old saw six carries for 16 yards and a touchdown. With rookie Jacory Croskey-Merritt struggling of late, the Commanders have been giving more work to Rodriguez and Jeremy McNichols out of the backfield. At the very least, Rodriguez will have some RB3/flex appeal in deeper fantasy leagues this weekend as Washington's preferred goal-line option in a plus matchup versus Miami.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 11,
+  "team": "WAS",
+  "opp": "MIA",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 29
+}

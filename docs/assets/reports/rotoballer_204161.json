@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204161",
+  "title": "Chargers Could Target Breece Hall, Jerome Ford in a Trade?",
+  "description": "The Athletic's Daniel Popper speculates that if the Los Angeles Chargers explore the trade market at running back with Najee Harris (Achilles) done for the year and rookie first-rounder Omarion Hampton (ankle) on Injured Reserve, two potential options could be New York Jets RB Breece Hall and the Cleveland Browns' Jerome Ford. Both Hall and Ford are on expiring deals and could bring the Bolts a compensatory draft pick if they make it to free agency in 2026. Even when Hampton returns from IR, L.A. is going to need a second back to pair with him as a team with a run-first identity under offensive coordinator Greg Roman. At least for Week 6 against the Miami Dolphins, Hassan Haskins and Kimani Vidal are expected to share the backfield equally, giving them both flex appeal in deeper fantasy leagues. How aggressive the Chargers are on bringing in an outside RB will depend on how Haskins and Vidal fare in the coming weeks.",
+  "player_id": 8143,
+  "player_name": "Jerome Ford",
+  "week": 6,
+  "team": "CLE",
+  "opp": "PIT",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 17,
+  "receiving_catches": 5,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 30
+}

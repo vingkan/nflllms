@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203538",
+  "title": "Woody Marks Emerging as an Every-Week Starter",
+  "description": "Houston Texans running back Woody Marks had a breakout week last week in his team's victory over the Titans, and he looks to further establish himself as a regular fantasy option to count on in this week's favorable matchup against the Ravens. Marks stepped into a larger role with his snapshare climbing to 56% in Week 4, and he delivered 69 rushing yards and a touchdown on 17 carries, while adding a second touchdown and 50 receiving yards on four catches out of the backfield as well. He has the potential to emerge as the clear No. 1 option in the backfield ahead of Nick Chubb, and his third-down abilities give him both a high ceiling and a high floor. Marks is in a great matchup against the Ravens this week, who have been the best matchup of the season for running backs. He is the No. 18 RB in RotoBaller's rankings and is a strong RB2 with RB1 upside this Sunday.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 5,
+  "team": "HOU",
+  "opp": "BAL",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 52
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211116",
+  "title": "Tony Pollard Scores in Back-to-Back Weeks, Back on the Fantasy Radar",
+  "description": "Tennessee Titans running back Tony Pollard has caught fire of late, running wild for 265 rushing yards and three touchdowns over the past two weeks, which has earned him back-to-back top 10 running back performances. After landing on most analysts' \"sit\" list for most of the season due to his lack of effectiveness and how bad the Titans' offense has been, Pollard is showing some life in the fantasy playoffs and should be back on the fantasy radar in Week 16. Unfortunately for Pollard and the Titans, they have a tough matchup against the Kansas City Chiefs, who allow the seventh fewest points to the running back position. That being said, Pollard should continue to see the volume he's seen over the past two weeks and project to see 10-15 carries, which keeps him in the RB3 conversations in Week 16. Backfield mate, Tyjae Spears, has been involved, playing about 50 percent of the snaps, but is not nearly seeing the amount of running back carries as Pollard has been getting, as most of Spears' production has been as a pass-catcher.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 16,
+  "team": "TEN",
+  "opp": "KC",
+  "att": 21,
+  "tgt": 0,
+  "touches": 21,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 102,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 29
+}

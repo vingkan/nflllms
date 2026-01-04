@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202502",
+  "title": "Devin Singletary to Serve as RB2 in New York With Tyrone Tracy Out",
+  "description": "New York Giants running back Devin Singletary is expected to step into the RB2 role following Tyrone Tracy Jr.'s shoulder injury. Singletary saw limited work in Week 3, carrying four times for 11 yards in the Giants' 22-9 loss to the Kansas City Chiefs. Tracy is expected to miss 2-4 weeks with a dislocated shoulder, leaving veteran Singletary as the primary backup. Rookie Cam Skattebo has firmly established himself as the Giants' lead back, racking up 180 scrimmage yards and two touchdowns on 29 touches over the last two games. That means Singletary will serve as the team's RB2 until Tracy returns to action. For fantasy purposes, Singletary has relevance as insurance, but he's not a viable starting option in any format unless injuries push him into a larger role.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 4,
+  "team": "NYG",
+  "opp": "LAC",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 55
+}

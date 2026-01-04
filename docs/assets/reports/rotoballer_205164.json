@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205164",
+  "title": "Christian McCaffrey Carries Niners Offense Again, has First 100-Yard Rushing Game",
+  "description": "The San Francisco 49ers have been as banged up as any team in the NFL this year, but they can beat any team in the league as long as star running back Christian McCaffrey is healthy. McCaffrey once again dominated offensive touches for San Fran in Sunday night's victory over the visiting Atlanta Falcons in Week 7, touching the football 31 times for 201 scrimmage yards and two touchdowns. The 29-year-old do-it-all back had a season-high 24 carries for 129 rushing yards (his first 100-yard game of 2025) and added two rushing scores, as an improved Falcons defense had no answers for him. CMC added seven catches on eight targets for 72 receiving yards. McCaffrey has been the Niners' leading receiver this year and has three receiving touchdowns and three rushing TDs as a balanced offensive threat like few others in the league. Despite another tough test in Week 8 against the Houston Texans' defense, CMC continues to be a must-start, elite RB1 in fantasy football.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 8,
+  "team": "SF",
+  "opp": "HOU",
+  "att": 8,
+  "tgt": 6,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 25,
+  "receiving_catches": 3,
+  "receiving_yards": 43,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 25
+}

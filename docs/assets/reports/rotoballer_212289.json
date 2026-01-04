@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212289",
+  "title": "Blake Corum Maintains Standalone Fantasy Value Amid Touchdown Streak",
+  "description": "Los Angeles Rams running back Blake Corum has been able to produce standalone fantasy value in fantasy football despite operating as the No. 2 option out of the backfield. Corum continues to play behind Kyren Williams, who had a whopping 26 touches last week. However, given how well the Rams' offense has played, Corum has still produced highly effective fantasy performances. He ranks as the overall RB8 over his last four games, largely thanks to the fact that he has averaged 7.5 yards per carry and scored five touchdowns during that span. The 25-year-old rarely ever gets any targets in the passing game, so he'll need to maintain his efficiency and continue finding the end zone if he's going to keep up his hot fantasy streak. The Falcons have been tough against running backs this year, but the Rams frequently get into scoring position and should set up several goal-line opportunities for Corum on Monday night. He's a low-end RB2 at the moment.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 17,
+  "team": "LAR",
+  "opp": "ATL",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 18,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 64
+}

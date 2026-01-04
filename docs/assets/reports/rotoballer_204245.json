@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204245",
+  "title": "Dylan Sampson Not a Recommended Fantasy Option in Week 6",
+  "description": "Cleveland Browns running back Dylan Sampson will take on the Pittsburgh Steelers on the road in Week 6. After an encouraging Week 1 performance, which saw him catch eight passes for 64 yards, Sampson has become an afterthought in the Cleveland offense ever since Quinshon Judkins joined the fold. The Steelers have been solid against running backs this season, allowing the 18th-most fantasy points per game through four contests. Sampson has just three carries and one reception over his past three games and can't be trusted in any fantasy formats heading into Week 6, although he remains a solid handcuff option in case Judkins is forced to miss time at any point this season.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 6,
+  "team": "CLE",
+  "opp": "PIT",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 45
+}

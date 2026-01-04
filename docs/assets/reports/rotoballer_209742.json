@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209742",
+  "title": "Ty Chandler Returning to Practice on Wednesday",
+  "description": "The Minnesota Vikings are opening the 21-day practice window for running back Ty Chandler (knee) on Wednesday, according to Alec Lewis of The Athletic. While Chandler isn't guaranteed to come off Injured Reserve to play in Week 14 against the Washington Commanders on Sunday, it's notable after Aaron Jones Sr. (shoulder) suffered a shoulder injury in the blowout loss to the Seattle Seahawks on Sunday. Chandler, 27, suffered a knee injury in the season-opener against the Chicago Bears and has been out ever since. When he's ready to return, he'll provide the Vikings with RB depth, but his biggest contributions will most likely come as a return man on special teams. In his third year in the league in 2024, Chandler had 56 rushing attempts for 182 yards (3.3 yards per tote) and no touchdowns, adding six catches for 42 yards in 17 regular-season games.",
+  "player_id": 8230,
+  "player_name": "Ty Chandler",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

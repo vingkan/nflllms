@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209980",
+  "title": "Kenneth Gainwell Carries PPR Flex Value in Week 14",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell had just seven touches in last week's loss but will look to bounce back against the Baltimore Ravens in Week 14. Despite the light workload in Week 13, Gainwell logged a 42% snap share and posted 25 receiving yards, good enough for third-most on the Steelers. His contributions in the passing game could be especially important on Sunday, as the Ravens surrender the seventh-most targets, ninth-most receptions, and eighth-most receiving yards to opposing running backs. With Pittsburgh lacking consistent playmakers and entering the week as underdogs, quarterback Aaron Rodgers (wrist) will need his weapons to step up in the short passing game. Gainwell fits that role well and profiles as a middling PPR flex option for fantasy managers in Week 14.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 14,
+  "team": "PIT",
+  "opp": "BAL",
+  "att": 4,
+  "tgt": 7,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 15,
+  "receiving_catches": 6,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 12
+}

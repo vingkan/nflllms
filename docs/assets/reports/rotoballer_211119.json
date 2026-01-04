@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211119",
+  "title": "Bucky Irving Ready to Unleash in Week 16",
+  "description": "Tampa Bay Buccaneers running back Bucky Irving took on the majority of the workload in Week 15, totaling just 71 scrimmage yards on 17 attempts. Since returning from shoulder and foot injuries in Week 13, Irving has totaled 233 scrimmage yards and two touchdowns on 53 attempts, averaging 13.4 PPR points per game. While he started the season as the primary workhorse in this Buccaneers' offense, Irving has been limited to just 54% of the snaps, while backups Rachaad White (43% and Sean Tucker (14%) have been factors. Irving faces the Carolina Panthers defense in Week 16, which has allowed the tenth-most fantasy points to running backs this season. In his only two games against the Panthers in his career, he has had over 185 scrimmage yards in both outings. In a must-win game for the Buccaneers and with his favorable history against Carolina, look for Irving to unleash in Week 16.",
+  "player_id": 11584,
+  "player_name": "Bucky Irving",
+  "week": 16,
+  "team": "TB",
+  "opp": "CAR",
+  "att": 19,
+  "tgt": 0,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 43
+}

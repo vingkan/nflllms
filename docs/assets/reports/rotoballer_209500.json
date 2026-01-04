@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209500",
+  "title": "Woody Marks Returns in Week 13 After Injury Scare",
+  "description": "Houston Texans rookie running back Woody Marks (foot) has returned to his team's Week 13 matchup against the Indianapolis Colts after briefly exiting the game in the first half due to a foot injury. Marks has been emerging as the lead back in Houston in recent weeks, recording at least 16 touches in three straight games heading into Week 13. Now that he's back, he should be expected to lead the Texans' backfield in touches for the remainder of Week 13. More information should come out about the exact nature of Marks' foot issue after the game, but it's obviously a positive sign that he was able to return against Indianapolis.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 14,
+  "team": "HOU",
+  "opp": "KC",
+  "att": 26,
+  "tgt": 3,
+  "touches": 29,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 68,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

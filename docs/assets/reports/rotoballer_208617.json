@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208617",
+  "title": "Keaton Mitchell a Dart Throw Flex Play in Week 12",
+  "description": "Baltimore Ravens running back Keaton Mitchell has been seeing more and more playing time as the season has progressed. He started off as a healthy scratch and then saw a season-high 26% of the offensive snaps in Week 11. This was with Justice Hill sidelined, however, and he has been officially cleared to return against the New York Jets in Week 12. The Jets are ranked 27th against opposing backfields over the last four weeks, but Mitchell has only seen 18% of the snaps, at the most, with Hill incorporated. That leaves Mitchell as no more than a dart throw in deeper leagues, otherwise he's better as a stash option that may get some more playing time down the road.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 12,
+  "team": "BAL",
+  "opp": "NYJ",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

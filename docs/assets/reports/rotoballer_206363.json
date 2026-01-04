@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206363",
+  "title": "Jets Looking for \"At Least a Third-Round Pick\" in Return for Breece Hall",
+  "description": "Dianna Russini of The Athletic reports that the New York Jets are looking for \"at least a third-round pick\" in return for running back Breece Hall ahead of the NFL's November 4 trade deadline. Russini also notes that the Jets \"have been getting calls for a while\" on Hall. The 24-year-old is in the final year of his rookie contract with the 1-7 Jets. Across eight games this season, Hall has recorded 759 yards from scrimmage and two touchdowns on 138 touches. If Hall does get traded, second-year back Isaiah Davis would likely dominate backfield work in New York until Braelon Allen (knee) returns from a knee injury that currently has him on Injured Reserve.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

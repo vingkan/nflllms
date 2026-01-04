@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208986",
+  "title": "De'Von Achane In Midst of Dominant Stretch",
+  "description": "Miami Dolphins running back De'Von Achane is putting together a phenomenal 2025 season, handling 164 carries for 900 yards and five touchdowns to go with 54 receptions (71 targets) for 370 yards and four touchdowns as a receiver. Achane is the RB4 in PPR points per game this season at 21.4, and is currently on a monster four-game run. The star running back has 428 rushing yards with 22 receptions in the past four games, a feat that only Jahmyr Gibbs has matched in any four-game stretch this season. Since 2016, the only running backs to hit those dual-threat marks or better over a four-game span include Christian McCaffrey, Ezekiel Elliott, Todd Gurley, and Le'Veon Bell. Achane's ability to break off explosive runs, combined with his elite pass-catching ability, has made him a fantasy cheat code since entering the league in 2023. He will remain an elite RB1 in Week 13 against the New Orleans Saints.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 13,
+  "team": "MIA",
+  "opp": "NO",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 134,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 6
+}

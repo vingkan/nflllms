@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207847",
+  "title": "Devin Singletary Tough to Trust in Week 11 Lineups",
+  "description": "New York Giants running back Devin Singletary took a back seat to Tyrone Tracy Jr. in Week 10's loss to the Bears but was productive, playing 34.3% of snaps and handling 11 touches for 73 yards from scrimmage. Singletary outsnapped Tracy 31 to 26 in Week 9, but Tracy returned to his expected lead role in Week 10. The Giants' backfield looks like it will be a running back-by-committee moving forward, with a lean toward Tracy, limiting the upside of both. With interim head coach Mike Kafka replacing Brian Daboll this week, it will be interesting to see if anything changes with how he distributes the backfield touches. Singletary could stay involved on pass downs and catch a few more checkdowns with a less mobile Jameis Winston starting for an injured Jaxson Dart (concussion) in Week 11 against the Green Bay Packers. Singletary profiles as an RB4 for Sunday, making him tough to trust in any lineup outside of deeper leagues.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 11,
+  "team": "NYG",
+  "opp": "GB",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 14
+}

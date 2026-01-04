@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211524",
+  "title": "Tyler Allgeier Carries Boom/Bust Potential into Good Matchup Vs. Arizona",
+  "description": "Atlanta Falcons running back Tyler Allgeier was a non-factor in Week 15's 29-28 win over the Buccaneers, rushing just twice for 18 yards, and did not receive any targets in the passing game for the first time since Week 10. The BYU product is tied for the team lead in touchdowns with eight, but has limited fantasy appeal if he's not finding the end zone. Week 16, however, could bring a solid chance to score, as the Falcons go up against an Arizona defense that has yielded the fifth-most fantasy points to opposing running backs and has allowed 35 points per game to opponents over their last three games (second most). Atlanta has an implied total of 25 points in this one, so there should be a few touchdowns scored, and the 25-year-old projects as a low-floor Flex play who currently has the third-best odds of scoring out of all the Falcon playmakers (+140).",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 16,
+  "team": "ATL",
+  "opp": "ARI",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": -6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 37
+}

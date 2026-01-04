@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212067",
+  "title": "Breece Hall an RB3/Flex Play in Tough Spot",
+  "description": "New York Jets running back Breece Hall lines up for another difficult outing in Week 17 when he takes on the division-rival New England Patriots at home. The fourth-year pro has boasted solid volume this season, albeit in an underwhelming Jets' attack. Despite appearing in each of New York's 15 games thus far, and absorbing a personal best 229 carries, Hall has accrued just four scrimmage touchdowns. If that figure holds, it'd be a career low and one fewer than he scored in seven games during his rookie campaign. As it stands, the 24-year-old's talent has not been enough to outweigh the inefficiencies of the offense consistently, and a stout New England defense slated for Sunday spells another potential subpar effort. Hall should still see a significant touch load this Sunday. That said, he's a riskier play than usual, with the added threat of backfield mate Isaiah Davis now siphoning a greater share of the work in a challenging matchup. The Iowa State alum is RotoBaller's PPR RB27 for his meeting with New England.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 17,
+  "team": "NYJ",
+  "opp": "NE",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 111,
+  "receiving_catches": 2,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 9
+}

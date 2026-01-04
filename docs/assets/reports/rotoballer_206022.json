@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206022",
+  "title": "Kareem Hunt Could See a Heavy Workload in Week 9",
+  "description": "Kansas City Chiefs running back Kareem Hunt has been productive while working in a backfield committee this season, recording 302 yards from scrimmage and five touchdowns on 70 touches across eight games. With fellow Chiefs running back Isiah Pacheco (knee) considered week-to-week after suffering an MCL sprain in Week 8, Hunt could play a true lead-back role in Week 9 against the Buffalo Bills. The Chiefs have their bye in Week 10, so Hunt may be looking at a short-term workload bump. Additionally, Chiefs rookie running back Brashard Smith will also continue to play a role, especially in the passing game. Still, if Pacheco is sidelined against Buffalo, Hunt is a solid bet for double-digit touches and should dominate snaps around the goal line.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 9,
+  "team": "KC",
+  "opp": "BUF",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 49,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 17
+}

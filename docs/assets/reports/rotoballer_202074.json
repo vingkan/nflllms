@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202074",
+  "title": "Nick Chubb Is a Borderline Flex Play in Week 3",
+  "description": "Houston Texans running back Nick Chubb continues to dominate the playing time and most of the workload in the backfield, and he'll be an RB3 or flex option this week as he visits Jacksonville for a divisional contest. Chubb had 12 carries for 43 yards and a 25-yard touchdown in the Texans' one-point loss on Monday, and he played 53% of the team's snaps. Before his touchdown, he had only 11 carries for 18 rushing yards, but that touchdown saved his fantasy day. He also caught both of his targets for 29 receiving yards. Chubb will continue to get plenty of work but will only be an RB3 in Week 3 against the Jaguars, who have been good against running backs in the early part of this season. Chubb is the No. 26 RB this week, making him a solid flex play in most formats, although he will remain very touchdown-reliant since the Texans' offensive line isn't opening up much space.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 3,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 9,
+  "tgt": 4,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 3,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 37
+}

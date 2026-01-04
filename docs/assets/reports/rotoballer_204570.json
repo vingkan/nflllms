@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204570",
+  "title": "Jahmyr Gibbs Poised to Bounce Back After Inefficient Week 6?",
+  "description": "Detroit Lions running back Jahmyr Gibbs posted his least efficient game of the season in his team's 30-17 Week 6 loss to the Kansas City Chiefs. Gibbs recorded just 65 rushing yards on 17 carries and zero receiving yards on one catch. He also failed to find the end zone for just the second time in six games so far this season. On the bright side, Gibbs has now recorded at least 15 touches in five out of six games in 2025 after failing to do that in six out of 17 games in 2024. The 23-year-old remains a must-start fantasy running back heading into a Week 7 matchup with the Tampa Bay Buccaneers.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 7,
+  "team": "DET",
+  "opp": "TB",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 136,
+  "receiving_catches": 3,
+  "receiving_yards": 82,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 36,
+  "ppr_scoring_position_rank": 2
+}

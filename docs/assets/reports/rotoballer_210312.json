@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210312",
+  "title": "Tyjae Spears Remains a Viable Deep-League Flex Play in PPR Leagues",
+  "description": "Tennessee Titans running back Tyjae Spears was overshadowed by Tony Pollard in Sunday's 31-29 victory over the hosting Cleveland Browns in Week 14. Pollard had 25 carries for a whopping 161 yards and two touchdowns as he shredded Cleveland's defense on a snowy afternoon in Ohio. Still, Spears managed to touch the ball 12 times (eight carries, two receptions) and led the team with 28 receiving yards. The 24-year-old averaged just 2.4 yards on the ground and ran for 19 yards. Spears' eight carries and 12 total touches were the most he's seen since Oct. 26 against the Indianapolis Colts. It was a rare day for the Titans' offense where they could afford to give both Pollard and Spears plenty of work. That might not be the case in Week 15 against the San Francisco 49ers, but Spears' continued involvement as Tennessee's pass-catching back gives him some deep-league flex value in PPR fantasy leagues.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 15,
+  "team": "TEN",
+  "opp": "SF",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 47
+}

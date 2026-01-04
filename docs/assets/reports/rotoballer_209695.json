@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209695",
+  "title": "Is Jaylen Warren's Ceiling Capped by Inefficient Offense?",
+  "description": "Pittsburgh Steelers running back Jaylen Warren handled 10 carries for 35 yards and a touchdown while adding two receptions for nine yards on four targets in a Week 13 loss to the Buffalo Bills. In a game where almost everything went wrong for Pittsburgh, Warren was one of the lone bright spots. He gave the Steelers a 7-0 lead in the second quarter with a goal-line score, marking his fifth total touchdown of the season. In Week 14, he'll face the division-rival Baltimore Ravens, who have been strong against the run over the past eight weeks. Given how poorly Pittsburgh's offense has played lately, it's unlikely Warren delivers any league-winning performances down the stretch, but he's been good enough individually to remain in lineups as a steady RB2.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 14,
+  "team": "PIT",
+  "opp": "BAL",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 13,
+  "receiving_catches": 3,
+  "receiving_yards": 49,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

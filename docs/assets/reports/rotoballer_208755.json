@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208755",
+  "title": "Alvin Kamara Suiting Up Against Falcons in Week 12",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is officially active for Sunday's Week 12 contest against the Atlanta Falcons. He had been listed as questionable after practicing in a limited capacity. After a quiet stretch near the middle of the season, Kamara bounced back with a huge impact in his most recent game, tallying 83 rushing yards on 22 carries, plus an additional three catches for 32 receiving yards. We're still seeing flashes of Kamara being a versatile threat out of the backfield, operating as both a talented pure rusher and a valuable checkdown or short outlet for rookie quarterback Tyler Shough. Coming off his bye, Kamara ranks as a fringe top-24 fantasy running back against Atlanta, especially in PPR leagues. We could see him occasionally be spelled by rookie Devin Neal, who had seven touches on a 35% snap share in his last game. Still, Kamara remains the undisputed primary running back in New Orleans.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 12,
+  "team": "NO",
+  "opp": "ATL",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 11,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

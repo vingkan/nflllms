@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203784",
+  "title": "Buccaneers View Rachaad White as a Lead Back",
+  "description": "Tampa Bay Buccaneers head coach Todd Bowles said that the team still views running back Rachaad White as a lead back, and now they have two of them with Bucky Irving (foot, shoulder), according to Pewter Report. Bowles added that White is very professional, is a great teammate, and is a great team player. With Irving sitting out of the Week 5 win over the Seattle Seahawks on Sunday, White operated as Tampa's clear lead back and rewarded fantasy managers who had been stashing them on their bench with 14 carries for 41 yards and two touchdowns in the 38-35 victory. The 26-year-old added four catches for an additional 30 yards. The two touchdowns were nice, but White wasn't very efficient as a runner, averaging just 2.9 yards per carry. White's Week 6 fantasy value will depend entirely on whether Irving is back to face the San Francisco 49ers. If Irving misses a second straight game, White will be a plug-and-play RB2 again.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 6,
+  "team": "TB",
+  "opp": "SF",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 3,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

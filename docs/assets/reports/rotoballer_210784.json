@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210784",
+  "title": "Jeremy McNichols Off Fantasy Radars in Week 15",
+  "description": "Washington Commanders running back Jeremy McNichols recorded only one reception for two yards in last week's blowout loss to the Minnesota Vikings. It marked the third game this season where he's had fewer than two touches in a game. The 29-year-old had compiled 20 total touches for 88 yards in the three games leading up to Week 14, and even in a negative game script, McNichols didn't see much work. The veteran has held down the pass-down duties in Washington's backfield for most of the season since Austin Ekeler (Achilles) went down in Week 2. McNichols should see similar usage on Sunday against the New York Giants with the possibility for more touches if Chris Rodriguez Jr. (groin), who is listed as questionable, is unable to play. He profiles as a deep league flex option at best in Week 15.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 15,
+  "team": "WAS",
+  "opp": "NYG",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 6,
+  "receiving_catches": 1,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 68
+}

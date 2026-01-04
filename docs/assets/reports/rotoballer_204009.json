@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204009",
+  "title": "Kareem Hunt Locked In as Goal-Line Back",
+  "description": "Kansas City Chiefs running back Kareem Hunt remains a low-end RB3/flex option ahead of his Week 6 matchup with the Detroit Lions. For the most part, Hunt has played behind backfield mate Isiah Pacheco in terms of snaps. However, the veteran boasts more carries (43) and yards (164) than Pacheco, and has the team's goal-line role on lockdown. With that said, the 30-year-old's workload has been limited, as he has yet to see more than 14 touches in a single contest. Furthermore, Kansas City has been one of the more pass-happy teams in the league, and quarterback Patrick Mahomes leads the team in rushing (190). Hunt is a fine start considering his touchdown upside, but he has yet to eclipse 5.7 fantasy points in the appearances he didn't hit pay dirt.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 6,
+  "team": "KC",
+  "opp": "DET",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 46
+}

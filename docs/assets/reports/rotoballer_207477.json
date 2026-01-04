@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207477",
+  "title": "Cardinals Don't Have an Update on Trey Benson",
+  "description": "Arizona Cardinals head coach Jonathan Gannon did not give an update on running back Trey Benson (knee) on Wednesday, according to Theo Mackie of The Arizona Republic. Benson was eligible to return from Injured Reserve and play in Week 10, but that did not happen, and it remains unclear if he'll have his 21-day practice window opened this week. At the very least, it doesn't look likely that the 23-year-old second-year back will come off IR to play this Sunday against the division-rival San Francisco 49ers. The Cardinals also don't have an update on Bam Knight (ankle), who picked up an ankle injury in the Week 10 loss to the Seattle Seahawks. With Benson not expected to return this week and Knight's status up in the air, Emari Demercado could be Arizona's primary option in the backfield this weekend. Michael Carter would also see an uptick in touches if both Benson and Knight are ruled out.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

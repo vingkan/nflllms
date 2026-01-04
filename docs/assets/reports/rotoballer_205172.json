@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205172",
+  "title": "Bijan Robinson Scores Touchdown, Remains Productive as Pass-Catcher",
+  "description": "Atlanta Falcons running back Bijan Robinson carried the ball 14 times for 40 rushing yards during Sunday's Week 7 loss against the San Francisco 49ers. He also caught six of his eight targets for an additional 52 receiving yards and one touchdown. The 23-year-old posted his worst single-game rushing efficiency since Week 1, but he made up for it with his impact in the passing game and his trip to the end zone. Robinson is the overall RB5 in PPR leagues this year, and he could rise up the leaderboard after next week's very favorable matchup against the Miami Dolphins. After all, Miami, which just surrendered three touchdowns to Quinshon Judkins, has allowed the fifth-most fantasy points to opposing running backs in 2025.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 8,
+  "team": "ATL",
+  "opp": "MIA",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 25,
+  "receiving_catches": 3,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

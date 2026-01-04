@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205183",
+  "title": "Brashard Smith Earning Expanded Role in Chiefs' Offense?",
+  "description": "Kansas City Chiefs rookie running back Brashard Smith saw by far the heaviest usage of his young NFL career in Week 7, recording 14 carries for 39 yards and five catches for 42 yards in his team's 31-0 win over the Las Vegas Raiders. It's worth noting that there was a significant amount of garbage time in this game. Still, veteran Chiefs running back Kareem Hunt (ankle) suffered an ankle injury early in the game and had to get taped up in order to return. Even if Hunt does not miss any time due to the injury, Kansas City could lessen his workload in favor of Smith. With Hunt healthy, the Chiefs have still prioritized getting the ball in Smith's hands in the passing game, as he's seen 16 targets over his last four games. There's a possibility Smith takes over as the team's primary passing-downs back, which gives him some deep-league fantasy appeal.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 8,
+  "team": "KC",
+  "opp": "WAS",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 8,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

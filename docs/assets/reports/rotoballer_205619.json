@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205619",
+  "title": "Christian McCaffrey Faces Challenge In Week 8",
+  "description": "San Francisco 49ers running back Christian McCaffrey overcame a challenging matchup last week to eclipse 100 rushing yards in a game for the first time this season. Against the Falcons' surprisingly stout defense, he finished with 129 and two touchdowns on 24 carries, and had another 72 yards through the air on seven catches. Another tough defense awaits McCaffrey and the 49ers in Week 8 against the Houston Texans. Houston has not given up 100 rushing yards to a back yet this year, and is allowing just 3.85 yards per carry. McCaffrey will be hard-pressed to repeat as the overall RB1, but another top-12 finish can be expected given how often San Francisco puts the ball in his hands. Fantasy football managers can ignore the matchup and lock McCaffrey into starting lineups for Week 8.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 8,
+  "team": "SF",
+  "opp": "HOU",
+  "att": 8,
+  "tgt": 6,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 25,
+  "receiving_catches": 3,
+  "receiving_yards": 43,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 25
+}

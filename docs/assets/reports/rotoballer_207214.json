@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207214",
+  "title": "Alvin Kamara Active for Week 10 Against Panthers",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is officially active for Sunday's Week 10 contest against the Carolina Panthers. He had been listed as questionable after practicing in a limited capacity. It's been a rough stretch of games for Kamara, who has just 12 carries over his last two games and is averaging just 2.7 yards per carry since Week 5. His usage and productivity in the receiving game have dwindled, too. However, he has a chance to bounce back in a favorable matchup against the Panthers. Fantasy managers should give him one more chance to produce as a low-end RB2 this week.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 10,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 83,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 17
+}

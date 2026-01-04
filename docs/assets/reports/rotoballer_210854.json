@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210854",
+  "title": "Jacory Croskey-Merritt Falling Out of Favor in Rushing Attack",
+  "description": "Washington Commanders running back Jacory Croskey-Merritt has taken a back seat in the rushing attack recently, causing his value to slide ahead of the fantasy playoffs. The rookie garnered a ton of hype this summer and began the season as the clear leader of Washington's backfield. However, a significant dip in efficiency starting back in Week 6 has been a death knell for the 24-year-old's workload. Over that time frame, Croskey-Merritt has eclipsed 3.5 yards per carry in a given game on just three occasions. Conversely, teammate Chris Rodriguez Jr. (groin) has boasted double-digit carries in four of the last five games, marking a shift in the team's game plan. With Rodriguez Jr. questionable for Sunday's outing with the Giants, Croskey-Merritt may see a modest uptick in touch load. Still, he's clearly fallen out of favor with the coaching staff and can be avoided outside of a stash in dynasty formats.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 15,
+  "team": "WAS",
+  "opp": "NYG",
+  "att": 18,
+  "tgt": 0,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 96,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

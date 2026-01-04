@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207503",
+  "title": "Rico Dowdle Held Out on Wednesday, Should Fantasy Managers be Worried?",
+  "description": "Carolina Panthers running back Rico Dowdle (quadriceps) was held out of practice on Wednesday, according to Darin Gantt of Panthers.com. Dowdle continues to manage a quad injury and has been held out of practice on Wednesdays in recent weeks, so fantasy managers shouldn't be too worried about his status for the Week 11 divisional clash against the Atlanta Falcons this weekend unless he also misses practice on Thursday. There was some uncertainty about how the Panthers would handle their backfield when Chuba Hubbard returned from his calf injury, but those questions have been answered, and Dowdle is now Carolina's clear RB1 as long as he's healthy. The 27-year-old has 121 rushing attempts for 705 yards (5.8 yards per tote) and four touchdowns while adding 13 receptions for 122 yards and another score in the last six games. He's a must-start if he plays against Atlanta.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 11,
+  "team": "CAR",
+  "opp": "ATL",
+  "att": 19,
+  "tgt": 7,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 45,
+  "receiving_catches": 5,
+  "receiving_yards": 55,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 17
+}

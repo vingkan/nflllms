@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206973",
+  "title": "Ollie Gordon II Questionable for Week 10",
+  "description": "Miami Dolphins running back Ollie Gordon II (ankle) is questionable for Sunday's divisional showdown with the Bills after being limited in practice all week. The injury occurred last Thursday against Baltimore, but even the extra time hasn't helped him be 100%. He was starting to get more consistent work behind De'Von Achane, including a 10-carry, 46-yard performance in Week 8 against Atlanta. On the season, Gordon II has logged 122 rushing yards and 30 receiving yards while scoring a pair of touchdowns. If he's limited or out, Jaylen Wright would likely take over as Miami's primary backup running back. Even if he's healthy, he'll be a touchdown-dependent flier play behind workhorse De'Von Achane. He's the No. 48 RB this week, so he shouldn't be started in all but the deepest of formats.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 70
+}

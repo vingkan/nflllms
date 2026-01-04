@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208650",
+  "title": "Michael Carter is a Risky Flex Option in Deeper PPR Leagues in Week 12",
+  "description": "Arizona Cardinals running back Michael Carter saw a spike in targets during Week 11, with a season high of seven targets in Sunday's loss to the San Francisco 49ers. He finished with six yards on two rushing attempts while catching five of seven targets for 22 yards in Week 11. The 26-year-old will remain the change of pace back with teammate Bam Knight (ankle) suiting up in Week 12 despite battling an ankle injury all week. Carter is RotoBaller's 43rd-ranked running back in PPR Leagues heading into a tough Week 12 matchup against the Jacksonville Jaguars. The Jaguars have allowed the fewest rushing yards and the fourth fewest rushing touchdowns this season. In a limited role, Carter will need to see a heavy workload in the passing attack to stay fantasy-relevant for fantasy managers. Carter is a desperation flex option in deeper PPR Leagues in Week 12.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

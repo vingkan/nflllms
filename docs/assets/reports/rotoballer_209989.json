@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209989",
+  "title": "Rhamondre Stevenson Now in the Shadow of Rookie RB",
+  "description": "New England Patriots running back Rhamondre Stevenson was finally back to full speed during last week's win over the New York Giants. Stevenson missed three games due to a toe injury. During that time, rookie TreVeyon Henderson went wild with five touchdowns in three games. The rookie back has rushed for over 60 yards in five of his last six games. Henderson is playing so well that the Pats can't take the ball out of his hands. The expectation is that the two backs will split up the workload down the stretch of the season. Stevenson rushed for 40 yards on 12 attempts last week, while Henderson finished with 67 yards on 11 carries. The Patriots are on a bye this weekend, but the expectation is that Henderson will see a larger chunk of carries over the final four games. Fantasy managers should continue to hold Stevenson while lowering their expectations.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 15,
+  "team": "NE",
+  "opp": "BUF",
+  "att": 6,
+  "tgt": 3,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 3,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 26
+}

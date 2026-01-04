@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202125",
+  "title": "Alvin Kamara a Strong RB2 Play vs Seahawks",
+  "description": "New Orleans Saints running back Alvin Kamara came close to the century mark on the ground in Week 2, rushing 21 times for 99 yards and adding six catches on six targets for 21 yards. His workload spiked from 13 touches in Week 1 to 27 in Week 2, showing the Saints are comfortable feeding him as much as possible. While that level of volume won't always hold, Kamara faces almost no competition for meaningful work, with Kendre Miller logging just five carries for eight yards. Kamara profiles as a high-upside RB2 against a Seahawks defense that allowed 134 total yards to Jaylen Warren last week.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 3,
+  "team": "NO",
+  "opp": "SEA",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 40
+}

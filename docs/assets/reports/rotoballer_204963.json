@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204963",
+  "title": "Tyjae Spears Could Benefit From His Receiving Skills in Week 7",
+  "description": "Tennessee Titans running back Tyjae Spears has ascended into a significant role through two weeks post-injury. Now, he'll look to handle an increased workload in Week 7 against the New England Patriots. Spears has seen a gradual increase in usage through his two games, with the most notable difference being his snap share jumping from 25 percent to 59 percent. As of last week, he was on the field more than Tony Pollard, though he still logged less than half as many rushing attempts as the veteran. One of Spears' specialties is pass catching, which has given him a path to playing time. The Patriots have allowed the third-fewest rushing yards to running backs, but the 10th-most receiving yards to the position.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 7,
+  "team": "TEN",
+  "opp": "NE",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 22,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 32
+}

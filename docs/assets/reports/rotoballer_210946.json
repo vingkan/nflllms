@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210946",
+  "title": "Josh Jacobs Scores Two Touchdowns in Week 15 Loss",
+  "description": "Green Bay Packers running back Josh Jacobs has been a touchdown machine this season, and that continued in Sunday's loss to the Denver Broncos. He handled 12 carries for 73 yards and a touchdown to go with two receptions (three targets) for 19 yards and his first receiving touchdown of the season. Jacobs entered the game as a game-time decision with a knee injury, but he showed no signs of being affected by it. He recorded just the second receiving touchdown of his career, and it came on an impressive contested catch in the corner of the end zone. The 27-year-old running back notched his fourth game with multiple touchdowns and seventh since joining the Packers last season. Jacobs remains one of the most steady workhorses in fantasy football and projects as a strong RB1 next week against the division-rival Chicago Bears.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

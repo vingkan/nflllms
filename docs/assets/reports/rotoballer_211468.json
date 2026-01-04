@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211468",
+  "title": "James Cook Remains a High-End RB1 in Week 16",
+  "description": "Buffalo Bills running back James Cook had a monster game in Week 15, totaling 111 yards and three total touchdowns against one of the strongest run defenses in the NFL, the New England Patriots. Cook has ascended every season of his career, as he ranks second in the NFL in rushing (1415) behind only Jonathan Taylor. They face the Cleveland Browns in Week 16, who started the season as one of the best defenses against the run, but have struggled in recent weeks. Both Tony Pollard and D'Andre Swift had over 100 scrimmage yards and multiple touchdowns against this Browns defense, so watch for another explosive game from the fourth-year back. Cook is a high-end RB1 who carries as much upside as any back in the NFL in Week 16.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 16,
+  "team": "BUF",
+  "opp": "CLE",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 117,
+  "receiving_catches": 1,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 6
+}

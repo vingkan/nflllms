@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209264",
+  "title": "Chris Rodriguez Jr. Has Flex Upside in Week 13 Against Broncos",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. led the backfield in Week 11's loss to the Miami Dolphins, handling 15 carries for 79 yards and adding one reception (one target) for six yards. Rodriguez should be expected to lead Washington's backfield again out of their Week 12 bye against a stout Denver Broncos defense on Sunday Night Football. The third-year back from Kentucky missed Wednesday's practice this week due to an illness, but practiced in full on Thursday and Friday and heads into Sunday without an injury designation. He doesn't have the highest single-week upside because of the lack of receiving upside, but he's found the end zone in two of the last three games to go with 160 yards on 33 carries. Plus, rookie Jacory Croskey-Merritt should stay involved on early downs while Jeremy McNichols handles the pass-down work. Rodriguez ranks as RotoBaller's RB39 in PPR leagues for Week 13 against the Broncos, who have allowed the 10th fewest PPR points per game to opposing running backs.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 13,
+  "team": "WAS",
+  "opp": "DEN",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 35
+}

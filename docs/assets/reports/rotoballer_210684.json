@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210684",
+  "title": "Raheem Mostert Remains in Change-of-Pace Role Against Philly",
+  "description": "Las Vegas Raiders running back Raheem Mostert has spent most of this season backing up rookie Ashton Jeanty, and he should remain in that role ahead of Week 15 against the Philadelphia Eagles. The 33-year-old battled a knee injury during practice this past week but has been removed from the injury report and will play on Sunday, barring a setback. He has been held to just one touch in each of his last two games, and he ranks as the overall RB75 in PPR leagues this season. On one hand, the Eagles present a favorable matchup for any running back. After all, Philadelphia has allowed the eighth-most fantasy points, fifth-most receiving yards, and second-most receiving touchdowns to opposing running backs in 2025. On the other hand, though, the Purdue product is clearly nothing more than a change-of-pace back behind Jeanty in this Vegas offense. He's averaging just 3.1 touches per game and has played fewer than one-third of the snaps in each of his last eight contests. Mostert ranks as the overall RB72 in this week's RotoBaller fantasy rankings, and he can be left on waivers in all leagues.",
+  "player_id": 2749,
+  "player_name": "Raheem Mostert",
+  "week": 15,
+  "team": "LV",
+  "opp": "PHI",
+  "att": 0,
+  "tgt": 1,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 67
+}

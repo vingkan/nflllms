@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206031",
+  "title": "Rico Dowdle to Become Panthers Featured Back in Week 9?",
+  "description": "Carolina Panthers head coach Dave Canales strongly suggested on Monday that Week 9 against the Green Bay Packers \"will be the week he ditches the shared carries approach and rides the hot hand and feet of Rico Dowdle,\" according to Joseph Person of The Athletic. Chuba Hubbard missed some time earlier this year with a calf injury, which coincided with Dowdle having the best two-game stretch by a Panthers running back in team history. Carolina leaned on Hubbard in Canales' first season in 2024. They gave him a four-year, $33.2 million extension last year, and the Panthers don't want to trade him at this year's deadline. Hubbard will still be involved in the backfield if he's not traded, but Dowdle's production this year -- 5.7 yards per carry, 605 rushing yards, and two touchdowns -- makes him deserving of lead-back duties. Dowdle has earned more work over Hubbard and will be the one with RB2 upside this Sunday against Green Bay.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 25,
+  "tgt": 3,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 130,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 2
+}

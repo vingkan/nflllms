@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210496",
+  "title": "Keaton Mitchell Upgraded to Full Participant on Thursday",
+  "description": "Baltimore Ravens running back Keaton Mitchell (knee) was upgraded to a full participant in Thursday's practice session after being limited on Wednesday. Mitchell is coming off his most efficient performance of the season on Sunday against the Pittsburgh Steelers, rushing for 76 yards on six carries. The speedy running back exited early in the game due to a knee injury, but it's been considered minor after the MRI results came back clean. Mitchell's full participation on Thursday is a good sign that he should be good to go for the Week 15 divisional matchup against the Cincinnati Bengals. Mitchell's role has been limited in Baltimore's offense, even with Justice Hill (neck) on Injured Reserve, but he still holds value as a high-upside handcuff to Derrick Henry.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 15,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 66,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 42
+}

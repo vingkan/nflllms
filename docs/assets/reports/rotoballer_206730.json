@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206730",
+  "title": "James Cook to Miss Practice With Ankle/Foot Injury",
+  "description": "Buffalo Bills head coach Sean McDermott said that running back James Cook (ankle, foot) will not practice on Wednesday due to an ankle/foot injury, according to Katherine Fitzgerald of The Buffalo News. Cook had another nice game in the team's Week 9 victory over the Kansas City Chiefs, carrying the ball 27 times for 114 yards while also catching one pass for 11 yards. However, the 26-year-old apparently came out of that game a little gimpy, and his status is now up in the air for the team's Week 10 tilt on the road against the division-rival Miami Dolphins. If Cook were to miss this weekend, Ty Johnson and Ray Davis would likely split backfield duties for the Bills in a great matchup. Cook has been a must-start RB1 every week in 2025, as he's currently the RB7 in fantasy in half-PPR scoring with 867 rushing yards and seven touchdowns on 153 carries.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 5,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

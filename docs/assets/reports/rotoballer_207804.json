@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207804",
+  "title": "Jaylen Warren A Must-Start Against Bengals",
+  "description": "Pittsburgh Steelers running back Jaylen Warren had his most productive outing of the season against the Cincinnati Bengals in Week 7, and he'll look to replicate that success against them at home in Week 11. Cincinnati has been shredded by opposing backs all year, surrendering the most fantasy points per game, the second-most yards per carry, the fourth-most receiving yards, and the second-most total touchdowns to the position. In addition to the juicy matchup, conversations surrounding Warren's workload bolster his fantasy upside this week. Both head coach Mike Tomlin and quarterback Aaron Rodgers have publicly stated that they would like the 27-year-old to see more touches going forward. Even with Kenneth Gainwell and Kaleb Johnson mixing in, Warren should have more than enough opportunity to provide top-10 fantasy production as a clear RB1 on Sunday.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 11,
+  "team": "PIT",
+  "opp": "CIN",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 2,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

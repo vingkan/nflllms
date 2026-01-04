@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211378",
+  "title": "Rodriguez's Return Clouds Jacory Croskey-Merritt's Week 16 Outlook",
+  "description": "Despite a strong showing in Week 15, Washington Commanders rookie running back Jacory Croskey-Merritt appears to be heading back to his reserve role in Week 16. Chris Rodirguez Jr. was sidelined last week against the New York Giants, and Croskey-Merritt took advantage, totaling 96 yards on 18 carries. Unfortunately for the 2025 seven-round pick, Rodriguez is off the injury report and good to go for Week 16 against the Philadelphia Eagles. Since Week 11, Rodriguez has played 44% of the snaps, while Croskey-Merritt has played 20%. While a strong showing in Week 15 could close the gap between the two, both backs are extremely risky against the Eagles.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 16,
+  "team": "WAS",
+  "opp": "PHI",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 25,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 36
+}

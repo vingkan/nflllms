@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211213",
+  "title": "Evan Hull to See Expanded Workload in Week 16?",
+  "description": "New Orleans Saints running back Evan Hull could see an expanded workload this week when the Saints host the New York Jets. In three games with the Saints this season, Hull has only had 10 carries for 31 yards, while adding one reception for six yards. However, with Alvin Kamara (knee/ankle) still not practicing and rookie Devin Neal (hamstring) already ruled out for Week 16, Hull has a chance to play a significant role this week. After Neal left the game in Week 15, both Hull and second-year back Audric Estime carried the backfield, with Estime playing 39% of the snaps while Hull played 31%. Even if it's a committee in New Orleans, they face a Jets defense that has allowed the third-most fantasy points to running backs this season. Both backs carry fantasy value this week and are worth monitoring heading into Week 16.",
+  "player_id": 9220,
+  "player_name": "Evan Hull",
+  "week": 16,
+  "team": "NO",
+  "opp": "NYJ",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 76
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208764",
+  "title": "Aaron Jones Sr. Limited By Lack Of Offense In Week 12",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. finished Sunday with 41 yards on nine carries and caught three of four targets for 19 yards as the Vikings lost convincingly, 23-6, on Sunday at Green Bay. Jones did well enough in his limited usage, but the Vikings ran only 45 plays and gained 145 total yards, which included a total of four yards in the second half. Minnesota surrendered five sacks, quarterback J.J. McCarthy threw two more interceptions without a touchdown, and the Vikings committed a special teams turnover that doomed the day. Fantasy managers still got something from Jones, even on an awful day, which is the closest thing to a silver lining the Vikings have at the moment. Minnesota will travel to Seattle in Week 13.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 13,
+  "team": "MIN",
+  "opp": "SEA",
+  "att": 6,
+  "tgt": 4,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 56
+}

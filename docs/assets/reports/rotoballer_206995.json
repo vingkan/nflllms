@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206995",
+  "title": "David Montgomery Remains a Low-End Starting Running Back Option in Week 10",
+  "description": "Detroit Lions running back David Montgomery broke his two-game scoreless streak in Week 9, recording 50 scrimmage yards and a touchdown on 12 touches against the Minnesota Vikings. However, Montgomery also coughed up a crucial fumble that played a key role in Detroit's loss to its division rival. The veteran has a lot of equity built up with the Lions coaching staff, so it's unlikely that the mistake will cost him playing time in Week 10 against the Washington Commanders. Montgomery has seen fairly consistent usage so far this season, recording between 12 and 15 touches in five out of eight games played. He remains largely dependent on touchdowns for high-end fantasy production. The Commanders have allowed an average of 33.8 points per game over the last four weeks, so Montgomery should have a decent chance to find the end zone. He profiles as a low-end fantasy RB2 in Week 10 against Washington.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 10,
+  "team": "DET",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 29
+}

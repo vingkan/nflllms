@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203308",
+  "title": "Isaiah Davis Moving Up In Jets' Backfield?",
+  "description": "New York Jets running back Isaiah Davis is set for a possible increase in playing time with fellow Jets running back Braelon Allen (knee) headed for injured reserve. Allen, as reported by Rich Cimini of ESPN, will be placed on IR on Thursday and will be out for longer than the minimum four weeks, and possibly could miss the rest of the season. While running back Breece Hall is slated to get the majority of carries out of the Jets' backfield, Davis could see an increased work load as well. He played 33% of snaps after Allen departed Monday's game, which included two catches. He'll warrant some consideration, especially in deeper PPR formats.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 5,
+  "team": "NYJ",
+  "opp": "DAL",
+  "att": 1,
+  "tgt": 4,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 3,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

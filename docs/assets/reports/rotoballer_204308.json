@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204308",
+  "title": "Samaje Perine Still Not a Practical Fantasy Option in Week 6",
+  "description": "Cincinnati Bengals running back Samaje Perine had only 52 yards off nine carries in the first five games of the 2025 campaign, adding four receptions for eight yards. While most assumed Chase Brown would lead the way out of the backfield this season, fantasy managers are still disappointed with Perine's lack of involvement and production. The 30-year-old logged 29 snaps in the Week 5 loss to the Detroit Lions, suggesting more involvement could be on the horizon for the Week 6 meeting with the Green Bay Packers. However, until Perine does something meaningful to benefit managers, it's best to leave him out of any fantasy lineup versus the Packers. That outlook likely won't change in the weeks ahead unless Brown goes down with an injury.",
+  "player_id": 4147,
+  "player_name": "Samaje Perine",
+  "week": 6,
+  "team": "CIN",
+  "opp": "GB",
+  "att": 6,
+  "tgt": 3,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

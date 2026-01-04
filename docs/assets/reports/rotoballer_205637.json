@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205637",
+  "title": "Jonathan Taylor a Top Fantasy Running Back in Week 8",
+  "description": "Indianapolis Colts running back Jonathan Taylor has been the best player in fantasy through the first seven weeks of the season. He continued his white-hot start to the year in a Week 7 win over the Los Angeles Chargers, rushing for 94 yards and three touchdowns. Taylor has rushed for 697 yards while scoring 11 all-purpose touchdowns on the year. He will look to keep it going at home against the Tennessee Titans in Week 8. The Titans have struggled against the run this season, allowing the fourth-most fantasy points per game to running backs. Taylor is in a smash spot and should be locked into all fantasy lineups as a top-three play at the running-back position.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 8,
+  "team": "IND",
+  "opp": "TEN",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 153,
+  "receiving_catches": 2,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 37,
+  "ppr_scoring_position_rank": 1
+}

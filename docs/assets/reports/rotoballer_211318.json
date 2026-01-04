@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211318",
+  "title": "More Work Coming for Jaleel McLaughlin in Broncos Backfield?",
+  "description": "Denver Broncos head coach Sean Payton hinted earlier this week that more work could be on the way for running back Jaleel McLaughlin, according to Jon Heath of Broncos Wire. \"We're doing it in third-down situations with Tyler Badie and Adam Prentice,\" Payton said. \"Jaleel, I probably need to get him a little bit more touches. I made that note after the game. Again, RJ Harvey is built in a way where he can handle a good dose of running.\" Harvey injured his ribs late in Sunday's win over the Green Bay Packers, but he's fine and ready to go for Week 16 against the Jacksonville Jaguars. Harvey has had as many as 23 touches in a game since J.K. Dobbins' season-ending injury, while McLaughlin has had a high of seven. He had only two carries in Week 15. McLaughlin will probably be a little more involved to close out the season, but make no mistake, Harvey is Denver's RB1.",
+  "player_id": 11439,
+  "player_name": "Jaleel McLaughlin",
+  "week": 16,
+  "team": "DEN",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 37,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 55
+}

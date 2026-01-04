@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204342",
+  "title": "Alvin Kamara Expected to Play in Week 6",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is currently listed as questionable ahead of Sunday's Week 6 matchup against the New England Patriots. Despite that, Kamara is expected to suit up for Sunday's contest. He has been limited in practice this week due to an ankle injury he suffered last weekend. It doesn't sound like something that is going to sideline him, but it could limit him in terms of snaps. We could see Kendre Miller or even Devin Neal see more snaps if Kamara isn't 100 percent healthy. The 30-year-old hasn't done much on the field to help fantasy managers. He's falling into RB3 or flex territory, assuming he suits up for Week 6. Fantasy managers should check back for official word ahead of kickoff.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 31,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 14
+}

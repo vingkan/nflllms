@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203842",
+  "title": "Michael Carter In Line for Extended Stretch as Cardinals' RB1?",
+  "description": "Arizona Cardinals running back Michael Carter dominated backfield touches in Week 5, the team's first full game without running backs James Conner (ankle) and Trey Benson (knee). Carter recorded 73 yards from scrimmage and a touchdown on 23 total touches in Week 5, while fellow Arizona backs Emari Demercado and Bam Knight combined for just eight total touches. With Conner out for the season and Benson currently on Injured Reserve, Carter could have an extended window as the Cardinals' clear RB1. Carter is a priority waiver-wire addition in any league where he's not already rostered. He profiles as a low-end RB2/high-end RB3/flex option in Week 6 against the Indianapolis Colts.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 6,
+  "team": "ARI",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

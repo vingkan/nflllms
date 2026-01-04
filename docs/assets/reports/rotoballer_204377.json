@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204377",
+  "title": "Omarion Hampton Expected to Miss More Than Four Weeks",
+  "description": "Los Angeles Chargers running back Omarion Hampton (ankle) is expected to spend more than the minimum four weeks on injured reserve, according to Mike Garafolo of NFL Network. The injury that the rookie suffered in Week 5 appears to be serious enough that he'll be out through at least Week 10, and perhaps longer. The Chargers have a Week 12 bye, so it wouldn't be surprising to see Los Angeles hold him out until Week 13, giving him an extra week off to rest. Losing both Hampton and Najee Harris (Achilles) is a major blow for the Chargers, who will turn to Hassan Haskins and Kimani Vidal but could also look to make external running back additions.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

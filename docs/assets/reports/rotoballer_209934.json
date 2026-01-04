@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209934",
+  "title": "Lineup Appeal For Jordan Mason In Week 14",
+  "description": "Running back Jordan Mason of the Minnesota Vikings enters a Week 14 game with some lineup appeal as an RB3/flex candidate with the Washington Commanders coming to U.S. Bank Stadium. The Vikings have struggled immensely in recent weeks, but could see a reprieve in the form of a lowly ranked Commanders defense. Through 13 weeks, Washington is allowing scoring drives on nearly 49% of opposing possessions -- the worst rate in the NFL -- and ranks 29th overall against half-PPR running backs. That could line up well for Mason, who may see more work if Aaron Jones Sr. (shoulder) sees any issues with his lingering injury, though it bears mentioning that Jones does not carry an injury designation despite leaving last week's loss at Seattle. Minnesota will see the return of starting quarterback J.J. McCarthy (concussion) and likely will lean on the running game to aid the struggling passing attack. Relying on any Viking at the moment comes with risk, but the setting is good enough to consider playing Mason in Week 14.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 52,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

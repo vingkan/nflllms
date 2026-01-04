@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203759",
+  "title": "Michael Carter Dominates Backfield Touches in Week 5",
+  "description": "Arizona Cardinals running back Michael Carter recorded 18 carries for 51 yards and a touchdown as well as five catches for 22 yards in his team's 22-21 Week 5 loss to the Tennessee Titans. In Arizona's first full game without both running backs James Conner (ankle) and Trey Benson (knee), Carter recorded 23 touches, compared to eight combined touches for fellow Cardinals backs Emari Demercado and Bam Knight. While Carter did not have his most efficient day as a rusher in Week 5, he looks like the clear number one option in the run game for Arizona. Additionally, Demercado broke a long run that should have been a touchdown but dropped the ball just before crossing the goal line, which could put him in the dog house with Cardinals head coach Jonathan Gannon. With Conner out for the season and Benson on Injured Reserve, Carter should be a priority waiver-wire addition in any league where he is not already rostered.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 6,
+  "team": "ARI",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

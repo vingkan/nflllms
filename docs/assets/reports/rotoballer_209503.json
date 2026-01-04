@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209503",
+  "title": "Kyren Williams Returns in Week 13 After Injury Scare",
+  "description": "Los Angeles Rams running back Kyren Williams (ankle) has returned to his team's Week 13 matchup against the Carolina Panthers after briefly exiting the game due to an ankle injury. Williams subbed himself out late in the first half and was officially deemed questionable to return. However, Williams was back on the field for Los Angeles' first offensive series of the second half. The ankle issue may lead the Rams to give more work to running back Blake Corum for the remainder of Week 13. However, it's obviously a positive sign that Williams was able to return to the game.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 14,
+  "team": "LAR",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

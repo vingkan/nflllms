@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209487",
+  "title": "Bam Knight Active on Sunday Against Tampa Bay",
+  "description": "Arizona Cardinals running back Bam Knight (knee) is officially active for Week 13 against the Tampa Bay Buccaneers, according to Theo Mackie of AZCentral.com. Knight was a limited participant every day in practice this week, but there weren't any real doubts about his status for Sunday. He should be expected to lead the Arizona backfield in touches, with Michael Carter also playing a sizable role, as both Trey Benson (knee) and Emari Demercado (ankle) were ruled out. The 24-year-old has scored in back-to-back weeks, totaling 23 touches for 77 yards from scrimmage in that time. Knight projects as a low-end RB3/FLEX in Week 13 against the Bucs.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

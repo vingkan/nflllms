@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208002",
+  "title": "Chris Rodriguez Jr. Leads Commanders' Backfield in Week 11 Loss",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. rushed for 79 yards on 15 carries during Sunday's Week 11 loss against the Miami Dolphins in Madrid. He also converted his lone target into a six-yard reception. Washington has operated out of a backfield committee for most of this season, but it now appears that Rodriguez has taken over as the team's lead back. Not only did he have more carries than Jacory Croskey-Merritt and Jeremy McNichols combined, but he also had more yards per carry than each of them. Rodriguez is now averaging 9.9 fantasy points (full-PPR) over his last three games, and he handled a season-high 44.8 percent snap share on Sunday morning. Fantasy managers should view Rodriguez as a high-end RB3/flex on the other side of his Week 12 bye.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 13,
+  "team": "WAS",
+  "opp": "DEN",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 35
+}

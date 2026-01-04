@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211765",
+  "title": "Another Monster Game for Christian McCaffrey in Week 16",
+  "description": "San Francisco 49ers running back Christian McCaffrey had another explosive performance in Week 16. McCaffrey ran for 117 yards on 21 carries and caught six of his eight targets for 29 yards and two touchdowns in the 49ers' 48-27 win over the Colts on Monday night. It was one of McCaffrey's better running performances of the season, having averaged 3.6 yards per carry coming into the game. McCaffrey's recent downward trend in receiving yards continued, though he was back to being one of the team's leaders in targets, due in part to Ricky Pearsall's (knee, ankle) absence. McCaffrey is now 151 yards away from achieving 1,000 yards in the rushing and receiving categories for the second time in his career. His next opportunity to add to his total will be against the Bears, who have allowed their opponents 348.1 offensive yards per game.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 17,
+  "team": "SF",
+  "opp": "CHI",
+  "att": 23,
+  "tgt": 6,
+  "touches": 29,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 140,
+  "receiving_catches": 4,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 4
+}

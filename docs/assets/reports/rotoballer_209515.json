@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209515",
+  "title": "Bijan Robinson Compiles 191 Total Yards, Touchdown in Loss to Jets",
+  "description": "Atlanta Falcons running back Bijan Robinson went off on Sunday against the New York Jets despite the 27-24 loss, recording 23 carries for 142 yards and a touchdown along with five receptions (seven targets) for 51 yards as a receiver. Robinson was excellent once again and was the engine of Atlanta's offense in this game, accounting for 191 of 389 total yards of offense for the Falcons. It marks the second-most total yards in a game this season for the superstar running back, only trailing his 238-yard performance back in Week 6 against the Buffalo Bills. The 23-year-old is one of the best receiving backs in football and has six games this season with at least five receptions, with Sunday being his first since Week 9 against the Patriots. Robinson remains one of the top running backs in fantasy, but faces a tough matchup in Week 14 against the Seattle Seahawks.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 14,
+  "team": "ATL",
+  "opp": "SEA",
+  "att": 20,
+  "tgt": 2,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 86,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

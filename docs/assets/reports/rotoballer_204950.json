@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204950",
+  "title": "Tyrone Tracy Jr.'s Secondary Role and Tough Matchup Solidifies RB4 Status",
+  "description": "New York Giants running back Tyrone Tracy Jr. is a low-end flex option for Week 7, as he is firmly relegated to the backup role behind rookie Cam Skattebo. Tracy's season-long statistics are already concerning, with only 74 rushing yards on 26 carries for a meager 2.8 average yards per carry, and zero touchdowns on the year. This week presents a very challenging matchup, as the Broncos' defense ranks as the 4th-ranked fantasy defense against running backs, allowing just 17.47 fantasy points per game. Their rush defense is stifling, giving up only 89.0 rushing yards per game and having allowed a league-low two rushing touchdowns on the season. Following his return in Week 6, Tracy managed only four carries for six yards, suggesting minimal opportunity against one of the NFL's most dominant defenses.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 7,
+  "team": "NYG",
+  "opp": "DEN",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 46,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 21
+}

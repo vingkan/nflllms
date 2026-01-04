@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209530",
+  "title": "De'Von Achane Looks Unstoppable on the Ground in Week 13",
+  "description": "Miami Dolphins running back De'Von Achane came ready to play during Sunday's game against the New Orleans Saints. He started off the game with a 29-yard touchdown run on the opening drive. Achane continued to run over the Saints' defense all game long. He finished the game with 134 rushing yards on 22 attempts with one touchdown in the win. He failed to haul in a reception for the first time this season, but that didn't seem to impact his fantasy value. Achane has rushed for over 100 yards in each of his last three games. He'll look to keep that streak alive against the New York Jets in Week 14.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 14,
+  "team": "MIA",
+  "opp": "NYJ",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 92,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 9
+}

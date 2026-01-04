@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207552",
+  "title": "Terrell Jennings Once Again Slated for Backup Role if Healthy",
+  "description": "New England Patriots running back Terrell Jennings (knee) is on track to operate as the backup to TreVeyon Henderson in Week 11 after Rhamondre Stevenson (toe) was ruled out for a third consecutive game. Jennings has opened each of the last two weeks as the Patriots' No. 2 running back, but his Week 10 outing against the Tampa Bay Buccaneers was cut short due to a knee injury. That same ailment limited him in practice this week and left him questionable to face the New York Jets on Thursday Night Football. It's a relatively quick turnaround for the second-year back to get healthy, but the Patriots are leaving the door open for him to play with this injury designation. Jennings should have a role if he suits up. Just last week, he earned the team's first touches before TreVeyon Henderson even got his hands on the football. Jennings had 12 touches, 44 scrimmage yards, and a touchdown in the Patriots' first game sans Stevenson, and we could expect similar volume in a favorable game script against the Jets. If he plays on Thursday, Jennings has low-end RB3/flex appeal in leagues with 14 or more teams.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

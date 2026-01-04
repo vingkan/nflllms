@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208081",
+  "title": "Kenneth Gainwell Worth a Pickup After Two-Touchdown Game?",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell had nine rushing attempts for 24 yards in the Week 11 win over the Cincinnati Bengals on Sunday, adding a season-high seven receptions on eight targets for 81 yards and receiving touchdowns. The 26-year-old played 63% of the offensive snaps, his second-highest mark of the year, but it coincided with lead back Jaylen Warren (ankle) getting injured in the third quarter and never returning. Warren said after Sunday's win that he could have retaken the field, but the decision to sit out the rest of the game \"was part of being smart.\" It looks like Warren has avoided a serious injury, but fantasy managers with Warren rostered or who need RB depth should consider Gainwell a speculative pickup going into Week 12 against the Chicago Bears. Gainwell is only rostered in 32% of Yahoo leagues.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 10,
+  "tgt": 6,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 92,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

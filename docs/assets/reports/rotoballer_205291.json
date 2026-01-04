@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205291",
+  "title": "Aaron Jones Sr. Returning to Practice, Could Return on Thursday Night",
+  "description": "The Minnesota Vikings are designating running back Aaron Jones Sr. (hamstring) to return from Injured Reserve on Tuesday, meaning he could potentially come off IR to play in Week 8 on Thursday Night Football against the Los Angeles Chargers, according to Tom Pelissero of NFL Network. The Vikings will now have 21 days to activate Jones from IR officially, but since he did not practice on Monday, it seems likely that Minnesota will wait another week to bring him back, which would come in Week 9 on Sunday, Nov. 2, against the division-rival Detroit Lions. The 30-year-old was serving as the Vikings' lead back before he injured his hamstring in the loss to the Atlanta Falcons on Sept. 14 in Week 2. Since Jones' injury, Jordan Mason has been the team's clear lead back, and he should continue in that role for one more week on Thursday in L.A. This is fantasy managers' cue to check to see if Jones is available on the waiver wire. UPDATE: Jones was limited in Tuesday's practice.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 8,
+  "team": "MIN",
+  "opp": "LAC",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 15,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

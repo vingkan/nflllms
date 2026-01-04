@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205465",
+  "title": "D'Andre Swift Returns to Limited Practice on Thursday",
+  "description": "Chicago Bears running back D'Andre Swift (groin) returned to a limited practice on Thursday after he missed Wednesday's session. Swift's return to practice on Thursday should put him on track to be available for this Sunday's game against the Baltimore Ravens and their banged-up defense. With Ben Johnson in town running Chicago's offense, Swift has been a focal point, carrying the ball 89 times for 419 yards (4.7 yards per tote) and three touchdowns while adding 16 catches for 166 yards and another score through the air. He has had at least 12 carries in all six games so far in 2025 and has had a combined 33 carries for 232 rushing yards and a touchdown in the last two games against the Saints and Commanders. The Ravens have allowed nearly 110 rushing yards per game this year, so Swift will be an absolute must-start in fantasy lineups this weekend.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

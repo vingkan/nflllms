@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206972",
+  "title": "De'Von Achane Still a Top-Five Running Back",
+  "description": "Miami Dolphins running back De'Von Achane continues to be an elite option in a struggling offense, coming into his Week 10 matchup with the Bills. Achane could get even more work than normal with Ollie Gordon II (ankle) questionable and some extra rest since the Dolphins last played on Thursday Night Football over a week ago. Achane rushed 14 times for 67 yards in the Dolphins' Week 9 loss to the Ravens, adding six receptions for 39 yards. He had 12 carries for 62 yards and seven catches for 29 yards the first time he faced Buffalo this season, and he should be very busy once again on Sunday at home. He has seven touchdowns in nine games this season, and his consistent PPR involvement keeps both his floor and ceiling very high. He has logged double-digit carries every week since Week 1, while racking up 56 targets in those seven games. This week, he is the No. 4 RB in RotoBaller's rankings, making him an elite start in all formats.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 22,
+  "tgt": 6,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 174,
+  "receiving_catches": 6,
+  "receiving_yards": 51,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 40,
+  "ppr_scoring_position_rank": 2
+}

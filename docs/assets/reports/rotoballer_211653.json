@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211653",
+  "title": "Chase Brown Erupts for Three Touchdowns in Win",
+  "description": "Cincinnati Bengals running back Chase Brown delivered another great performance in Sunday's 45-21 win over the Miami Dolphins, handling 12 carries for 66 yards and a touchdown while adding four catches (four targets) for 43 yards and two more scores as a receiver. It marked the 25-year-old's first career three-touchdown game and fifth career game with multiple scores. Brown has been on a tear in the second half of the season, ranking as the RB5 in PPR points per game (20.5) after ranking as the RB33 (10.1) in Weeks 1-7. Brown will maintain his high-end RB1 status for Week 17's matchup against the Arizona Cardinals.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 17,
+  "team": "CIN",
+  "opp": "ARI",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 101,
+  "receiving_catches": 3,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 3
+}

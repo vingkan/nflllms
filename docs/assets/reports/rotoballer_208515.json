@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208515",
+  "title": "Kenneth Gainwell A Possible Flex Option Against Bears",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell scored two receiving touchdowns last week and will look to carry that momentum into a Week 12 meeting with the Chicago Bears. Although Jaylen Warren (ankle) practiced in full on Thursday and was removed from the injury report, Gainwell could still have an expanded role if Warren is limited in any way on Sunday. The matchup sets up well, as Chicago gives up the fourth-most yards per carry and over 20 fantasy points per contest to opposing running backs. Starting quarterback Aaron Rodgers (wrist) is questionable, but it's worth noting that much of Gainwell's Week 11 production came with Mason Rudolph under center. While he doesn't offer a particularly safe floor, the 26-year-old profiles as a viable flex option with upside this week.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 10,
+  "tgt": 6,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 92,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211922",
+  "title": "David Montgomery to Play Despite Illness",
+  "description": "Detroit Lions running back David Montgomery (illness) will be active for Thursday's road bout with the Minnesota Vikings on Christmas Day, per the team. The veteran appeared on Detroit's practice report on Tuesday, missing the session due to illness. After logging a limited practice on Wednesday, it would seem Montgomery will be able to play anyway, and figures to assume his typical allotment of snaps behind teammate Jahmyr Gibbs as the Lions attempt to keep their playoff hopes alive. Notably, the seventh-year pro has seen his snap count steadily dwindle since Week 11, dropping under 20 plays in each of his last three appearances, compared with just once over the season's first 13 weeks. Correlatively, he'll offer little more than flex appeal with Gibbs dominating time and touches in the backfield.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 17,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 25,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 39
+}

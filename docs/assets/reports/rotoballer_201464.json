@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201464",
+  "title": "Alvin Kamara Looking to Find Endzone Again in Week 2",
+  "description": "New Orleans Saints running back Alvin Kamara rushed 11 times for 45 yards and one touchdown in Week 1 against the Arizona Cardinals. Surprisingly, he saw limited action in the passing game despite Spencer Rattler's career-high 46 pass attempts, catching just two targets for 12 yards. Despite this, Kamara showed he still has plenty left in the tank. He looks poised to be effective again against the San Francisco 49ers in Week 2 and should see an increased workload as a pass-catcher. He remains a high-upside RB2 this week.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 2,
+  "team": "NO",
+  "opp": "SF",
+  "att": 21,
+  "tgt": 6,
+  "touches": 27,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 99,
+  "receiving_catches": 6,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 15
+}

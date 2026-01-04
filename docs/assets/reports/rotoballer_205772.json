@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205772",
+  "title": "Tyler Allgeier Active for Week 8",
+  "description": "Atlanta Falcons running back Tyler Allgeier (hip) is officially active for Sunday's contest against the Miami Dolphins. The team's No. 2 running back practiced in a limited capacity all week but was able to progress enough to suit up. In Week 7, Allgeier had had a limited role, taking just four carries for a mere 16 yards. However, in Week 6, Allgeier took 10 carries for 32 yards and punched in his third rushing score of the campaign. Through six games, Allgeier has tallied 203 yards despite operating as the clear No. 2 option behind Bijan Robinson. Given that the Falcons will face a weak Miami defense that has allowed the fourth-most PPR points to opposing RBs this season, Allgeier carries sneaky FLEX upside in this matchup.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 8,
+  "team": "ATL",
+  "opp": "MIA",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 4,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 27
+}

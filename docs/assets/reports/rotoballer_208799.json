@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208799",
+  "title": "Kenneth Gainwell Tops 100 Scrimmage Yards for Second Straight Game in Week 12",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell had his second straight big game in his team's 31-28 Week 12 loss to the Chicago Bears, recording 10 carries for 92 yards and six receptions for 30 yards on six targets. The 26-year-old has emerged as a featured player in the Pittsburgh passing game in recent weeks, recording 13 receptions on 14 targets over the last two games. Notably, fellow Steelers running back Jaylen Warren did not earn a target in Week 12. Gainwell also out-gained Warren 92 yards to 68 yards on the ground, despite logging eight fewer carries. While Pittsburgh is likely to continue featuring both backs, Gainwell may be eating into Warren's playing time with his recent performance. For the season, Gainwell is now averaging over five yards per touch. He's worthy of flex consideration for fantasy managers heading into a Week 13 matchup against the Buffalo Bills.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 13,
+  "team": "PIT",
+  "opp": "BUF",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 20,
+  "receiving_catches": 2,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 43
+}

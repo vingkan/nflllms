@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205854",
+  "title": "Dylan Sampson Trending Up After Injury to Fellow Rookie RB",
+  "description": "Cleveland Browns rookie running back Dylan Sampson is worth a look on the waiver wire in fantasy football this week after fellow rookie RB Quinshon Judkins (shoulder) was forced out of the Week 8 loss to the New England Patriots and did not return. Sampson ended up playing a season-high 46% of the offensive snaps while carrying the ball three times for no yards in the 32-13 blowout loss. However, the 21-year-old also caught five of his six targets in the passing game for 29 yards. Both Sampson and Ford should have bigger roles in Cleveland's backfield if Judkins misses additional time, but the fact that the Browns are going into their bye in Week 9 should make fantasy managers temper their waiver-wire bids for Sampson. Sampson's eight touches were the most he had seen since the regular-season opener. If Judkins isn't ready in Week 10 against the New York Jets, Sampson should lead the team's backfield.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": -4,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 59
+}

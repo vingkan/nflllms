@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209804",
+  "title": "Bam Knight May Lead Cardinals Backfield Again in Week 14",
+  "description": "Arizona Cardinals running back Bam Knight had his most productive game of the season in Week 13, totaling 98 scrimmage yards and a touchdown against the Tampa Bay Buccaneers. Injuries have decimated the Cardinals' running back room, including starter James Conner (leg), primary backup Trey Benson (knee), and Emari Demercado (ankle), which has forced Knight to step up. With Benson still not practicing ahead of Week 14's game against the Los Angeles Rams, Knight may have to carry the workload again. A tough matchup is on deck for the Cardinals, as they face a Rams defense that has allowed the fifth-fewest fantasy points to running backs this season. Fantasy managers should continue to monitor Benson's status, as Knight could be a solid FLEX play despite the tough matchup in Week 14.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 14,
+  "team": "ARI",
+  "opp": "LAR",
+  "att": 7,
+  "tgt": 6,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 40
+}

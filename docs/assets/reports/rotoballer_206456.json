@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206456",
+  "title": "Devin Singletary's Usage Set to Increase in Week 9",
+  "description": "New York Giants running back Devin Singletary will likely see an increased snap share and target share in Week 9 against the San Francisco 49ers. The 28-year-old is headed for a larger role as he operates as the backup to Tyrone Tracy Jr. on Sunday. Singletary's increased volume will be the direct result of New York losing rookie sensation Cam Skattebo (ankle) to a season-ending injury. The Florida Atlantic product totaled over 550 scrimmage yards and four touchdowns as the backup to Tracy last year, but he's still searching for his first touchdown of the 2025 campaign. We fully expect Tracy to handle around 15 touches per game in the lead-back role, but Singletary's role will grow, too. He could see five-plus carries and a couple of targets in this upward-trending offense, all while serving as a valuable handcuff to Tracy.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 43,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 32
+}

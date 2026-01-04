@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203461",
+  "title": "A.J. Dillon Should Get Little Attention Against Broncos",
+  "description": "Philadelphia Eagles running back A.J. Dillon was the lead backup for Saquon Barkley against the Buccaneers, being on the field for 14% of snaps and carrying the ball three times for 17 yards. Anyone in the Philly backfield not named Barkley remains irrelevant in fantasy, especially against a Denver Broncos defense allowing less than 100 rushing yards per game. Jalen Hurts will continue to take up a good amount of rush attempts as well, so Dillon is at best a handcuff option for if Barkley goes down. He should not see lineups in Week 5.",
+  "player_id": 6828,
+  "player_name": "A.J. Dillon",
+  "week": 5,
+  "team": "PHI",
+  "opp": "DEN",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 64
+}

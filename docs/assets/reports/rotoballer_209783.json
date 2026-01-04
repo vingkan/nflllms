@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209783",
+  "title": "David Montgomery Remains a Touchdown-Dependent Flex Option in Week 14",
+  "description": "Detroit Lions running back David Montgomery recorded 48 scrimmage yards and a touchdown in Week 13, breaking his three-game scoreless streak. However, Montgomery earned just eight carries, marking the third straight game in which he's failed to reach double-digit rush attempts. In Week 14, Montgomery will square off against a Dallas Cowboys defense that has been playing much better against the run in recent weeks. Over their last three games, the Cowboys have allowed an average of just 69 rushing yards per contest. With the Lions leaning heavily on star running back Jahmyr Gibbs, Montgomery has played fewer than 39% of Detroit's offensive snaps in four of his last five games. As long as that workload split persists, Montgomery profiles as a touchdown-dependent flex option for fantasy managers.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 14,
+  "team": "DET",
+  "opp": "DAL",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 60,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 19
+}

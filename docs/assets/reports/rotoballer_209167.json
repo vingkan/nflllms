@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209167",
+  "title": "Emanuel Wilson Reverts to a Backup Role on Thanksgiving",
+  "description": "Green Bay Packers running back Emanuel Wilson was limited to four carries on Thursday and was reverted to his regular backup role with Josh Jacobs (knee) returning to the starting lineup after missing Week 12 with his injury. Wilson was expected to be a bit more involved given his production in Week 12, but at the end of the day, Jacobs dominated the carries, seeing 17 to Wilson's four. Meanwhile, neither were involved much in the passing game, with Jacobs hauling in just one reception to Wilson's zero. With Jacobs back in his starting role, Wilson is not providing much fantasy value to managers besides a handcuff to Jacobs. Fantasy managers with Jacobs on their team, it may be wise to roster him as a security blanket; however, if you are rostering Wilson without Jacobs, it may be time to say thank you for your Week 12 services and move on to help your team make a fantasy playoff run.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 14,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 10,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 66
+}

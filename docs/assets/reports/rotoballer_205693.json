@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205693",
+  "title": "Jaylen Warren A Viable RB2 Despite Tough Matchup",
+  "description": "Pittsburgh Steelers running back Jaylen Warren is coming off his best performance of the season and will look to stay hot against the Green Bay Packers in Week 8. On paper, this is not a favorable matchup for Warren, as the Packers surrender the third-fewest fantasy points per contest and fourth-fewest yards per carry to opposing running backs. However, Green Bay has given up the second-most receptions per game to the position, and Warren remains a key weapon in Pittsburgh's passing attack. This Sunday night showdown carries a healthy projected point total, suggesting enough offensive volume to keep Warren involved. Fantasy managers can continue to trust the fourth-year back as a solid RB2 in all formats.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 8,
+  "team": "PIT",
+  "opp": "GB",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 62,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

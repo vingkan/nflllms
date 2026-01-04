@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206766",
+  "title": "Kyle Monangai Listed As Limited in Practice Wednesday",
+  "description": "Chicago Bears rookie running back Kyle Monangai (ankle) was a limited participant in Wednesday's practice session. It's unclear when or how Monangai picked up the injury, but it will be one to monitor in the coming days. The rookie out of Rutgers put up a monstrous performance in his spot start for an injured D'Andre Swift (groin) in Week 9 against the Cincinnati Bengals, recording 198 total yards from scrimmage on 29 touches in a 47-42 win. Swift was also listed as limited in Wednesday's practice, potentially signaling that he will only miss one game. But Monangai certainly earned more reps with his standout game, as he led all running backs in Week 9 with +59 rushing yards over expectation, per NFL Pro. Both Bears' running backs' practice statuses will be worth watching over the next two days.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 10,
+  "team": "CHI",
+  "opp": "NYG",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

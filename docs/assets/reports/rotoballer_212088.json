@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212088",
+  "title": "Jaylen Wright Looking for Another Opportunity",
+  "description": "Miami Dolphins running back Jaylen Wright seems to have taken over as the team's primary backup behind De'Von Achane. He played 18 snaps last week compared to just three for rookie Ollie Gordon II, and Wright added a garbage-time touchdown while taking his nine carries for 35 yards and catching one of his two targets for 18 yards. Wright had a massive game in Week 14 against the Jets after Achane left with an injury, racking up 107 yards and a touchdown. He has that kind of potential if a similar situation were to develop, but his role is limited behind Achane when he's healthy. He is only the RB61 in RotoBaller's rankings this week, indicating that he's best left on the bench or waiver wire against the Buccaneers in Week 17.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 17,
+  "team": "MIA",
+  "opp": "TB",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 56,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 42
+}

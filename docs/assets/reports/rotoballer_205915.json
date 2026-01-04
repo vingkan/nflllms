@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205915",
+  "title": "Can Tyler Allgeier Keep Scoring Touchdowns at This Pace?",
+  "description": "Atlanta Falcons running back Tyler Allgeier found paydirt again in Week 8's 34-10 loss to the Dolphins, scoring the team's only touchdown of the day. The six-yard score came late in the fourth quarter and marked Allgeier's fourth touchdown of the season, which is tied for the team lead with Bijan Robinson, who has two rushing scores and two scores through the air. While the touchdown volume can't be ignored, the pace feels tenuous at best, as the 25-year-old garnered only six touches in the game and had three rushes for negative two yards prior to the TD plunge. For the season, the BYU product has registered just 3.4 yards per carry, compared to Robinson's 5.2 YPC. Had the score been closer and not 34-3 at the time of the touchdown run, Allgeier may not have even been in the game. Nevertheless, he's become a potential Flex option due to his nose for the end zone, but fantasy managers need to be aware that there is a high chance of busting if he doesn't score. Things won't get easier in Week 9 on the road in New England against a defense allowing the fourth-fewest points per game (18.3), second-fewest rush yards per game (76.0), and second-fewest rush yards per attempt (3.5).",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 9,
+  "team": "ATL",
+  "opp": "NE",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 6,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

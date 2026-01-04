@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204074",
+  "title": "Breece Hall Wants to Remain with Jets",
+  "description": "Ahead of the team's Week 6 game in London against the Denver Broncos, New York Jets running back Breece Hall was asked about ongoing trade rumors and said, \"I'm here, I wanna be here. I wanna be a New York Jet.\" Hall has been one of the lone bright spots for the 0-5 Jets so far this season, recording 501 yards from scrimmage on 83 total touches, although he's yet to find the end zone as either a rusher or receiver. Hall is currently playing on the final year of his rookie contract in New York and remains without an extension from the team. Hall's contract status and the Jets' need to build for the future have fueled speculation that he could be moved ahead of the NFL's early-November trade deadline. With running back Braelon Allen (knee) on Injured Reserve and uncertain to return this season, second-year back Isaiah Davis would likely take over the Jets' backfield if Hall were to get dealt. Davis has recorded 84 yards from scrimmage on just 12 total touches through five games this season.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 6,
+  "team": "NYJ",
+  "opp": "DEN",
+  "att": 22,
+  "tgt": 0,
+  "touches": 22,
+  "actual": "high",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 59,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

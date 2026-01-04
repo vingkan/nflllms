@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208782",
+  "title": "Derrick Henry Rushes for Two Scores in Week 12 Victory",
+  "description": "Baltimore Ravens running back Derrick Henry struggled to find much room to run during Sunday's game against the New York Jets. Luckily for fantasy managers, Henry was able to find the end zone a few times, or it would've been an ugly outing. Henry rushed the ball 21 times for 64 yards with two touchdowns in the win over the Jets. His 3.0 yard-per-carry mark wasn't ideal, but the volume of carries and his ability to find the end zone kept him in RB1 territory. The veteran back will get an excellent matchup against the horrible Cincinnati Bengals run defense next week.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 13,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 60,
+  "receiving_catches": 1,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 11
+}

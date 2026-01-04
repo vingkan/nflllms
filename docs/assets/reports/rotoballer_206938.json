@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206938",
+  "title": "Quinshon Judkins a Low-End RB1 in Week 10",
+  "description": "Cleveland Browns running back Quinshon Judkins suffered a shoulder injury in a Week 8 loss to the New England Patriots, but he comes out of his Week 9 bye without an injury designation. He should be in line to handle his normal workload in a Week 10 road matchup against the New York Jets. The Jets have struggled against running backs this season, allowing the seventh-most fantasy points per game to the position. A Tuesday trade of Quinnen Williams to the Dallas Cowboys won't help matters much as New York looks to try to slow down Judkins. The Browns have a good shot at beating or at least keeping things close against the Jets in Week 10, which makes Judkins less likely to see a poor game script limit his touches. He sets up as a low-end RB1 in fantasy heading into Week 10.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 75,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 26
+}

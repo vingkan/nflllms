@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211669",
+  "title": "Bijan Robinson Records Monster All-Purpose Performance in Week 16",
+  "description": "Atlanta Falcons running back Bijan Robinson dominated the Arizona Cardinals in his team's 26-19 Week 16 win. The 23-year-old recorded 16 carries for 76 yards and hauled in seven receptions for 92 yards and a touchdown on 11 targets. Across 15 games this season, Robinson has now recorded 2,026 yards from scrimmage and nine touchdowns on 321 touches. Robinson has racked up at least 107 scrimmage yards in five out of his last six games and has logged at least 88 scrimmage yards in every game but one in 2025. He may be the NFL's premier all-around back and is currently on pace to finish the season with just a shade under 2,300 yards from scrimmage. Robinson profiles as a must-start fantasy back heading into the team's Week 17 matchup against the Los Angeles Rams.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 17,
+  "team": "ATL",
+  "opp": "LAR",
+  "att": 22,
+  "tgt": 8,
+  "touches": 30,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 195,
+  "receiving_catches": 5,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 39,
+  "ppr_scoring_position_rank": 2
+}

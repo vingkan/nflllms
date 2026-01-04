@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205573",
+  "title": "De'Von Achane Still a Top-Five Running Back",
+  "description": "Miami Dolphins running back De'Von Achane remains one of the few players from his team who can be relied on for fantasy football purposes. This week, he and the Dolphins are visiting the Falcons after taking a 31-6 beating last week in Cleveland. Achane still had a decent game in the loss, producing 82 rushing yards on 13 carries and adding three catches for 16 receiving yards. He didn't get into the end zone, but he still has six total touchdowns in his seven games this season. He'll look to get back into the end zone against the Falcons, who rank in the middle of the pack against running backs. They did give up two touchdowns to Christian McCaffrey last week, and Achane is very involved as both a rusher and receiver, giving him a high ceiling as this week's No. 5 RB in RotoBaller's rankings.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 8,
+  "team": "MIA",
+  "opp": "ATL",
+  "att": 18,
+  "tgt": 7,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 67,
+  "receiving_catches": 5,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 7
+}

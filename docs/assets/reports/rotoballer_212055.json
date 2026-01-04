@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212055",
+  "title": "Michael Carter Looks to Capitalize on Dream Matchup in Week 17",
+  "description": "Arizona Cardinals running back Michael Carter has seen double-digit carries in back-to-back games for the first time this season. The 26-year-old finds himself as the Cardinals' RB1 after the team has lost fellow backs James Conner (foot), Trey Benson (knee), and Bam Knight (ankle) to season-ending injuries. Carter enters Week 17 as RotoBaller's 23rd-ranked running back in Half-PRR formats with a favorable matchup against the Cincinnati Bengals. The Bengals' defense has struggled to stop running backs on the ground and in the air this year. They have allowed the most fantasy points to running backs and have given up 25.9 fantasy points per game this season, according to Pro-Football-Reference. Carter is an RB2 with upside that can be fired up as a flex option in fantasy championships in Week 17.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 17,
+  "team": "ARI",
+  "opp": "CIN",
+  "att": 7,
+  "tgt": 4,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 29,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 38
+}

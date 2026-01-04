@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203366",
+  "title": "Christian McCaffrey Remains Dominant While Handling 30 Touches",
+  "description": "San Francisco 49ers running back Christian McCaffrey rushed for 57 yards on 22 carries during Thursday's Week 5 win over the Los Angeles Rams. He also caught eight of his nine targets for 82 receiving yards and a receiving touchdown. The superstar running back handled 30 total touches, continuing to prove that he's the only relevant member of the Niners' backfield for the time being. His efficiency on the ground was a little underwhelming, but that didn't stop him from dominating as a pass catcher, per usual. The 29-year-old has exceeded 22.5 fantasy points (PPR) in every game this season, ranking as the overall RB1 to this point. He should be started with full confidence against the Buccaneers in Week 6.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 6,
+  "team": "SF",
+  "opp": "TB",
+  "att": 17,
+  "tgt": 8,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 54,
+  "receiving_catches": 7,
+  "receiving_yards": 57,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 7
+}

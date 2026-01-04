@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202464",
+  "title": "Has The Efficiency Run Dry For Josh Jacobs?",
+  "description": "Green Bay Packers running back Josh Jacobs broke his streak of 10 consecutive regular-season games where he scored a touchdown in Week 3, as he was bottled up by the Cleveland Browns. Nothing new for the Browns, as they've bottled up every opposing rusher, from Chase Brown to Derrick Henry. Jacobs had less than 2.0 yards per carry as he put up just 30 rushing yards on 16 carries. He did salvage some of his fantasy day with a team-leading nine targets, catching five of them for 44 yards. With 3.1 yards per carry through three games, Jacobs has been a pure volume play with none of the efficiency that fantasy managers expected from a player who was drafted in the early third round of drafts. Despite touchdowns in the first two contests, Jacobs has not finished higher than RB18 this season. Even with a good matchup on deck with the Packers heading to Dallas to play the Cowboys, Jacobs is more of a high-end RB2 than a locked-in RB1.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 4,
+  "team": "GB",
+  "opp": "DAL",
+  "att": 22,
+  "tgt": 4,
+  "touches": 26,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 86,
+  "receiving_catches": 4,
+  "receiving_yards": 71,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 31,
+  "ppr_scoring_position_rank": 2
+}

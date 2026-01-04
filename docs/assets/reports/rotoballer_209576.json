@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209576",
+  "title": "Rico Dowdle Registers 18 Carries and Two Receptions in Week 13",
+  "description": "Carolina Panthers running back Rico Dowdle rushed for only 58 yards on 18 carries during Week 13's 31-28 upset win over the Los Angeles Rams. The Carolina RB also added 21 receiving yards on two receptions, totaling 9.9 PPR points. It was the first time since Weeks 7-8 that Dowdle ended back-to-back games with less than 12 PPR points. For the first time since being named the starting RB in Week 9, Dowdle was outplayed by Chuba Hubbard, who registered 20.4 PPR points on 124 scrimmage yards and a receiving touchdown. The workload between the two RBs was split, and Hubbard took the most snaps (59%). In Week 15, Dowdle and the Panthers face the New Orleans Saints for the second time this season after a bye. In the last four weeks leading up to Week 13, the Saints ranked 13th in Fantasy Points Per Game allowed to RBs. During the Panthers' prior game against New Orleans in Week 10, Dowdle finished with 63 scrimmage yards and a rushing TD. With the possibility of Dowdle now being in a timeshare with Hubbard, he cannot be regarded as a must-start player regardless of matchup anymore. But he should still be a good start against the Saints, because the surprising Panthers may totally control the flow of the matchup. If Carolina rolls to a big win, you should see Dowdle get into the end zone at least once.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 15,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 22
+}

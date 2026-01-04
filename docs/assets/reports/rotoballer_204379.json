@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204379",
+  "title": "Hassan Haskins Expected to Lead Chargers Backfield",
+  "description": "Los Angeles Chargers running back Hassan Haskins is expected to operate as the primary option out of the backfield during Sunday's Week 6 contest against the Miami Dolphins, according to Mike Garafolo of NFL Network. Haskins will take on an expanded role this weekend with both Omarion Hampton (ankle) and Najee Harris (Achilles) on injured reserve. Haskins' newfound role at the top of the depth chart isn't necessarily a surprise since he was routinely active as the No. 3 running back when Hampton and Harris were healthy. Now, he'll slide into the lead-back role while Kimani Vidal offers a change of pace. It's possible that Vidal could carve out a low-end fantasy role, but for now, Haskins is the only Chargers running back worth starting in fantasy football. He ranks as an RB3/flex but could have RB2 upside in a favorable matchup against Miami.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 51
+}

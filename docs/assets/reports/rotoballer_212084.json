@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212084",
+  "title": "Ollie Gordon II Not Getting Much Work in Miami",
+  "description": "Miami Dolphins running back Ollie Gordon II has flashed touchdown-dependent upside in his rookie season, but he's battled an ankle injury and fallen down the depth chart in the last few weeks, playing behind Jaylen Wright. Gordon only played three snaps last week against the Bengals, compared to 18 for Wright. He also lost a yard on his only carry. The sixth-round pick has four touchdowns on the season, but in his limited role, he's not a great option to start in Week 17, when his Dolphins host the Buccaneers. In RotoBaller's rankings, Gordon is only the No. 66 RB, making him an option best left on the bench or waiver wire in almost all formats.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 17,
+  "team": "MIA",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

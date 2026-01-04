@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207615",
+  "title": "Aaron Jones Sr. Logs Second Straight Limited Practice on Thursday",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder, toe) was listed as a limited practice participant for the second straight day on Thursday due to shoulder and toe injuries. The veteran back played through the ailments in Week 10, so he's likely on track to suit up in Week 11 against the Chicago Bears. Across five games played this season, Jones Sr. has recorded 287 scrimmage yards and two touchdowns on 46 total touches. His workload upside is limited in Minnesota while he shares a backfield with Jordan Mason, but Jones Sr. is currently averaging 6.2 yards per touch, which would be a career-high if sustained over a full season. He also saw a season-high six targets in Week 10. As long as he's active, Jones Sr. profiles as a solid fantasy RB2 in Week 11 against Chicago.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 11,
+  "team": "MIN",
+  "opp": "CHI",
+  "att": 16,
+  "tgt": 6,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

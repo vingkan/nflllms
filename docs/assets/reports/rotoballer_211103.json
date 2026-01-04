@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211103",
+  "title": "Saquon Barkley Misses Practice With Stinger",
+  "description": "Philadelphia Eagles running back Saquon Barkley (neck) was a non-participant during Tuesday's practice session with a stinger that he suffered in the Week 15 win over the Las Vegas Raiders on Sunday. This was only a walkthrough, so fantasy managers shouldn't be too worried yet. Barkley is coming off a solid performance, where he rushed for 78 yards and a touchdown on 22 carries in the blowout win over the Raiders. He's a little banged up to begin the week, but he should be fine with a few days of rest. Barkley has another plus matchup ahead of him against the Washington Commanders defense in Week 16. As long as he's active on Saturday, Barkley is a must-start, as always, in fantasy lineups.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 16,
+  "team": "PHI",
+  "opp": "WAS",
+  "att": 21,
+  "tgt": 2,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 132,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 13
+}

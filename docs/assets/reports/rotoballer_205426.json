@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205426",
+  "title": "Travis Etienne Jr.'s Stock Slipping?",
+  "description": "Following an excellent start to the 2025 season, Jacksonville Jaguars running back Travis Etienne Jr. has cooled off as the team heads into its Week 8 bye. The fifth-year back is the No. 16 overall PPR running back, but has now recorded fewer than 50 yards rushing and no touchdowns in three straight games for the Jags, who were thoroughly quieted by the Los Angeles Rams in a 35-7 loss last week. Etienne drew only eight carries and one catch, his fewest number of touches in a game this season. The Jags traded Tank Bigsby to Philadelphia earlier this year, and rookie Bhayshul Tuten has yet to play more than a third of the team's snaps in a game, so Etienne is still the clear top option, but managers should continue to watch his usage in the weeks to come. Jacksonville travels to Las Vegas in Week 9.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 9,
+  "team": "JAX",
+  "opp": "LV",
+  "att": 22,
+  "tgt": 5,
+  "touches": 27,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 84,
+  "receiving_catches": 5,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 12
+}

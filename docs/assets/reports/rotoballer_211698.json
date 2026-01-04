@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211698",
+  "title": "Jahmyr Gibbs Saves Week 16 Production with Monster Receiving Day",
+  "description": "Detroit Lions running back Jahmyr Gibbs had a miserable day as a rusher in Week 16 against the Pittsburgh Steelers, recording just two rushing yards on seven attempts. However, the 23-year-old saved his production with his work out of the backfield as a receiver, hauling in 10 catches for 66 yards and a touchdown on 13 targets. Gibbs has now been held to 43 rushing yards or fewer in three straight games and four out of his last six contests. Still, his involvement in the passing game provides a relatively safe PPR floor. Across six games since Lions tight end Sam LaPorta (back) was placed on Injured Reserve with a back injury, Gibbs has recorded 40 receptions for 333 yards and two touchdowns on 51 targets. He's racked up 1,662 yards from scrimmage and 17 touchdowns across 15 games this season and remains a must-start fantasy running back heading into his Week 17 matchup against the Minnesota Vikings.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 17,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 2,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 36
+}

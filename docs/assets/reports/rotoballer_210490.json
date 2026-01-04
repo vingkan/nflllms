@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210490",
+  "title": "Aaron Jones Sr. Still Managing a Shoulder Injury",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder) was limited in practice on Thursday for the second straight day this week. Jones suffered a shoulder injury in Week 9 and has been on the injury report ever since, but he continues to serve as the Vikings' primary RB. The 31-year-old could be cleared from the Week 15 injury report entirely if he can upgrade to a full showing on Friday. In the last five contests, Jones has 67 touches to Jordan Mason's 37. He saw 14 carries (second-most this year) for 76 yards in last week's 31-0 rout of the Washington Commanders. Jones should be good to go for this Sunday night's game on the road against the Dallas Cowboys. It's a good matchup, as Dallas has allowed the sixth-most half-PPR fantasy points to opposing RBs per game in 2025. Jones should be on the RB2/3 borderline for fantasy managers this week.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 15,
+  "team": "MIN",
+  "opp": "DAL",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 34,
+  "receiving_catches": 3,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 32
+}

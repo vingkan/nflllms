@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203489",
+  "title": "Jeremy McNichols Has Value in Deep Leagues for Week 5",
+  "description": "Washington Commanders running back Jeremy McNichols has served as the pass-down back in their three-man running back committee. Jacory Croskey-Merritt and Chris Rodriguez Jr. have handled the bulk of the running back touches, while McNichols subs in on late downs for prowess as a pass protector. That is the driving factor behind McNichols' volume of snaps, but he's also shown some juice and physicality as a runner. He had one of the highlight runs of the season in Week 3 against the Raiders when he trucked a defender and then exploded for a 60-yard touchdown. McNichols should be expected to serve in his usual role against a tough Chargers defense, limiting his Week 5 appeal to deeper leagues.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 5,
+  "team": "WAS",
+  "opp": "LAC",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 6,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 49
+}

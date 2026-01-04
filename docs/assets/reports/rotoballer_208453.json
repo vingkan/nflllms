@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208453",
+  "title": "Reduced Workload, Offensive Struggles Lower Jordan Mason's Ceiling",
+  "description": "Minnesota Vikings running back Jordan Mason should be left out of starting lineups in standard formats when his team travels to Green Bay in Week 12. Mason scored a touchdown in last week's loss to the Chicago Bears, but has seen his workload lessened since Aaron Jones Sr. returned from injured reserve. With Jones fully healthy the past two weeks, the former San Francisco 49er has played just 25% and 16% of Minnesota's offensive snaps, respectively, which considerably lowers his fantasy ceiling. Additionally, the matchup is not favorable, as Green Bay ranks third in the NFL in yards per rushing attempt allowed. Added to the Vikings' struggles in the passing game -- quarterback J.J. McCarthy is completing just 53% of passing attempts -- Mason's diminished role has him in RB4 territory for this week.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 12,
+  "team": "MIN",
+  "opp": "GB",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

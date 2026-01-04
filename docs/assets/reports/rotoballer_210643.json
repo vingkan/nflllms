@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210643",
+  "title": "TreVeyon Henderson Gets Ready for Another Very Favorable Matchup",
+  "description": "New England Patriots running back TreVeyon Henderson's ascension into the lead-back role has come at the perfect time, as he continues to face off against a string of below-average run defenses. This week, Henderson's Patriots take on the Buffalo Bills, who have allowed the most rushing touchdowns, sixth-most rushing yards, and sixth-most fantasy points to opposing running backs in 2025. The rookie has fared quite well since replacing Rhamondre Stevenson atop the depth chart. Even in Stevenson's two games since returning from injury, Henderson has totaled 35 touches, 133 rushing yards, and 34 receiving yards. He has double-digit fantasy points (PPR) in each of his last five games, and against a Bills defense that has allowed 18 touchdowns this year, Henderson has a good shot at breaking his two-game streak without a trip to the end zone. He continues to rank as a low-end RB1 for Week 15 against Buffalo.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 15,
+  "team": "NE",
+  "opp": "BUF",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 148,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 30,
+  "ppr_scoring_position_rank": 3
+}

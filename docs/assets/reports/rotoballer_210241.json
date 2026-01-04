@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210241",
+  "title": "De'Von Achane May Require Rest This Week",
+  "description": "Miami Dolphins running back De'Von Achane (ribs) left Sunday's blowout win over the Jets with a rib injury, which may now require additional rest, according to head coach Mike McDaniel. Achane has since had an MRI, and McDaniel told reporters on Monday that his star running back made it very clear that he could have returned to the game despite obvious discomfort. On only seven carries on Sunday, Achane recorded 92 rushing yards and a touchdown, while bringing in his only target for an additional 13 yards. On the season, he has been the overall RB4 in Half-PPR formats, and with one of the most favorable schedules for the fantasy playoffs, he will likely be part of many championship-winning rosters if he isn't forced to miss any time. The Dolphins play the Steelers on Monday night, so fantasy managers won't see an official injury report until Thursday.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 6,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

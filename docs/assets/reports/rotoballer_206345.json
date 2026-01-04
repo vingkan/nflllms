@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206345",
+  "title": "Bijan Robinson a Top Option Despite Tough Matchup Against the Patriots",
+  "description": "Atlanta Falcons running back Bijan Robinson will look to bounce back in Week 9 after falling flat in what should have been a bountiful fantasy day against the Dolphins in Week 8. Both Michael Penix Jr. (knee) and Drake London (hip) will be back this week, so the offense should look more like what we've been accustomed to this season, which is a healthy dose of Robinson in both the run game and the passing attack. The 23-year-old will take on the Patriots in Foxborough on Sunday, a run defense that has been one of the stingiest in terms of fantasy points allowed to running backs (fifth-fewest), and has allowed just 76 rush yards per contest and 3.5 yards per rush (both second-fewest). Regardless, the third-year pro has one of the highest floors in the game with his involvement in the passing game, averaging over six targets and four catches per game, making him a high-end RB1 again in Week 9 despite the tough matchup.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 9,
+  "team": "ATL",
+  "opp": "NE",
+  "att": 12,
+  "tgt": 10,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 46,
+  "receiving_catches": 8,
+  "receiving_yards": 50,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 7
+}

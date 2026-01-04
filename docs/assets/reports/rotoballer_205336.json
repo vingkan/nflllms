@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205336",
+  "title": "Kyle Monangai To See More Work Going Forward?",
+  "description": "Chicago Bears rookie running back Kyle Monangai had his best game as a pro in Week 7 against New Orleans, handling 13 carries for 81 yards and a touchdown, and added two receptions (three targets) for 13 yards. The Bears have leaned into their run game more in their two games post games after their Week 5 bye, totaling 367 yards on 67 carries. And Monangai played his highest snap share of the season at 46.3% on Sunday against the Saints, but it's worth noting that starter D'Andre Swift was dealing with a groin injury coming into the game. The seventh-round rookie is still a solid add as a strong handcuff option to Swift in an improving offense.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 52
+}

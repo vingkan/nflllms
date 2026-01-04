@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205462",
+  "title": "Kareem Hunt's Status in Doubt after Missed Practice Thursday",
+  "description": "Kansas City Chiefs running back Kareem Hunt (knee) will not practice Thursday following a bone bruise on his knee suffered against the Raiders in Week 7. The Chiefs currently rank in the middle of the pack with 123.4 rushing yards per game, as they operate a committee featuring Isiah Pacheco, Hunt, and rookie Brashard Smith. Hunt has seen 53 carries through seven games, tallying 205 yards and three touchdowns. Hunt's potential absence could be the opportunity Smith has been looking for to increase his workload. The elusive back should see extensive work in the passing game as a change-of-pace option heading into a Week 8 matchup with a Commanders defense allowing 126 rushing yards per game.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 8,
+  "team": "KC",
+  "opp": "WAS",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 40,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 13
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207084",
+  "title": "Breece Hall to Be Tested by Dominant Browns D",
+  "description": "New York Jets running back Breece Hall will carry a bit more risk this weekend when his team squares off with the visiting Cleveland Browns at MetLife Stadium. The last time we saw the 24-year-old hit the field, he rushed for a season-high 133 yards and two touchdowns against a sieve-like Bengals defense - recording his third game this season of at least 100 yards on the ground. However, running room might be more challenging to snuff out this Sunday when he takes on a Cleveland squad that's allowed the ninth-fewest rushing yards per game (94.3). Moreover, the quarterback situation in New York remains unclear, adding an extra layer of uncertainty to an already difficult matchup. For what it's worth, the Browns aren't any easier to throw on, so leaning into Hall's dual-threat skill set might be New York's most sensible move. The fourth-year pro is RotoBaller's PPR RB18 ahead of Week 10.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

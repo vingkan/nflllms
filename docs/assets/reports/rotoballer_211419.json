@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211419",
+  "title": "Chuba Hubbard Trending Downward After Inefficient Performance in Loss",
+  "description": "Carolina Panthers running back Chuba Hubbard had just eight carries for 29 rushing yards in last week's loss to the New Orleans Saints. He also caught just one of his two targets for nine receiving yards. Fantasy managers were hoping that Hubbard would replicate his previous performance, in which he had 19 touches, 124 scrimmage yards, and one touchdown, but that wasn't the case. He mustered just 3.6 yards per carry, which was his lowest mark since Week 9, and only played 42% of the offensive snaps. The 26-year-old could be headed for a similar role this week against the Tampa Bay Buccaneers, as Rico Dowdle projects to lead Carolina's backfield once again. The Bucs have allowed the seventh-fewest rushing yards to running backs in 2025, and while they've been porous against running backs in the passing game, Hubbard will likely share passing-down work with Dowdle. Hubbard has dropped to the overall RB43 spot in RotoBaller's fantasy rankings for Week 16. He can be benched in most leagues.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 16,
+  "team": "CAR",
+  "opp": "TB",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 27,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 54
+}

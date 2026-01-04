@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208576",
+  "title": "Brian Robinson Jr. May Have Flex Potential In Soft Matchup",
+  "description": "San Francisco 49ers running back Brian Robinson Jr.'s recent surge in production hit a snag in Week 11, but he could bounce back against a Carolina Panthers defense that has struggled against the run lately. In Weeks 9 and 10, Robinson scored touchdowns and posted his two highest rushing yard totals of 2025. He fell back to earth in Week 11, though, gaining 24 yards on eight carries in the 49ers' rout of the Cardinals. Despite his minimal role behind Christian McCaffrey, Robinson stands to benefit from the 49ers' upcoming matchup against the Panthers. Over the last four weeks, Carolina has given up 5.23 yards per carry to opposing running backs and the fourth-most fantasy points per game to the position. Robinson projects as an RB4 in Week 12 and has flex potential for fantasy football managers in a bind with four NFL teams on bye.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 12,
+  "team": "SF",
+  "opp": "CAR",
+  "att": 7,
+  "tgt": 2,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 40,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

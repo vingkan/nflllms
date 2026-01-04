@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208501",
+  "title": "Zach Charbonnet a Good Bet to Find the End Zone in Week 12",
+  "description": "Seattle Seahawks running back Zach Charbonnet will be a touchdown-dependent flex option once again when the Seahawks clash with the Tennessee Titans in Week 12. However, despite his touchdown-dependent status, Charbonnet has a great chance to score this week. The Titans are No. 22 in points allowed to opposing running backs in fantasy this season. They have also allowed 12 rushing touchdowns to running backs, which is good for 31st in the league. This team does not have much going for it on the defensive line, and Charbonnet could reap the benefits. Seattle will surely find itself in the red zone numerous times throughout this game. Charbonnet is the clear goal line back for this team, and he will likely receive multiple opportunities inside the five-yard line. If you are desperate for a running back start, Charbonnet could deliver for you in Week 12. It is worth noting that fellow running back Kenneth Walker III (glute) popped up on the injury report on Friday. If Walker were to sit or be limited, Charbonnet would be an automatic start this week.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 12,
+  "team": "SEA",
+  "opp": "TEN",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 35,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 25
+}

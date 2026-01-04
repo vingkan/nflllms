@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209933",
+  "title": "Cloudy Week 14 Outlook For Aaron Jones Sr.",
+  "description": "Running back Aaron Jones Sr. (shoulder) of the Minnesota Vikings does not have an injury designation when the Vikings play host to the Washington Commanders in Week 14, but he should be considered a risky flex option for fantasy lineups. The veteran has drawn more playing time than backfield mate Jordan Mason, but departed last week's loss at Seattle and did not return after re-aggravating his previous AC joint ailment that also knocked him out of Week 9's game at Detroit. The Vikings surely will want to lean on the running game against a Commanders defense that ranks 29th against half-PPR running backs to help their floundering passing offense, which could present opportunities for both backs. While the matchup is excellent, managers will have to consider that the shoulder is a lingering issue Jones will have to deal with, and the Vikings haven't exactly inspired much confidence in recent weeks.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 76,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 35
+}

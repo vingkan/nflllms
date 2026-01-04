@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211168",
+  "title": "Javonte Williams Limited on Wednesday With Neck Injury",
+  "description": "Dallas Cowboys running back Javonte Williams (neck) was listed as a limited participant due to a neck injury on Wednesday, according to Jon Machota of The Athletic. Williams suffered a neck/shoulder injury in the Sunday night loss to the Minnesota Vikings shortly after a touchdown plunge on the team's first drive of the game in the first quarter. The 25-year-old sat out the rest of the first half, but he eventually returned in the second half and finished with 15 carries for 91 yards and the one touchdown while playing only 28% of the snaps. Williams should be able to play this weekend against the visiting Los Angeles Chargers, but fantasy managers will want to continue monitoring his status leading up to Sunday's game. If Williams is limited at all or out, Malik Davis, who had 10 touches for 37 yards and a touchdown in Week 15, would become Dallas' lead back.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 47
+}

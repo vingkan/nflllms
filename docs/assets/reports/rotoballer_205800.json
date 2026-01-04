@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205800",
+  "title": "James Cook Explodes for 216 Yards and Two Touchdowns in Enormous Victory",
+  "description": "Buffalo Bills running back James Cook rushed for 216 yards and two touchdowns on 19 carries during Sunday's Week 8 victory over the Carolina Panthers. Cook had struggled in his two games before the Bills' bye week, but he returned from the hiatus with one of the best games of his career. He now has 753 rushing yards, 89 receiving yards, and seven touchdowns through seven games this year. It's safe to say that offseason speculation about Cook regressing was misguided. The 26-year-old continues to showcase elite rushing skills, as well as a tendency to score plenty of touchdowns. His ceiling might be a little lower next week in a neutral game script against the Kansas City Chiefs, but he's still a very strong RB1 option.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 9,
+  "team": "BUF",
+  "opp": "KC",
+  "att": 27,
+  "tgt": 1,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 114,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 13
+}

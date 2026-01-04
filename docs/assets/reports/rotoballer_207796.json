@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207796",
+  "title": "Jordan Mason's Role Diminishing Ahead of Week 11?",
+  "description": "Minnesota Vikings running back Jordan Mason lacks standalone fantasy value heading into Week 11 against the Chicago Bears. Mason had been able to co-exist alongside Aaron Jones earlier in the year, and he was a must-start when Jones missed time due to injury. However, now that Jones is healthy again, the veteran has taken over the backfield, leaving Mason in an unsteady role. Just last week, the 26-year-old only played one-quarter of the offensive snaps, rushing four times and catching one pass. He was efficient with his opportunities, but it was still impossible for him to carve out fantasy value given his small workload. As long as Jones is healthy, Mason must be viewed as a mere handcuff and shouldn't be started in fantasy lineups this week.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 11,
+  "team": "MIN",
+  "opp": "CHI",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207510",
+  "title": "D'Andre Swift Listed as Limited in Practice Wednesday",
+  "description": "Chicago Bears running back D'Andre Swift (hip) was a limited participant in practice to open the week on Wednesday. Swift returned in Week 10 after missing one game due to a groin injury, and handled his normal workload with 13 carries for 80 yards with five catches (eight targets) for 18 yards. There was plenty of talk about how head coach Ben Johnson would distribute the running back touches after rookie Kyle Monangai broke out for 198 total yards in Week 9, but it was still clearly Swift's backfield. Swift played 60.9% of the snaps with 18 touches, compared to Monangai at a 39.1% snap share with seven touches, though he did score a touchdown on a goal-line carry. The rookie should continue to have a role, but Swift will stay as the preferred back to have in fantasy, and will rank as a solid RB2 for Week 11 against the Vikings, assuming he is good to go.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 11,
+  "team": "CHI",
+  "opp": "MIN",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 90,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 31
+}

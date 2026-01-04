@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204578",
+  "title": "Kenneth Gainwell's Ceiling Capped in Backup Role",
+  "description": "In Week 4, Pittsburgh Steelers running back Jaylen Warren was a late inactive with a knee injury, and backup Kenneth Gainwell took full advantage of an expanded role, turning his 25 opportunities into 134 yards and two touchdowns. Following a Week 5 bye, Jaylen Warren was back in the lineup for the Steelers' Week 6 win over the Browns, pushing Gainwell back into a supporting role. Warren saw 31 snaps to Gainwell's 20, and out-touched him 13-12. The silver lining for Gainwell is that he caught all six of his targets, but turned that into only 14 yards. In a game that the Steelers led from start to finish and ran only 58 plays to the Browns' 74, it's entirely possible that Warren could have seen more work if not for it being his first game back. Warren is still the Steelers' starting back, but even if the team employs both players in a closer split, Gainwell lacks the explosiveness to turn his limited touches into anything that can be reliably trusted for fantasy.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 7,
+  "team": "PIT",
+  "opp": "CIN",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 2,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 48
+}

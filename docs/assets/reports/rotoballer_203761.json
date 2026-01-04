@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203761",
+  "title": "Hassan Haskins In Line for Expanded Role in Chargers Offense?",
+  "description": "Los Angeles Chargers running back Hassan Haskins has just 17 yards from scrimmage on six total touches this season, all of which came in Week 5 against the Washington Commanders. However, with Chargers' lead running back Omarion Hampton (ankle) potentially facing missed time after suffering an ankle injury in Week 5, Haskins could see a significant increase in workload. If Hampton does indeed miss game action, Haskins and second-year back Kimani Vidal are the lead candidates for backfield playing time in Los Angeles. Vidal had his first five touches of the 2025 season in Week 5, recording 19 yards from scrimmage. Pending more information coming out around Hampton's injury, Haskins is a waiver-wire name to monitor in deep leagues heading into a favorable Week 6 matchup against the Miami Dolphins.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 51
+}

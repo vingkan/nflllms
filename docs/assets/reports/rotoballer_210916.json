@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210916",
+  "title": "TreVeyon Henderson Totals Over 150 Yards and Two Scores in Sunday's Loss",
+  "description": "New England Patriots rookie running back TreVeyon Henderson totaled over 150 yards from scrimmage with two touchdowns during their loss to the Buffalo Bills on Sunday afternoon. On the ground, the second-round pick out of Ohio State took 14 attempts for 148 yards and two scores. Both of his touchdowns came on long rushes for 52 yards and 65 yards, respectively. Through the air, Henderson brought in two of his three targets for an additional 13 yards. Even though Henderson ceded six carries and three targets to Rhamondre Stevenson, Henderson still operated as the lead back and flashed much higher upside. Managers should continue to view the rookie as a high-end must-start RB2 in all formats, even if he continues to share opportunities with Stevenson, ahead of a tilt against the Ravens in Week 16",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 16,
+  "team": "NE",
+  "opp": "BAL",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210582",
+  "title": "Zach Charbonnet Continues Touchdown Dependency in Week 15",
+  "description": "Seattle Seahawks running back Zach Charbonnet will be a touchdown-dependent flex in Week 15. At this point in the season, we know what the deal is with Charbonnet. If he scores a touchdown, then you are generally happy. The trick is to figure out when he is most likely to score. The Colts have a solid defense, but it is nothing that the Seahawks' offense cannot handle. With that in mind, Seattle should find itself in scoring position throughout the game. Charbonnet is a good bet to receive a carry or two inside the five-yard line, and he has been relatively effective at converting those types of carries into touchdowns in 2025. If he does not score a touchdown, do not expect Charbonnet to do much in fantasy. Charbonnet does not receive enough volume, nor is he efficient enough, to score many fantasy points as a runner. Additionally, Charbonnet is virtually a non-factor as a receiver, with several games this season featuring zero catches. Charbonnet can be flexed this week, but he will remain extremely touchdown-dependent.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 15,
+  "team": "SEA",
+  "opp": "IND",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 53
+}

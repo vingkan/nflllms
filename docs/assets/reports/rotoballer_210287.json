@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210287",
+  "title": "Michael Carter Phased Out of Cardinals Offense in Week 14 Loss",
+  "description": "Arizona Cardinals running back Michael Carter had three carries for 13 yards in Sunday's 45-17 loss to the Los Angeles Rams in Week 14. Carter also had two catches for 18 yards on four targets. The 26-year-old was unable to get involved in the passing game despite the Cardinals' offense dropping back to pass 44 times on Sunday. Carter also saw fewer targets than fellow running back Bam Knight, who had six targets on Sunday. Carter's fantasy value will be left up in the air with Trey Benson (knee) potentially coming off Injured Reserve and Emari Demercado (ankle) potentially returning in Week 15. If Benson or Demercado returns, Carter will fall to RB3 duties in the Cardinals' offense. Even if both Benson and Demercado miss another week, Carter can't be trusted as a flex play in 12-team fantasy formats.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 14,
+  "tgt": 4,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 4,
+  "receiving_yards": 38,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

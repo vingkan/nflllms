@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209791",
+  "title": "Kimani Vidal has Played Like an RB1",
+  "description": "Los Angeles Chargers head coach Jim Harbaugh stated that running back Kimani Vidal has played like a No. 1 back this season. Harbaugh stated that \"the proof is in the pudding\" and \"it warms the cockles of the heart. \"After the injury to Omarion Hampton (ankle) that knocked him out for the past eight weeks, Vidal has stepped up and anchored the Chargers' rushing attack. Since Week 6, Vidal ranks 11th in the NFL in rushing yards and rushing attempts, and has averaged 13.5 PPR points per game. He was a huge part of why they were able to defeat the Raiders in Week 13, totaling 137 yards and a touchdown on 26 total attempts. With Hampton set to return in Week 14 when the Chargers host the Philadelphia Eagles, Vidal will still be a part of the rotation, but will lose the majority of his fantasy value with the rookie back.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 60,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

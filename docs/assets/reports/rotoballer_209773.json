@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209773",
+  "title": "Chargers Open Hassan Haskins' Practice Window",
+  "description": "The Los Angeles Chargers have opened the practice window for running back Hassan Haskins (hamstring). Haskins suffered a hamstring injury in Week 7 and was placed on the injured reserve, sidelining him for a minimum of four weeks. While the fourth-year back is gearing up for a potential return in Week 14, his role will likely be limited to special teams moving forward. Kimani Vidal has stepped up, and rookie Omarion Hampton is \"likely\" to play on Monday Night against the Philadelphia Eagles. If Haskins can suit up in Week 14, his role will keep him away from fantasy relevance, and his impact won't affect the values of Hampton and Vidal moving forward.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

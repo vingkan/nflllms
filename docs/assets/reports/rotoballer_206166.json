@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206166",
+  "title": "Kyle Monangai To Step Into Prominent Role?",
+  "description": "Chicago Bears running back Kyle Monangai has carved out a larger role in recent weeks, recording 28 touches to starter D'Andre Swift's 49 since the team's Week 5 bye. Monangai played 29 snaps in their Week 8 loss at Baltimore, just two fewer than Swift's 31, which also marked Swift's lowest total of the season so far. Now, Swift has missed the first two practices to open the week with a groin injury that he's been battling for a few weeks, putting his status for their Week 9 matchup in Cincinnati. Monangai would be in line to handle the bulk of the touches if Swift were unable to go. It'd be a dream spot for the rookie out of Rutgers to make his first career start as the Bengals have allowed the most PPR points per game to opposing running backs this season. Monangai remains a must-roster player with plug-and-play potential if Swift were to miss any time.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 9,
+  "team": "CHI",
+  "opp": "CIN",
+  "att": 26,
+  "tgt": 5,
+  "touches": 31,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 176,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 3
+}

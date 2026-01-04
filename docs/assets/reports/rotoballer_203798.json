@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203798",
+  "title": "Javonte Williams has Earned \"Bell-Cow\" Status in Dallas",
+  "description": "If it wasn't already clear that Dallas Cowboys running back Javonte Williams is the team's lead back after his big game in the Week 5 win over the New York Jets on Sunday, head coach Brian Schottenheimer reiterated it on Monday when he said, \"Javonte's the bell-cow. He's earned that.\" Williams dominated the Jets in the 37-22 victory, carrying the rock 16 times for 135 yards and a touchdown while adding a touchdown reception. It was the 25-year-old's first 100-yard rushing performance since his rookie season in 2021 with the Denver Broncos. It helped that backup Miles Sanders (ankle, knee) was inactive on Sunday, but even so, Williams is Dallas' clear lead back going forward. He appears to be fully healthy and is making the Cowboys' one-year deal look pretty darn good right now. Williams has cemented himself into must-start status in fantasy with 525 scrimmage yards and six touchdowns through five games, and he could have a second straight big performance in Week 6 in a matchup against the Carolina Panthers.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 6,
+  "team": "DAL",
+  "opp": "CAR",
+  "att": 13,
+  "tgt": 8,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 5,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

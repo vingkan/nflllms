@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210782",
+  "title": "Devin Neal Set to Lead Saints Backfield Against Panthers",
+  "description": "New Orleans Saints running back Devin Neal rushed 19 times for 70 yards and a touchdown in the Week 14 win against the Buccaneers, adding 14 yards on his lone reception. Neal dominated the New Orleans backfield, playing 71% of the snaps, while the next closest running back, Audric Estime, logged just three carries. He was limited in practice this week with an abdominal injury, but is off the injury report and good to go for Sunday. With Alvin Kamara already ruled out for Week 15 against the Panthers, Neal should continue to carry the bulk of the workload. He faces a Carolina defense allowing the eighth-most PPR points per game to running backs, and he could see added upside if his involvement in the passing game increases.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 15,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 28
+}

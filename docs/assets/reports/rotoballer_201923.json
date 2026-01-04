@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201923",
+  "title": "Has Joe Mixon Lost All Fantasy Value?",
+  "description": "Houston Texans running back Joe Mixon (ankle, foot) may not carry much fantasy relevance in 2025. The veteran is coming off a strong 2024 campaign in which he finished inside the top 10 in rushing yards per game and ranked as the RB8 in half-PPR formats. But Mixon has yet to play this season due to a foot/ankle injury, and many have speculated whether Mixon will even play this season. In his absence, Nick Chubb has stepped in as the lead back. Chubb has looked revitalized after last year's knee injury, currently ranking 20th in rushing yards and 12th in yards before contact. With Chubb producing, a committee approach likely on the horizon, and Houston's offensive line struggling, Mixon's fantasy outlook looks bleak, even if he does return later in the year.",
+  "player_id": 4018,
+  "player_name": "Joe Mixon",
+  "week": 3,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

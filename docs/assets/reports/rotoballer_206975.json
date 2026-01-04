@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206975",
+  "title": "Kaleb Johnson Remains Far From the Fantasy Radar",
+  "description": "Pittsburgh Steelers rookie running back Kaleb Johnson was going as a late-round flier with upside in fantasy drafts this fall, but he was quickly sent to the waiver wire. The 22-year-old third-rounder out of Iowa has been a distant third on Pittsburgh's RB depth chart behind Jaylen Warren and Kenneth Gainwell this year, and he didn't help himself with a costly special-teams blunder early in the season. So far through his first five NFL games, Johnson has handled only 15 rushing attempts for 40 yards (2.7 yards per carry) while catching one of his two targets for nine yards. He played five offensive snaps in last week's win over the Indianapolis Colts, which was actually an improvement after not playing at all the previous two games. It will take an injury to Warren or Gainwell for Johnson to get more involved, which means he's only stash-worthy in fantasy football in dynasty/keeper leagues.",
+  "player_id": 12504,
+  "player_name": "Kaleb Johnson",
+  "week": 10,
+  "team": "PIT",
+  "opp": "LAC",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 66
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211323",
+  "title": "Cowboys Want to Re-Sign Javonte Williams",
+  "description": "Dallas Cowboys owner Jerry Jones said on Friday that he would like to re-sign running back Javonte Williams, according to Jon Machota of The Athletic. \"He's had an outstanding season,\" Jones said on 105.3 The Fan. \"I love the way he brings the wood, so to speak, when he runs. Looking forward to him hopefully being a Cowboy for a time to come.\" Williams is having his best NFL season in his first year in Dallas, as he enters Week 16 with career-highs in carries (230), rushing yards (1,113), and touchdowns (10) in 14 starts for the Cowboys. The 25-year-old former Denver Broncos RB has added 33 catches on 46 targets for 128 yards and another two TDs through the air. Williams suffered a neck injury in Week 15 in the first quarter, but he returned in the second half and should be good for Sunday's matchup against the Chargers. He'll be a low-end RB1 for fantasy managers this weekend.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 47
+}

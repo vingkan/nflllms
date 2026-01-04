@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208613",
+  "title": "Isaiah Davis Offers Only Deep-League Appeal",
+  "description": "New York Jets running back Isaiah Davis shouldn't be considered for fantasy when his team squares off with the hosting Baltimore Ravens this Sunday. Preceding New York's bye in Week 9, Davis looked to be garnering a bit more of the backfield touch share as they picked up their first win of the campaign in a shootout with Cincinnati. However, instead of a steady increase in workload, the second-year pro has accrued just six total touches and 22 scrimmage yards in the two ensuing games. Meanwhile, teammate Breece Hall took over as the Jets' unquestioned lead rusher, pushing Davis down under 20 snaps (14, 16) for the first time since back in Week 6. With a minimal role in an underachieving New York scheme, the 23-year-old can be safely avoided in shallow leagues. He comes in at the PPR RB44 in RotoBaller's Week 12 ranks.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 12,
+  "team": "NYJ",
+  "opp": "BAL",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 7,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 58
+}

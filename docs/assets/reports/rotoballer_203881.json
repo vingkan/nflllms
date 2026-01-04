@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203881",
+  "title": "Saquon Barkley Upgrades to Limited Participant on Tuesday",
+  "description": "Philadelphia Eagles running back Saquon Barkley (knee) was upgraded to a limited participant on Tuesday's estimated practice report, according to Tom Pelissero of NFL Network. Barkley came out of Sunday's loss to the Denver Broncos with some general knee soreness and was listed as a non-participant on Monday's estimated practice report, leaving some doubt about his Week 6 status for Thursday night's divisional clash against the New York Giants. The 28-year-old is expected to suit up on a short week against his former team, and fantasy managers are hoping that he'll have a much bigger workload in a strong matchup. In the 21-17 loss to Denver in Week 5, Barkley saw a season-low usage with just nine touches for 88 yards. He salvaged his fantasy day by finding the end zone on a long reception. Barkley's knee shouldn't be an issue for Thursday's revenge game.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 6,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 23
+}

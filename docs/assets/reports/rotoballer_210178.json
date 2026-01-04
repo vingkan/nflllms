@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210178",
+  "title": "Tony Pollard Stuns Browns, Breaks Off Two Huge Touchdowns",
+  "description": "Tennessee Titans running back Tony Pollard had 25 carries, 161 rushing yards, and two rushing touchdowns during Sunday's Week 14 win over the Cleveland Browns. His touchdowns came on long runs from 32 and 65 yards out, respectively. Pollard's big performance seemed to come out of nowhere. Over the last three weeks, he struggled to amass more than a dozen touches per game, averaged fewer than 4.5 yards per carry, didn't score a touchdown, and essentially split snaps 50/50 with Tyjae Spears. However, that entire dynamic changed this Sunday as Pollard shattered his previous season-high rushing attempt total (20) and posted his best fantasy performance of the season. Pollard played well early in the game, so it seems like Tennessee simply rode the hot hand and kept him in the game as long as he continued to play well. That same trend should continue in Week 15 against the San Francisco 49ers, and Pollard has the early advantage over Spears, given his excellent showing this Sunday. He's back into the RB2 tier for Week 15.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 15,
+  "team": "TEN",
+  "opp": "SF",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 104,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 11
+}

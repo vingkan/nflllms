@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211258",
+  "title": "Saquon Barkley Practices in Full on Thursday, Good to Go for Week 16",
+  "description": "Philadelphia Eagles running back Saquon Barkley (stinger) was a full practice participant on Thursday and will not carry an injury designation into his team's Week 16 matchup against the Washington Commanders on Saturday. Barkley suffered a stinger in the Eagles' Week 15 win over the Las Vegas Raiders, but the injury will not result in missed time. Across 14 games this season, the 28-year-old has recorded 1,213 yards from scrimmage and eight touchdowns on 277 touches. His average of 3.9 yards per carry is down nearly two full yards from the 5.8 yards per carry he averaged in his first season in Philadelphia in 2024. Still, Barkley has logged touchdowns in back-to-back games entering Week 16 and profiles as a must-start fantasy running back in a favorable matchup against Washington.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 16,
+  "team": "PHI",
+  "opp": "WAS",
+  "att": 21,
+  "tgt": 2,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 132,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 13
+}

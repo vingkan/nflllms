@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208184",
+  "title": "Kenneth Walker III in Line to See More Backfield Work?",
+  "description": "Seattle Seahawks running back Kenneth Walker III could be in line to see more work out of the backfield moving forward after he eclipsed 100 scrimmage yards in the Week 11 loss to the Los Angeles Rams, according to Gregg Bell of The Tacoma News Tribune. Head coach Mike Macdonald said that Walker is \"showing that he's earning more opportunities to get the ball.\" \"I think you really felt Ken (Sunday),\" Macdonald said. \"And just, even in the pass game, too, on check-downs, finding him late in the play. Just shows you that he's such an explosive player with the ball in his hands.\" The 25-year-old has played 22 more offensive snaps than Zach Charbonnet in the last three weeks and has just been more efficient with the ball in his hands in 2025 than his backfield mate. Charbonnet is going to remain involved, but Macdonald's words could mean that Walker will start seeing a bigger piece of the pie, starting in a great Week 12 matchup against the Tennessee Titans.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 12,
+  "team": "SEA",
+  "opp": "TEN",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

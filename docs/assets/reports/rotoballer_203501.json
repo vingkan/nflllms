@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203501",
+  "title": "Michael Carter Will Play \"a Lot of Snaps\" in Week 5",
+  "description": "Arizona Cardinals running back Michael Carter is expected to see a significant workload in Week 5 after Trey Benson (knee) was placed on injured reserve. \"He's played a lot of snaps for us over the last couple years and he's going to now,\" general manager Monti Ossenfort said regarding Carter's expected workload. Indeed, Carter played roughly 75 percent of the offensive snaps between Weeks 17 and 18 last season, rushing for 5.4 yards per carry in one of those games and scoring a touchdown in the other. He should face plenty of competition from Emari Demercado, but the general manager's comments indicate that the Cardinals could be headed for more of a true backfield split than people originally expected, even after Carter logged just one touch through the first four weeks of the season. Demercado is a high-end RB3/flex option, while Carter is best viewed as a mid-to-low RB3/flex.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 5,
+  "team": "ARI",
+  "opp": "TEN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 51,
+  "receiving_catches": 5,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

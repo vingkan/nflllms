@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208137",
+  "title": "Tyjae Spears has Become a Weekly PPR Flex Option",
+  "description": "Tennessee Titans running back Tyjae Spears had four carries for three yards in Sunday's 16-13 loss to the Houston Texans in Week 11. Spears also had five catches for 31 yards on five targets. The 24-year-old was able to claw out 8.4 fantasy points, making it the fifth straight game with over seven fantasy points. Sunday also marked the third time this season Spears out-snapped backfield mate Tony Pollard in a game. Spears continues to live off his receiving production to stay flex-worthy for fantasy managers in PPR leagues. Nearly all of his fantasy points were earned through the air, making it the fourth time in five games this season he's done that. Spears will remain a flex option in PPR leagues despite a difficult matchup against a top-ranked Seattle Seahawks defense in Week 12.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 12,
+  "team": "TEN",
+  "opp": "SEA",
+  "att": 3,
+  "tgt": 5,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 4,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

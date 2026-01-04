@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211043",
+  "title": "Sean Tucker Is a Touchdown-Reliant Flex Pickup",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker isn't the primary running back for the Buccaneers, like he was during his breakout performances, but he is still getting enough work to have touchdown-dependent fantasy value. Tucker has found the end zone in each of the last two weeks, taking seven carries for 29 yards against the Saints, followed by four carries for seven yards against the Falcons. Tucker has six touchdowns in his last seven games, and it seems like he'll continue to get enough short-yardage chances to be a touchdown-dependent flex option for deep leagues.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 16,
+  "team": "TB",
+  "opp": "CAR",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 46
+}

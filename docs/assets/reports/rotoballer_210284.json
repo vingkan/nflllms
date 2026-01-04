@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210284",
+  "title": "Saquon Barkley Rips Off Long Touchdown Run in Monday Night Loss",
+  "description": "Philadelphia Eagles running back Saquon Barkley handled 20 carries for 122 yards and a touchdown while adding zero catches on two targets in Monday night's 22-19 overtime loss to the Los Angeles Chargers. Barkley scored the only touchdown of the night for the Eagles on a 52-yard run to begin the fourth quarter. The star running back notched his second 100-yard outing and second-longest run of the season on Monday night, with both previous marks coming back in Week 8 against his former team, the New York Giants. The 28-year-old has been disappointing for fantasy managers who spent an early first-round pick on him, but he'll look to build on this performance for the rest of the season with several favorable matchups on deck. Next up will be a home date in Week 15 versus the Las Vegas Raiders.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 15,
+  "team": "PHI",
+  "opp": "LV",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 78,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

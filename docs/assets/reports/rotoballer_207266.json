@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207266",
+  "title": "Jahmyr Gibbs Scores Three Times as Lions Dismantle Commanders",
+  "description": "Detroit Lions running back Jahmyr Gibbs had 15 carries for 142 rushing yards and two rushing touchdowns during Sunday's Week 10 win over the Washington Commanders. He also caught three of his four targets for an additional 30 receiving yards and one receiving touchdown. Just one week removed from a disappointing showing at home, Gibbs bounced back with a monstrous three-touchdown explosion on the road. This marked his largest fantasy points total of the 2025 season, vaulting him to the overall RB4 spot in PPR leagues. Managers should continue to deploy Gibbs as a high-end RB1 in fantasy football, including next week against the Philadelphia Eagles.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 11,
+  "team": "DET",
+  "opp": "PHI",
+  "att": 12,
+  "tgt": 8,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 39,
+  "receiving_catches": 5,
+  "receiving_yards": 107,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 10
+}

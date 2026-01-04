@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211209",
+  "title": "Cardinals \"Very Comfortable\" With Michael Carter Being Lead Back",
+  "description": "Arizona Cardinals head coach Jonathan Gannon gave running back Michael Carter a vote of confidence on Wednesday, saying that the team was \"very comfortable\" with Carter serving as the team's top option out of the backfield as the team prepares for a Week 16 game against the Atlanta Falcons. Gannon's comments have merit, as the fifth-year back played a commanding 80% of the team's offensive snaps a week ago. Injuries have absolutely ravaged the Arizona backfield in 2025, as James Conner (ankle), Trey Benson (knee), and now Bam Knight (ankle) are all out for the remainder of the season. While Arizona is out of the playoff picture, Carter will be a hot commodity who could be a valuable lineup option with favorable matchups against Atlanta in Week 16 and Cincinnati in Week 17.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 16,
+  "team": "ARI",
+  "opp": "ATL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 45
+}

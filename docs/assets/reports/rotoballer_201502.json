@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201502",
+  "title": "James Conner Primed to Find More Success in Week 2?",
+  "description": "Arizona Cardinals running back James Conner salvaged his fantasy week against the New Orleans Saints in Week 1 with a four-yard receiving touchdown in the second quarter. Outside of that, he saw 12 carries for only 39 yards while Trey Benson took eight carries for 69 yards. We may have finally hit the timeline where Benson takes more and more touches away from Conner. The good news, for both backs, is that they're going up against the Carolina Panthers in Week 2. They just gave up 143 yards to Travis Etienne and 200 rushing yards overall. So, even though Benson will likely get some more opportunities, Conner remains an RB2 given that he sticks as the number-one guy in the backfield.",
+  "player_id": 4137,
+  "player_name": "James Conner",
+  "week": 2,
+  "team": "ARI",
+  "opp": "CAR",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 1,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 25
+}

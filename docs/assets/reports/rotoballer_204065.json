@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204065",
+  "title": "Hassan Haskins a Shaky Flex Option in Week 6",
+  "description": "Los Angeles Chargers running back Hassan Haskins is expected to be part of a running back-by-committee approach in Week 6 against the Miami Dolphins. Haskins should see a lot of the early-down work and red-zone work, while second-year running back Kimani Vidal is expected to handle more of the pass-catching duties and third downs. The reason for all of this is that rookie running back Omarion Hampton (ankle) was injured in Week 5 and landed on the injured reserve and will now miss the next four games. Most reports from Jim Harbaugh and the offensive coordinator Greg Roman suggest that both will see work, and the only factor making Haskins a potential flex play in Week 6 is the matchup. The Dolphins have given up the fifth most points to the running back position. Just last week, they allowed 206 rushing yards to Rico Dowdle.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 51
+}

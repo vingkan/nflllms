@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206163",
+  "title": "Derrick Henry Rushes for 119 Yards in Thursday Night's Victory",
+  "description": "Baltimore Ravens running back Derrick Henry rushed for 119 yards on 19 carries during Thursday's Week 9 win over the Miami Dolphins. He also converted his lone target into a two-yard reception. Henry had a relatively underwhelming four-week stretch earlier in the season, but he has suddenly bounced back with three terrific showings. Over his last three contests, he has totaled 64 carries, 312 rushing yards, and two touchdowns, as well as a pair of receptions. He's firmly back in RB1 territory ahead of a favorable Week 10 matchup against the Minnesota Vikings.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 10,
+  "team": "BAL",
+  "opp": "MIN",
+  "att": 20,
+  "tgt": 3,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 75,
+  "receiving_catches": 3,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

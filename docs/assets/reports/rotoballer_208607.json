@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208607",
+  "title": "Derrick Henry Carrying RB1 Momentum into Week 12",
+  "description": "Baltimore Ravens running back Derrick Henry found the end zone last week after going without a touchdown in the two weeks prior. It was also a huge bounce back from the first time he went up against the Cleveland Browns and only registered two fantasy points. In Week 12, he goes up against the New York Jets defense that lost one of their best run-stoppers at the trade deadline. Overall, this season, the Jets are ranked 19th against running backs, but they're 27th over the last four weeks with an average of 28.97 fantasy points allowed per game. That gives Henry RB1 value again heading into this matchup.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 12,
+  "team": "BAL",
+  "opp": "NYJ",
+  "att": 21,
+  "tgt": 2,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 64,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 5
+}

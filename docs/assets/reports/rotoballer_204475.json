@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204475",
+  "title": "Ashton Jeanty Relatively Inefficient on Large Workload Sunday",
+  "description": "Las Vegas Raiders running back Ashton Jeanty carried the ball 23 times for 75 rushing yards and one rushing touchdown during Sunday's Week 6 win over the Tennessee Titans. He also caught two of his four targets for an additional 11 receiving yards. While fantasy managers will be rightfully intrigued by the rookie's volume and touchdown, there continues to be some concern about his efficiency (or lack thereof) as he was held to just 3.26 yards per carry against the Titans, bringing his season average down to 4.04 YPC. Jeanty's road gets tougher in Week 7 as he faces the Kansas City Chiefs. In that matchup, the Boise State product is best viewed as a mid-to-low fantasy RB2.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 7,
+  "team": "LV",
+  "opp": "KC",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

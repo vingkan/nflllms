@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208804",
+  "title": "Quinshon Judkins Salvages his Day With Two Trips to the End Zone",
+  "description": "Cleveland Browns rookie running back Quinshon Judkins averaged a paltry 2.9 yards per carry and had 47 rushing yards on 16 carries in the 24-10 win over the Las Vegas Raiders on Sunday, but he saved his day for fantasy managers by scoring twice on the ground in the first half in Week 12. The 22-year-old was not targeted in the passing game and has not caught a pass in the last two games. Judkins also suffered a head injury in the fourth quarter and was sent to the medical tent, but he was cleared before the end of the contest. The Ohio State product's head injury allowed Dylan Sampson to get some run late in the contest, and he took advantage of it by ripping off a 66-yard touchdown catch. Judkins hasn't been very efficient on the ground in the last three games, but as long as he's healthy enough to play in Week 13 against the San Francisco 49ers, where he'll remain an RB2 play in fantasy football.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 13,
+  "team": "CLE",
+  "opp": "SF",
+  "att": 23,
+  "tgt": 3,
+  "touches": 26,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 91,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

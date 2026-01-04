@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204333",
+  "title": "Breece Hall Still Searching for First Touchdown of 2025",
+  "description": "New York Jets running back Breece Hall will get his toughest test of the season this Sunday in London when his team lines up with the Denver Broncos. Hall has been excellent in 2025, averaging 5.32 yards per carry and ranking seventh in the league in rushing (351) and receiving (150) amongst his position. The Broncos present as one of the league's sturdier run defenses, though, yielding the fifth-fewest rushing yards per game through five contests (88.4). Furthermore, Denver is allowing a paltry 16.8 points per outing, second only to the Texans in the metric (12.2). Hall will still see the lion's share of carries in New York's backfield and should get enough receiving work to keep his fantasy floor stable. However, he's yet to score a touchdown in the campaign, and could have a hard time getting in the end zone again against a formidable Denver D. The 24-year-old is RotoBaller's PPR RB14 for his matchup with the Broncos.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 6,
+  "team": "NYJ",
+  "opp": "DEN",
+  "att": 22,
+  "tgt": 0,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 59,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

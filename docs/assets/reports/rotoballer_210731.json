@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210731",
+  "title": "Derrick Henry Back in RB1 Conversation in Week 15",
+  "description": "Baltimore Ravens running back Derrick Henry continues to boast RB1 potential heading into the Week 15 matchup with the Cincinnati Bengals. Despite finishing as the RB20 in half-PPR leagues against the Pittsburgh Steelers in Week 14, Henry has a bounce back opportunity versus a weaker run defense. In Week 13 against the Bengals, Henry finished with 10 carries for 60 yards and a touchdown to go along with one reception for 44 yards. He could have been used even more in that matchup, and the Ravens' coaching staff took some heat for their decision to not give him the ball more often. The Bengals still rank last against opposing running backs and the Ravens are fighting for their playoff lives, so Henry still carries RB1 value in this game.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 15,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 100,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 29
+}

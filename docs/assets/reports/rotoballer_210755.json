@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210755",
+  "title": "Rico Dowdle is Likely to Maintain A Decent Statistical Floor for Week 15",
+  "description": "In Week 13, Rico Dowdle totaled 58 rushing yards on 18 carries and 21 receiving yards on two receptions against the Rams. Dowdle finished the game with 9.9 PPR points, which was his lowest since being named the starting RB for Carolina in Week 9. Chuba Hubbard also outperformed Dowdle in that game, registering 20.4 PPR points on 124 scrimmage yards and a receiving touchdown. Hubbard also took the most snaps (59%) between the RBs. Head coach Dave Canales confirmed that Dowdle would be the featured back on early downs and at the goal line. This week, the Panthers face the New Orleans Saints for the second time this season. Against the RB position, the Saints rank 18th in Fantasy Points Per Game Allowed. In Week 10 against the Saints, Dowdle had 53 rushing yards on 18 carries with one touchdown. With a continued shared workload, he is likely to remain an RB2 starter with a decent statistical fantasy floor. Over the last four weeks before the bye, Dowdle averaged 12.9 PPR points per game.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 15,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 22
+}

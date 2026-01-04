@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210255",
+  "title": "Keaton Mitchell Considered Day-to-Day With Knee Injury",
+  "description": "Baltimore Ravens head coach John Harbaugh said on Monday that running back Keaton Mitchell (knee) is considered day-to-day following his knee injury in Sunday's loss to the Pittsburgh Steelers. Harbaugh called it good news on Mitchell, but his status for a crucial Week 15 divisional contest against the Cincinnati Bengals probably won't be determined until later this week. Before the injury, the 23-year-old carried the ball six times on Sunday for a season-high 76 yards. He was not targeted in the passing game. Mitchell has seen his opportunities increase in recent weeks with Justice Hill (neck) on Injured Reserve, but he continues to share change-of-pace duties with Rasheen Ali behind starter Derrick Henry. If Mitchell isn't cleared to play in Week 15, Ali will get additional snaps to spell Henry in a plus matchup against Cincinnati.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 15,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 66,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 42
+}

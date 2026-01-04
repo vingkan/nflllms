@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203792",
+  "title": "Saquon Barkley Dealing With Knee Injury, Expected to Play on Thursday",
+  "description": "The Philadelphia Eagles listed running back Saquon Barkley (knee) as a non-participant on their estimated injury report on Monday due to a knee injury, according to Tom Pelissero of NFL Network. NFL insider Ian Rapoport is reporting that Barkley had general soreness in his knee coming out of Sunday's loss to the Denver Broncos, but he fully expects to play on Thursday night against his former team, the New York Giants. It explains why Barkley's volume was so low in Week 5 -- he had a season-low six carries for 30 yards and caught all three of his targets for 58 yards and a touchdown. Last year's rushing leader remains a must-start in fantasy when he's active, but there's certainly the potential for him to see a smaller workload again on a short week against the Giants. The good news is that Barkley averaged 5.0 yards per carry on Sunday after being under 3.0 yards a carry in the previous two games.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 6,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 23
+}

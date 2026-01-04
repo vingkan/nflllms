@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209236",
+  "title": "De'Von Achane Is an Outstanding Play Against the Saints",
+  "description": "Miami Dolphins running back De'Von Achane has been on fire for the Dolphins during their recent run of success, and he is in a smash spot this week against the Saints. Achane produced 120 rushing yards and 45 receiving yards in Miami's win over the Commanders before last week's bye, and he was even better the previous week, with 22 carries for 174 and six catches for 51 yards and a pair of touchdowns against the Bills. This season, he has been extremely productive with nine touchdowns and an average of 115.5 rushing plus receiving yards per game. He has a great matchup against the Saints, who have been very beatable on the ground in the last few weeks. The combination of his recent surge and the Saints' struggles against the run makes Achane the No. 1 RB in all of RotoBaller's RB rankings for Week 13.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 13,
+  "team": "MIA",
+  "opp": "NO",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 134,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 6
+}

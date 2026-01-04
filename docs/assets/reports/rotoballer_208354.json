@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208354",
+  "title": "Jaylen Warren Moving Around Well on Thursday",
+  "description": "Pittsburgh Steelers running back Jaylen Warren (ankle) was back at practice on Thursday and was \"moving around well\" after being listed as a non-participant on Wednesday, according to Brian Batko of PGSportsNow. Warren might be listed as limited on Thursday's report, but it's a good sign for his availability after he injured his ankle on Sunday in the win over the Cincinnati Bengals. The 27-year-old downplayed his ankle injury after Sunday's contest, but it was noteworthy that he didn't re-enter the game in the fourth quarter, allowing backfield mate Kenneth Gainwell to go for season highs in catches (seven) and receiving yards (81) while scoring twice. Offensive coordinator Arthur Smith hinted that Gainwell could see more touches at Warren's expense moving forward, although that will probably be dependent on Warren's health. Warren has been Pittsburgh's clear RB1 this year, but his fantasy ceiling could be lower this weekend against Chicago if he's not 100% past his ankle injury.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 18,
+  "tgt": 0,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 68,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 18
+}

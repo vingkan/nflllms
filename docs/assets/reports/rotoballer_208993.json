@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208993",
+  "title": "Devin Neal Could Lead Saints Backfield This Week",
+  "description": "New Orleans Saints rookie running back Devin Neal is expected to have his first career start in Week 13, with starting running back Alvin Kamara (knee) injured. Kamara suffered a MCL sprain in Week 12, which could sideline him for some time. After the veteran left in the first half, Neal had seven carries for 18 yards, while adding 43 yards on five receptions against the Atlanta Falcons. With Kendre Miller (ACL) done for the season and Kamara banged up, Neal will carry the load, with former Broncos back Audric Estime handling the backup role. The Saints have a very favorable upcoming schedule, including Week 13's game against the Miami Dolphins, who have allowed the fourth most rushing yards this season. If Kamara's out, Neal offers RB2 value in Week 13 in his first career start.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 13,
+  "team": "NO",
+  "opp": "MIA",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 36
+}

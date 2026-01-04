@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208908",
+  "title": "Is Bam Knight Still the Cardinals Lead Back in Week 13?",
+  "description": "Arizona Cardinals running back Bam Knight has enjoyed an extended run as the team's lead back with Trey Benson (knee) on injured reserve and Emari Demercado (ankle) also missing time. Knight's fantasy appeal could come to an end with Benson's practice window opened last week, and him being listed as a limited participant every day in practice last week. Benson could be on track to return in Week 13 against the Tampa Bay Buccaneers, but could be eased back into action after missing seven consecutive games. Knight could be in a timeshare with the second-year back in the short term before Benson is ready to take on a bigger workload. If Benson isn't ready to return just yet, Knight will rank as a touchdown-dependent RB3 for Week 13 against the Bucs.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

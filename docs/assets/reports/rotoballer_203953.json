@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203953",
+  "title": "Saquon Barkley Set for Full Workload in Thursday Night Revenge Game",
+  "description": "Philadelphia Eagles running back Saquon Barkley (knee) practiced in full on Wednesday, clearing him for Thursday night's matchup against his former team. In his lone meeting with the Giants last season, Barkley exploded for 187 total yards and a touchdown on 19 touches. The Eagles are expected to feature him early and often as they look to establish the run against a defense that has struggled to contain opposing backs. Barkley has yet to surpass 100 rushing yards in a game this season, but his recent health progress and familiarity with the Giants' defensive scheme could set the stage for a long-awaited breakout performance. Fantasy managers should confidently keep him locked into lineups for Week 6.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 6,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 23
+}

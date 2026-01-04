@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204057",
+  "title": "Cam Skattebo Remains Lead Back, Scores Three Times in Big TNF Win",
+  "description": "New York Giants rookie running back Cam Skattebo rushed 19 times for 98 yards and three touchdowns during Thursday's upset victory over the Philadelphia Eagles. He also caught each of his two targets, totaling 12 receiving yards. The rookie held onto his lead-back role despite Tyrone Tracy Jr. (shoulder) returning to action. Between his large volume, high efficiency, and nose for the end zone, Skattebo has proven that he deserves to be the bell-cow running back in New York. He has established himself as a potential fantasy football league-winner and should rank as a fringe top-12 running back against the Broncos in Week 7.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 7,
+  "team": "NYG",
+  "opp": "DEN",
+  "att": 16,
+  "tgt": 6,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 11
+}

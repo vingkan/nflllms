@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210688",
+  "title": "Breece Hall a High-Risk Week 15 Asset",
+  "description": "New York Jets running back Breece Hall has a difficult matchup on tap for Week 15, when his team squares off with the hosting Jacksonville Jaguars. Hall was initially at risk of missing this weekend's contest after he began the week tagged with a DNP due to a knee injury. Fortunately, he'd elevate his practice status each of the following days, and carries no designation into Sunday's outing. Despite the minor issue, the Iowa State alum is trending toward being the focal point of New York's attack with rookie signal-caller Brady Cook under center. While Hall's volume should be significant, he'll slide down the fantasy rankings this week. Aside from a lower ceiling with Cook at the helm, he'll have to deal with a league-best Jacksonville rush defense (82.9 yards per game), further hindering his fantasy potential. Hall's volume should be nice, but he'll be a fringey RB2, and, officially, RotoBaller's PPR RB20 for Week 15.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 15,
+  "team": "NYJ",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 23,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206422",
+  "title": "Bam Knight Carries Low-End RB2 Value Against Cowboys",
+  "description": "Arizona Cardinals running back Bam Knight was named the starter for their Week 9 contest against the Dallas Cowboys, which gives him a juicy matchup to work with. The third-year pro has been upping his yards per carry in each appearance this season and finished Week 7 with his best game yet before the bye. Fortunately for Knight and fantasy managers with him on their roster, he takes on a defense that's ranked 31st against opposing backfields this season. The Cowboys are allowing 28.36 fantasy points per game to the position, and Emari Demercado doesn't seem like much of a threat to take away too many carries. Knight is projected as a low-end RB2 in this matchup, which makes him startable in most leagues.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 27,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205483",
+  "title": "Aaron Jones Sr. Officially Active Versus Chargers",
+  "description": "After being activated from Injured Reserve earlier in the day, Minnesota Vikings running back Aaron Jones Sr. (hamstring) is officially active and will return to play against the Los Angeles Chargers at SoFi Stadium in Week 8 on Thursday Night Football. Jones is returning to action this week for the first time since injuring his hamstring in the Week 2 loss to the Atlanta Falcons. It's surely a boost for Minnesota's ground game, but on a short week after he returned to practice on Tuesday, it seems unlikely that the 30-year-old veteran will see more touches in the backfield over Jordan Mason, who has been serving as the team's lead back when Jones was on IR. The Chargers were just dominated on the ground by Colts RB Jonathan Taylor, but Jones is an extremely risky lineup option on a short week without much practice time. Mason is the better play against the Bolts.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 8,
+  "team": "MIN",
+  "opp": "LAC",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 15,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

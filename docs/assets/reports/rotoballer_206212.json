@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206212",
+  "title": "Emanuel Wilson a Bench Option for Week 9",
+  "description": "Green Bay Packers running back Emanuel Wilson has seen his workload expand in the last few weeks, and he looks to contribute to the cause in Green Bay's Week 9 game at home against the Carolina Panthers. With Josh Jacobs (calf) banged up and a mainstay on the injury report despite playing in every game, Wilson saw season-highs in snaps (27) and yards from scrimmage (87) in last week's game against the Steelers. Totaling 61 yards on the ground and 26 receiving yards on three receptions, Wilson has been solidly productive in limited work. That said, as long as Jacobs is active, he will be the featured runner for the Packers. As a pure handcuff to Jacobs in case he's out for any length of time, Wilson shouldn't be rostered in all but the deepest of fantasy leagues, and that remains true for Week 9's game against the Panthers.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 9,
+  "team": "GB",
+  "opp": "CAR",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

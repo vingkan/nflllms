@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207730",
+  "title": "Aaron Jones Sr. to Play in Week 11",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder, toe) doesn't carry an injury designation into Sunday's game against the Chicago Bears. Jones played through the same issues during last week's contest. He rushed nine times for 47 yards and scored a touchdown in the loss to the Baltimore Ravens. It doesn't appear the AC joint sprain is impacting his performance on the field. He was limited in practice this week until getting in a full session on Friday. Fantasy managers should consider Jones as a low-end RB2 for this upcoming Week 11 contest.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 11,
+  "team": "MIN",
+  "opp": "CHI",
+  "att": 16,
+  "tgt": 6,
+  "touches": 22,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

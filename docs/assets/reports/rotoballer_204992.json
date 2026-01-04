@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204992",
+  "title": "Nick Chubb, Woody Marks to be Heavily Involved in Week 7?",
+  "description": "The Houston Texans are looking to establish the run in Week 7 against the Seattle Seahawks. Through five games, Houston ranks 16th in rushing offense, but with Nick Chubb and rookie Woody Marks both running well, that number could rise soon. Over the past three weeks, Chubb and Marks have split snaps nearly evenly, with the rookie holding a slight edge (49% to 43%). Coming out of the bye, there's reason to believe Marks could see an uptick in touches, following a trend seen with other rookies following the team's bye week. That said, the Seahawks boast one of the league's top run defenses, making this a tough matchup for both backs. Still, Chubb and Marks each carry FLEX appeal in Week 7, with Marks offering the higher ceiling due to his growing role.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 7,
+  "team": "HOU",
+  "opp": "SEA",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

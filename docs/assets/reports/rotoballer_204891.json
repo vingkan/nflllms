@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204891",
+  "title": "Breece Hall a Volume-Based RB2 in Week 7",
+  "description": "New York Jets running back Breece Hall is a candidate to see an increased workload in this Sunday's home game against the Carolina Panthers. The Iowa State product fell victim to a staunch Broncos defensive unit last weekend and will get another stiff test in Week 7 in Carolina. Hall surprisingly wasn't targeted in New York's loss to Denver, but that should change this week as the team is expected to be without wide receiver Garrett Wilson (knee). The Panthers' rush defense is one of the better ones in the league currently (ninth-fewest yards per game), although they haven't done well in limiting their opposition's scoring. Volume shouldn't be an issue for Hall, but an inefficient Jets' offense has held him back - and out of the end zone - through six weeks. This contest is as good as any for him to end that drought finally, though he'll take a slight step back this week with the Jets' offense not at 100%. He's RotoBaller's PPR RB14 ahead of his matchup with Carolina.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 7,
+  "team": "NYJ",
+  "opp": "CAR",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 38,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 30
+}

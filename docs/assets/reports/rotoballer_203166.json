@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203166",
+  "title": "J.K. Dobbins Tops 100 Rushing Yards in Week 4",
+  "description": "Denver Broncos running back J.K. Dobbins had an efficient night on the ground in his team's Week 4 win over the Cincinnati Bengals. Dobbins recorded 16 carries for 101 yards, an average of 6.3 yards per rush attempt. The 26-year-old has now recorded 57 carries for 323 yards and three touchdowns through his first four games of 2025. Dobbins is the RB1 in Denver, but it's worth noting that Broncos rookie running back RJ Harvey logged a career-high 14 carries in Week 4. The Broncos face a difficult matchup in Week 5 against the Philadelphia Eagles. Still, Dobbins profiles as a solid fantasy RB2 as long as he continues to lead the Denver backfield in carries.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 5,
+  "team": "DEN",
+  "opp": "PHI",
+  "att": 20,
+  "tgt": 1,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206778",
+  "title": "Nick Chubb Unable to Practice Due to Foot Injury",
+  "description": "Houston Texans running back Nick Chubb (foot) was listed as a non-participant in Wednesday's practice due to a foot injury, according to Aaron Wilson of KPRC 2 Sports. The Texans have already ruled out quarterback C.J. Stroud (concussion) for their Week 10 game against the division-rival Jacksonville Jaguars on Sunday, and the veteran Chubb could also be in danger of sitting out this weekend unless he returns to practice on Thursday or Friday. If the 29-year-old is limited or out against the Jaguars, rookie Woody Marks would be in line for a bigger workload, while Dare Ogunbowale would likely be elevated to RB2 duties. Chubb has mostly been underwhelming in his first year with the Texans as their primary back, with Joe Mixon (ankle, foot) still out, as he's averaged 3.9 yards per carry for 355 rushing yards and only two rushing scores in eight games.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 10,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

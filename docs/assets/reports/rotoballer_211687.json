@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211687",
+  "title": "Emanuel Wilson Could Be Key to Winning Week 17",
+  "description": "Green Bay Packers running back Emanuel Wilson could be a top waiver wire priority this week, as the Packers get ready to host the Ravens on Saturday. The team could be without Jordan Love (concussion) and Josh Jacobs (knee) for that matchup, and Wilson has proven he can be a fantasy factor if he takes over for Jacobs as the primary option. Last week, Wilson ran for 82 yards on 14 carries against the Bears, while Jacobs had just 36 yards on 12 carries. Wilson also starred in Green Bay's win over the Packers when Jacobs was injured, racking up 107 rushing yards and two touchdowns on 28 carries in that week. The Ravens have been a great matchup for running backs this season, and if Wilson gets the start, he could be a true difference-maker in Week 17.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 17,
+  "team": "GB",
+  "opp": "BAL",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 51
+}

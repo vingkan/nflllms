@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201961",
+  "title": "Josh Jacobs Maintains Limited Status on Thursday",
+  "description": "Green Bay Packers running back Josh Jacobs (ankle) was limited in a second straight practice this week on Thursday as he manages an ankle injury ahead of the Week 3 matchup against the Cleveland Browns on Sunday, according to Tom Silverstein of the Milwaukee Journal Sentinel. If Jacobs is unable to practice in full on Friday, he could carry a questionable tag into the weekend. There haven't been any indications that the 27-year-old is in danger of missing Sunday's game, so for now, fantasy managers should leave him in their starting lineups. Tight end Tucker Kraft injured his knee in practice on Thursday, and if he's unable to play against Cleveland, the Packers could lean more on their ground game with Jacobs and backups Chris Brooks and Emanuel Wilson. Through the first two weeks in 2025, Jacobs is the RB11 in half-PPR scoring.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 3,
+  "team": "GB",
+  "opp": "CLE",
+  "att": 16,
+  "tgt": 9,
+  "touches": 25,
+  "actual": "high",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 30,
+  "receiving_catches": 5,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 19
+}

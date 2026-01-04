@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211562",
+  "title": "Derrick Henry Takes on League-Best Patriots Run Defense in Week 16",
+  "description": "Baltimore Ravens running back Derrick Henry faces a tough challenge in the form of the New England Patriots' defense during Sunday Night Football in Week 16. The Patriots have allowed the fewest fantasy points to running backs in 2025, as well as the second-fewest rushing yards. The run-stopping unit has been relentless this year, but this matchup is coming at a convenient time for Henry. New England's defense is short-staffed with linebacker Robert Spillane (ankle) ruled out. Meanwhile, linebacker Harold Landry III (knee) and defensive tackle Christian Barmore (knee) are both questionable. Henry is coming off an impressive two-game stretch, during which he tallied 202 scrimmage yards. However, he hasn't found the end zone since Week 13. The 31-year-old ranks as the overall RB15 in RotoBaller's fantasy football rankings for Week 16. He has top-12 upside, especially if New England's defense is forced to play without Landry, Barmore, or both.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 16,
+  "team": "BAL",
+  "opp": "NE",
+  "att": 18,
+  "tgt": 0,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 128,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 10
+}

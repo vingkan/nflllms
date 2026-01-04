@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209497",
+  "title": "Woody Marks Questionable to Return With Foot Injury",
+  "description": "The Houston Texans listed running back Woody Marks (foot) as questionable to return to Sunday's game against their AFC South rival, the Indianapolis Colts, due to a foot injury. The rookie from USC has been a solid depth piece for fantasy managers who weathered sporadic playing time during the beginning of the season, as Marks entered Week 13 having drawn 10-plus carries in six straight games and rising to running back No. 30 in half-PPR formats. If Marks were to miss any time because of the injury, veteran Nick Chubb figures to be the team's top option with Dare Ogunbowale working behind him.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 14,
+  "team": "HOU",
+  "opp": "KC",
+  "att": 26,
+  "tgt": 3,
+  "touches": 29,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 68,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

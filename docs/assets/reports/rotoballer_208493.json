@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208493",
+  "title": "Quinshon Judkins an RB2 for Week 12 Matchup vs. Raiders",
+  "description": "Cleveland Browns running back Quinshon Judkins has been struggling to find room to run of late, rushing for just 153 scoreless yards with just five catches for eight yards over his past three games. While Judkins has shown to be a talented NFL runner, a punchless Cleveland passing offense is clearly making things tough on the rookie, as defenses can key in on stopping him. He will look to turn it around in Week 12's road matchup against the Las Vegas Raiders. The Raiders have been decent against the run this season, allowing the 19th-most fantasy points per game to running backs. Judkins has been seeing almost all of the backfield work in Cleveland, which is keeping him fantasy relevant, but he shapes up as a low-end RB2 in fantasy for this weekend.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 12,
+  "team": "CLE",
+  "opp": "LV",
+  "att": 16,
+  "tgt": 0,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 47,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 10
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205577",
+  "title": "Alvin Kamara Looking to Break Through Against Tampa Bay",
+  "description": "New Orleans Saints running back Alvin Kamara rushed 11 times for just 28 yards and added one yard on three receptions in the Week 7 loss to the Bears. Kamara's struggles continue, as he's posting career-low marks in yards per carry, yards per touch, yards per target, and receiving yards per game. Head coach Kellen Moore remains committed to feeding him the ball, but Kamara has been held to 31 or fewer rushing yards in three straight games, and hasn't found the end zone since Week 1. He was limited in practice throughout the week with an ankle injury but is good to go in the Week 8 matchup against the Buccaneers. Kamara ranks as an RB2, and is in desperate need of a get-right game.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 33
+}

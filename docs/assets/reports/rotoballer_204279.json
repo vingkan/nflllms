@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204279",
+  "title": "Trevor Etienne Set for Increased Workload in Week 6",
+  "description": "Carolina Panthers rookie running back Trevor Etienne is in line for an increased workload in Week 6. Over the past two weeks, Etienne has totaled 62 scrimmage yards on 12 touches, showing flashes of potential in limited opportunities. With Chuba Hubbard (calf) expected to miss his second straight game, both Rico Dowdle and Etienne should see an uptick in carries once again. Carolina draws a favorable matchup against the Dallas Cowboys, who have surrendered the sixth-most fantasy points to running backs this season, including big performances from Josh Jacobs and Breece Hall in consecutive weeks. While Dowdle is expected to handle the starting role, Etienne remains off the fantasy radar outside of deep dynasty formats as he continues to earn more snaps.",
+  "player_id": 12531,
+  "player_name": "Trevor Etienne",
+  "week": 6,
+  "team": "CAR",
+  "opp": "DAL",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 59
+}

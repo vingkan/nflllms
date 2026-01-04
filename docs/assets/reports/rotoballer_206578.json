@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206578",
+  "title": "David Montgomery Finds the End Zone but Coughs Up Costly Fumble in Week 9 Loss",
+  "description": "Detroit Lions running back David Montgomery broke his two-game scoreless streak in Week 9, recording 51 yards from scrimmage and a touchdown on 13 touches against the Minnesota Vikings. However, the veteran also fumbled in a key spot, leading to points for Minnesota that were critical in Detroit's 27-24 loss to its division rival. Montgomery out-touched fellow Lions back Jahmyr Gibbs against the Vikings, but neither back was particularly efficient with their opportunities. Montgomery's workload has been fairly stable for much of 2025, as he's recorded between 12 and 15 touches in five out of eight games. The 28-year-old's minimal role in the passing game and limited rushing workload while sharing time with Gibbs make Montgomery very reliant on touchdowns for fantasy production. He profiles as a low-end fantasy RB2/high-end flex option heading into a Week 10 matchup against the Washington Commanders.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 10,
+  "team": "DET",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 29
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206556",
+  "title": "Kareem Hunt Handily Leads Chiefs' Ground Game in Teammate's Absence",
+  "description": "With backfield mate Isiah Pacheco (knee) inactive for Week 9's 28-21 loss to the Buffalo Bills, Kansas City Chiefs running back Kareem Hunt led the team's ground game. The veteran tied a season-high with 49 rushing yards on 11 totes, adding six yards on 1-of-2 receiving. Hunt punched in another short touchdown in this one, giving him three across his last two appearances and six on the season as a whole. While his efficiency hasn't been off the charts, the Toledo product has rushed for at least 4.4 yards per clip in four of his previous five games. Furthermore, he's the most likely option on his team aside from quarterback Patrick Mahomes to find pay dirt on the ground. Pacheco is expected to return following Kansas City's Week 10 bye. However, Hunt projects to lead the backfield again if he doesn't. It will be a situation to keep tabs on over the coming week.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 11,
+  "team": "KC",
+  "opp": "DEN",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 59,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

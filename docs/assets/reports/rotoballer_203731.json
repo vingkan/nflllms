@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203731",
+  "title": "Rachaad White Finds the End Zone Twice in Week 5",
+  "description": "Filling in for the injured Bucky Irving (shoulder, foot), Tampa Bay Buccaneers running back Rachaad White recorded 14 carries for 41 yards and two touchdowns in his team's 38-35 Week 5 win over the Seattle Seahawks. White also chipped in four catches for 30 yards. The 26-year-old looks like the clear lead back in Tampa Bay while Irving is sidelined. In Week 5, White earned 18 touches while fellow Bucs running back Sean Tucker earned just six. White now has 212 yards from scrimmage and three touchdowns on 49 total touches through five games. For as long as Irving is out, White could provide solid fantasy RB2 production.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 6,
+  "team": "TB",
+  "opp": "SF",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 3,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

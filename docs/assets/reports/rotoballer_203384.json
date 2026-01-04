@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203384",
+  "title": "Emari Demercado Could Remain Limited to Third-Down Role?",
+  "description": "Arizona Cardinals running back Emari Demercado served as the team's RB2 in Week 4 behind Trey Benson (knee). However, with Benson now on Injured Reserve due to a knee injury, it does not appear that Demercado is a lock to assume Arizona's RB1 role. Demercado has appeared in 31 games for the Cardinals since the start of 2023, but he has not recorded more than four carries in a game since October of his first season with the team. That could indicate that Arizona feels comfortable with Demercado as the team's passing-downs back, but that veteran back Michael Carter could assume the bulk of the early-down work. Heading into a Week 5 matchup against the Tennessee Titans, Demercado profiles as a decent flex option for fantasy managers, but Carter should be the preferred play.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 5,
+  "team": "ARI",
+  "opp": "TEN",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 81,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 36
+}

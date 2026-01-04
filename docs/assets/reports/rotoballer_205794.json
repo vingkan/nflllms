@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205794",
+  "title": "Cam Skattebo Dislocates his Ankle in Loss to Eagles",
+  "description": "New York Giants running back Cam Skattebo (ankle) was diagnosed with a dislocated ankle during Sunday's Week 8 contest against the Philadelphia Eagles. He has been taken to the hospital for further evaluation. Skattebo suffered the gruesome-looking ankle injury while being tackled near the middle of the field in the first quarter. He finished the game with 12 rushing yards plus an 18-yard touchdown reception. The rookie's season is likely over, pending an official diagnosis from medical professionals. If his injury is confirmed as season-ending, Tyrone Tracy Jr. will take over as the Giants' lead running back while Devin Singletary occupies the backup role.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206946",
+  "title": "Kyle Monangai Cleared for Week 10",
+  "description": "Chicago Bears running back Kyle Monangai (ankle) is ready to go ahead of the Week 10 matchup against the New York Giants. Monangai was limited to begin the week due to an ankle issue. However, the rookie back was able to get in back-to-back full practice sessions to clear him for this weekend. Last week, Monangai rushed 26 times for 176 yards, while hauling in three receptions for 22 yards in the win over the Cincinnati Bengals. Fellow back D'Andre Swift (groin) still remains uncertain for this weekend. If they both play, head coach Ben Johnson said he'd likely ride the hot hand to determine the workload. This could end up as a frustrating situation for fantasy managers.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 10,
+  "team": "CHI",
+  "opp": "NYG",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

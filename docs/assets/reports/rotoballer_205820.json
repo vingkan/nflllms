@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205820",
+  "title": "R.J. Harvey Breaks Out With Three Touchdowns in Week 8",
+  "description": "Denver Broncos rookie running back R.J. Harvey had the best game of his young NFL career in Week 8 against the Dallas Cowboys, recording 51 yards from scrimmage and three touchdowns on eight total touches. Harvey had been held to 57 scrimmage yards and one touchdown over his last three games combined entering Week 8, so his outburst is a welcome sign for fantasy managers. Still, there's reason to doubt that Harvey's big game is a sign of things to come. Veteran Broncos running back J.K. Dobbins still earned more than double Harvey's touches (17 to eight) against Dallas. Additionally, outside of a 40-yard run, Harvey recorded just 11 yards on his other seven touches combined. The Broncos have a much tougher matchup in Week 9 against the Houston Texans, which may mean Harvey will remain tough for fantasy managers to trust as a starter.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 9,
+  "team": "DEN",
+  "opp": "HOU",
+  "att": 2,
+  "tgt": 5,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 5,
+  "receiving_catches": 5,
+  "receiving_yards": 51,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 11
+}

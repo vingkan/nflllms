@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209809",
+  "title": "Kyle Monangai's Hot Streak at Risk After Missing Wednesday's Practice",
+  "description": "Chicago Bears rookie running back Kyle Monangai (ankle) has been a nice surprise for fantasy managers this season. In his last seven games, Monangai has averaged 15 attempts for 79.8 yards and five touchdowns, totalling 13.2 PPR points per game. While the rookie has become a key part of the Bears' rushing attack, he did not practice on Wednesday due to an ankle injury, which could end his four-game streak of rushing touchdowns. The Bears played on Friday, so Monangai not being ready to practice five days later is concerning for his Week 14 outlook. The Bears face the division rival Green Bay Packers in Week 14, and with cold and snowy conditions possible, Monangai's power running style will be crucial this weekend. Thursday and Friday's practice reports will be important to monitor in determining Monangai's availability in Week 14.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 14,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 57,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

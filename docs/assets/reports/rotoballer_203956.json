@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203956",
+  "title": "Chargers Officially Place Omarion Hampton on Injured Reserve on Wednesday",
+  "description": "The Los Angeles Chargers officially placed rookie first-round running back Omarion Hampton (ankle) on Injured Reserve on Wednesday, according to Adam Schefter of ESPN. In a corresponding move, Kimani Vidal was called up from the practice squad to the active roster. The Bolts also signed veteran pass-catching back Nyheim Hines to the practice squad. An ankle injury suffered in the Week 5 loss to the Washington Commanders is going to keep Hampton out for at least four games. The 22-year-old needs to be stashed in all fantasy formats in the meantime, though, as he should return to bell-cow duties when he's healthy. Heading into Week 6 against the Miami Dolphins, Vidal and Haskins figure to split the backfield workload, making both short-term waiver-wire solutions. Hampton has averaged a healthy 4.8 yards per carry for 314 yards and two touchdowns on the ground for L.A. in his first five NFL games.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205029",
+  "title": "Rico Dowdle To Keep Starting Duties in Week 7?",
+  "description": "Carolina Panthers running back Rico Dowdle has been one of the best stories in the NFL over the past two weeks, totaling an unbelievable 473 yards and two touchdowns as the lead back in place of Chuba Hubbard (calf). Hubbard will make his return on Sunday against the Jets, which muddies the outlook for the backfield this week. Hubbard earned a contract extension for his strong production last season and operated as the clear lead back before getting injured this season, but the superb play of Dowdle certainly changes some things. Head coach Dave Canales was noncommittal on how touches would be distributed, but expect it to be close to an even split, perhaps with a lean to Dowdle. Given his recent strong play, Dowdle profiles as a viable RB2 or flex start in Week 7 against the Jets.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 7,
+  "team": "CAR",
+  "opp": "NYJ",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 22
+}

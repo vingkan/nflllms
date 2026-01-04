@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207561",
+  "title": "Brian Robinson Jr. Earning More Touches in San Francisco?",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. is coming off his best two games since joining the team. Robinson handled eight carries for 41 yards and a touchdown in Week 10's loss to the Rams, following his Week 9 performance against the Giants, where he had 53 yards and a touchdown on five carries. The 26-year-old finally found the end zone and has run well as the primary backup behind Christian McCaffrey this season. His 4.9 yards per carry would be the highest of his career over a full season, and he remains one of the premier handcuffs in fantasy. It's possible that the coaching staff lightens up McCaffrey's workload down the stretch to keep him fresh for a potential playoff run and gives Robinson a path to real standalone value. But if McCaffrey were to miss any time, Robinson would immediately slot in as a high-end RB2 in Kyle Shanahan's offense.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 11,
+  "team": "SF",
+  "opp": "ARI",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

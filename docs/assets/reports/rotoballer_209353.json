@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209353",
+  "title": "Kyren Williams Gets Chance to Bounce Back with Favorable Matchup",
+  "description": "Los Angeles Rams running back Kyren Williams is coming off a disappointing fantasy performance, but he'll have an opportunity to bounce back during Sunday's Week 13 contest against the Carolina Panthers. Williams had just 12 carries for 46 rushing yards in his last outing against the Tampa Bay Buccaneers, struggling to maintain efficiency against a strong run defense while also losing some opportunities to Blake Corum. While Corum remains a thorn in his side for Week 13, he should improve his yardage and scoring efficiency. After all, the Panthers have allowed the seventh-most fantasy points, eighth-most rushing yards, and eighth-most rushing touchdowns to opposing running backs in 2025. Williams ranks as the overall RB10 in RotoBaller's fantasy rankings ahead of his matchup against Carolina.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 13,
+  "team": "LAR",
+  "opp": "CAR",
+  "att": 13,
+  "tgt": 1,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 72,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

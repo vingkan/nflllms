@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210714",
+  "title": "Bam Knight Set to Lead the Cardinals' Backfield in Difficult Week 15 Matchup",
+  "description": "Arizona Cardinals running back Bam Knight saw a season high of six targets in Week 14's loss to the Los Angeles Rams. Knight was able to stay involved in the Cardinals' offense despite the team flipping to a pass-heavy game script early in the game. The 24-year-old will keep the RB1 role on Sunday with Trey Benson (knee) ruled out for the remainder of the 2025 season. Heading into Week 15, Knight is RotoBaller's 38th-ranked running back in Half-PPR leagues in a difficult matchup against the Houston Texans. The Texans' defense has allowed the fifth-fewest rushing yards and the 10th-fewest rushing touchdowns this season. Knight has been a touchdown-dependent running back and has yet to produce over eight fantasy points in a game without scoring a touchdown in half-PPR formats. Knight should be viewed as a low-end RB3 and a desperation flex option in a tough Week 15 matchup.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": -2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 80
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204132",
+  "title": "Jahmyr Gibbs to Return to Lead Rushing Role in Week 6?",
+  "description": "Even in a relatively quiet game by his standards, Detroit Lions running back Jahmyr Gibbs was still able to record 87 scrimmage yards and a touchdown on 14 touches in Week 5 against the Cincinnati Bengals. Gibbs logged fewer touches than fellow Lions back David Montgomery for the first time this season, but that could be due to Detroit holding a large lead for most of the game and the fact that Montgomery is a Cincinnati native. Gibbs will now square off against the Kansas City Chiefs in Week 6, who have been a below-average rushing defense so far this season. Through five games, Kansas City ranks 24th in rushing touchdowns allowed (six) and 26th in yards per carry allowed (4.8). Gibbs should be heavily featured in the Lions' game plan and profiles as a must-start fantasy running back in Week 6.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 6,
+  "team": "DET",
+  "opp": "KC",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 65,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 31
+}

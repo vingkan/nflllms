@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209298",
+  "title": "Dylan Sampson Looking to Build on Strong Week 12 Showing",
+  "description": "Cleveland Browns running back Dylan Sampson turned in one of his team's best plays in a Week 12 win over the Las Vegas Raiders when he hauled in a 66-yard touchdown pass from Shedeur Sanders in the fourth quarter. While he hasn't seen a consistent workload this season, Sampson has shown chops in the passing game, catching 23 passes for 195 yards and two touchdowns in 11 games. In Week 13, Sampson will look to stay hot at home against the San Francisco 49ers. The 49ers have been solid against the run this season, allowing just the 19th-most fantasy points per game to running backs. While not a safe fantasy play, Sampson sets up as an RB5 with some flex appeal for Week 13's matchup.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 13,
+  "team": "CLE",
+  "opp": "SF",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 62
+}

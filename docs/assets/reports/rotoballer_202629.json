@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202629",
+  "title": "J.K. Dobbins has Been a \"Real Good Addition\" for Broncos",
+  "description": "Denver Broncos running back J.K. Dobbins has been a \"real good addition\" for the team this year, head coach Sean Payton said. Zac Stevens of DNVR Sports writes that it's \"clear\" that Payton is a big fan of Dobbins, who has been the Broncos' clear RB1 through three weeks over rookie second-rounder RJ Harvey. Dobbins has seen double-digit carries in all three games of the year so far and has run for at least 63 yards each week. The 26-year-old has also scored on the ground in all three weeks. His best game so far came in the Week 3 loss to the Los Angeles Chargers, as he ran for 83 yards and a score on a season-low 11 rushing attempts. He had nine more rushing attempts than Harvey last weekend and has outcarried the UCF product 41 to 13. Harvey has one more catch than Dobbins through three weeks. Dobbins isn't going away anytime soon, and he'll be in play as an RB2 in Week 4 in a plus matchup against the Cincinnati Bengals.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 4,
+  "team": "DEN",
+  "opp": "CIN",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 101,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 28
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211390",
+  "title": "Kimani Vidal Continues to See Volume Heading into Week 16",
+  "description": "Los Angeles Chargers running back Kimani Vidal led the backfield, playing 63% of snaps and handling 100% of the two-minute offense last week against the Kansas City Chiefs. While he struggled with efficiency, averaging just 2.8 yards per carry, he remains the team's primary receiving and pass-blocking option. This week, Vidal faces a Dallas Cowboys defense that has allowed 19 rushing touchdowns, tied for second-most in the NFL. Unfortunately, Dallas defensive end Quinnen Williams (concussion) is off the injury report and will look to shut down lanes for the run-heavy Chargers. Rookie Omarion Hampton's efficiency continues to threaten Vidal's effectiveness on early downs, limiting his upside. Fantasy managers should view Vidal as a low-end RB3 who needs to secure red-zone touches or PPR volume to be a reliable starter. He is a risky FLEX play this week.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 16,
+  "team": "LAC",
+  "opp": "DAL",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 11,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 70
+}

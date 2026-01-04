@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211393",
+  "title": "Bijan Robinson a Top Option in Favorable Matchup Against the Cardinals",
+  "description": "Atlanta Falcons running back Bijan Robinson is coming off a productive performance in Week 15's 29-28 win over the Buccaneers, tallying 92 yards and a touchdown on the ground with an additional 82 yards gained through the air. After scoring just two touchdowns via rush through the season's first nine games (and two via pass), the 23-year-old has four rushing scores in the last five games, which is a welcome turn of events after Tyler Allgeier seemed to be eating into his goal-line opportunities. Allgeier was limited to just two rushes last week, his fewest touches since Week 9. Sunday's road matchup against the Cardinals is a favorable one for the Atlanta backfield, with Arizona yielding the fifth-most fantasy points to opposing running backs this season, including letting the Texans' Jawhar Jordan gain 101 yards on the ground in his first career game last week. Robinson projects as one of the top options at running back this week, with the likely return of Drake London (knee) elevating the offense as a whole.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 16,
+  "team": "ATL",
+  "opp": "ARI",
+  "att": 16,
+  "tgt": 11,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 76,
+  "receiving_catches": 7,
+  "receiving_yards": 92,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 4
+}

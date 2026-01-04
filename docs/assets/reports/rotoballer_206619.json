@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206619",
+  "title": "Dylan Sampson Could See an Expanded Role in Week 10",
+  "description": "Cleveland Browns rookie running back Dylan Sampson has recorded 184 yards from scrimmage and a touchdown on 48 touches across the first eight games of his NFL career. Coming out of Cleveland's Week 9 bye, Sampson could be his team's RB1. Star Browns rookie Quinshon Judkins (shoulder) suffered an AC joint sprain in his shoulder in Week 8 that could keep him sidelined in Week 10 when Cleveland takes on the New York Jets. Even if Judkins misses Week 10, Sampson would likely still split backfield work with veteran back Jerome Ford. Still, Sampson has definite fantasy appeal as the potential lead back in a very favorable matchup against the Jets. Fantasy managers in PPR-scoring leagues with 12 or more teams should target Sampson on the waiver wire leading into Week 10.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": -4,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 59
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202970",
+  "title": "D'Andre Swift Likely to Play Vs. Raiders",
+  "description": "NFL Network's Ian Rapoport reports that Chicago Bears running back D'Andre Swift (hip) is likely to be active for the Week 4 matchup between Chicago and the Las Vegas Raiders. The veteran back is officially listed as questionable on the Bears' final injury report, though it seems as if he'll still play this week. He's been a serviceable starter this year with some receiving upside, catching nine passes on 11 targets through three games, albeit in an offense that has really struggled at times. Swift is a playable flex option this week against a good Raiders run defense.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 4,
+  "team": "CHI",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 20
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209076",
+  "title": "Bam Knight Logs Limited Practice Session on Wednesday",
+  "description": "Arizona Cardinals running back Bam Knight (knee) was a limited participant in practice on Wednesday. Knight dealt with an ankle issue ahead of the two previous contests, but was active in both. Now, it appears he's over the injury, but picked up a knee problem during Sunday's loss to the Jacksonville Jaguars. Knight didn't have much success in the backfield over the weekend as he rushed for 12 yards on 10 carries, but salvaged his fantasy value with a touchdown. His fantasy value could be on the downward trend with Trey Benson (knee) preparing to return to the field. Fantasy managers will need to monitor the health of this backfield throughout the week ahead of their Week 13 matchup against the Tampa Bay Buccaneers.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

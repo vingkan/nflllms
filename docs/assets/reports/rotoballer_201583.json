@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201583",
+  "title": "Nick Chubb Lined Up for a Second Straight Start",
+  "description": "Houston Texans running back Nick Chubb will again lead the way for his team's backfield rotation in a tough matchup on Monday night against the Buccaneers' strong run defense. Chubb played 51% of the snaps in Week 1 and had 13 carries, while no other running back had more than three. He wasn't very effective against the Rans, running for just 60 yards (4.6 per carry) and failing to catch his only target. Chubb will. likely be in a similar scenario against the Bucs and should have plenty of work, even though he doesn't have the dynamic play-making ability he had before his brutal injuries. The Texans didn't score a touchdown in Week 1, but if Chubb finds the end zone, he could be a borderline starter in Week 2. He's ranked as the RB28 in the RotoBaller rankings, making him an RB3 or a flex play",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 2,
+  "team": "HOU",
+  "opp": "TB",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 43,
+  "receiving_catches": 2,
+  "receiving_yards": 29,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 18
+}

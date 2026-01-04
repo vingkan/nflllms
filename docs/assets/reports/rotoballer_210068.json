@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210068",
+  "title": "Keaton Mitchell Facing an Uphill Battle in Week 14",
+  "description": "Baltimore Ravens running back Keaton Mitchell reached double-digit fantasy points for the first time this season against the Cincinnati Bengals in Week 13. He even finished as the RB27 in half-PPR formats, while getting a 13% snap share. Since Justice Hill (neck) remains sidelined, Mitchell has taken over the pass-catching work out of the backfield. He saw three targets and two carries in their previous game, but is still very far behind Derrick Henry. The Pittsburgh Steelers also present a very tough matchup against opposing run games, so Mitchell is projected as the RB42 on RotoBaller's rankings.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 14,
+  "team": "BAL",
+  "opp": "PIT",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 76,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 36
+}

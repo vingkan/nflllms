@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204686",
+  "title": "Jaylen Warren Worth Starting as RB2 on TNF",
+  "description": "Pittsburgh Steelers running back Jaylen Warren returned from a knee injury in Week 6 and is set to be heavily featured against the Cincinnati Bengals in Week 7. Cincinnati has given up 10 total touchdowns to opposing running backs this season, tied for the most in the NFL. The Bengals have also allowed a running back to eclipse 85 scrimmage yards in every game this year. While Warren will cede some opportunities to Kenneth Gainwell and Kaleb Johnson, he remains the most likely of the trio to reach that mark. With his ability to contribute both on the ground and as a weapon for Aaron Rodgers in the passing game, Warren profiles as an RB2 with plenty of upside on Thursday night.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 7,
+  "team": "PIT",
+  "opp": "CIN",
+  "att": 16,
+  "tgt": 5,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 127,
+  "receiving_catches": 4,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

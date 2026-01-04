@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202737",
+  "title": "Saquon Barkley Looks to Get Back in Rhythm Against Buccaneers",
+  "description": "Philadelphia Eagles running back Saquon Barkley had his first down week of the season against the Rams, and looks to get back to his usual ways in an upcoming game against the Buccaneers. The last time Barkley faced Tampa he was kept at bay, unable to find the end zone and rushing for 84 yards in a loss. So far this season, the Bucs have the fifth-best run defense in the league, allowing just 84 yards per game and two total touchdowns through three weeks. Despite all this, Barkley is tied for the second-most attempts in the league (58) and can go off on any given week. He remains a top RB1 for Week 4.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 4,
+  "team": "PHI",
+  "opp": "TB",
+  "att": 19,
+  "tgt": 4,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 43,
+  "receiving_catches": 4,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 16
+}

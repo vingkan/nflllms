@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205799",
+  "title": "Cam Skattebo Will Undergo Surgery on Sunday Night",
+  "description": "New York Giants running back Cam Skattebo (ankle) will undergo surgery at a Philadelphia hospital on Sunday night. Skattebo suffered a dislocated ankle during the first half of Sunday's Week 8 loss against the Eagles. He was quickly ruled out and hospitalized after the gruesome-looking injury. The exact timetable for Skattebo's recovery is unclear, and we may not have full clarity until medical professionals can examine the rookie's injury internally during surgery. Nevertheless, he is headed for an extended absence and will likely miss the remainder of the 2025 season. Tyrone Tracy Jr. will take over as the Giants' No. 1 running back while Devin Singletary occupies the backup role.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

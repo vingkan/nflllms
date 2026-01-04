@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210091",
+  "title": "Kimani Vidal's Touches Expected to Decrease on Monday Night",
+  "description": "Los Angeles Chargers running back Kimani Vidal is about to face a major change in his workload after a strong performance last week, where he had 25 carries for 126 yards and a touchdown against the Las Vegas Raiders. The ground game was heavily relied on after quarterback Justin Herbert fractured his hand, but rookie Omarion Hampton (ankle) has been activated from IR and is expected to return this week, with Hassan Haskins (hamstring) also practicing. Vidal now must compete again in a crowded backfield. The matchup against the Philadelphia Eagles looks promising, as they are a middle-ranked rush defense that was just run over for 281 yards on the ground by the Chicago Bears, and the likely absence of defensive tackle Jalen Carter further helps Vidal's case. RotoBaller projects Vidal as RB34 for this week. Due to the uncertain workload split with Hampton's return, Vidal should be considered a risky low-end RB3, as he is not assured of the majority of carries he had last week.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 60,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

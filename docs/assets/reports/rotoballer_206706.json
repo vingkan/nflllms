@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206706",
+  "title": "Chris Rodriguez Jr. Set For More Touches in Coming Weeks?",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. had his best game of the season in Sunday night's blowout loss to the Seattle Seahawks, handling 12 carries for 65 yards and a touchdown. Rodriguez scored his second touchdown of the season, while the 12 carries and 65 yards were both the second-highest totals of his three-year career. The 25-year-old saw the same number of carries as rookie Jacory Croskey-Merritt and could be working his way back into a timeshare on early downs, with the rookie struggling on the ground of late. Rodriguez is a physical, bruising back that will get the yardage that is blocked for him and adds a few more after contact as he's always falling forward. The Washington offense will be without star quarterback Jayden Daniels (elbow) for the foreseeable future, but Marcus Mariota is capable of running the same style of offense. Rodriguez offers waiver wire value in deeper leagues headed into Week 10.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 36
+}

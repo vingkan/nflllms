@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205391",
+  "title": "Alvin Kamara Listed as Limited in Wednesday's Practice",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) remains on the team's injury report heading into a Week 8 clash with the division-rival Tampa Bay Buccaneers this Sunday and was listed as limited in Wednesday's practice, according to Luke Johnson of the New Orleans Times-Picayune. Kamara was a DNP last Wednesday with his ankle injury, but he ended up returning to practice and was cleared from the final injury report. The 30-year-old five-time Pro Bowler ended up handling 11 carries for only 28 yards while catching all three of his targets for just one yard in the Week 7 loss to the Chicago Bears. However, Kamara did play a season-high 84% of the offensive snaps due to Kendre Miller (knee) suffering a torn ACL. Rookie Devin Neal will spell Kamara going forward. Kamara is still the Saints' lead back, but he's averaging a career-low 3.6 yards per carry and is showing signs of his age in his ninth NFL season.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 33
+}

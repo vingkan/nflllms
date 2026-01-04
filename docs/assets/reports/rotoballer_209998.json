@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209998",
+  "title": "Trey Benson's Return Timeline Remains Unclear",
+  "description": "Arizona Cardinals running back Trey Benson (knee) has been sidelined since Week 4 after suffering a knee injury and being placed on Injured Reserve. Benson was a non-participant every day in practice this week, marking five missed sessions in a row, and was officially ruled out for Week 14 against the Los Angeles Rams. The second-year back hasn't practiced since last Wednesday, and time is running out for him to return this season. The Florida State product was in line for a workhorse role after James Conner (foot) went down for the season in Week 3, but Benson's opportunity has been derailed by a nagging knee injury that required surgery. He played well in the four games he suited up for this year, recording 29 carries for 160 yards while adding 13 receptions (16 targets) for 64 yards. Benson is still a good stash, as he would be the Cardinals' lead back if he returns, but that's still an unknown as of now. Arizona will continue to rely on the combination of Bam Knight and Michael Carter in Week 14.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 14,
+  "team": "ARI",
+  "opp": "LAR",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

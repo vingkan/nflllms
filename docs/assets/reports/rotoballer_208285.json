@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208285",
+  "title": "Travis Etienne Jr. on the Week 12 Injury Report",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. (shoulder) is on the Week 12 injury report and was limited in Wednesday's practice with a shoulder injury. Both Etienne and Bhayshul Tuten (ankle) are a little banged up coming out of Sunday's blowout win over the Los Angeles Chargers, but the fact that they were both able to practice on Wednesday is a good sign that they will be available this weekend on the road in Arizona against the Cardinals. Tuten played a season-high 32% of the offensive snaps in Week 11 and carried the ball a season-high 15 times for 74 yards and a touchdown, but that may have had something to do with Etienne's shoulder injury. Etienne played a season-low 49% of snaps but still saw 19 carries for 73 yards and two touchdowns in a run-heavy game script. The two backs could have more of an even split in another plus matchup in Week 12 against the Cardinals if they are active.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 86,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 7
+}

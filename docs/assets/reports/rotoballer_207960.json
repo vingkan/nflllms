@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207960",
+  "title": "Kenneth Gainwell Set to Maintain Sizable Involvement",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell continues to trend up ahead of Sunday's Week 11 contest against the Cincinnati Bengals. Gainwell is coming off a game against the Chargers that saw him play 52 percent of the offensive snaps, which was his third-highest mark of the season so far. Despite out-snapping Jaylen Warren, he had just two catches and zero carries. We expect to see Gainwell handle a sizable snap share once again after head coach Mike Tomlin told the media that Warren cannot occupy an every-down role. Whether this means the backfield will gradually shift to Gainwell remains to be seen. The comments are promising for Gainwell's managers, but it's too early to inject him into lineups after he touched the ball just twice last week. For now, he remains a bench stash.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 11,
+  "team": "PIT",
+  "opp": "CIN",
+  "att": 9,
+  "tgt": 8,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 7,
+  "receiving_yards": 81,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 2,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 5
+}

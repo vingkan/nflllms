@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206583",
+  "title": "Aaron Jones Sr.'s Sore Shoulder to be Tested This Week",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder) suffered a sprained AC joint in Sunday's win over the Lions. While head coach Kevin O'Connell told the media on Monday that the shoulder is sore, he regarded the prognosis as positive. The team will ramp up Jones' activity throughout the week, so it should come as no surprise if he begins the week with a limited or missed practice, but the sense is that he should be ready to go for the Vikings' Week 10 matchup with the Ravens. Fantasy managers should monitor Minnesota's injury report throughout the week, but with an early-window kickoff, pivot options should be plentiful if he is unable to suit up.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

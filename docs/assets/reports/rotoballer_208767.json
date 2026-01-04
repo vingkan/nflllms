@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208767",
+  "title": "Jahmyr Gibbs Dominates as Multi-Purpose Star on Sunday",
+  "description": "Detroit Lions running back Jahmyr Gibbs had 15 carries for 219 rushing yards and two rushing touchdowns during Sunday's Week 12 overtime victory over the New York Giants. He also caught 11 of 12 targets for an additional 45 receiving yards and one receiving touchdown. The 23-year-old enjoyed one of the most memorable games of his young career, amassing more than 55 fantasy points in PPR leagues and helping Detroit secure an overtime victory. The highlights of Gibbs' games were a 49-yard rushing touchdown in the fourth quarter and a 69-yard rushing touchdown in overtime. He will remain a spectacular high-end RB1 option against the Green Bay Packers on Thanksgiving Day in Week 13.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 13,
+  "team": "DET",
+  "opp": "GB",
+  "att": 20,
+  "tgt": 4,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 68,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 25
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211389",
+  "title": "Omarion Hampton Enters Week 16 as the More Efficient Back",
+  "description": "Los Angeles Chargers running back Omarion Hampton is beginning to assert himself in the backfield, leading the team with 15 carries and 54% of the rushing attempts last week. Even though Kimani Vidal ran the majority of routes and handled 100% of the two-minute offense, Hampton looked more explosive, averaging 4.1 yards per carry compared to Vidal's 2.8 against the Kansas City Chiefs. The Week 16 matchup against the Dallas Cowboys is promising, as Dallas is tied for second in rushing touchdowns allowed. However, star defensive tackle Quinnen Williams (concussion) is off the injury report and is expected to play, adding an extra challenge for the backfield. As Hampton moves further away from his IR stint, his role in this run-heavy scheme could grow. RotoBaller projects him as the RB23 this week. He is a high-upside RB2 who could deliver a big performance if he maintains the lead in carries.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 16,
+  "team": "LAC",
+  "opp": "DAL",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 85,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 19
+}

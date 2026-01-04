@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206270",
+  "title": "Nick Chubb Is a Risky Flex Play in Week 9",
+  "description": "Houston Texans running back Nick Chubb continues to share time in the backfield with Woody Marks, with his primary workload coming on early downs. Chubb had 17 carries last week compared to just 11 for Marks, but since he only had two targets and two catches for 13 yards, Marks was a slightly better fantasy play. Chubb hasn't found the end zone since Week 5, and he only has two touchdowns on the year. Since his high mark of the season is only 61 rushing yards, he needs to get into the end zone to be worth a look in Week 9. He'll face the Broncos, who have been tough against the run, allowing only seven touchdowns to running backs this season. Chubb hasn't been able to consistently get big gains, so he is only the RB38 in RotoBaller's Week 9 rankings. He's a desperation flex play if you need him, but he is very high risk since he's so touchdown dependent.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 9,
+  "team": "HOU",
+  "opp": "DEN",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 44
+}

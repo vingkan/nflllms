@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209563",
+  "title": "Kyle Monangai Emerging as the Lead Rusher in Chicago",
+  "description": "Chicago Bears rookie running back Kyle Monangai delivered a statement performance in his team's massive Week 13 win over the Philadelphia Eagles, recording 130 rushing yards and a touchdown on 22 carries. Monangai has been stealing touches away from veteran Bears back D'Andre Swift for multiple weeks, but Week 13 may signal a more permanent shift in the Chicago backfield. Monangai has now earned more carries than Swift in back-to-back weeks, although it's worth noting that Swift also dominated against Philadelphia with 125 rushing yards and a touchdown on 18 attempts. Monangai's ceiling is limited by his lack of receiving work, as he's failed to record a catch in three out of his last four games. Still, the rookie is averaging 4.9 yards per carry this season and appears to be emerging as the lead rusher in an increasingly impressive Chicago offense. Monangai is a must-add player off the waiver wire in fantasy leagues where he remains available heading into a Week 14 showdown against the Green Bay Packers.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 14,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 57,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209174",
+  "title": "Rachaad White on the Outside Looking in as Buccaneers' Backfield Gets Healthier?",
+  "description": "Across seven games since Tampa Bay Buccaneers running back Bucky Irving (shoulder, foot) went down with shoulder and foot injuries, Bucs running back Rachaad White has averaged 16 touches and 60 scrimmage yards per game. However, White has lost out on backfield snaps to fellow Tampa Bay running back Sean Tucker in recent weeks. Over his last two games, White has recorded just 20 touches, compared to 34 for Tucker. With Irving practicing this week and possibly slated to return to the field in Week 13 against the Arizona Cardinals, White's opportunity for production may be about to fall off a cliff. At best, he seems likely to be part of a three-way backfield committee in Tampa Bay. If Irving does indeed return, White should be avoided by fantasy managers in Week 13 against Arizona.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 13,
+  "team": "TB",
+  "opp": "ARI",
+  "att": 2,
+  "tgt": 3,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 7,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 45
+}

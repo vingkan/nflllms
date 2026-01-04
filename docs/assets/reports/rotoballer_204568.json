@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204568",
+  "title": "Lions Looking to Give More Work to David Montgomery?",
+  "description": "Detroit Lions head coach Dan Campbell said that he would like to get running back David Montgomery a \"bigger piece of the pie\" in the rushing attack, according to Nolan Bianchi of the Detroit News. With a negative game script in the Week 6 loss to the Kansas City Chiefs on Sunday, Montgomery only saw four carries for 24 yards and caught two passes for 37 yards. It was by far the 28-year-old's smallest role through six weeks of the 2025 season. The Lions offense is at its best when they are dictating the pace of the game and able to mix in plenty of play-action passing. Monty also played a season-low 31% of the offensive snaps in Week 6 after seeing a season-high 53% of the snaps in Week 5. It sounds like Detroit will make it a point to get Montgomery more involved in Week 7 on Monday night against the Tampa Bay Buccaneers, making him a more attractive RB3/flex play against a Bucs defense that has been in the middle of the pack in terms of fantasy points allowed to RBs this year.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 7,
+  "team": "DET",
+  "opp": "TB",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 2,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 37
+}

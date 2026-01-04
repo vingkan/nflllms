@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207044",
+  "title": "Zach Charbonnet Continues to Be a Risky Play",
+  "description": "Seattle Seahawks running back Zach Charbonnet has been wildly inefficient and ineffective this season. However, he remains fantasy relevant because his role at the goal line is netting touchdowns. Charbonnet will face a solid Cardinals defensive front in Week 10 as he continues to split time with fellow running back Kenneth Walker III. Either way, Charbonnet's inefficiencies make him difficult to trust as a legitimate starter for fantasy this week. Fortunately, Seattle's offense should have no issue moving the ball up and down the field against the Cardinals. Charbonnet already scored on this team in Week 4, and he should have had a second score in that game. With another four teams on bye in Week 10, you could throw Charbonnet in your flex and hope for a touchdown. He is a better bet than what you are likely able to scrape together on the waiver wire this week.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 10,
+  "team": "SEA",
+  "opp": "ARI",
+  "att": 14,
+  "tgt": 0,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 83,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

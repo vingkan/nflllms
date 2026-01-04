@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207689",
+  "title": "Dylan Sampson a Low-End Flex Option in Week 11",
+  "description": "Cleveland Browns running back Dylan Sampson has shown some ability in the passing attack when given the chance this season, hauling in at least five passes twice this season. He will look to stay active through the air in a Week 11 home matchup against the Baltimore Ravens. The Ravens have struggled against running backs this season, allowing the seventh-most fantasy points per game to the position. That being said, Sampson doesn't have a guaranteed workload behind fellow rookie Quinshon Judkins, who carried the ball 22 times in a loss to the New York Jets in Week 10. Fantasy managers counting on Sampson will have to hope he does his damage through the air against the Ravens, which is entirely possible if the Browns get down early and have to abandon the run. Sampson sets up as a low-end flex option in PPR leagues for this weekend.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 11,
+  "team": "CLE",
+  "opp": "BAL",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 19,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 58
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207367",
+  "title": "Kareem Hunt Is a Touchdown-Reliant Addition from the Waiver Wire",
+  "description": "Kansas City Chiefs running back Kareem Hunt had a solid Week 9 with 11 carries for 49 rushing yards and a touchdown against the Bills. He picked up more work with Isiah Pacheco (knee) on the sidelines, but it is possible that Pacheco will return in Week 11 against the Broncos. Hunt has six touchdowns on the season and four scores in the last five weeks. The Broncos have been a tough matchup for running backs this season, but Hunt has touchdown-dependent upside if you are looking for running back help or are desperate for a flex play this week.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 11,
+  "team": "KC",
+  "opp": "DEN",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 59,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

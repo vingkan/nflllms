@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205069",
+  "title": "Josh Jacobs \"a True Game-Time Decision\" for Week 7",
+  "description": "According to ESPN's Adam Schefter, Green Bay Packers running back Josh Jacobs (illness) is considered \"a true game-time decision\" for the week 7 meeting with the Arizona Cardinals. He's still listed as questionable. However, Schefter added that the team won't know if the veteran can suit up until Sunday. Jacobs has played well throughout the 2025 campaign, amassing 359 yards and six touchdowns off 98 carries while catching 15 passes for 176 yards. Without question, his absence would be a tough blow for fantasy managers. If that's the case, Emanuel Wilson will be in line for more work and should draw streaming interest for the favorable matchup versus Arizona.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 7,
+  "team": "GB",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 1,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

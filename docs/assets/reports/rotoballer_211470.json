@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211470",
+  "title": "Ty Johnson's Upside Capped in Week 16",
+  "description": "Buffalo Bills running back Ty Johnson carried the ball four times for 13 yards and added 15 receiving yards on three catches against the New England Patriots. Johnson entered the 2025 season as the expected RB3, behind James Cook and second-year back Ray Davis. However, Johnson's receiving ability has earned him more snaps than Davis, outsnapping him 29% to 12% on the season. He faces a Cleveland Browns defense that has ranked middle-of-the-pack against running backs this season but has struggled to slow down Tony Pollard and D'Andre Swift in back-to-back weeks. While Johnson carries a safe floor with his strong skill set in the receiving game, his upside is capped by Cook's dominance of touches. Johnson should be out of starting lineups in fantasy leagues this week.",
+  "player_id": 6039,
+  "player_name": "Ty Johnson",
+  "week": 16,
+  "team": "BUF",
+  "opp": "CLE",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 42
+}

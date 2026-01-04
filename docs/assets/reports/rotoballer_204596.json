@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204596",
+  "title": "Quinshon Judkins Slowed Down by Steelers in Week 6 Loss",
+  "description": "Cleveland Browns running back Quinshon Judkins turned in a slow outing in a 23-9 loss to the Pittsburgh Steelers in Week 6. Judkins carried the ball 12 times for just 36 yards while failing to catch his lone target on a rough afternoon for the Cleveland offense against their division rivals. The slow outing was Judkins' first dud since he signed his contract before Week 2, as the rookie had been remarkably consistent up until Week 6. He will look to bounce back against a Miami Dolphins defense that is allowing the fifth-most fantasy points per game to opposing running backs in 2025. Judkins can be treated as a low-end RB1 heading into Week 7.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 7,
+  "team": "CLE",
+  "opp": "MIA",
+  "att": 25,
+  "tgt": 0,
+  "touches": 25,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 84,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 4
+}

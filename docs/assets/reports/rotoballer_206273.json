@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206273",
+  "title": "Jeremy McNichols has Deep-League Flex Appeal for Week 9",
+  "description": "Washington Commanders running back Jeremy McNichols led the team in receiving in their Week 8 loss to the Chiefs, catching five of his six targets for 64 yards and adding one carry for four yards. McNichols has arguably been Washington's most effective back recently, consistently making plays when his number is called. The 29-year-old is tied for the eighth most receiving first downs (seven) despite ranking just 31st in routes run (82) among 54 running backs with at least 50 routes. His 4.58 yards after contact per reception is the third best behind only Jaylen Warren and James Cook. McNichols has been one of the best third-down backs in the league this season and should benefit from the return of star quarterback Jayden Daniels. The veteran still plays predominantly on third downs with rookie Jacory Croskey-Merritt filling the early down role. It'll be tough to move the ball on the ground on Sunday Night Football against a Seahawks defense that has allowed a league-best 3.3 yards per carry and tied for the second fewest rushing touchdowns (two) in the league. However, they are tied for the most receptions allowed to opposing running backs (47), which could play in McNichols' favor. McNichols has flex appeal in PPR formats in deeper leagues for Week 9.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 9,
+  "team": "WAS",
+  "opp": "SEA",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

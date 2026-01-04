@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205581",
+  "title": "Quinshon Judkins a High-End RB2 in Week 8",
+  "description": "Cleveland Browns running back Quinshon Judkins turned in a huge game in a 31-6 win over the Miami Dolphins in Week 7. On a rainy, windy day in Cleveland, the Browns leaned on Judkins, who rushed for 84 yards and three touchdowns in the win. The rookie runner will look to keep it going on the road in Week 8 against the New England Patriots. New England has been dominant against the run this season, allowing just the 27th-most fantasy points per game this year. Judkins has a difficult matchup, but he has been a true workhorse for Cleveland this season and should push for at least another 20 touches this weekend. Treat him as a high-end RB2 heading into Week 8.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 8,
+  "team": "CLE",
+  "opp": "NE",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 19,
+  "receiving_catches": 3,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 41
+}

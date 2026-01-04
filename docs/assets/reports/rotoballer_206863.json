@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206863",
+  "title": "Saquon Barkley Practicing in Full Coming Out of Bye Week",
+  "description": "Updating a previous report, Philadelphia Eagles running back Saquon Barkley (groin) was listed as a full participant in Thursday's practice. Barkley was forced to leave the Week 8 win against the New York Giants late in the third quarter, but not before galloping for 150 yards and a touchdown on 14 carries while adding four catches for 24 yards and another trip to paydirt. The Eagles' bye in Week 9 definitely came at a good time, and it appears that Barkley should be ready to roll by Monday night for the team's Week 10 contest against the Green Bay Packers at Lambeau Field. Barkley's performance in Week 8 was his first 100-yard rushing game of the year, and fantasy managers will be hoping he can keep that momentum after having a week off. Overall, Barkley has averaged only 4.1 yards per carry after averaging 5.8 yards per tote in 2024 on his way to Offensive Player of the Year honors.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 10,
+  "team": "PHI",
+  "opp": "GB",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

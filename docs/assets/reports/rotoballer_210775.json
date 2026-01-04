@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210775",
+  "title": "Kenneth Gainwell Has PPR Flex Value Against Dolphins",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has been heavily involved as a pass-catcher in recent weeks and should maintain a significant role against the Miami Dolphins in Week 15. Though Gainwell has taken a backseat to Jaylen Warren on the ground, the former has earned six or more targets in three of his past four games. Unfortunately, production may be hard to come by on Monday night, with Miami allowing the second-fewest fantasy points per game to opposing backs over the past four weeks. The weather in Pittsburgh, with gusting winds expected, could force quarterback Aaron Rodgers to check down to his running backs and tight ends more frequently, however. Gainwell's utilization as a receiver keeps him in flex consideration for fantasy managers in PPR leagues this week.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 15,
+  "team": "PIT",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 80,
+  "receiving_catches": 7,
+  "receiving_yards": 46,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 9
+}

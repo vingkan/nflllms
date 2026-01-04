@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209918",
+  "title": "Omarion Hampton Says he Feels Great",
+  "description": "Los Angeles Chargers rookie first-round running back Omarion Hampton (ankle) said again on Thursday that he feels great and is eager to get back on the field, according to Kris Rhim of ESPN. \"If it's up to me. I'll always play, but I got to wait for the doc. Whatever they say goes,\" Hampton said. The 22-year-old North Carolina alum resumed practicing last week for the first time since fracturing his ankle in Week 5. Hampton was limited in the first practice this week on Thursday, but he's trending toward coming off Injured Reserve and playing on Monday night versus the visiting Philadelphia Eagles. Fantasy managers who have been stashing the explosive rookie back all this time have to be excited for his impending return, but against a tough Eagles defense and in a potential timeshare with Kimani Vidal in his first game back, Hampton profiles as more of an RB3/flex if he's active in Week 14.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

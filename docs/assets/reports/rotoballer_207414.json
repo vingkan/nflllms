@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207414",
+  "title": "Kenneth Gainwell Set for More Opportunities?",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has had a solid season while serving as the No. 2 back behind Jaylen Warren and could be in line for more opportunities moving forward. Head coach Mike Tomlin said Tuesday that Warren \"simply cannot play every down\" when asked if he should play more snaps. Gainwell has played mostly on pass downs with Warren healthy and actually outsnapped him 27 to 24 in Pittsburgh's Week 10 loss to the Chargers. The Steelers were trailing for most of the game, which led to the uptick in snaps for the 26-year-old, but he had only three receptions for four yards on four targets. Tomlin also pointed out that if the Steelers win more on third down, then Warren will get more touches. Pittsburgh was unable to sustain drives on Sunday night, going just two for 11 on third downs. Gainwell should continue to play a prominent role on late downs with the potential to fill in as the workhorse if Warren were to miss any time.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 11,
+  "team": "PIT",
+  "opp": "CIN",
+  "att": 9,
+  "tgt": 8,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 7,
+  "receiving_yards": 81,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 2,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 5
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207280",
+  "title": "Kimani Vidal Delivers Another Strong Performance On High Volume in Week 10 Win",
+  "description": "Los Angeles Chargers running back Kimani Vidal handled another big workload as the team's lead back in Sunday night's win over the Pittsburgh Steelers, totaling 25 carries for 95 yards and a touchdown to go with one reception (one target) for 13 yards. Vidal has alternated breakout performances with duds over the last few weeks, but the heavy usage has remained consistent while he fills in for an injured Omarion Hampton (ankle). Fantasy managers will largely be happy with Vidal's production as an add off the waiver wire, scoring at least 17 PPR points in three of his five games as the Chargers' workhorse. The second-year back should get at least one more game as the team's top running back before Hampton is expected to return after their Week 12 bye. Vidal will rank as a mid-range RB2 in Week 11 versus the Jaguars.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 11,
+  "team": "LAC",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 2,
+  "touches": 7,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 13,
+  "receiving_catches": 2,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 53
+}

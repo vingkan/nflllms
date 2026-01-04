@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209586",
+  "title": "Chuba Hubbard Looked \"Amazing\" in Upset Win Over Rams",
+  "description": "Carolina Panthers head coach Dave Canales was really impressed with how running back Chuba Hubbard looked in Sunday's upset victory over the visiting Los Angeles Rams, according to Joe Person of The Athletic. \"I just love the way Chuba went right back to work. He looked amazing,\" Canales said. Hubbard led the Panthers with 83 rushing yards (4.9 yards per carry) on one fewer rushing attempt (17) than Rico Dowdle, and he also caught both of his targets for 41 yards and a touchdown. The 26-year-old's 59% snap share was his highest number since back in Week 3, before he missed time due to injury and lost RB1 duties to Dowdle. It was the first time that Hubbard had over 100 scrimmage yards this year and the first time he scored since Week 8. Hubbard's TD came on a 35-yard screen pass in the first quarter. The Panthers will be on bye in Week 14, but it's possible Hubbard shares more of the backfield with Dowdle for a Week 15 divisional date with the Saints.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 15,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 49
+}

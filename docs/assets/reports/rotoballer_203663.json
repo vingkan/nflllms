@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203663",
+  "title": "Isaiah Davis Headed for Expanded Role in Subpar Offense",
+  "description": "New York Jets running back Isaiah Davis should handle an increased workload against the Dallas Cowboys in Week 5 after teammate Braelon Allen (knee) was placed on injured reserve. Allen and Davis have each carved out their respective roles behind Breece Hall through the first four weeks of the season, and now, Davis could end up handling his existing workload and all of Allen's vacated touches. The 23-year-old registered five touches on a 33 percent snap share last week, which is likely his floor going forward. There's also a scenario in which he handles roughly half of the backfield snaps and New York rides the hot hand, employing a committee between him and Hall. For now, though, Davis is a speculative stash who should not be in starting lineups, even against a Cowboys defense allowing the sixth-most fantasy points to opposing running backs. That's partly due to the presence of Hall, and also partly due to the state of the Jets' offense, which has struggled to move the ball, even against below-average defenses.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 5,
+  "team": "NYJ",
+  "opp": "DAL",
+  "att": 1,
+  "tgt": 4,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 3,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

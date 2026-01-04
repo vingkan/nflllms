@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210377",
+  "title": "Breece Hall Out on Wednesday With Knee Soreness",
+  "description": "New York Jets running back Breece Hall (knee) is not practicing on Wednesday due to knee soreness, according to Rich Cimini of ESPN. The Jets could be giving Hall some rest late in the season, but it's definitely something we'll be monitoring closely as Sunday's game against the Jacksonville Jaguars approaches. If the 24-year-old is limited in any way or ruled out for this weekend, Isaiah Davis would become a plug-and-play RB option for fantasy managers as the Jets' No. 1 back. Kene Nwangwu and Khalil Herbert could also be involved in the backfield. However, with undrafted rookie quarterback Brady Cook potentially making his first NFL start in Week 15, all of New York's offensive skill players would need to be downgraded this weekend. Going into Week 15, Hall is the RB17 in half-PPR points with 877 rushing yards and three touchdowns, and 309 receiving yards and another score.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 15,
+  "team": "NYJ",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 23,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

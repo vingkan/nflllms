@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207359",
+  "title": "Josh Jacobs Scores 11th Touchdown of Season in Monday Night Loss",
+  "description": "Green Bay Packers running back Josh Jacobs recorded 21 carries for 74 yards and a touchdown while adding five catches (six targets) for 33 yards in Monday night's 10-7 loss to the Philadelphia Eagles. It was an ugly offensive performance for both teams, and Jacobs had another inefficient outing on the ground. The 27-year-old is averaging just 3.8 yards per carry this season, which would be the second-lowest in a season for his career. Jacobs continues to be a touchdown machine, however, scoring for the sixth consecutive game. His 11 touchdowns are second only to Colts superstar running back Jonathan Taylor. Jacobs' fantasy production continues to rely heavily on volume, and it was encouraging to see his involvement in the passing game, as his five catches matched a season high. Jacobs will remain a solid RB1 for Week 11 against the New York Giants.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 11,
+  "team": "GB",
+  "opp": "NYG",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 40,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 48
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209502",
+  "title": "Kyren Williams Suffers Apparent Leg Injury in Week 13, Status Unclear",
+  "description": "Los Angeles Rams running back Kyren Williams (leg) is \"headed to the locker room two minutes before halftime\" in his team's Week 13 matchup against the Carolina Panthers, according to Adam Grosbard of the Los Angeles Daily News. Grosbard reports that Rams trainers were examining Williams' right leg. The 25-year-old recorded seven carries for 39 yards before exiting the game. If he's unable to return, Rams running back Blake Corum would likely handle the vast majority of the team's backfield work for the remainder of Week 13. Corum recorded five carries for 41 yards and a touchdown in the first half against Carolina. Fantasy managers should check back as more information is released around the exact nature of Williams' injury.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 14,
+  "team": "LAR",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204217",
+  "title": "Kareem Hunt Off Injury Report, Should Continue Getting Valuable Touches In Week 6",
+  "description": "Kansas City Chiefs running back Kareem Hunt will face the Detroit Lions in Week 6. Hunt was on the injury report with a calf injury, but practiced fully all week and was removed from the report ahead of this week's matchup. Hunt handled seven carries for 49 yards and two touchdowns in their Week 5 loss to the Jacksonville Jaguars. The veteran running back also caught one pass for eight yards last week. Hunt averaged 7.0 yards per carry against the Jaguars, but a 33-yard run boosted his average. Hunt managed just 16 yards on his other six carries in the contest for a 2.7 yards per carry average. The 30-year-old has failed to average at 4.0 yards per carry in four of five games this season, but Kansas City has still given him the most valuable touches out of the backfield. Hunt is the primary goal-line and passing downs back for the Chiefs despite his inefficiency, and that trend should continue this week. Kansas City will take on the Lions in a game where the O/U is 52.5 and the Chiefs are favored by 2.5 points. There should be plenty of scoring in this week's contest, and Hunt could be the one scoring touchdowns in this Chiefs backfield. Hunt is ranked RB35 in our RotoBaller Half-PPR rankings, putting him in the RB3 conversation this week.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 6,
+  "team": "KC",
+  "opp": "DET",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 46
+}

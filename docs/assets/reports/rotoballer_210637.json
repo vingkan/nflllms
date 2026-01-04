@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210637",
+  "title": "Dare Ogunbowale Could Get More Work",
+  "description": "Houston Texans running back Dare Ogunbowale made the most of his lone carry last week, scampering five yards for a touchdown against the Chiefs. The 31-year-old veteran played only one snap, filling in while Nick Chubb (ribs) and Woody Marks (knee) were temporarily unavailable. He has four carries for 23 yards and a touchdown, along with five catches for 36 yards all season long, but he could be the team's primary backup this week since Chubb is questionable for Week 15 against the Cardinals. The Cardinals are a great matchup for running backs, and if Ogubowale ends up playing meaningful snaps, he has some flier upside. He's only the RB61 in RotoBaller's rankings, though, so he's best left on the waiver wire in most formats. It is worth watching to see if he'll be the primary backup, though, since Marks usually works in a rotation.",
+  "player_id": 4718,
+  "player_name": "Dare Ogunbowale",
+  "week": 15,
+  "team": "HOU",
+  "opp": "ARI",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 40
+}

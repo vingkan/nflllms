@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207392",
+  "title": "Blake Corum Now a Standalone Fantasy Option?",
+  "description": "Los Angeles Rams backup running back Blake Corum has now seen double-digit carries in three straight games for the Rams as he continues to see more work alongside starter Kyren Williams. In Sunday's 42-26 win over the San Francisco 49ers in Week 10, Corum tied a season high with 13 rushing attempts for 56 yards while playing a season-high 39% of the offensive snaps. It helped the 24-year-old's cause that L.A. pulled away by multiple scores in the second half, but fantasy managers cannot ignore the fact that he has 38 carries for 151 yards (4.0 yards per rush) in the last three contests. The downside is the fact that Corum hasn't scored since Week 2, and he has only four receptions for 15 yards on eight targets on the season. Corum is definitely touchdown-dependent and continues to work behind Williams, but his increased involvement in a high-scoring offense at least makes him worth RB3/flex consideration in deeper leagues heading into a Week 11 divisional showdown against the Seattle Seahawks.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 11,
+  "team": "LAR",
+  "opp": "SEA",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 61
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206247",
+  "title": "Jacory Croskey-Merritt Falls to RB3 Territory For Tough Week 9 Matchup",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt has struggled since his Week 5 breakout against the Chargers, where he racked up 150 total yards and two touchdowns, finishing as the RB5 in PPR points for the week. Croskey-Merritt has recorded 39 carries for 119 yards to go with only two receptions for six yards on four targets and no touchdowns in the last three games. The rookie seventh-rounder has maintained a healthy snap share at 57.3%, but No. 2 running back Jeremy McNichols has served as the pass-down back and performed well in his opportunities. Croskey-Merritt is clearly the preferred option on early downs, but the lack of receiving is a hit to the ways he can produce for fantasy. The return of star quarterback Jayden Daniels will certainly help open up some rushing lanes, but Croskey-Merritt has a tough matchup against a Seahawks defense that is allowing the fewest yards per carry (3.3) and tied for the fewest rushing touchdowns (two) in the league through seven games. He is ranked as RotoBaller's RB30 in PPR formats for Sunday Night Football.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 9,
+  "team": "WAS",
+  "opp": "SEA",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

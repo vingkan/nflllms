@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207466",
+  "title": "TreVeyon Henderson Poised for Another Big Game",
+  "description": "New England Patriots rookie running back TreVeyon Henderson (knee) will look to build on his breakout performance heading into Week 11. He was on this week's injury report with a knee injury, but was able to practice in full on Tuesday. Henderson dominated the backfield in Week 10, racking up 150 scrimmage yards and two touchdowns on 15 touches to help lead the Patriots past the Tampa Bay Buccaneers. Fantasy managers had been waiting for Henderson to get his opportunity, and he capitalized in a big way, playing 84% of the snaps after Rhamondre Stevenson (toe) was ruled out and Terrell Jennings (knee) exited early. With both backs still limited in practice ahead of Thursday night's matchup against the New York Jets, Henderson could be in line for a workhorse role and another big fantasy outing in Week 11.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 19,
+  "tgt": 5,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 5,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 3
+}

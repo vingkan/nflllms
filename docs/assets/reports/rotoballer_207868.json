@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207868",
+  "title": "Kyren Williams Has Reduced Rushing Upside in Tough Matchup Sunday",
+  "description": "Los Angeles Rams running back Kyren Williams is preparing for one of his toughest matchups of the season as he faces the Seattle Seahawks in Week 11. The Seahawks have been very strong against the run, allowing the fewest rushing yards, third-fewest rushing touchdowns, and seventh-fewest fantasy points to opposing running backs in 2025. Those figures don't bode well for Williams, who, despite ranking as the overall RB9 in PPR leagues with 4.5 YPC, has been forced to share some of his volume with Blake Corum. Seattle can severely limit running backs' efficiency, so handling a heavy dose of touches is Williams' best chance of slowly racking up yardage and perhaps getting an extra chance to break off a big run. With Corum as a persistent thorn in his side, Williams' rushing upside is significantly lower. With that all being said, Williams could make a significant impact as a pass catcher. The Seahawks have allowed the second-most catches and the third-most receiving yards to running backs this year. Even if Williams' rushing upside is limited, he could still salvage his fantasy performance with a productive day as a receiver. Managers can continue to deploy him as a fringe top-12 running back in fantasy football.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 11,
+  "team": "LAR",
+  "opp": "SEA",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 91,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 15
+}

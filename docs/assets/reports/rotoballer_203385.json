@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203385",
+  "title": "Justice Hill In Line for More Playing Time Amidst Ravens' Injury Woes?",
+  "description": "Baltimore Ravens running back Justice Hill had his best game of the 2025 season in Week 4, recording 117 yards from scrimmage and two touchdowns on eight touches. Hill has just eight carries through four games this season and should not be expected to steal much rushing work away from Ravens RB1 Derrick Henry. However, Hill has 12 catches for 107 yards and a touchdown on 15 targets, and appears locked in as the team's primary passing-downs back. With Ravens quarterback Lamar Jackson (hamstring) potentially facing a multi-week absence and the team's defense struggling, Baltimore could be chasing points more frequently over its next few games than in years past. That would unquestionably be a good thing for Hill's fantasy outlook. He profiles as a low-end flex option in PPR leagues heading into a Week 5 matchup against the Houston Texans.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 5,
+  "team": "BAL",
+  "opp": "HOU",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

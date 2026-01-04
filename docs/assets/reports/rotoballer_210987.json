@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210987",
+  "title": "Rico Dowdle Scores Rushing Touchdown and 54 Scrimmage Yards in Week 15",
+  "description": "Carolina Panthers running back Rico Dowdle rushed for 49 yards on 16 carries with one touchdown in Carolina's Week 15 loss to New Orleans on Sunday. He added five receiving yards on one reception and totaled 12.4 PPR points. Dowdle outperformed Chuba Hubbard, who registered 38 scrimmage yards and 4.8 PPR points. Despite the workload being mostly split between the two RBs, Dowdle logged the most snaps (60%). In Week 16, the Panthers will face their NFC South rival, the Tampa Bay Buccaneers. Tampa Bay ranked 16th in fantasy points per game allowed to the RB position in the last four weeks leading up to Week 15. Even though Dowdle has a middling matchup this week, he is still worth starting as an RB2 or flex option based on his volume. In his last five games, he has fewer than 16 carries once, and he averaged 15.4 carries per game.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 16,
+  "team": "CAR",
+  "opp": "TB",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 29,
+  "receiving_catches": 4,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 39
+}

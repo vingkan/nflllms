@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209119",
+  "title": "Kyle Monangai Emerging as Bears Lead Back?",
+  "description": "Chicago Bears rookie running back Kyle Monangai out-snapped D'Andre Swift 34 to 26 in Week 12's win over the Pittsburgh Steelers. Monangai finished with 12 carries for 48 yards and a touchdown in the game, while Swift had eight carries for 15 yards with one reception (one target) for 14 yards. That decision was impacted by Swift losing a fumble, but it could lead to more opportunities for Monangai in future weeks. It was the first game all season where the rookie seventh-rounder played more snaps than Swift, with both players active. Monangai seemingly has the upper hand in goal-line work as well, recording a team-high five carries inside the 10-yard line over the past three weeks and finding the end zone in three straight games. He carries FLEX value with solid touchdown upside for Black Friday's matchup against the Philadelphia Eagles.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 13,
+  "team": "CHI",
+  "opp": "PHI",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 130,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 8
+}

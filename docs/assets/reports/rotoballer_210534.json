@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210534",
+  "title": "Emanuel Wilson Has Major Upside Given Injury Uncertainty in Green Bay",
+  "description": "Green Bay Packers running back Emanuel Wilson has spent the majority of the 2025 season in a backup role to his superstar teammate, running back Josh Jacobs (knee). However, Jacobs is battling a lingering knee injury that has held him out of practice on both Wednesday and Thursday heading into the team's Week 15 matchup against the Denver Broncos. In the one game that Jacobs has missed so far this season, Wilson recorded 125 scrimmage yards and two touchdowns on 30 touches against the Minnesota Vikings. If Jacobs were to miss additional time, Wilson would immediately vault into being a clear starting fantasy running back. Along with the potential for playing time, Wilson has proven himself capable of solid production. Across 37 career NFL games, he's averaged 4.6 yards per carry and scored eight touchdowns. Until Jacobs proves to be fully clear of the knee injury that has plagued him since Week 11, Wilson is a must-roster player with league-winning upside.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 77
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211866",
+  "title": "David Montgomery Questionable to Play With Illness",
+  "description": "Detroit Lions running back David Montgomery (illness) is considered questionable to play in Thursday's Christmas Day game versus the division-rival Minnesota Vikings due to an illness, according to the team's official website. Montgomery was added to the Week 17 injury report after not practicing on Tuesday while feeling under the weather. The 28-year-old returned to a limited practice on Wednesday, though, and he should be active for a must-win game on the road in Minnesota. If for some reason Monty still isn't feeling well on Thursday, Sione Vaki and Jacob Saylors would split RB2 duties for the Lions behind Jahmyr Gibbs. Montgomery has been the clear RB2 this year behind Gibbs, giving him touchdown-dependent RB3/flex value most weeks. He does have eight rushing TDs on the year in 15 games, but Montgomery hasn't had double-digit carries in a game since Nov. 9.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 17,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 25,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 39
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204542",
+  "title": "D'Andre Swift Breaks Out for 175 Total Yards and Touchdown in Win",
+  "description": "Chicago Bears running back D'Andre Swift gashed Washington for 108 yards on 14 carries and added two catches (three targets) for 67 yards through the air on Monday night, including a 57-yard touchdown. Swift was efficient on his carries all night as the Bears consistently used him on outside runs and got him into space. His 108 rushing yards were his most in a game since last season against Washington, when he ran for 129 yards on 18 carries. The 26-year-old entered the night averaging just 3.3 yards per carry, but more than doubled that with an impressive 7.7 yards per attempt in this game. This breakout performance could signal better days for Swift in the future, and he'll rank in RB2 territory for Week 7 against the Saints.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 7,
+  "team": "CHI",
+  "opp": "NO",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 124,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 6
+}

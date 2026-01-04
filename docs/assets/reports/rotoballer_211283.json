@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211283",
+  "title": "Javonte Williams Remains Limited on Thursday",
+  "description": "Dallas Cowboys running back Javonte Williams (neck) was a limited participant in practice on Thursday. The 25-year-old has been limited for two consecutive days, creating some uncertainty about his status ahead of Sunday's Week 16 contest against the Los Angeles Chargers. Williams hasn't missed a game yet this season, but he's coming off a season-low 29% snap share as the neck injury limited his usage last weekend against the Minnesota Vikings. He touched the ball nearly every time he was on the field, amassing 15 carries for 91 rushing yards and a touchdown despite playing fewer than one-third of the snaps. Williams could see a similarly reduced workload in Week 16, if he does suit up. We should get more clarity on his status when the Cowboys post their final injury report with injury designations on Friday afternoon. If active, he'll remain a low-end RB1 against a Chargers defense surrendering the eighth-most rushing touchdowns to opposing running backs in 2025.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 47
+}

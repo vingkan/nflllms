@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208279",
+  "title": "Lions Looking to Get the Ball to David Montgomery More?",
+  "description": "Detroit Lions head coach Dan Campbell said he'd \"always\" like to get running back David Montgomery more carries, according to Eric Woodyard of ESPN. Montgomery does have double-digit rushing attempts in seven of 10 games this year, including in three of the last four games. But he was more of an afterthought in Sunday night's 16-9 loss to the Philadelphia Eagles, carrying the ball only six times for 27 yards and catching his only target for 10 yards. The game script in Week 11 was not in the 28-year-old's favor, that's for sure. Detroit should have a better game script this weekend on the road against the one-win Tennessee Titans, so fantasy managers will be banking on him getting more involved on the ground again. Backfield mate Jahmyr Gibbs is much more dynamic than Montgomery in both the run and pass game, which has made Monty more of a touchdown-dependent RB3/flex in fantasy in 2025.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 12,
+  "team": "DET",
+  "opp": "NYG",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 18,
+  "receiving_catches": 3,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 33
+}

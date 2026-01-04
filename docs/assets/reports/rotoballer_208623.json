@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208623",
+  "title": "Devin Neal Could See a Larger Role Against the Falcons",
+  "description": "New Orleans Saints running back Devin Neal logged four carries for 22 yards and reeled in all three of his targets for nine yards in the Week 10 victory against the Panthers. Over his last two games, Neal has recorded seven rushes for 33 yards along with four receptions for 10 yards. Despite his low usage while backing up Alvin Kamara, Neal averages 4.3 yards per carry, which leads all running backs on the Saints. His role could increase this week, as Kamara is listed as questionable with an ankle injury for the third straight game. While Kamara has yet to miss a game, if he's forced to sit this one out, Neal will have RB2 upside against a Falcons defense allowing 138.5 rushing yards per game, 28th in the league.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 12,
+  "team": "NO",
+  "opp": "ATL",
+  "att": 7,
+  "tgt": 7,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 18,
+  "receiving_catches": 5,
+  "receiving_yards": 43,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 23
+}

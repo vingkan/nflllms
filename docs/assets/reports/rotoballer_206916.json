@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206916",
+  "title": "Chris Rodriguez Jr. Primed For Larger Role in Week 10",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. is primed to take on a bigger workload in Week 10 against the Detroit Lions. Rodriguez was named a team captain for Sunday's matchup, and coming off his best game of the season in Week 9 against the Seahawks, the 25-year-old is poised to see an increased workload. Rodriguez played 35.5% of the team's snaps in Week 9, which was his highest in a game since Week 4, and handled a season-high 12 carries for 65 yards and a touchdown. The third-year back out of Kentucky is a physical, downhill-style runner who has earned more opportunities with how hard he's run in his limited opportunities. Rookie Jacory Croskey-Merritt has led Washington's backfield in carries this season, but struggled over the past four games, averaging just 3.1 yards per carry. Rodriguez is in line to at least split early-down work with Croskey-Merritt in Week 10 and has the potential to emerge as the team's primary ball-carrier.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 36
+}

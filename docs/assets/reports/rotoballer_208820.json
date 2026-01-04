@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208820",
+  "title": "Emanuel Wilson Scores Twice Against the Vikings",
+  "description": "Green Bay Packers third-year running back Emanuel Wilson had a career day on Sunday against the Vikings, rushing for a career-high 107 yards on 28 carries and punching in two touchdowns. Both of his rushing touchdowns were from one yard out. He chipped in another 18 yards on two receptions through the air as well, good for 25.5 fantasy points in half PPR formats. Wilson stepped in on Sunday for an injured Josh Jacobs (knee) and delivered an excellent performance for his fantasy managers who have been proactively stashing him or got him through waivers last week. Wilson will continue to have plug-and-play RB2 value as long as Jacobs remains sidelined; however, if Jacobs returns, Wilson will likely stay involved but will be hard to trust in starting lineups given the volume he would be expected to handle. At this time, Wilson should not be on waivers in most 10-team or larger formats.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 13,
+  "team": "GB",
+  "opp": "DET",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 69
+}

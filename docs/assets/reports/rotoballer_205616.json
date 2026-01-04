@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205616",
+  "title": "Isaiah Davis Could See More Work With Hall Dinged Up",
+  "description": "In three games since seizing the New York Jets' backup running back role, second-year pro Isaiah Davis has yet to make an impact. That said, it could come to fruition this Sunday when the team takes on a sieve-like Cincinnati Bengals defense. When teammate Braelon Allen (knee) went down with a knee injury, Davis immediately stepped into the latter's role, backing up starter Breece Hall (knee). In those three games, though, the South Dakota State product has accumulated just 17 yards on five carries, adding 49 yards through the air on 6-of-9 receiving. It isn't very inspiring, but the stage is set for him to see more work while Hall battles a knee injury. The sentiment appears to be that Hall will play. If that doesn't work out, the 23-year-old will handle a majority of New York's backfield touches with teammate Khalil Herbert working behind him. If Hall is active, Davis figures to occupy his primary role as a change-of-pace option, potentially garnering a slight boost in work due to the former's knee issue. He's RotoBaller's PPR RB34 ahead of Sunday's contest with the Bengals.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 8,
+  "team": "NYJ",
+  "opp": "CIN",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 5,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 11
+}

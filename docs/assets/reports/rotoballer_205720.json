@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205720",
+  "title": "Isiah Pacheco Should Find Success In Week 8",
+  "description": "Kansas City Chiefs running back Isiah Pacheco will take on the Washington Commanders in Week 8. The Chiefs running back handled 15 carries for 57 yards and a touchdown in their 31-0 victory over the Las Vegas Raiders in Week 7. Pacheco has seemingly taken over the lead role out of the Kansas City backfield, handling at least 12 carries and 50 yards in each of the past two weeks. Pacheco has quietly been efficient with his touches, averaging at least 4.5 yards per carry in more than half of his games. The struggles of the Kansas City run game early on could more likely be attributed to the inefficiency of Kareem Hunt and the team's dedication to keeping him involved. Pacheco should continue being the lead back this week against the Commanders, who have been middle-of-the-pack in fantasy points allowed to opposing running backs this season. The 26-year-old back should see a high volume of touches in a home game that the Chiefs have favored by nearly 12 points. Pacheco is ranked RB23 in our RotoBaller Half-PPR rankings, making him a low-end RB2 option on Monday night.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 8,
+  "team": "KC",
+  "opp": "WAS",
+  "att": 12,
+  "tgt": 0,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 58,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 37
+}

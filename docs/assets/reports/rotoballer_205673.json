@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205673",
+  "title": "D'Andre Swift Expected to Play, Poised for Big Week Against Ravens",
+  "description": "Chicago Bears running back D'Andre Swift (groin) is once again listed as questionable for Week 8 but is expected to play. Since returning from the team's Week 5 bye, Swift has been on fire, totaling 313 yards and two touchdowns on just 36 carries over his last two games. The Bears have seemingly found their rhythm on the ground, with both Swift and rookie Kyle Monangai posting their best performances of the season in recent weeks. That success should continue in Week 8 against the Baltimore Ravens, who have allowed the second-most fantasy points to running backs this year. Assuming he suits up, Swift should be viewed as a high-end RB2 with strong upside in this favorable matchup.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

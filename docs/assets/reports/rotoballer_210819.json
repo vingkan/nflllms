@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210819",
+  "title": "Christian McCaffrey Questionable for Sunday With Back Injury",
+  "description": "San Francisco 49ers running back Christian McCaffrey (back) has been added back to the Week 15 injury report and is now listed as questionable for Sunday's game against the Tennessee Titans due to a back injury, according to Matt Barrows of The Athletic. It's a concerning sign to see the superstar back be added to the Week 15 injury report this late in the week, so his status needs to be monitored up until gametime on Sunday. McCaffrey has handled the biggest workload in the league this season with 322 touches in 13 games and has arguably been the best player in fantasy football. Fantasy managers should rush to pick up Brian Robinson Jr. if he is available, as he would be in line for a workhorse role on Sunday in a solid matchup against the Titans if McCaffrey ends up being ruled out.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

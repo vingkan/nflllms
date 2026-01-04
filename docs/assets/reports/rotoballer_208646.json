@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208646",
+  "title": "Bam Knight Has No Injury Designation in Week 12's Matchup Against the Jaguars",
+  "description": "Arizona Cardinals running back Bam Knight (ankle) was a full participant in Friday's practice and will play in their Week 12 matchup against the Jacksonville Jaguars. Knight had been battling an ankle injury all week, but will lead the Cardinals' backfield with teammate Emari Demercado (ankle) being ruled out for Sunday with an ankle injury. Trey Benson (knee) was also ruled out, despite having his 21-day practice window opened earlier this week. Heading into Week 12, Knight is RotoBaller's 31st-ranked running back in PPR Leagues against a stout Jaguars run defense. The Jaguars have allowed the fewest rushing yards and the fourth fewest rushing touchdowns this season. Knight is a touchdown-dependent flex option in a tough matchup against the Jaguars.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 12,
+  "receiving_catches": 4,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 16
+}

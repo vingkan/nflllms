@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202985",
+  "title": "Rico Dowdle Trending Up Despite Teammate Being Healthy?",
+  "description": "Carolina Panthers running back Rico Dowdle could continue to have low-end fantasy value even if teammate Chuba Hubbard (calf) suits up against the New England Patriots in Week 4. The veteran had 38 scrimmage yards on 11 touches last week, and he also vultured a touchdown from Hubbard to score double-digit fantasy points for the first time this season. In order to get back to the double-digit range, Dowdle would likely need to find the end zone again this week. That's certainly possible, of course, as New England has surrendered three running back touchdowns through three games so far. With that said, Dowdle was +170 to score a touchdown on Saturday, but his odds have shifted to +350 on DraftKings as of Sunday morning.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 4,
+  "team": "CAR",
+  "opp": "NE",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 32,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 51
+}

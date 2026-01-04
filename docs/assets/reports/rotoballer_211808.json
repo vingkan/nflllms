@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211808",
+  "title": "Raheim Sanders to Lead Browns Backfield in Week 17?",
+  "description": "Cleveland Browns rookie running back Raheim Sanders had 11 carries for 42 yards in the 23-20 loss to the Buffalo Bills in Week 16. Sanders saw a role due to the season-ending leg injury to Quinshon Judkins. With Jerome Ford (shoulder) done for the season and Dylan Sampson (calf) unable to play in Week 16, Sanders led the team in carries. After Judkins went out, both Sanders and veteran Trayveon Williams split the backfield snaps (30%-30%). The Browns also face the Pittsburgh Steelers in Week 17, who shut down Lions running backs Jahmyr Gibbs and David Montgomery last week. The injury status of Sampson will determine \"Rocket's\" fantasy value this week, but fantasy managers should be cautious about trusting this backfield in Week 17.",
+  "player_id": 12472,
+  "player_name": "Raheim Sanders",
+  "week": 17,
+  "team": "CLE",
+  "opp": "PIT",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

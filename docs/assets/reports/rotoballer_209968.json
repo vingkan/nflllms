@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209968",
+  "title": "Ollie Gordon II Playing Very Limited Role",
+  "description": "Miami Dolphins running back Ollie Gordon II has been relegated to a minimal role recently, as the team gives more work to De'Von Achane. Gordon has gotten three carries or fewer in three of his last four games, and he only got 10 yards on his three carries against the Saints last week. He played 27% of snaps while Jaylen Wright played 10% of snaps and also had three carries, finishing with 16 yards. The rookie has shown a few glimpses of upside and scored a couple of touchdowns, but his role is so limited behind Achane that he is only a desperation play this week against the Jets. The Jets have been a great matchup for running backs this season, and especially recently, but it's uncertain if Gordon will get much work in Week 14. He's only the No. 48 RB in RotoBaller's rankings this week, so he can be left on the bench or waiver wire in most formats.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 14,
+  "team": "MIA",
+  "opp": "NYJ",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 34
+}

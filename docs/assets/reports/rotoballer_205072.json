@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205072",
+  "title": "David Montgomery Facing Difficult Matchup in Week 7",
+  "description": "Detroit Lions running back David Montgomery earned just four carries and two receptions in the team's Week 6 loss to the Kansas City Chiefs, the second time in his last three games that Montgomery has logged single-digit touches. The Lions are reportedly making it a focus to get the ball into Montgomery's hands more often heading into their Week 7 matchup against the Tampa Bay Buccaneers. However, Tampa Bay is currently allowing the fifth-fewest yards per carry (3.7) in the NFL so far this season, so it could be tough sledding on Monday night for Montgomery. When these two teams faced off in Week 2 of the 2024 season, Montgomery logged just 35 rushing yards on 11 carries, although he did haul in four catches for 35 yards. Montgomery is still a decent bet to find the end zone even if he struggles from a yardage perspective, which makes him a high-end flex option for fantasy managers in Week 7.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 7,
+  "team": "DET",
+  "opp": "TB",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 2,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 37
+}

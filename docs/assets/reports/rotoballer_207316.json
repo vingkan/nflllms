@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207316",
+  "title": "Emari Demercado Gets by on Big Plays",
+  "description": "Arizona Cardinals running back Emari Demercado had only seven total touches in Sunday's blowout loss to the Seahawks. Still, he was able to salvage a respectable fantasy performance on the back of two big plays, a 55-yard fourth-quarter rush, and a 34-yard catch and run on a first-half dumpoff. He finished the day with 104 yards and looked like the Cardinals' most explosive back for the second straight week. Unfortunately, he still finds himself in a near 50/50 time share with Bam Knight, making him little more than a desperation flex play until Trey Benson (knee) returns from the knee injury that has now cost him five games. The Cardinals face the 49ers in Week 11, an above-average matchup for running backs, and Demercado represents a high-risk/moderate-reward on this week's waiver wire.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 8,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 47
+}

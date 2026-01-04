@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208728",
+  "title": "Emanuel Wilson Set to Start for Packers in Week 12",
+  "description": "Green Bay Packers running back Emanuel Wilson is expected to start Sunday's Week 12 game against the Minnesota Vikings after Josh Jacobs (knee) was ruled out for the contest. Jacobs was a game-time decision coming into this weekend, and the Packers ultimately decided to hold him out. Wilson will remain the Packers' primary running back, which is the role he occupied after Jacobs departed last Sunday's game early in the second quarter. The 26-year-old finished that game with 11 carries, 40 rushing yards, and one rushing touchdown, plus a nine-yard reception. The trip to the end zone salvaged his fantasy performance, and he'll look to contribute even more this Sunday with greater volume, more passing-down work, and perhaps more goal-line opportunities. He ranks as a fringe top-24 fantasy running back against a Vikings defense that has allowed the 10th-most rushing yards to running backs in 2025, but the 11th-fewest fantasy points to the position.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 12,
+  "team": "GB",
+  "opp": "MIN",
+  "att": 28,
+  "tgt": 2,
+  "touches": 30,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 107,
+  "receiving_catches": 2,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 3
+}

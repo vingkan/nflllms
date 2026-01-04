@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211295",
+  "title": "Kenneth Walker III Breaks Off Long Touchdown in Comeback Win vs. Rams",
+  "description": "Seattle Seahawks running back Kenneth Walker III had 11 carries for 100 rushing yards and one rushing touchdown during Thursday's Week 16 win over the Los Angeles Rams in overtime. He also caught all three of his targets for an additional 64 receiving yards. The highlight of Walker's game was a 55-yard rushing touchdown in the third quarter that temporarily gave Seattle the lead. The 25-year-old bounced back in a huge way after posting fewer than 4.0 fantasy points in each of his last two games. Walker only played 44% of the snaps on Thursday night, while teammate Zach Charbonnet played 56%. However, Walker was more productive than his backfield-mate, and he also handled more total touches. Managers should expect the fourth-year back to remain in the low-end RB2 tier for fantasy football ahead of a favorable matchup against the Carolina Panthers in Week 17.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 17,
+  "team": "SEA",
+  "opp": "CAR",
+  "att": 15,
+  "tgt": 2,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 51,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 32
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207246",
+  "title": "TreVeyon Henderson Capitalizes on Increased Opportunity with Two Scores",
+  "description": "New England Patriots running back TreVeyon Henderson had 14 carries for 147 rushing yards and two rushing touchdowns during Sunday's Week 10 win over the Tampa Bay Buccaneers. He also converted his lone target into a three-yard reception. The rookie essentially had the backfield all to himself with Rhamondre Stevenson (toe) sidelined and Terrell Jennings (knee) exiting in the first quarter. While Henderson's performance was nothing short of impressive, it's worth noting that the bulk of his production came on the two touchdown runs, which went for 55 and 69 yards. On non-touchdown runs, he was averaging just 1.9 yards per carry. Fantasy managers would like to see Henderson break off efficient runs more consistently going forward. Nevertheless, Sunday's huge game was a step in the right direction, and he should continue to be viewed as a strong RB2 option against the Jets.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 19,
+  "tgt": 5,
+  "touches": 24,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 5,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 3
+}

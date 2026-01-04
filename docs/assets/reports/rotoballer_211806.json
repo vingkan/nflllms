@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211806",
+  "title": "Michael Carter Has League-Winning Upside in Week 17",
+  "description": "Arizona Cardinals running back Michael Carter had 11 carries for 65 yards in the 26-19 loss to the Atlanta Falcons. The Cardinals have been decimated by injuries this season, especially in their RB room. James Conner (ankle), Trey Benson (knee), and Bam Knight (ankle) are all on injured reserve, leaving Carter and Emari Demercado as the two lead backs. Carter played 54% of the snaps and led the team in carries, while Demercado played 30% of the snaps. Their Week 17 matchup brings some upside, as they face the Cincinnati Bengals, who have allowed the most fantasy points to running backs this season. While he entered the season as an afterthought in Arizona, he could determine fantasy championships this week and offers low-end RB2 value against this struggling Bengals defense.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 17,
+  "team": "ARI",
+  "opp": "CIN",
+  "att": 7,
+  "tgt": 4,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 29,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 38
+}

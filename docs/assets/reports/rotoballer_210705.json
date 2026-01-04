@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210705",
+  "title": "Christian McCaffrey Has Juicy Matchup In Week 15",
+  "description": "San Francisco 49ers running back Christian McCaffrey (illness) gave fantasy football managers a scare when he popped up on the team's injury report earlier this week, raising concern over his availability in Week 15. Fortunately, McCaffrey got in a full session on Friday and has been cleared for Sunday. CMC will be able to take advantage of an inviting matchup against the Titans, who have given up 4.49 yards per carry and 17 total touchdowns to running backs in 2025. San Francisco's offense has run through McCaffrey this season, who not only has the third-most rushing attempts in the NFL (237) but also ranks fifth in receptions (85). McCaffrey has finished as a top-12 running back in 12 of the 49ers' 13 games, and he will be in the mix again in the first round of the fantasy football playoffs.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209326",
+  "title": "Jaylen Wright Loses Steam with Backfield at Full Health",
+  "description": "Miami Dolphins running back Jaylen Wright slid back down the team's backfield hierarchy in Week 11's 16-13 win against the Washington Commanders, handling one tote for a gain of four yards. Wright picked up a decent amount of carries (five) in the game prior, with teammate Ollie Gordon II battling an ankle issue. However, he was back to third in the pecking order, with the latter injury-free, and, for the most part, has played a tertiary role in Miami's attack while dealing with injuries of his own in 2025. With Gordon II working as the primary change-of-pace option, and De'Von Achane dominating touches at the position, Wright can be left to waiver-wire fodder in redraft leagues for the time being.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 13,
+  "team": "MIA",
+  "opp": "NO",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 67
+}

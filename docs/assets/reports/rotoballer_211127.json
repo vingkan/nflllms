@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211127",
+  "title": "Jacory Croskey-Merritt Could See More Touches Moving Forward",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt operated as the team's lead runner in Week 15, with Chris Rodriguez Jr. (groin) ruled out with a groin injury. Croskey-Merritt delivered a strong performance, handling 18 carries for 96 yards and a touchdown in Washington's win over the New York Giants. Jeremy McNichols actually drew the start for Washington, but JCM ended up doubling him in carries. The rookie seventh-rounder found the end zone for the first time since his breakout performance in Week 5 against the Los Angeles Chargers, where he totalled 150 yards and two touchdowns. JCM looked decisive and explosive against the Giants, who notably have one of the worst run defenses in the league, but it was great to see the rookie deliver for fantasy managers who plugged him into their lineups for the first round of the fantasy playoffs. Croskey-Merritt could potentially work himself back into a more significant timeshare with McNichols and Rodriguez upon his return, creating a messy situation to sort through. He remains worth rostering and would project favorably again on Saturday against the Philadelphia Eagles if Rodriguez is out again on a short week.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 16,
+  "team": "WAS",
+  "opp": "PHI",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 25,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 36
+}

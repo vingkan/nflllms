@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208469",
+  "title": "Jonathan Taylor a Top-Three RB in Week 12 vs. Chiefs",
+  "description": "Indianapolis Colts running back Jonathan Taylor should be well-rested coming out of his Week 11 bye. Taylor has been one of the top players in fantasy this season, racking up 17 all-purpose touchdowns in just 10 games. The star running back will look to stay hot in a Week 12 road matchup against the Kansas City Chiefs. The Chiefs have been tough on running backs this season, allowing just the 26th-most fantasy points per game to the position. That being said, Taylor has been too dominant this season and will continue to see the bulk of the Colts' running-back touches. He settles in as a top-three fantasy running back heading into Week 12 in a game with a 50-point over/under.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 12,
+  "team": "IND",
+  "opp": "KC",
+  "att": 16,
+  "tgt": 3,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 28
+}

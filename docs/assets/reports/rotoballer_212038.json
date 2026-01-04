@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212038",
+  "title": "Tyrone Tracy Jr. Remains in High-Volume Role Ahead of Battle with Raiders",
+  "description": "New York Giants running back Tyrone Tracy Jr. continues to handle a high-volume role, and he should remain heavily involved ahead of Sunday's Week 17 contest against the Las Vegas Raiders. Tracy has emerged as the Giants' top back ahead of Devin Singletary ever since Cam Skattebo (ankle) was placed on season-ending injured reserve. He has played at least half of the snaps in six of his last eight games, including 76% of the snaps back in Week 15. In two games since the bye week, he has 31 carries, 141 rushing yards, five catches, 34 receiving yards, and two touchdowns. In addition to playing well recently, he's an intriguing fantasy option given his matchup against the Raiders, who have allowed the second-most rushing touchdowns and 10th-most fantasy points to opposing running backs in 2025. As it stands, Tracy ranks as the overall RB24 in RotoBaller's Week 17 rankings.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 17,
+  "team": "NYG",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

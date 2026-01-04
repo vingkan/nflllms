@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211920",
+  "title": "Samaje Perine Working Toward Fantasy Viability",
+  "description": "Cincinnati Bengals running back Samaje Perine has garnered a greater role in the offense since returning from an ankle injury a few weeks back, absorbing at least seven touches in four straight outings. Backfield mate Chase Brown has still operated as Cincinnati's clear lead back. However, Perine has begun eating into the former's workload on the ground, handling 14 carries in two of the last four contests. Over that four-game sample, the veteran has nearly doubled his rushing production on the season, while seeing eight opportunities in the red zone -- a stark contrast to the four he accrued through the campaign's first 12 weeks. As it stands, Brown is the best bet for fantasy production in the backfield, but Perine has evolved into one of the higher-end handcuffs in the league, offering some standalone flex appeal. He'll be a solid play against a Cardinals' defense that's yielded the second-most fantasy points per game to RBs (26.95).",
+  "player_id": 4147,
+  "player_name": "Samaje Perine",
+  "week": 17,
+  "team": "CIN",
+  "opp": "ARI",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 5,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

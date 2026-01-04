@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211081",
+  "title": "MarShawn Lloyd Unlikely to Play This Year",
+  "description": "After having another injury setback recently with his hamstring, Green Bay Packers running back MarShawn Lloyd (hamstring, calf) is unlikely to come off Injured Reserve and play this year, according to Ryan Wood of USA Today Sports. \"I'm not going to say no, but I think you can use deductive reasoning on that one,\" head coach Matt LaFleur said when asked if Lloyd can return this year. \"It's very, very, very unfortunate, because this guy has worked his ass off.\" The 24-year-old second-year RB suffered a hamstring injury in the preseason and then injured his calf while rehabbing, forcing him to IR before the start of the 2025 campaign. The Packers opened Lloyd's 21-day practice window at the beginning of December, but a recent setback with his balky hamstring has put an end to hopes that he'd be an asset for the Packers late in the year. He has played in just one career game for the Packers in two seasons, and his future in the league is in doubt going into Year 3.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

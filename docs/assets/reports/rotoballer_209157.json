@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209157",
+  "title": "Kenneth Walker III Remains Limited on Thursday",
+  "description": "Seattle Seahawks running back Kenneth Walker III (glute) was limited again in Thursday's practice. It was the second straight day Walker logged a limited session. The 25-year-old will have one more day to log a full practice ahead of Sunday's game against the Minnesota Vikings. He played through the glute injury during last week's win over the Tennessee Titans. Walker had 11 rushing attempts for 71 yards and added three receptions on four targets for 30 yards in the Week 12 win over Tennessee. He continues to share Seattle's backfield with Zach Charbonnet, but has out-touched Charbonnet 61 to 42 over the last four games. Walker is a solid RB2 against the Vikings and is ranked 21st among all running backs in the latest RotoBaller rankings for Week 13.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 13,
+  "team": "SEA",
+  "opp": "MIN",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 33
+}

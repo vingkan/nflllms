@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205168",
+  "title": "Javonte Williams Records Second 100-Yard Rushing Game in Week 7",
+  "description": "Dallas Cowboys running back Javonte Williams had his second 100-yard rushing performance of the season in the Week 7 victory over the visiting Washington Commanders on Sunday. In the 44-22 win, Williams was dominant on the ground, going for 116 yards and a touchdown on 19 carries (6.1 yards per carry). It was the 25-year-old's second game in 2025 with over 100 rushing yards, and it was a nice bounce-back effort after he had a season-low 29 ground yards on 13 carries in last week's loss to the Carolina Panthers. He added just one catch on four targets for a gain of two yards. Williams showed his bruising style of play and was able to pick up chunk gains out of the backfield against a weak Commanders defense on Sunday. He is averaging over 5.0 yards per tote in his first year in Dallas and is well on his way to a breakout in his fifth NFL season in Dallas' high-scoring offense. Williams has become a must-start RB2 in fantasy, but it could be tough sledding against his old team, the Denver Broncos, in a Week 8 showdown.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 8,
+  "team": "DAL",
+  "opp": "DEN",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 41,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

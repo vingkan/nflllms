@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211482",
+  "title": "Evan Hull to See More Opportunities Against Jets",
+  "description": "New Orleans Saints running back Evan Hull handled four carries for 12 yards in Week 15's victory against the Panthers. The 25-year-old saw additional work after Devin Neal exited in the second quarter with an injury. With Alvin Kamara (knee) and Neal (hamstring, IR) ruled out for Week 16, Hull is expected to share the backfield with Audric Estime. Hull's NFL opportunities have been limited, though he averaged 4.1 yards per carry and caught 55 passes at 9.9 yards per reception in his final season at Northwestern in 2022. The Jets present a favorable matchup in Week 16, ranking third in PPR points allowed to running backs and fourth in total rushing yards. Hull's usage should be monitored, and he is ranked RB48 on Rotoballer this week.",
+  "player_id": 9220,
+  "player_name": "Evan Hull",
+  "week": 16,
+  "team": "NO",
+  "opp": "NYJ",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 76
+}

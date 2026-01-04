@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203711",
+  "title": "Jonathan Taylor Records Another Touchdown Hat Trick in Big Win",
+  "description": "Indianapolis Colts running back Jonathan Taylor rushed 17 times for 66 yards and three touchdowns during Sunday's Week 5 win over the Las Vegas Raiders. He also caught three of four targets for an additional 20 receiving yards. While Taylor merely had modest yardage efficiency, he made up for it with his nose for the end zone. Taylor has had two different three-touchdown games over the last three weeks, and he ranks as the overall RB2 in fantasy football this season. He is also the league's leading rusher and has seven touchdowns. He should be deployed as a high-end RB1 every week, including next week against the Arizona Cardinals.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 6,
+  "team": "IND",
+  "opp": "ARI",
+  "att": 21,
+  "tgt": 4,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 123,
+  "receiving_catches": 4,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 8
+}

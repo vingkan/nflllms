@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204561",
+  "title": "Sean Tucker's Rushing Workload Could Continue to Increase",
+  "description": "In his team's second full game without starting running back Bucky Irving (foot, shoulder), Tampa Bay Buccaneers running back Sean Tucker saw his rushing workload increase. Tucker recorded six carries for 25 yards and a touchdown in Tampa Bay's 30-19 Week 6 win over the San Francisco 49ers. Tucker still appears to be firmly behind fellow Buccaneers back Rachaad White, who logged 20 total touches against San Francisco. Still, with Irving likely to remain sidelined through at least Week 7, Tampa Bay could be working Tucker into a larger role. At the very least, Tucker has value as a short-term handcuff option to White and should be rostered in all fantasy leagues with 12 or more teams.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 7,
+  "team": "TB",
+  "opp": "DET",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 63
+}

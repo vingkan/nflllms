@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210736",
+  "title": "Terrell Jennings Lands on Injured Reserve Ahead of Week 15",
+  "description": "New England Patriots running back Terrell Jennings (concussion) has been placed on injured reserve and will miss the final four games of the regular season, according to Ian Rapoport of NFL.com. Rapoport adds that the Patriots expect Jennings to return for the team's playoff run. Jennings impressed while sharing touches with TreVeyon Henderson for a small stretch of games earlier this season, but he fell back to the No. 3 spot on the depth chart when Rhamondre Stevenson returned to action in Week 13. The 24-year-old has been a solid depth option within this backfield, amassing 73 rushing yards, nine receiving yards, and one touchdown through seven games. New England lacks reliable backfield depth behind Henderson and Stevenson now that Jennings, Antonio Gibson (knee), Deneric Prince (undisclosed), and Craig Reynolds (undisclosed) are all sidelined for extended periods of time. The Patriots will likely elevate D'Ernest Johnson from the practice squad to replace Jennings for Week 15.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 15,
+  "team": "NE",
+  "opp": "BUF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

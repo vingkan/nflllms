@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210945",
+  "title": "D'Andre Swift Falls Just Shy of 100 Rushing Yards, Scores Twice in Week 15",
+  "description": "The Chicago Bears continued to enforce their will on the ground in Sunday's 31-3 blowout win over the visiting Cleveland Browns on Sunday, and running back D'Andre Swift was a big part of that. The 26-year-old had a team-high 18 rushing attempts for 98 yards while scoring twice on the ground. Swift added only one catch on one target for a loss of two yards. Rookie Kyle Monangai continued to play a key role in Chicago's backfield next to Swift, but he averaged just 3.0 yards on his 11 carries. The Bears leaned on Swift late in the game with a big lead, as he had nine carries for 56 yards in frigid temperatures in Chicago. This was Swift's first multi-touchdown game of the year. He's been a must-start in fantasy lineups with at least 80 scrimmage yards in five of his last six games. However, it could be tough sledding for Swift in a Week 16 rematch with the division-rival Packers. He had 13 carries for 63 yards just last week in the loss to Green Bay.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 16,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 35
+}

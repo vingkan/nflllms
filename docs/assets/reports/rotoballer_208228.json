@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208228",
+  "title": "Bhayshul Tuten Holds Low-End RB2 Value if Healthy on Sunday",
+  "description": "Jacksonville Jaguars rookie running back out of Virginia Tech, Bhayshul Tuten (ankle), exited during the third quarter of Sunday's Week 11 contest against the Los Angeles Chargers with an ankle injury and didn't return. Important to note: he mentioned in an interview with Jamal St. Cyr, Sports Anchor for News4JAX, that his ankle is \"good.\" Now, players are usually going to always say things like that, especially after a career day where he appeared to be in a 50/50 split with Travis Etienne from the first snap of the game for the first time all season. Regardless, Tuten was one of the most prized possessions on the waiver wire this week, and for good reason; he averaged a healthy 4.93 YPC in Week 11 and looked really efficient, breaking tackles and racking up yards after contact. With ETN in the picture, it's unlikely that Tuten will take over the backfield; however, moving forward, this may be more of a 50/50 split, giving both running backs low-end RB2 status. Fantasy managers will want to keep tabs on Tuten's practice logs this week, as they prepare to take on the Arizona Cardinals, who rank in the bottom 10 in fantasy points allowed to the running back position.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 55
+}

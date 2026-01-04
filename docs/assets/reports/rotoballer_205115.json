@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205115",
+  "title": "Trey Benson Remains Sidelined in Week 7",
+  "description": "Arizona Cardinals running back Trey Benson (knee) remains on injured reserve for at least another two weeks as the Cards attempt to make do with a committee ahead of Week 7 against Green Bay. The Florida State product was a surprising addition to injured reserve after playing more than half of the Cards' Week 4 game against Seattle, though the team expects him to return this season. The team activated running back D'Ernest Johnson this week and has previously featured a rotation that has included Michael Carter, Emari Demercado, and Bam Knight. From a fantasy perspective, it's been tough to rely upon any of them with the team cycling through so many players.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 7,
+  "team": "ARI",
+  "opp": "GB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

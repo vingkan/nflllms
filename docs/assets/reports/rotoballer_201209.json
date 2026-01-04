@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201209",
+  "title": "Austin Ekeler Has Flex Appeal in Tough Week 2 Matchup",
+  "description": "Washington Commanders running back Austin Ekeler operated mostly as the team's lead back in Week 1 against the Giants, leading the backfield with 32 snaps out of 65 plays. He only touched the ball nine times for the game, but was again efficient with 57 yards. The roles are still fairly fluid in the Washington backfield, but Week 1 could be instructive for how it might look going forward. Washington essentially gave Ekeler and Croskey-Merritt their own drives against the Giants, which is interesting. Ekeler was out-carried by Croskey-Merritt 10 to six, and the rookie could continue to earn more touches as the season goes on. Ekeler faces another stiff test against the Packers' defense that held Lions superstar running back Jahmyr Gibbs to just 50 yards on 19 touches. He should be looked at as a quality FLEX with projectable volume for Week 2.",
+  "player_id": 4663,
+  "player_name": "Austin Ekeler",
+  "week": 2,
+  "team": "WAS",
+  "opp": "GB",
+  "att": 8,
+  "tgt": 4,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 17,
+  "receiving_catches": 2,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 49
+}

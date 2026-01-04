@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208814",
+  "title": "Jonathan Taylor Quiet in Week 12 Loss to Chiefs",
+  "description": "Indianapolis Colts running back Jonathan Taylor carried the ball 16 times for 58 yards and caught two of his three targets for eight yards in a 23-20 loss to the Kansas City Chiefs in overtime in Week 12. In a rare feat, the Chiefs held Taylor out of the end zone for just the third time all season. On the bright side, Taylor continues to dominate the backfield work in Indy as no other running back logged a carry in the close loss to the Chiefs. Taylor has rushed for 1,197 yards and has 17 all-purpose touchdowns in 11 games this season. In Week 13, he will take on a quality Houston Texans defense at home.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 13,
+  "team": "IND",
+  "opp": "HOU",
+  "att": 21,
+  "tgt": 5,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 85,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 18
+}

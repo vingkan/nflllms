@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206857",
+  "title": "Alvin Kamara Still Limited With Ankle Issue",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) remained a limited participant at practice for the second straight day this week with a lingering ankle injury, according to Katherine Terrell of ESPN. Kamara continues to battle through an ankle injury that has landed him on the team's injury report for the fifth straight week. However, the 30-year-old veteran hasn't missed any games, so he should be able to play this Sunday against the division-rival Carolina Panthers on the road. The five-time Pro Bowler is showing his age in 2025, and his ankle issue probably hasn't helped, as he's averaging a career-low 3.6 yards per carry. Things aren't looking up for Kamara, either, in an offense that is now being run by rookie quarterback Tyler Shough. Kamara has scored just one touchdown on the year and has become a low-upside RB3/flex for fantasy managers.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 10,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 83,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 17
+}

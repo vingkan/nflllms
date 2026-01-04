@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208643",
+  "title": "Ashton Jeanty Facing Tough Matchup in Week 12 Against Browns",
+  "description": "Las Vegas Raiders rookie running back Ashton Jeanty has consistently been bottled up on the ground this season. That in part led to the Raiders abandoning the run in their Week 11 loss to the Dallas Cowboys, as Jeanty has just six carries for seven yards, but stayed involved as a receiver with six receptions (eight targets) for 27 yards. The sixth overall pick in this past year's draft has averaged over four yards per carry in just two of 10 games this season. The poor play of the Raiders' offensive line has derailed any hope of a massive fantasy ceiling for Jeanty, and now he draws a matchup on Sunday against a Cleveland Browns defense that is allowing just 3.9 yards per carry (fourth best) and the fourth fewest PPR points per game to opposing running backs. Jeanty will rank as a volume-based RB2 for Week 12.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 12,
+  "team": "LV",
+  "opp": "CLE",
+  "att": 17,
+  "tgt": 8,
+  "touches": 25,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 50,
+  "receiving_catches": 8,
+  "receiving_yards": 58,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 4
+}

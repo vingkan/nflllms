@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207696",
+  "title": "Kenneth Walker III Should be Benched in Week 11",
+  "description": "Seattle Seahawks running back Kenneth Walker III is not a fantasy starter in Week 11 against the Los Angeles Rams. Walker is running solidly for Seattle, but he has not been able to break off a big play or find the end zone consistently in 2025. Additionally, Seattle is relying on running back Zach Charbonnet at the goal line. Even when Seattle is in scoring position, Walker often does not have a chance to punch it in. What is more, the Rams are No. 2 against opposing running backs in fantasy. They are allowing just 3.74 yards per carry to opposing running backs. To make matters worse, the Rams are No. 15 in receiving yards allowed to opposing running backs, limiting what little receiving upside Walker has. Walker has not scored double-digit fantasy points since Week 4. He has not scored a touchdown since Week 3. He is not receiving enough volume to overcome the lack of touchdowns, either. Walker should be benched in Week 11, and he is approaching drop candidate status.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 11,
+  "team": "SEA",
+  "opp": "LAR",
+  "att": 16,
+  "tgt": 3,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 67,
+  "receiving_catches": 3,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 9
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208796",
+  "title": "Ashton Jeanty Saves His Week 12 Production with Heavy Pass-Game Involvement",
+  "description": "Las Vegas Raiders running back Ashton Jeanty had an underwhelming day on the ground in his team's Week 12 loss to the Cleveland Browns, recording just 50 rushing yards on 17 carries. However, the 21-year-old saved his fantasy production with a monster day as a receiver, recording eight catches for 58 yards and a touchdown on eight targets. With the Raiders' depleted offensive line struggling to open up holes in the ground game, receiving work has become an increasingly important part of Jeanty's repertoire in recent weeks. Across his last four games, Jeanty has hauled in 22 receptions for 135 yards and two touchdowns on 26 targets. He's been targeted eight times in each of the last two weeks. The Raiders' overall inability to consistently move the ball limits Jeanty's ceiling, but he still profiles as a high-volume fantasy RB2 heading into a Week 13 matchup with the Los Angeles Chargers.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 13,
+  "team": "LV",
+  "opp": "LAC",
+  "att": 15,
+  "tgt": 8,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 24
+}

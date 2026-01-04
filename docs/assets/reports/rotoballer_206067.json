@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206067",
+  "title": "Josh Jacobs Limited During Wednesday's Practice",
+  "description": "Green Bay Packers running back Josh Jacobs (calf) was a limited participant during Wednesday's practice session. This is the second week in a row that Jacobs has dealt with this lingering calf issue. He was able to suit up for Sunday's game against the Pittsburgh Steelers. Jacobs struggled on the ground as he rushed for 33 yards on 13 attempts, but did find the end zone. Barring any setbacks, Jacobs figures to be ready to go for the Week 9 matchup against the Carolina Panthers. Despite a sluggish game last weekend, Jacobs needs to be plugged in as a RB1.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 9,
+  "team": "GB",
+  "opp": "CAR",
+  "att": 17,
+  "tgt": 5,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 87,
+  "receiving_catches": 4,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

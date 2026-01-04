@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211658",
+  "title": "Tony Pollard Clears 100 Rushing Yards for Third Straight Game",
+  "description": "Tennessee Titans running back Tony Pollard handled 21 carries for 102 yards in Sunday's 26-9 win over the Kansas City Chiefs. Pollard continues his strong stretch of production and has now rushed for at least 100 yards in three consecutive games for the first time in his career. It still resulted in a relatively empty fantasy line as the 28-year-old didn't find the end zone, and he didn't catch a pass for just the third time this season. Tyjae Spears also saw more usage than usual, recording a season high 18 touches for 105 total yards and a rushing touchdown. Pollard has been one of the best runners in the league recently and will look to keep rolling in next week's matchup against the New Orleans Saints.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 17,
+  "team": "TEN",
+  "opp": "NO",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 85,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 18
+}

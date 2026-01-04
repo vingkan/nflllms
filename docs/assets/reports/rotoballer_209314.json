@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209314",
+  "title": "Bijan Robinson Remains a High-End RB1 in Week 13",
+  "description": "Atlanta Falcons running back Bijan Robinson has had at least 88 yards from scrimmage in 10 of 11 games this season, but with six total touchdowns, he's well off the 15-touchdown pace he set in 2024. The 23-year-old draws a favorable matchup in Week 13 on the road against the Jets, a defense that has yielded the ninth-most half-point PPR points to opposing running backs this season. The former first-rounder has seen his target share drop dramatically in the two games he's played with Kirk Cousins under center, going from 20.3 percent to 9.3 percent, but he still has a large enough role with plenty of upside to be one of the top running back options week in and week out. In a game that the Falcons are favored by just 2.5 points, it should be a competitive contest throughout, and without top receiver Drake London (knee), Atlanta could favor the run game. Even though Tyler Allgeier has eaten into his workload near the goal line, Robinson is a threat to break off a big play every time he touches the ball, and projects as a top-five back this week in the Meadowlands.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 13,
+  "team": "ATL",
+  "opp": "NYJ",
+  "att": 23,
+  "tgt": 7,
+  "touches": 30,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 142,
+  "receiving_catches": 5,
+  "receiving_yards": 51,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 30,
+  "ppr_scoring_position_rank": 1
+}

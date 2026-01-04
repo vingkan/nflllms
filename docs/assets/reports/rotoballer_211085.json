@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211085",
+  "title": "Ray Davis Still has Handcuff Value in Deep Leagues",
+  "description": "Buffalo Bills running back Ray Davis wasn't involved much on offense in the team's come-from-behind victory over the New England Patriots on Sunday, but he still made his presence felt on special teams, returning four kickoffs for a total of 164 yards. The 26-year-old former fourth-round selection caught his lone target in the passing game for a gain of 13 yards. He did not have a rushing attempt. Davis took over the team's primary kick-return duties in Week 9, and since then, he hasn't had much of a role on offense behind Cook and Ty Johnson. Still, he's worth stashing for insurance at the RB position in deeper leagues, as he'd likely be sharing backfield touches with Johnson if anything were to happen to Cook in the final three weeks of 2025. Davis leads the NFL with 32.4 yards per kick return. On offense, he hasn't had a carry since seeing a season-high nine rushing attempts in Week 13 versus the Steelers.",
+  "player_id": 11575,
+  "player_name": "Ray Davis",
+  "week": 16,
+  "team": "BUF",
+  "opp": "CLE",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 50
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209472",
+  "title": "Chris Rodriguez Jr. in Line for More Volume Moving Forward?",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. has operated as part of a committee in recent weeks after not having a major role early in the season. The third-year back holds a narrow lead in rush attempts over rookie Jacory Croskey-Merritt in the past three games, recording 33 carries for 160 yards and two touchdowns compared to Croskey-Merritt with 32 rushes for 96 yards and no touchdowns. Rodriguez is the better fit down near the goal line with his ability to fight through tackles and consistently gain positive yardage. His upside for fantasy is capped a bit by his lack of involvement in the pass game, as Jeremy McNichols has handled that role for the bulk of the season, but Rodriguez holds weekly touchdown upside and should lead Washington's backfield in carries for the remainder of the season. However, it's a tough Week 13 matchup against a Denver Broncos defense that is allowing a league-best 3.6 yards per carry this season.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 13,
+  "team": "WAS",
+  "opp": "DEN",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 35
+}

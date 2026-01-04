@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204160",
+  "title": "Jacory Croskey-Merritt Set Up to Smash on Monday Night Against Bears",
+  "description": "Washington Commanders running back Jacory Croskey-Merritt broke out with his best game of the season in Week 5 against the Chargers, totaling 150 yards and two touchdowns on 16 touches. The Croskey-Merritt takeover finally happened in Week 5, posting a season-high 50.9% snap share, handling 50% of the team's rush attempts, and running 31.3% of the team's routes. All marks were the highest of any Washington back in Week 5, and he delivered with a remarkable performance. For the season, he's rushed 283 yards and four touchdowns on 43 carries, averaging a league-best 6.6 yards per carry. Offensive coordinator Kliff Kingsbury provided some reason to keep the optimism in check, saying that the rookie still has \"ways to go\" in terms of playing without the ball in his hands. His work in pass protection has improved, but that is still an area where veteran Jeremy McNichols is most trusted. Third-year back Chris Rodriguez Jr. saw his lowest snap count and fewest carries in a game since becoming active in Week 5, suggesting he may be slipping back into a depth role. Croskey-Merritt should be expected to handle the bulk of the touches again in Week 6 against a Bears defense that is allowing an absurd 6.1 yards per carry and the fourth-most PPR points per game to opposing running backs. He should be fired up as a high-upside RB2 on Monday night.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 6,
+  "team": "WAS",
+  "opp": "CHI",
+  "att": 17,
+  "tgt": 1,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 61,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 37
+}

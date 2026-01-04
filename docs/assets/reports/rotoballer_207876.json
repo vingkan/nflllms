@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207876",
+  "title": "James Cook Could See More Receiving Work in Week 11",
+  "description": "Buffalo Bills running back James Cook had an underwhelming game in his team's Week 10 loss to the Miami Dolphins, recording 77 scrimmage yards and zero touchdowns on 18 touches. While Cook logged an encouraging five receptions, he was held out of the end zone for the fourth time in his last five games. Cook and the Bills will host the Tampa Bay Buccaneers in Week 11. Tampa Bay has allowed the eighth-fewest total rushing yards in the NFL (907), but they rank 15th in yards per carry allowed (4.2) and tied for 16th in rushing touchdowns allowed (nine). Cook has topped 100 scrimmage yards in six out of nine games this season and should have a chance to reach that number again against Tampa Bay. Additionally, he may get a few extra chances as a short-area receiver due to the absence of Bills tight end Dalton Kincaid (hamstring). Cook profiles as a must-start fantasy running back in Week 11.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 11,
+  "team": "BUF",
+  "opp": "TB",
+  "att": 16,
+  "tgt": 3,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 48,
+  "receiving_catches": 3,
+  "receiving_yards": 66,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 7
+}

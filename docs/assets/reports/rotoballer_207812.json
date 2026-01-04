@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207812",
+  "title": "Brian Robinson Jr. To Continue Recent Production In Week 11?",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. has turned the corner recently, posting consecutive RB2 finishes in the 49ers' last two games. Robinson's utilization in Week 10 and Week 11 was in line with past games, but with better results. Against the Giants and then the Rams, Robinson had his two highest rushing totals and scored a touchdown in each game. This trend has a good chance to continue in Week 11, when the 49ers face the Cardinals. Robinson saw just five snaps in the teams' last meeting in Week 3, but Arizona is coming off a game against Seattle where they allowed 181 rushing yards and two touchdowns to the Seahawks' backfield. Limited on touches, only another trip to the end zone would make starting Robinson in fantasy lineups worthwhile. He projects as an RB4 in Week 11.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 11,
+  "team": "SF",
+  "opp": "ARI",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

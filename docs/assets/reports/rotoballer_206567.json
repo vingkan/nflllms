@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206567",
+  "title": "No New Timeline for Trey Benson's Return",
+  "description": "Arizona Cardinals running back Trey Benson (knee) injured the meniscus in his knee in Week 4 against the San Francisco 49ers and had surgery, forcing him to Injured Reserve. Bensons was initially given a four- to six-week timeline to return after having surgery. He remains on IR and will miss his fourth straight game when the Cardinals take on the Dallas Cowboys on Monday night in Week 9. Benson will be eligible to return for the Week 10 contest against the division-rival Seattle Seahawks, but it's unclear if that is in play for the second-year back. \"He's doing well. He's getting better,\" head coach Jonathan Gannon said on Saturday. Once the Cardinals designate Benson to return from IR and he rejoins the team at practice, they will have 21 days to officially activate him back to the active roster. He was the team's leading rusher with 160 yards on 29 carries through four games before getting hurt. Until Benson can return, the Cardinals will go with a timeshare between Bam Knight and Michael Carter at RB.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

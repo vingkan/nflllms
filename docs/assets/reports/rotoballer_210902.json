@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210902",
+  "title": "Emanuel Wilson Will Suit Up Sunday",
+  "description": "According to NFL Network's Tom Pelissero, Green Bay Packers running back Emanuel Wilson (illness) will be active for this weekend's road matchup with the Denver Broncos. Wilson was listed on the Packers' injury report ahead of Week 15 with an illness. However, he'd miss no practice time as they gear up for their outing with the hosting Broncos. With teammate Josh Jacobs (knee) also in line to play, the 26-year-old should assume his established role as the former's change-of-pace option in Green Bay's backfield. Wilson was excellent in Jacobs' stead back in Week 12 (28/107/2), though he's racked up just 24 yards on seven carries over the previous two games, relegating him strictly to handcuff status with the veteran healthy.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 77
+}

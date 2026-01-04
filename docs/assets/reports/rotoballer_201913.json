@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201913",
+  "title": "Jeremy McNichols Limited on Wednesday",
+  "description": "Washington Commanders running back Jeremy McNichols (hamstring) was limited in Wednesday's practice ahead of Week 3's home matchup against the Raiders. This seems to be a new injury for McNichols, and the severity is unknown at the moment. McNichols is set to step into a larger role in Washington's backfield as their primary third-down and pass-down back with Austin Ekeler out for the season. McNichols is a highly trusted veteran in pass protection, and he showed some ability to be versatile last season, gaining tough yardage as a runner and catching some passes as a receiver. His most important skill is pass protection, which will keep him on the field a lot. That makes him worth considering as an option to pick up off the waiver wire to see how the Washington backfield shakes out.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 3,
+  "team": "WAS",
+  "opp": "LV",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 78,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

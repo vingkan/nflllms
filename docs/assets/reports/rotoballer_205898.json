@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205898",
+  "title": "Bam Knight to Continue Leading Cardinals' Backfield in Week 9?",
+  "description": "Prior to his team's Week 8 bye, Arizona Cardinals running back Bam Knight had emerged as the team's lead back. Across two games in Weeks 6 and 7, Knight recorded 118 scrimmage yards and a touchdown on 29 total touches. The Cardinals will be without running back Trey Benson (knee) for at least one more week, as Benson has missed three games since being placed on Injured Reserve with a knee injury. Additionally, Arizona has a very favorable matchup in Week 9 against the Dallas Cowboys, who are currently allowing opponents to score an average of 31.3 points per game. In shallower fantasy leagues where Knight may have been dropped during his bye week, managers should prioritize adding him off the waiver wire heading into Week 9.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 27,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205332",
+  "title": "Blake Corum Enjoys High-Volume Outing Aided by Game Script",
+  "description": "Los Angeles Rams running back Blake Corum earned a season-high 12 carries last Sunday against the Jacksonville Jaguars, totaling 37 rushing yards. He also converted his lone target into a six-yard reception. In addition to handling his highest carry total of the season, Corum rushed the ball as many times as Kyren Williams and also played a season-high 34 percent of the snaps. The 24-year-old's increased workload was likely aided by a very positive game script, as Los Angeles was consistently ahead by four possessions. Corum's Rams will head into a Week 8 bye before returning to action against the New Orleans Saints. That game should offer more positive game script scenarios for the Rams, leaving Corum in the low-end RB3/flex range. He's worth claiming off waivers if you have enough bench spots that you can justify stashing him through his bye week.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 9,
+  "team": "LAR",
+  "opp": "NO",
+  "att": 13,
+  "tgt": 0,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 58,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 37
+}

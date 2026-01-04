@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205386",
+  "title": "Aaron Jones Sr. Considered Questionable to Play on Thursday",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (hamstring) is considered questionable to be activated from Injured Reserve to make his return in Week 8 against the Los Angeles Chargers on Thursday Night Football, according to NFL Network's Ian Rapoport. The Vikings opened Jones' 21-day practice window on Tuesday, and he was listed as a limited practice participant the last two days, suggesting that he'll likely be held out for another week. The 30-year-old has been on IR since suffering a hamstring injury back in the Week 2 loss to the Atlanta Falcons. If he ends up being activated and suiting up on Thursday night in Los Angeles, it wouldn't be a surprise if he's the second option out of the backfield behind Jordan Mason, who has been operating as the team's lead back with Jones out. If Jones stays on IR this week, his next chance to return would come in Week 9 versus the division-rival Detroit Lions.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 8,
+  "team": "MIN",
+  "opp": "LAC",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 15,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

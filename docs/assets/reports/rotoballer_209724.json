@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209724",
+  "title": "Chris Rodriguez Jr. Emerging as Washington's Lead Back",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. has taken over the RB1 duties in Washington. Despite the preseason hype that surrounded seventh-round rookie Jacory Croskey-Merritt, Rodriguez has been the RB1 as of late, totaling 201 rushing yards and three touchdowns in his last four games. Rodriguez played 44% of the snaps in their past two games, with receiving back Jeremy McNichols playing 35%, while Croskey-Merritt played just 20%. With the return of Jayden Daniels imminent, the Commanders' offense could be explosive down the stretch, which means good things are coming for the third-year back from Kentucky. In 2024, Daniels led the Commanders to the fifth-ranked scoring offense and an NFC Championship appearance. If Daniels returns, Rodriguez should have more scoring opportunities and can make an impact in the fantasy playoffs.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 14,
+  "team": "WAS",
+  "opp": "MIN",
+  "att": 10,
+  "tgt": 0,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 52,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 43
+}

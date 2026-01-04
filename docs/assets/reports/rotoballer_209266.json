@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209266",
+  "title": "Jacory Croskey-Merritt A Risky Option in Week 13",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt has lost his lead role in the team's backfield over the past few weeks. Third-year back Chris Rodriguez Jr. has taken over as the lead back for the Commanders, with Croskey-Merritt rotating in on early downs and veteran Jeremy McNichols holding down the pass-down responsibilities. The rookie seventh-rounder's production dropped off a cliff after the first five games of the season. After recording 43 carries for 283 yards (6.6 YPC) and four touchdowns to go with five receptions (seven targets) for 54 yards in Weeks 1 through 5, Croskey-Merritt has 71 carries for 215 yards and zero touchdowns with four receptions (six targets) for 14 yards in Weeks 6 through 11. That leaves him off fantasy radars for Sunday Night Football against a strong Denver Broncos defense that has allowed the 10th fewest PPR points per game to opposing running backs.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 13,
+  "team": "WAS",
+  "opp": "DEN",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 20,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 64
+}

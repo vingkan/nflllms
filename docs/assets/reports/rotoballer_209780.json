@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209780",
+  "title": "Jahmyr Gibbs Could See Largest Workload of the Season in Week 14",
+  "description": "Detroit Lions running back Jahmyr Gibbs has been special so far this season, recording 1,416 scrimmage yards and 13 touchdowns on 226 touches across 12 games. Since Lions head coach Dan Campbell took over play-calling duties in Week 10, Gibbs is averaging 21 touches per game. With star Lions wideout Amon-Ra St. Brown (ankle) officially questionable to play in Week 14 due to an ankle injury, Gibbs could be in for a heavy workload as both a rusher and receiver against the Dallas Cowboys on Thursday night. For the season, the Dallas defense ranks 27th in the NFL in yards per carry allowed (4.7). However, the Cowboys have been better of late, allowing opponents to an average of 69 rushing yards per game over the last three weeks. Still, the Lions appear likely to force-feed Gibbs touches against Dallas. He profiles as a must-start fantasy running back in Week 14.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 14,
+  "team": "DET",
+  "opp": "DAL",
+  "att": 12,
+  "tgt": 7,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 43,
+  "receiving_catches": 7,
+  "receiving_yards": 77,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 37,
+  "ppr_scoring_position_rank": 1
+}

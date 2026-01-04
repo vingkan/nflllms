@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212161",
+  "title": "Tyler Allgeier a Risky Flex Play in Tough Matchup Against Rams",
+  "description": "Atlanta Falcons running back Tyler Allgeier tied a season high with 16 rush attempts last week, totaling 79 yards on the ground (4.9 yards per rush). Without recording a touchdown, though, and recording one catch for negative six yards left him with a disappointing line for fantasy. Although the 25-year-old has eight touchdowns on the season, he's very susceptible to quiet outings and has not scored in three consecutive games now. It could be tough sledding in Week 17's Monday night home matchup against the Rams, a defense that has allowed the fourth-fewest fantasy points to opposing running backs and just 92.7 rush yards per game over the last three weeks (fifth-fewest). As 7.5-point underdogs, the Falcons may need to take to the air, which could limit Allgeier's potential involvement, so he'll once again be a risky Flex play in what is likely the championship round for season-long fantasy managers.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 17,
+  "team": "ATL",
+  "opp": "LAR",
+  "att": 10,
+  "tgt": 0,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 23,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

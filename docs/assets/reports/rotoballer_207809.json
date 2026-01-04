@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207809",
+  "title": "Kareem Hunt Set To Start Against The Broncos In Week 11",
+  "description": "Kansas City Chiefs running back Kareem Hunt will take on the Denver Broncos in Week 11. Hunt is set to handle the lion's share of the carries out of the backfield with Isiah Pacheco ruled out for Sunday's matchup. Hunt had been splitting the work with Pacheco for much of the season, but Pacheco had begun earning a larger role before going down with a knee injury. Now Hunt will assume a larger workload after being successful in his opportunities at the goal-line and in short-yardage situations. Despite playing in all nine games for the Chiefs this season, Hunt's 294 rushing yards rank 43rd among rushers this season. That low yardage total could be concerning if he didn't score so much, but Hunt ranks 11th in rushing touchdowns with five this year. The veteran back has a great chance to find the endzone every week, but he will have to contend with the stout Denver defense this week. The Broncos defense has allowed the fifth-fewest fantasy points to opposing running backs this season. Given his low yardage totals, starting Hunt this week would be betting on him to score a touchdown against one of the best defenses in the league. Hunt is ranked RB33 in our RotoBaller Half-PPR rankings, putting him at the backend of RB3 range this week.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 11,
+  "team": "KC",
+  "opp": "DEN",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 59,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

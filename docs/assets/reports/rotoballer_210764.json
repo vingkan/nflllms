@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210764",
+  "title": "Josh Jacobs Questionable to Play in Week 15, Facing Tough Matchup if Active",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) is officially listed as questionable to play in his team's Week 15 matchup against the Denver Broncos. Jacobs was held out of practice on both Wednesday and Thursday due to a knee issue, but he was able to practice in a limited capacity on Friday, giving him a chance to play. The 27-year-old has been one of the NFL's most consistent running backs so far this season. Across 12 games, Jacobs has logged 206 carries for 817 yards and 12 touchdowns. If active in Week 15, Jacobs will face a difficult matchup in the Broncos' defense. Entering Sunday, Denver ranks first among NFL defenses in yards per carry allowed (3.7) and second in total rushing yards allowed (1,157). Jacobs has proven the ability to find the end zone against pretty much every unit he has matched up against so far this season. However, the Denver defense, combined with a potentially limited workload due to the knee injury, should likely lead fantasy managers to slightly downgrade expectations. If active, Jacobs profiles as a high-end fantasy RB2 in Week 15.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203919",
+  "title": "Josh Jacobs a High-End RB1 Against Bengals on Sunday",
+  "description": "Green Bay Packers running back Josh Jacobs takes on the Cincinnati Bengals on Sunday, and coming off a bye in Week 5, he should rank as a top-five running back for Week 6, as the Bengals have given up the most fantasy points to the running back position so far in 2025. The Packers' offensive line has been plagued by injuries, missing four starters throughout the first four weeks, which is likely the leading cause of his poor 3.33 YPC so far in 2025. Regardless, he is getting elite RB1 volume, with 80 carries, 10 receptions, and four touchdowns through four games played. Jacobs also does not have much competition in the backfield for touches, which makes him a high-end RB1, especially in good matchups like Week 6. Additionally, according to sportsbooks, the Packers are 14.5-point favorites, which should bode well for Jacobs to get some additional carries if they are playing from the lead.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 6,
+  "team": "GB",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 93,
+  "receiving_catches": 5,
+  "receiving_yards": 57,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 3
+}

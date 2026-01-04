@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206974",
+  "title": "Can Jaylen Wright Finally Get Involved Against the Bills?",
+  "description": "Miami Dolphins running back Jaylen Wright has hardly gotten any playing time this season, but with Ollie Gordon II (ankle) questionable for Week 10, it could be time for Wright to finally re-enter the rotation. Wright didn't have any carries or catches all season until Week 8, when he had nine carries for 28 yards and a reception for no receiving yards against the Falcons. Last Thursday in Week 9, he was back out of the rotation as a healthy inactive against the Ravens. Last year, the fourth-rounder had 249 yards on his 68 carries, but this year, he hasn't been able to crack the rotation. If Gordon is out or limited, he could get a few carries against Buffalo, but he's not much of a fantasy option at this point, since he's still just the RB78 in RotoBaller's Week 10 rankings.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 56
+}

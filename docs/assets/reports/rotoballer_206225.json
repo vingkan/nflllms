@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206225",
+  "title": "Tough Matchup Facing Aaron Jones Sr. In Week 9",
+  "description": "When the Minnesota Vikings travel to play the Detroit Lions in Week 9, running back Aaron Jones Sr. should be considered a volatile RB3/flex option with the Vikings' offense currently struggling. Minnesota played almost all of its most recent game with three backups on the offensive line, which manifested in an awful showing of 146 yards of total offense. This week, the Vikings will bring back starting quarterback J.J. McCarthy (ankle), which could provide a boost, but the matchup remains unfriendly for Jones. The Lions rank fourth in the NFL in rushing defense by holding opponents to just fewer than 88 yards of offense, and Minnesota still intends to give carries to both Jones and Jordan Mason. Jones should still get enough to work to be considered for starting lineups, but he comes with risk, given the circumstances.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 9,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 78,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 18
+}

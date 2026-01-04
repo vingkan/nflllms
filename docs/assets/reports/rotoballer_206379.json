@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206379",
+  "title": "Tyler Allgeier a Boom/Bust Flex Option in Week 9",
+  "description": "Atlanta Falcons running back Tyler Allgeier found the end zone for the fourth time in his last six games last week, although he carried the ball just four times for four yards, adding two catches for 10 yards. Of Allgeier's four scores, three have come in wins, with the 25-year-old mustering just one touchdown on a total of nine rushes for 24 yards in the team's last three losses. If that trend continues, it could be a quiet Sunday in Week 9 for the 5-foot-10 running back, as the Falcons are 4.5-point road underdogs and carry an implied point total under 20 in this one. Not to mention, New England is tough against the run, allowing the fifth-fewest fantasy points to opposing running backs, and has allowed just 76 rush yards per contest and 3.5 yards per rush (both second-fewest). The BYU product is a touchdown-dependent RB4/Flex this week, who has a very low floor.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 9,
+  "team": "ATL",
+  "opp": "NE",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 6,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

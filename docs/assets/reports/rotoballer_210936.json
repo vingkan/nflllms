@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210936",
+  "title": "James Cook Dominates With Three Touchdowns in Week 15 Win",
+  "description": "Buffalo Bills running back James Cook put up a dominant performance in his team's critical Week 15 win over its division rival, the New England Patriots, on Sunday. Cook recorded 22 carries for 107 yards and two touchdowns, and two receptions for four yards and a score. The 26-year-old has now racked up 1,686 yards from scrimmage and 12 touchdowns on 302 touches across 14 games this season. Cook has topped 100 scrimmage yards in five straight games and 11 out of 14 total contests in 2025. He also continues to dominate backfield touches in Buffalo, logging 22 of the team's 26 rushing attempts by running backs in Week 15. Cook profiles as a must-start fantasy running back heading into a Week 16 matchup against the Cleveland Browns.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 16,
+  "team": "BUF",
+  "opp": "CLE",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 117,
+  "receiving_catches": 1,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 6
+}

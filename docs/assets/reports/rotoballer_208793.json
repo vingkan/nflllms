@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208793",
+  "title": "Travis Etienne Jr. Delivers Another Terrific Outing on Sunday",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. rushed for 86 yards on 15 carries during Sunday's Week 12 victory over the Arizona Cardinals. He also caught three of his four targets for 30 receiving yards and a touchdown. After a bit of a lull earlier in the season, Etienne has bounced back as a highly effective RB1 in fantasy football ever since his bye week. In four games since the bye, he has 301 rushing yards, 80 receiving yards, and four touchdowns while ranking as the overall RB6 in PPR leagues during that span. Unlike last week, Etienne was able to fend off a strong game from backfield-mate Bhayshul Tuten this Sunday. It appears as though Etienne still has a firm grasp on the lead-back role in Jacksonville, keeping him in the top-10 range for next week's matchup against a struggling Tennessee Titans run defense.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 13,
+  "team": "JAX",
+  "opp": "TEN",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 52
+}

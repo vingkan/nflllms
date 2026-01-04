@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210452",
+  "title": "Bucky Irving Heating Up Heading into Fantasy Playoffs",
+  "description": "Tampa Bay Buccaneers running back Bucky Irving has worked his way back from injury and is starting to heat up at the perfect time for fantasy managers. Since making his return in Week 13. Irving has totaled 162 scrimmage yards and two touchdowns in the past two games. His snap count has been limited since returning, as he's played just 53% of the snaps, while Rachaad White has played 44% and Sean Tucker has played 16%. Hopefully, Irving can pull away from this rotation as he did in his rookie season, where he averaged 17.4 PPR points per game from Week 15 on. He faces the Atlanta Falcons in Week 15, who Irving has yet to eclipse 45 rushing yards in his NFL career. Despite his previous struggles against this Falcons defense, fantasy managers should fire up the second-year back as a low-end RB1 in Week 15.",
+  "player_id": 11584,
+  "player_name": "Bucky Irving",
+  "week": 15,
+  "team": "TB",
+  "opp": "ATL",
+  "att": 16,
+  "tgt": 3,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 36
+}

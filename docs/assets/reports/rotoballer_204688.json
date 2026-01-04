@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204688",
+  "title": "Josh Jacobs Limited in Practice on Wednesday",
+  "description": "Green Bay Packers running back Josh Jacobs (illness) was a limited participant during Wednesday's practice session. It sounds like Jacobs was feeling under the weather so the team decided to limit him on Wednesday. This shouldn't be something that impacts his status for Sunday's game against the Arizona Cardinals. For now, Jacobs is considered day-to-day and should return to full practice in a day or two. After a slow start, Jacobs has turned it on with four total touchdowns and over 85 rushing yards in each of his last two games. He's a must-start RB1 against the Cardinals in Week 7.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 7,
+  "team": "GB",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 1,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

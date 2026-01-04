@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207176",
+  "title": "Kenneth Gainwell Won't be a Viable Option for Week 10",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell hasn't been able to make much of an impact lately. Last week, Gainwell rushed three times for -1 yards, while hauling in four of his five targets for 35 yards through the air in the win over the Indianapolis Colts. Gainwell has taken a backseat to Jaylen Warren in the backfield this season. The only time Gainwell had solid value was the week that Warren didn't play. Outside of that, Gainwell has seen minimal role on offense. Gainwell figures to see a handful of carries and a few targets in the receiving game. He won't carry viable fantasy value in Week 10 unless it's a high PPR league.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 10,
+  "team": "PIT",
+  "opp": "LAC",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 52
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208517",
+  "title": "Bhayshul Tuten Will Play Against Cardinals",
+  "description": "Jacksonville Jaguars rookie running back Bhayshul Tuten (ankle) was limited in practice all week but was cleared from Friday's final injury report and will be active in Week 12 against the hosting Arizona Cardinals on Sunday, according to ESPN's Michael DiRocco. Travis Etienne Jr. (shoulder) was limited all week, too, but he has also been cleared. The 23-year-old Tuten had a career-high 15 carries for 74 yards and a touchdown in the Week 11 win over the Los Angeles Chargers on Sunday, with his increased usage potentially having something to do with Etienne's shoulder injury. Fantasy managers want to know if Tuten's elevated workload from last weekend will continue. It remains to be seen, but the Jags figure to lean heavily on the ground game again in an excellent matchup against Arizona. Tuten should be viewed as an explosive, upside RB3/flex as he looks to stack two straight strong games.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 55
+}

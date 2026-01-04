@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210033",
+  "title": "Nick Chubb a Touchdown-Dependent Deep-League Play",
+  "description": "Houston Texans running back Nick Chubb has settled in as a change-of-pace option in the Texans' backfield, playing behind rookie Woody Marks, but he still does get enough work to be on the radar in very deep formats. He had his third touchdown of the season in last week's win over the Colts, finishing with nine carries for 34 rushing yards to go with his score. He is no longer the big-play threat or the workhorse that he was earlier in his career, but he is still getting about a third of the snaps in Houston's backfield timeshare. Chubb is the No. 45 RB in RotoBaller's rankings this week as the Texans face the tough Chiefs' run defense on Sunday Night Football. In most standard-sized leagues, there are better options available, but in very deep leagues, he can be a touchdown-reliant flex play.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 14,
+  "team": "HOU",
+  "opp": "KC",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 71
+}

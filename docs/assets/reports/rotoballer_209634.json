@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209634",
+  "title": "Devin Singletary Goes Over 100 Total Yards, Scores Touchdown in Monday Night Loss",
+  "description": "New York Giants running back Devin Singletary handled 12 carries for 68 yards and a touchdown while adding three receptions (three targets) for 34 yards in Monday night's loss to the New England Patriots. Singletary led the Giants in rushing and finished second on the team in receiving as he eclipsed 100 yards from scrimmage for the first time this season. The veteran running back could be in line to lead New York's backfield moving forward, too, after Tyrone Tracy Jr. (hip) was carted off the field in the fourth quarter after suffering a hip injury. The severity of Tracy's injury is currently unclear, but it would be another big loss to a Giants team that has already lost rookie running back Cam Skattebo (ankle) for the season. Singletary had an impressive 22-yard rushing touchdown in Monday night's game against the Patriots and would be in line for a workhorse role if Tracy ends up missing time. The Giants are on a bye in Week 14, though, which will give Tracy extra time to recover.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 13,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210935",
+  "title": "Travis Etienne Jr. Records Three Receiving Touchdowns in Week 15 Win",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. had a huge game in his team's 48-20 Week 15 win over the New York Jets on Sunday. Although the 26-year-old struggled to just 32 rushing yards on 12 carries, he more than made up for it by hauling in three receptions for 73 yards and three touchdowns on four targets. Etienne Jr. has now recorded 1,203 yards from scrimmage and 12 touchdowns on 242 touches across 14 games this season. He's established himself as the clear RB1 in a Jacksonville offense that is hitting its stride down the stretch of the season. Etienne Jr. remains a must-start fantasy running back heading into his Week 16 matchup against the Denver Broncos.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 16,
+  "team": "JAX",
+  "opp": "DEN",
+  "att": 16,
+  "tgt": 5,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 18
+}

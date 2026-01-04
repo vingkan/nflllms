@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203543",
+  "title": "Dylan Sampson Not a Recommended Option in Week 5",
+  "description": "Cleveland Browns running back Dylan Sampson has seen his role shrink since a solid debut in Week 1. The rookie will now head to London to take on the Minnesota Vikings in Week 5. In theory, Sampson draws a decent matchup against a Minnesota defense that is allowing the 14th-most fantasy points per game to opposing running backs, but Cleveland has been giving almost all of the running-back work to Quinshon Judkins over the past two games, which has crushed the fantasy value of Sampson and Jerome Ford. Sampson is hard to trust in fantasy until the Browns show more of a commitment to getting him the ball, so managers should leave him on the bench in Week 5.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 5,
+  "team": "CLE",
+  "opp": "MIN",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": -4,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 63
+}

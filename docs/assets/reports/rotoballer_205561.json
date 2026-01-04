@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205561",
+  "title": "Tyrone Tracy Jr. Faces Tough Outlook Despite Week 7 Spark",
+  "description": "New York Giants running back Tyrone Tracy Jr. remains a volatile, low-end flex option for the Week 8 road rematch against the Philadelphia Eagles, despite flashing with a 31-yard touchdown run last week. Currently ranked as the RB54 for the 2025 season and averaging only 5.48 Fantasy Points Per Game, Tracy is operating as the clear backup to Cam Skattebo. The divisional matchup presents a favorable rushing environment, as the Eagles defense ranks 25th against fantasy RBs, yielding an average of 23.39 points per game to the position. However, Tracy was completely shut down by this same defense in Week 6, logging just four carries for 6 yards and zero receptions, severely limiting his floor and making him reliant solely on an explosive play to hit value.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 8,
+  "team": "NYG",
+  "opp": "PHI",
+  "att": 10,
+  "tgt": 3,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 39,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 32
+}

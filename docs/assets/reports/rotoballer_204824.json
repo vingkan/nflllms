@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204824",
+  "title": "Jordan Mason Has Starting Potential In Lead Role",
+  "description": "Minnesota Vikings running back Jordan Mason should be considered an RB2/high-end Flex play when his team plays host to the Philadelphia Eagles on Sunday. Not only are the injury-riddled Vikings expected to have guard Donovan Jackson (wrist) back in the lineup, but the Eagles are among the bottom rung of defenses against fantasy running backs, ranking 24th in yards per attempt allowed and 30th in rushing first downs allowed. Only three NFL teams have surrendered more rushing touchdowns. With backfield mate Aaron Jones (hamstring) still on injured reserve, Mason should receive lead-back work in the Minnesota backfield. Although the Vikings' offense has struggled at times this season, Mason should have enough opportunity to start in fantasy lineups in Week 7.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 7,
+  "team": "MIN",
+  "opp": "PHI",
+  "att": 15,
+  "tgt": 0,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 57,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 20
+}

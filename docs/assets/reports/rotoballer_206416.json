@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206416",
+  "title": "Javonte Williams Remains a Strong Fantasy Option in Favorable Week 9 Matchup",
+  "description": "Dallas Cowboys running back Javonte Williams has been phenomenal this season and continues to deliver consistent fantasy production. While he was held in check on the ground last week against the Denver Broncos, rushing for just 41 yards on 3.2 yards per carry, he still found the end zone twice and salvaged a strong fantasy outing. Williams has shown impressive consistency near the goal line and remains a key part of the Cowboys' offensive success. Williams draws a great matchup in Week 9 against the Arizona Cardinals, who have struggled to stop opposing running backs, allowing seven rushing touchdowns through eight weeks. With this game carrying one of the highest projected totals of the week at 54.5 points, Williams should have plenty of scoring opportunities once again. RotoBaller ranks him as the RB10 for Week 9, and he remains a reliable fantasy option with RB1 upside in this matchup.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 9,
+  "team": "DAL",
+  "opp": "ARI",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 31
+}

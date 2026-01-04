@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203815",
+  "title": "Kimani Vidal a Waiver-Wire Target Heading into Week 6",
+  "description": "Los Angeles Chargers running backs Kimani Vidal and Hassan Haskins are now in line for the bulk of the backfield load with rookie Omarion Hampton (ankle) going on Injured Reserve on Monday, according to Eric Smith of Chargers.com. Najee Harris (Achilles) is also out for the season. Vidal had 18 rushing yards on four carries in the Week 5 loss to the Washington Commanders, with Haskins carrying the ball five times for 13 yards. The Chargers will most likely call up Amar Johnson to serve as the RB3 for at least the next four games with Hampton sidelined. Both Vidal and Haskins played 14 offensive snaps on Sunday versus Washington, but it's unclear exactly how the workload will be divvied up between Vidal and Haskins moving forward. Still, both RBs are worth attention on the waiver wire this week, with an increase in volume coming for the next four games.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 124,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210146",
+  "title": "Dylan Sampson Active for Week 14 Against Tennessee",
+  "description": "Cleveland Browns running back Dylan Sampson (calf) is officially active for Sunday's Week 14 contest against the Tennessee Titans. He had been listed as questionable after upgrading to a limited participant in practice on Friday. Sampson has consistently operated as the Browns' No. 2 running back behind fellow rookie Quinshon Judkins, but he has started to carve out more of a role for himself lately. He had 82 scrimmage yards and a receiving touchdown in Shedeur Sanders' first career start two weeks ago, and he added 5.8 yards per carry on four rushing attempts last Sunday. Judkins plays too much to justify starting Sampson in fantasy lineups, but the Tennessee product is still a solid handcuff worth stashing in all dynasty formats, as well as redraft leagues with at least 12 teams.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 14,
+  "team": "CLE",
+  "opp": "TEN",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 4,
+  "receiving_catches": 5,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 26
+}

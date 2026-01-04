@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208045",
+  "title": "James Cook Continues Strong Season With 100-Plus Scrimmage Yards, Touchdown",
+  "description": "Buffalo Bills running back James Cook wasn't very efficient on the ground in Sunday's 44-32 win over the visiting Tampa Bay Buccaneers in Week 11, but he still managed to go over 100 scrimmage yards while securing his first receiving touchdown of the year. Cook had 16 rushing attempts for 48 yards on the ground (3.0 yards per carry) while adding three catches on three targets for a season-high 66 yards through the air and his first receiving TD (eighth total in 2025). The 26-year-old had a tough time finding space to run on Sunday against a stout Buccaneers defensive front, but he salvaged his day for fantasy managers by contributing as a pass-catcher, finishing as Buffalo's second leading receiver. Cook's TD came on a 25-yard reception. He's a must-start in all fantasy formats, but Cook might need more contributions as a pass-catcher again in Week 12 in a tough matchup on the ground against the Houston Texans on Thursday Night Football.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 12,
+  "team": "BUF",
+  "opp": "HOU",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 116,
+  "receiving_catches": 3,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 6
+}

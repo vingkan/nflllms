@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206060",
+  "title": "Tony Pollard Limited Wednesday With Neck Issue",
+  "description": "Updating a previous report, Tennessee Titans running back Tony Pollard (neck) had his reps limited in Wednesday's practice due to a neck injury. Pollard's status for the Week 9 contest on Sunday against the visiting Los Angeles Chargers is now in question, although the fact that he was on the field on Wednesday is a good sign that his injury isn't too serious. Still, Pollard has been trending down in fantasy in recent weeks after Tyjae Spears returned from an early-season injury. The Titans have every intention of keeping Spears involved out of the backfield, too, which will cap Pollard's fantasy upside the rest of the way. With an injury to boot, the 28-year-old should be considered a low-upside RB3/flex, at best, this weekend if he's active. Not only is Pollard now in a timeshare, but he resides in one of the NFL's least efficient offenses.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 9,
+  "team": "TEN",
+  "opp": "LAC",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 28
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204630",
+  "title": "Breece Hall's Name Comes Up \"Most Often\" in RB Trade Talks Around the NFL",
+  "description": "New York Jets running back Breece Hall is the name that comes up most often in league-wide running back trade talks, according to ESPN's Dan Graziano. Hall is in the final year of his current contract with the 0-6 Jets, so he's a logical candidate to get moved before the NFL trade deadline. The 24-year-old has recorded 560 yards from scrimmage on 105 total touches through six games this season, although he's yet to find the end zone. A move to a better team would likely help Hall's touchdown production, although he could end up splitting more backfield work depending on the destination. If Hall were to get moved, Jets running back Isaiah Davis would likely take on a huge share of the backfield snaps in New York. In deep leagues, Davis is a stash candidate who could pay off big time for fantasy managers down the stretch.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 7,
+  "team": "NYJ",
+  "opp": "CAR",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 38,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 30
+}

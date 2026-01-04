@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212071",
+  "title": "Isaiah Davis Can Be Avoided for Fantasy Playoffs",
+  "description": "New York Jets running back Isaiah Davis cannot be trusted for fantasy in this weekend's home matchup with the New England Patriots, despite being more involved in the offense recently. Davis has seen his snap share rise modestly over the previous two games as the Jets transitioned to Brady Cook under center. Correlatively, the 23-year-old has put together two of his better performances of the campaign, racking up 60-plus yards in each while seeing 17 total touches - his most in a two-game stretch since back before New York's Week 9 bye. It's an encouraging development for Davis, although he'll remain off owners' radars this weekend, particularly with a tough Patriots' rush defense on tap. New England has been an unfavorable spot for RBs, as they've allowed the third-fewest fantasy points per game to the position (19.24). With not much upside in a struggling Jets' attack, Davis ranks as RotoBaller's PPR RB61 ahead of Week 17's outing.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 17,
+  "team": "NYJ",
+  "opp": "NE",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 11,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 54
+}

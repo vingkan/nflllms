@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206493",
+  "title": "Aaron Jones Sr. Questionable to Return Against Lions",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder) exited during the third quarter of Sunday's Week 9 contest against the Detroit Lions. He is officially listed as questionable to return. At the time of his departure, he had 78 rushing yards on nine carries, as well as two catches for an additional 20 receiving yards. The veteran running back missed some time earlier this season due to injury, so it's unfortunate to see him back on the sideline with a new ailment. Jones' absence should put Jordan Mason in the lead-back role, while Zavier Scott handles backup duties.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

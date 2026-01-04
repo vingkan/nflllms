@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211542",
+  "title": "Emari Demercado a Risky Fantasy Play Despite Increased Role",
+  "description": "Arizona Cardinals running back Emari Demercado is expected to handle an increased workload against the Atlanta Falcons in Week 16, but his fantasy outlook remains murky. He is on track to operate as the backup to Michael Carter this week after Zonovan Knight (ankle) was placed on injured reserve. While Demercado was viewed as Arizona's passing-down specialist at points earlier this season, it's unclear whether that remains his role given how well Carter has performed in the passing game lately. Carter has 19 catches over his last five games, whereas Demercado has just 10 catches through parts of 10 games this year. Rather than being a true passing-down specialist, it seems more likely that the 26-year-old will fall into a change-of-pace role, allowing the Cardinals to manage Carter's workload and keep him fresh. Demercado has shown impressive burst in the past, and his 8.3 yards per carry over the last two seasons indicates that he's capable of breaking off big plays. His fantasy value in Week 16 likely hinges on whether he's able to break off any big runs or catches against the Falcons. In other words, he'll need high efficiency to overcome a backup's workload. He currently ranks as the RB51 in RotoBaller's latest fantasy football rankings for Week 16.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 16,
+  "team": "ARI",
+  "opp": "ATL",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 57
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208207",
+  "title": "Keaton Mitchell Earning Larger Role in Baltimore?",
+  "description": "Baltimore Ravens running back Keaton Mitchell had one of his highest usage games of the 2025 season in Week 11, recording 54 scrimmage yards on eight touches against the Cleveland Browns. With Ravens running back Justice Hill (toe) sidelined by a toe injury, Mitchell stepped into the team's RB2 role behind Derrick Henry. If Hill remains out for Baltimore's Week 12 matchup against the New York Jets, Mitchell could see steady playing time on passing downs for the second straight week. Across 19 career games with Baltimore, Mitchell has averaged 6.6 yards per carry and 7.3 yards per touch. He could be worth targeting on the waiver wire for fantasy managers in leagues with 14 or more teams heading into Week 12.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 12,
+  "team": "BAL",
+  "opp": "NYJ",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

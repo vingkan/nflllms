@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202860",
+  "title": "Jonathan Taylor a Top-Six Option in Week 4",
+  "description": "Indianapolis Colts running back Jonathan Taylor has been one of the top fantasy players through the first three weeks of the season, rushing for 338 yards and three touchdowns while adding 93 receiving yards and another score through the air. Taylor will look to stay hot in Week 4 in a road matchup against the Los Angeles Rams. The Rams represent a tough matchup for Taylor as they are allowing the fewest fantasy points per game to the running back position through three weeks. That being said, Taylor remains one of the few true workhorses left in the league and can still be trusted as a top-six fantasy running back this weekend despite the difficult matchup.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 4,
+  "team": "IND",
+  "opp": "LAR",
+  "att": 17,
+  "tgt": 5,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 76,
+  "receiving_catches": 5,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 21
+}

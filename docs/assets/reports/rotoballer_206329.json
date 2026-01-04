@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206329",
+  "title": "Terrell Jennings Headed for Expanded Role in Week 9",
+  "description": "New England Patriots running back Terrell Jennings will likely operate as the team's No. 2 option out of the backfield in Week 9 against the Atlanta Falcons. With Rhamondre Stevenson (toe) ruled out and Antonio Gibson (knee) on injured reserve, Jennings should step up into the backup role behind TreVeyon Henderson. Even as the backup, Jennings figures to handle a decent workload. He has handled seven touches over his last two games, playing 14 percent of the snaps in Week 7. We would not be surprised to see him play at least 25 percent of the snaps with five or more touches against the Falcons, especially as the Patriots remain dedicated to gradually phasing rookie (and this week's starter) TreVeyon Henderson into the offense. Jennings isn't fantasy-relevant in most leagues, but we'll hear his name called several times this weekend.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 9,
+  "team": "NE",
+  "opp": "ATL",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 35,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 19
+}

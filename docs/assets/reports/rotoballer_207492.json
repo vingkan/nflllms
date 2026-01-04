@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207492",
+  "title": "Falcons Consider Tyler Allgeier a \"Superstar\"",
+  "description": "Atlanta Falcons head coach Raheem Morris said that running back Tyler Allgeier is \"the least talked about superstar on our football team,\" according to Marc Raimondi of ESPN. Despite being the backup to another superstar in RB Bijan Robinson, Allgeier has seen double-digit carries five times in 2025, including in the Week 10 loss in Germany to the Indianapolis Colts, when he carried the ball 11 times for 57 yards and two touchdowns. The 25-year-old only has five catches for 20 yards in nine games, but the fact that he continues to be used near the goal line over Robinson is giving him standalone fantasy appeal as an RB3/flex. Robinson only has two rushing touchdowns this year, while Allgeier has six. Allgeier's volume is not consistent, but his nose for the end zone makes him a pretty valuable handcuff option in fantasy.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 11,
+  "team": "ATL",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 10,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

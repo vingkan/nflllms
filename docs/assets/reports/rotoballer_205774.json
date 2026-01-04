@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205774",
+  "title": "D'Andre Swift Cleared to Play in Week 8",
+  "description": "Chicago Bears running back D'Andre Swift (groin) is officially active for Sunday's contest against the Baltimore Ravens. The lead running back carried a questionable tag into this game with a groin injury. However, he was able to progress enough to suit up. Swift followed a similar practice pattern last weekend as well and enjoyed a dominant showing against the Saints, totaling a season-best 124 yards and a score on 19 attempts. Fantasy managers should view Swift as a solid RB2 with upside in all formats, facing a Baltimore defense that has allowed the second-most PPR points to opposing RBs this season.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

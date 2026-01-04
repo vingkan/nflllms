@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209085",
+  "title": "David Montgomery Tough to Trust in Challenging Week 13 Matchup",
+  "description": "In recent weeks, Detroit Lions running back David Montgomery has seemingly faded into a secondary role in his team's offense. The 28-year-old has failed to score a touchdown in five out of his last six games, and he's totaled just 74 scrimmage yards on 15 touches over the last two weeks. A tough Week 13 matchup against the Green Bay Packers on Thanksgiving Day seems like an unlikely spot for Montgomery to break out of his slump. Entering Week 13, Green Bay has allowed the sixth-fewest yards per carry (3.9) and rushing touchdowns (eight) in the NFL. In Detroit's first matchup with the Packers in Week 1, Montgomery recorded just 43 scrimmage yards on 15 touches. The Lions will also be shorthanded on their offensive line in Week 13 as both left guard Christian Mahogany (leg) and center Graham Glasgow (knee) are out. Montgomery profiles as a low-end flex option for fantasy managers against the Packers.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 13,
+  "team": "DET",
+  "opp": "GB",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 32,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 22
+}

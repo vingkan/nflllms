@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205967",
+  "title": "Giants Officially Place Cam Skattebo on Injured Reserve",
+  "description": "The New York Giants officially placed rookie running back Cam Skattebo (ankle) on Injured Reserve on Tuesday and claimed defensive back Jarrick Bernard-Converse off waivers from the Cleveland Browns in a corresponding move, according to Jordan Raanan of ESPN. Skattebo suffered a gruesome dislocation of his right ankle in the Week 8 loss to the Philadelphia Eagles, ending what was looking like a very promising first year in the NFL for the first-year pro out of Arizona State. The 23-year-old finishes his 2025 campaign with 410 rushing yards and five rushing scores on 101 carries while adding 24 receptions for 207 yards and two touchdowns on 32 targets through the air in eight games (five starts). As of right now, it's unclear if the physical runner will be ready for the start of the 2026 season. In the meantime, Tyrone Tracy Jr. will take over lead-back duties in New York, with Devin Singletary also seeing an increase in playing time as the RB2.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

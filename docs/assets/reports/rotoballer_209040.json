@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209040",
+  "title": "Backup Duties for Emanuel Wilson in Week 13",
+  "description": "Green Bay Packers running back Emanuel Wilson had an awesome game in Week 12, but will cede the starting running back duties back to Josh Jacobs when the Packers match up with the Detroit Lions on Thanksgiving. Wilson took 28 carries and turned that into 107 rushing yards and two touchdowns, while catching both of his targets for 18 yards. It was a great performance, but with Jacobs off the injury report after three limited practice sessions, Wilson's role will be greatly diminished from last week. While Wilson could see some more opportunities working in tandem with Jacobs, it's not likely to be anything substantial. When the Packers face the Lions in Week 13's Thanksgiving showdown, Wilson is more of an RB4 option than should be left on benches in all but the deepest of fantasy leagues.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 13,
+  "team": "GB",
+  "opp": "DET",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 69
+}

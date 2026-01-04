@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201230",
+  "title": "Christian McCaffrey Absent from Wednesday's Practice",
+  "description": "San Francisco 49ers running back Christian McCaffrey (calf, rest) did not participate in practice on Wednesday. This shouldn't come as a surprise after McCaffrey dealt with a calf issue all throughout last week. It didn't stop him from playing as he rushed 22 times for 69 yards while hauling in nine receptions for an additional 73 yards in the season opener. He opens the practice week on the sideline, but that is probably for rest purposes. The 49ers want to give McCaffrey time to fully heal his calf issue. Fantasy managers should expect McCaffrey to be out there for Week 2. He'll remain an elite RB1 as long as he can stay healthy.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 2,
+  "team": "SF",
+  "opp": "NO",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 6,
+  "receiving_yards": 52,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 5
+}

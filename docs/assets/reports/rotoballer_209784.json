@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209784",
+  "title": "Josh Jacobs Logs Limited Practice on Wednesday",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) was a limited participant during Wednesday's practice session. Jacobs sat out the Week 12 victory over the Minnesota Vikings with a knee contusion, but he returned last week for the Thanksgiving Day win against the Detroit Lions. It appears Jacobs is still dealing with lingering effects from his knee injury. He looked solid in Week 13, when he rushed for 83 yards on 17 attempts against Detroit. Jacobs being limited to begin the week is likely just the team being overly cautious. The 27-year-old should be viewed as a high-end RB1 for the upcoming matchup against the Chicago Bears in Week 14.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 14,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 20,
+  "tgt": 2,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 86,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

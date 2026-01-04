@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203709",
+  "title": "Rico Dowdle Explodes for One of Top Running Back Performances of Season",
+  "description": "Carolina Panthers running back Rico Dowdle carried the ball 23 times for 206 rushing yards and a rushing touchdown during Sunday's Week 5 win over the Miami Dolphins. He also caught three of four targets for an additional 28 receiving yards. Dowdle filled in for the injured Chuba Hubbard (calf) and turned in one of the best individual fantasy performances we've seen through five weeks this season. He proved to be a terrific waiver wire addition for many fantasy managers who inserted him into their lineups on Sunday. Even if Hubbard returns next week, Dowdle has done more than enough to carve out a significant role on offense. He's worth deploying as an RB3/flex with RB2 upside going forward, including next week in a revenge game against the Dallas Cowboys.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 6,
+  "team": "CAR",
+  "opp": "DAL",
+  "att": 30,
+  "tgt": 5,
+  "touches": 35,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 183,
+  "receiving_catches": 4,
+  "receiving_yards": 56,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 33,
+  "ppr_scoring_position_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208063",
+  "title": "Sean Tucker Explodes for 140 All-Purpose Yards and Three Touchdowns Sunday",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker exploded for 106 yards and two touchdowns on 19 carries in the Buccaneers' 44-32 loss against the Buffalo Bills. He also hauled in both of his targets for 34 yards and another score. It was a favorable matchup for Tucker against a Bills run defense that has really struggled in 2025 and has allowed the sixth most points to opposing running backs on the season. Still, Tucker made his presence known and out-carried backfield mate Rachaad White 19 to 10 on the afternoon and had the explosion, which was evident by his 43-yard touchdown run and his 28-yard reception touchdown. Should Bucky Irving (shoulder) continue to miss time, Tucker should be considered a low-end RB2 heading into Week 12 based on his volume, opportunities, and recent outburst. The matchup is tough against the Los Angeles Rams, but they did allow 67 rush yards and a score to Kenneth Walker this past Sunday. White will likely remain involved, but is now considered more of an RB3/desperate flex play.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

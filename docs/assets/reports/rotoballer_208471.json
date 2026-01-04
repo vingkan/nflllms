@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208471",
+  "title": "Trey Benson Ruled Out For Week 12",
+  "description": "Arizona Cardinals running back Trey Benson (knee) has officially been ruled out for Sunday's matchup against the Jacksonville Jaguars, according to Tyler Drake of AZSports. Benson was a limited participant in practice every day this week, but the Cardinals ultimately decided to hold him out for another week. Head coach Jonathan Gannon said that the second-year back looked good during practice this week, and that they'd \"see how it goes\" on Friday in regards to his chances to play in Week 12. It seems like Benson is making progress in his recovery, but he's not quite there yet. He has now been ruled out for his seventh consecutive game and has yet to practice in full capacity, which is likely the next big step for him to take to get back to the field. Emari Demercado (ankle) has also been ruled out for Sunday, leaving Bam Knight (ankle) and Michael Carter to split the backfield duties against the Jaguars.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

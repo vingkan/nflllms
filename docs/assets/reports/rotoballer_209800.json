@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209800",
+  "title": "Malik Davis on the Rise Heading into Thursday Night Against Detroit",
+  "description": "Dallas Cowboys running back Malik Davis had his best game of the season last week against the Chiefs on Thanksgiving, handling three carries for 47 yards and a touchdown. Davis ripped off a 43-yard touchdown during the second quarter, showing impressive burst and explosiveness. That marked the longest rushing touchdown of the season for the Cowboys, and Davis' speed is a nice complement to the bruising running style of starter Javonte Williams. The 27-year-old Davis has been up and down from the practice squad for Dallas this season, but he has been active for each of the past six games and has firmly established himself as the No. 2 running back over rookie Jaydon Blue. He could work his way into more touches against the Lions on Thursday night after an impressive Week 13 performance. However, Davis still profiles as a handcuff option for now and should remain on benches in Week 14.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 14,
+  "team": "DAL",
+  "opp": "DET",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 6,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 68
+}

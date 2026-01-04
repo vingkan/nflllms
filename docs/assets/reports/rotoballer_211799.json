@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211799",
+  "title": "Rhamondre Stevenson Potentially in Line for a Massive Workload Against Jets Sunday",
+  "description": "New England Patriots running back Rhamondre Stevenson could potentially see most of the running back opportunities on Sunday with rookie TreVeyon Henderson (head) currently working his way through the concussion protocol after leaving the game early in Week 16 against the Baltimore Ravens. Since Stevenson's return from injury in Week 12, his snap share has increased each week, from 31 percent to 58 percent, 67 percent, and 84 percent, respectively. Combine that with Henderson potentially being out on Sunday, Stevenson would climb up the RB ranks and become a borderline RB1 against the New York Jets, who have been reeling of late and are allowing the fourth most points on the season to the running back position. Regardless of Henderson's status for Week 17, Stevenson will provide fantasy value given the matchup.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 17,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 8,
+  "tgt": 5,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 5,
+  "receiving_yards": 55,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 27,
+  "ppr_scoring_position_rank": 5
+}

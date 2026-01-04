@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208241",
+  "title": "Trey Benson Designated for Return from Injured Reserve",
+  "description": "The Arizona Cardinals are opening the practice window for running back Trey Benson (knee) to return from Injured Reserve, according to Tyler Drake of AZ Sports. Benson has been on IR since Week 4 due to a knee injury. While this move does not guarantee that he will be active for Week 12 against the Jacksonville Jaguars, it's clearly a positive sign that Benson's return will come in the next few weeks. Across four games this season, the 23-year-old has recorded 224 scrimmage yards on 42 touches. With running back James Conner (ankle) out for the season, Benson profiles as the clear RB1 in Arizona once fully healthy. If Benson remains sidelined for Week 12, the Cardinals will likely turn to a combination of Bam Knight and Michael Carter to handle backfield snaps against Jacksonville.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

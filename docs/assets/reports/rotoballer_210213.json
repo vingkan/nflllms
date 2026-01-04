@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210213",
+  "title": "Devin Neal Dominates Backfield Touches on Sunday Against Buccaneers",
+  "description": "New Orleans Saints rookie running back out of Kansas, Devin Neal, dominated the backfield touches on Sunday against the Bucs in the Saints' 24-17 victory. Neal carried the ball 19 times for 70 yards and a touchdown, and added one reception for 14 yards. On the afternoon, Neal scored 14.9 fantasy points in half PPR leagues and, most importantly, handled a solid 76 percent of all running back carries. Audric Estime had three, Evan Hull had one, and Taysom Hill had two. As long as Alvin Kamara (ankle, knee) remains sidelined, Neal should be viewed as a low-end RB2 moving forward in most formats strictly due to his volume. Over the past two weeks with Kamara out, Neal has seen 17 or more total touches, and if he's available on your waiver wire, he is a must-add heading into the fantasy playoffs.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 15,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 28
+}

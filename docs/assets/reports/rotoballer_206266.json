@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206266",
+  "title": "Woody Marks Ready to Go Against the Broncos",
+  "description": "Houston Texans running back Woody Marks (calf) was limited in practice this week but does not have an injury designation for Week 9's matchup against the Broncos. Marks had a massive breakthrough performance in Week 4 with 69 rushing yards, 50 receiving yards, and a pair of touchdowns. He took a back seat to Nick Chubb in Week 5's blowout win, but he has been productive in an even timeshare with Chubb in the last two weeks. Marks can produce excellent receiving yards and PPR production when he's at his best, and has scored two of his touchdowns through the air. Last week, he also had one of his best rushing games with 62 rushing yards on his 11 carries. Marks has a tough matchup against the Broncos this week, but he's still the RB25, showing he's a solid RB3 or flex option even against the strong Denver defense.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 9,
+  "team": "HOU",
+  "opp": "DEN",
+  "att": 10,
+  "tgt": 3,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 27,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 47
+}

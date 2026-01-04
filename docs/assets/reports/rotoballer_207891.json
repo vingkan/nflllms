@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207891",
+  "title": "Tahj Brooks May Get Extra Snaps in Week 11, Still Can't be Trusted",
+  "description": "Cincinnati Bengals running back Tahj Brooks hasn't done much of anything in his inaugural year. He had the chance to at least claim the No. 2 spot on the depth chart behind Chase Brown. While that wasn't expected early in the season, most had assumed he'd take over as the backup by now. However, that hasn't happened, with Samaje Perine (ankle) still absorbing nearly all of Brown's surplus carries while seeing limited action as a pass-catcher. With Perine ruled out for the Week 11 AFC North battle with the Pittsburgh Steelers, there's potential for Brooks to get more involved. Unfortunately, Brooks likely won't see much more work, if any, which isn't good news for those in need of a deep league streaming option on Sunday. For now, the rookie should be stashed on dynasty rosters while having virtually no redraft value.",
+  "player_id": 12543,
+  "player_name": "Tahj Brooks",
+  "week": 11,
+  "team": "CIN",
+  "opp": "PIT",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 70
+}

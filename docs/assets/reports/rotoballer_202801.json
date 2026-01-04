@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202801",
+  "title": "Tony Pollard has Flex Appeal for Week 4",
+  "description": "Tennessee Titans running back Tony Pollard was able to find the end zone for the first time this season during last week's game against the Indianapolis Colts. Pollard rushed the ball 16 times for 45 yards with one touchdown in the loss. It hasn't been a great start to the season for Pollard, but he has seen 16 rushing attempts or more in every game. The 28-year-old is clearly the workhorse back in Tennessee right now. The Titans have changed over play-calling duties, so hopefully that will help this offense. Pollard is a fine flex play for the upcoming Week 4 matchup against the Houston Texans.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 4,
+  "team": "TEN",
+  "opp": "HOU",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 64,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 32
+}

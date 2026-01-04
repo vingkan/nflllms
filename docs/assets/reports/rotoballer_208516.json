@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208516",
+  "title": "Travis Etienne Jr. Good to Go for Week 12",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. (shoulder) was limited in practice all week due to a shoulder injury, but he has been cleared from Friday's final injury report and will be active in Week 12 against the Arizona Cardinals on Sunday, according to Michael DiRocco of ESPN. Rookie Bhayshul Tuten (ankle) followed the same routine in practice this week and was also cleared, so the Jags will have both RBs available in the desert. The 26-year-old Etienne has been Jacksonville's RB1 pretty much all year, but Tuten saw a bigger piece of the pie in last week's win over the Los Angeles Chargers, leading many to wonder if Tuten might slowly be taking over this backfield. It's possible, but both RBs should see plenty of chances to produce in a plus matchup against Arizona. Etienne had two rushing scores in Week 11 and profiles as a high-end RB2 for fantasy managers in this matchup.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 86,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 7
+}

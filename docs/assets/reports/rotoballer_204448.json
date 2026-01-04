@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204448",
+  "title": "De'Von Achane Scores Twice in Best Rushing Performance of the Season",
+  "description": "Miami Dolphins running back De'Von Achane carried the ball 16 times for 128 rushing yards and two rushing touchdowns during Sunday's Week 6 loss to the Los Angeles Chargers. He also caught four of his six targets for an additional 22 receiving yards. Achane had his best rushing performance of the year, posting season-highs in rushing yards and rushing touchdowns. His speed proved too challenging for Los Angeles' defense to slow down, and he padded his fantasy stats with some extra contributions in the passing game, too. Of course, it wasn't quite enough to get Miami the victory, as the Dolphins fell to 1-5 on the year. The good news for fantasy managers is that Achane has been able to remain a top-10 fantasy running back despite the Dolphins' struggles. He'll continue to be a mid-range RB1 for Week 7 against the Cleveland Browns.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 7,
+  "team": "MIA",
+  "opp": "CLE",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 82,
+  "receiving_catches": 3,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 15
+}

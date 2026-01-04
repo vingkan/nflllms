@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206331",
+  "title": "TreVeyon Henderson Has Favorable Outlook in Potential Lead-Back Role",
+  "description": "New England Patriots running back TreVeyon Henderson will likely operate as the team's primary option out of the backfield in Week 9 against the Atlanta Falcons. Rhamondre Stevenson (toe) has been ruled out already, leaving Henderson as the next man up, based on the depth chart. Of course, there's no guarantee that Henderson steps into an every-down role or even earns the start, as New England has been overly restrictive with his usage this year. The rookie is averaging just 6.6 percent touches per game, and he only played 21 percent of the offensive snaps last week. However, we can likely put those concerns aside now that Stevenson has officially been ruled out. Terrell Jennings should get involved, but common logic points to Henderson starting and handling at least 60 percent of the snaps on Sunday. His matchup is moderately tough; Atlanta has allowed the 15th-fewest fantasy points to running backs in 2025. On a positive note, they did allow 91 total yards and a touchdown to De'Von Achane last week. Henderson is a high-end RB3 with RB2 upside.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 9,
+  "team": "NE",
+  "opp": "ATL",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 4,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 15
+}

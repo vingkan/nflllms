@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203620",
+  "title": "Ty Johnson Remains a Deep Handcuff Option in Buffalo",
+  "description": "Buffalo Bills running back Ty Johnson continues to play a modest role in the team's backfield rotation, logging between 20% and 33% of offensive snaps in each of the first four games. However, his on-field presence has not translated into meaningful fantasy production, as he's averaging just two carries for 10.8 yards per game. With James Cook III firmly entrenched as the lead back and quarterback Josh Allen consistently handling a share of the rushing workload, Johnson's fantasy value remains minimal. Unless Cook misses time, Johnson offers little more than deep-league or handcuff appeal. Fantasy managers should avoid starting him in Week 5 against a Patriots defense that has allowed the second-fewest rushing yards per game. Johnson's role is simply too limited to warrant consideration outside of the deepest formats.",
+  "player_id": 6039,
+  "player_name": "Ty Johnson",
+  "week": 5,
+  "team": "BUF",
+  "opp": "NE",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 66
+}

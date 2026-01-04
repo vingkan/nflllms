@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206751",
+  "title": "Rico Dowdle Dealing With Quad Injury, Officially Misses Practice",
+  "description": "Updating a previous report, Carolina Panthers running back Rico Dowdle (quadriceps) was unable to practice on Wednesday due to a quad injury, according to Darin Gantt of Panthers.com. Dowdle has been one of the hottest players in football in recent weeks, so this is a situation to watch heading into Carolina's Week 10 game on Sunday against the division-rival New Orleans Saints. The 27-year-old ran for 130 yards and two touchdowns in last week's upset win over the Green Bay Packers. He is only the fourth player in franchise history to have at least 125 rushing yards in three games in the same year, joining Stephen Davis, Christian McCaffrey, and DeAngelo Williams. If Dowdle is unable to play this weekend, it will thrust Chuba Hubbard back into the RB1 role for Carolina. Dowdle's strong play when Hubbard missed time with injury has vaulted him to lead-back duties.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 10,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

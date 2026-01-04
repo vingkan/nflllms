@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205448",
+  "title": "MarShawn Lloyd Still Not Practicing",
+  "description": "Green Bay Packers head coach Matt LaFleur said last week that running back MarShawn Lloyd (hamstring), who has been on Injured Reserve for the first seven weeks, was getting closer to practicing. However, the team still has not designated Lloyd to return from IR, and he has not resumed practicing with the team as they prepare this week for a Sunday night battle with the Pittsburgh Steelers in Week 8. Perhaps Lloyd will have his 21-day practice window opened next week, but even then, he wouldn't be a lock to make his 2025 debut in Week 9 against the Carolina Panthers. There have been rumors that the Packers are making calls ahead of the trade deadline on RBs, so maybe Lloyd isn't as close to a return as the Packers are leading on. The former third-rounder has been a major bust for the Packers so far due to injuries, playing in just one game since the start of last year.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 8,
+  "team": "GB",
+  "opp": "PIT",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

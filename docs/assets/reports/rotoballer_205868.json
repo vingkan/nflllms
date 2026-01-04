@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205868",
+  "title": "Cam Skattebo has Successful Surgery on Monday",
+  "description": "New York Giants head coach Brian Daboll said that \"all went well\" with rookie running back Cam Skattebo's ankle surgery on Monday, according to Dan Salomone of Giants.com. \"He's recovering. Obviously, he'll be missed. On the road to recovery,\" Daboll said. Skattebo suffered a gruesome-looking dislocated right ankle in Sunday's loss to the Philadelphia Eagles and had to be carted off the field. While there is no official timetable for the 23-year-old Arizona State product's return, he will miss the rest of his rookie season. It's a very disappointing end to 2025 for the fourth-round pick, who ran for 410 yards and five touchdowns on 101 carries while adding 24 catches for 207 yards and two more scores in his first eight games in the NFL. With Skattebo done for the rest of the year, Tyrone Tracy Jr. will be New York's lead back, with Devin Singletary elevating into RB2 duties.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

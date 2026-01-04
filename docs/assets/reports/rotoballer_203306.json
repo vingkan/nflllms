@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203306",
+  "title": "Braelon Allen Headed For Injured Reserve",
+  "description": "New York Jets running back Braelon Allen (knee) will be placed on injured reserve later Thursday, according to Rich Cimini of ESPN. Allen sustained the injury during the Jets' Monday Night Football loss at Miami and did not return to the game. Cimini said the club isn't certain if the injury will be season-ending, but it certainly will be more than the minimum four weeks required for an IR stint. Without Allen, it seems highly likely fellow running back Breece Hall will receive the vast majority of work out of the Jets' backfield for the time being.",
+  "player_id": 11576,
+  "player_name": "Braelon Allen",
+  "week": 5,
+  "team": "NYJ",
+  "opp": "DAL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

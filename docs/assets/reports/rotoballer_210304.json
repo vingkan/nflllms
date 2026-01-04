@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210304",
+  "title": "Samaje Perine Gaining Standalone Value?",
+  "description": "Cincinnati Bengals running back Samaje Perine has had a meaningful role in the offense over the past two weeks, playing 38.5% of the snaps while handling 20 carries for 70 yards with three receptions (three targets) for 20 yards. However, he's been firmly behind starter Chase Brown, who has played 62.9% of the snaps with 27 carries for 101 yards and a touchdown while adding 10 catches for 47 yards and another touchdown on 11 targets. Perine is a trusted veteran in pass protection and has familiarity with the Bengals offense, so he should maintain a healthy role behind Brown. His usage would tick up if Brown were to miss time, but his current value is just limited to deeper formats as a handcuff.",
+  "player_id": 4147,
+  "player_name": "Samaje Perine",
+  "week": 15,
+  "team": "CIN",
+  "opp": "BAL",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 48
+}

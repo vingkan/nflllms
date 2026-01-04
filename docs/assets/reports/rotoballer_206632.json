@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206632",
+  "title": "Terrell Jennings Scores His First NFL Touchdown",
+  "description": "New England Patriots running back Terrell Jennings got his biggest workload of the season in Week 9 against the Falcons, and he converted his 11 carries to 35 rushing yards and a touchdown in the Patriots' 24-23 win. He hauled in his only target for a nine-yard catch as well. The undrafted rookie from Florida A&M played just 17 snaps compared to TreVeyon Henderson's 51, but he was able to vulture the touchdown in the first half and finished with three red zone carries. Rhamondre Stevenson (toe) missed Week 9, and if he's out agin in Week 10, Jennings would likely continue his role as a change-of-pace and red zone option in a timeshare with Henderson. In that scenario, he would have touchdown-dependent upside off waiver wires if you need help in the backfield.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 10,
+  "team": "NE",
+  "opp": "TB",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206170",
+  "title": "TreVeyon Henderson To Finally Be Unleashed in Week 9?",
+  "description": "New England Patriots rookie running back TreVeyon Henderson had his most efficient game of the season in the team's Week 8 win over the Cleveland Browns, rushing for 75 yards on 10 carries, although he did lose a fumble near the goal line. It was an encouraging outing for Henderson as they used him on more outside runs and toss plays to get him in space, where he looked much more comfortable. And now with starter Rhamondre Stevenson (toe) banged up and missing both practices to open the week, it could open up a great opportunity for Henderson to see more snaps and handle his biggest workload of the season. His highest snap share in a game this season was 50% back in Week 5 against the Bills, where running back Antonio Gibson suffered a season-ending ACL injury. Since then, Henderson surprisingly hasn't had a snap share higher than 30% in any of the three games. The rookie out of Ohio State has earned praise from offensive coordinator Josh McDaniels this week, which hopefully signals more touches and better days ahead for Henderson. If Stevenson is ultimately ruled out, Henderson would rank as an RB2 with upside for Week 9 against the Falcons.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 9,
+  "team": "NE",
+  "opp": "ATL",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 4,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 15
+}

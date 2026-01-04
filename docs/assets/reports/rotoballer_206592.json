@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206592",
+  "title": "Kimani Vidal's Jekyll and Hyde Season Continues, Can He Bounce Back?",
+  "description": "Los Angeles Chargers running back Kimani Vidal followed a standout Week 8 performance with a dud, gaining only 30 yards on 12 carries in Sunday's 27-20 win over the Tennessee Titans. He averaged just 2.5 yards per carry and was outperformed by both Justin Herbert (57 rushing yards) and Jaret Patterson (44 yards), who was elevated from the practice squad again. It's been a rollercoaster for Vidal, who alternates between breakout games and quiet ones. With Hassan Haskins (hamstring) and Omarion Hampton (ankle) both on IR until at least after the Week 12 bye, Vidal will continue to handle lead duties out of necessity. Next Sunday night, the Chargers face a Pittsburgh Steelers' defense that just shut down the league's top running back, Jonathan Taylor, so expectations should remain modest. With so many injuries and inconsistencies, it will be interesting to see if the Bolts' front office makes any trades to strengthen the running back position by the trade deadline tomorrow. For now, Vidal remains an RB3/FLEX option who relies on game script and red-zone opportunities.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 10,
+  "team": "LAC",
+  "opp": "PIT",
+  "att": 25,
+  "tgt": 1,
+  "touches": 26,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 95,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

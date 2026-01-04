@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205182",
+  "title": "Kyle Monangai Records Season-High 94 Scrimmage Yards, First NFL Touchdown",
+  "description": "Chicago Bears rookie running back Kyle Monangai had the best game of his young NFL career in his team's Week 7 win over the New Orleans Saints, recording 94 yards from scrimmage and a touchdown on 15 total touches. The 23-year-old has been an efficient player so far this season, averaging 4.6 yards per carry and 5.4 yards per touch. Monangai remains the clear RB2 in Chicago behind D'Andre Swift, who had a similarly stellar game in Week 7 with 138 scrimmage yards and a touchdown on 20 total touches. Still, Monangai could slowly steal work away from Swift over the course of the season. At the very least, Monangai is a high-end handcuff option who should be rostered and stashed in deep fantasy leagues. The Bears will travel to Baltimore to take on the Ravens in Week 8.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 52
+}

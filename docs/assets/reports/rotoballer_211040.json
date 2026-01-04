@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211040",
+  "title": "Kenneth Gainwell Leads Steelers in Rushing Yards, Catches on Monday",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell continues to be a PPR machine, racking up seven receptions for 46 yards while adding 13 carries for 80 yards on the ground in the Monday night win over the Miami Dolphins. Gainwell led the team in catches, with four other Steelers tied for second with three, and outgained Jaylen Warren by 47 yards on the ground on one more carry. The 26-year-old remains a vital piece of the Steelers offense and a player that quarterback Aaron Rodgers relies on for easy dump-off passes to pick up yards after the catch. Gainwell has recorded at least six receptions in four of the past five games and has emerged as a weekly option in PPR leagues. He'll project favorably again as an RB2/flex option next week against the Detroit Lions.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 16,
+  "team": "PIT",
+  "opp": "DET",
+  "att": 9,
+  "tgt": 7,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 5,
+  "receiving_yards": 78,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 8
+}

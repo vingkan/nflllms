@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209803",
+  "title": "Jordan Mason Ready to Step Up If Teammate Misses Week 14",
+  "description": "Minnesota Vikings running back Jordan Mason has an opportunity to handle the workload in Week 14. Last week, starting back Aaron Jones Sr. exited early after suffering a shoulder injury on a play he fumbled. Jones has dealt with a shoulder injury earlier in the season and was limited in practice on Wednesday. Mason has been very efficient with his limited workload this season, averaging 6.6 yards per carry in the last four games. In the games that Jones did not play earlier in the season due to a hamstring injury, Mason averaged over 70 rushing yards and had four touchdowns in those four games. The former 49er broke out in 2024 as a handcuff to Christian McCaffrey, and he has shown that same ability in Minnesota. If Jones is unable to play in Week 14 against the Washington Commanders, Mason would be a must-start in fantasy this week.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 52,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

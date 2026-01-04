@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209608",
+  "title": "Packers Open Marshawn Lloyd's Practice Window",
+  "description": "The Green Bay Packers are opening the 21-day practice window for running back MarShawn Lloyd (hamstring) this week, according to Tom Pelissero of NFL Network. It means that Lloyd can return from Injured Reserve at any time. The 24-year-old former third-round pick out of USC in 2024 hasn't played all year due to a hamstring injury that he suffered in the preseason in August. The Packers had high hopes for Lloyd in their backfield when they drafted the 5-foot-9, 220-pounder, but injuries have limited him to just one game since he entered the league. Lloyd worked on his body during the time off, but it remains to be seen when he'll make his 2025 debut. He will most likely be eased into Green Bay's backfield alongside Emanuel Wilson and Chris Brooks behind starter Josh Jacobs, but he could be a valuable, explosive change-of-pace weapon in the postseason if he's healthy.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 14,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

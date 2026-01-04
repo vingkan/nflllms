@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207224",
+  "title": "Jonathan Taylor Carries Colts to Victory in Berlin",
+  "description": "Indianapolis Colts running back Jonathan Taylor had 32 carries for 244 rushing yards and three rushing touchdowns during Sunday's overtime win over the Atlanta Falcons in Berlin. He also caught all three of his targets for an additional 42 receiving yards. The superstar running back strengthened his candidacy for the NFL rushing title, and he also improved his unlikely but not impossible odds in the MVP race. Taylor is now the overall RB1 in fantasy football this season. He remains an undisputed must-start on the other side of Indianapolis' Week 11 bye.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 12,
+  "team": "IND",
+  "opp": "KC",
+  "att": 16,
+  "tgt": 3,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 28
+}

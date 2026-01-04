@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211947",
+  "title": "Nick Chubb Is a Shaky Play in Week 17",
+  "description": "Houston Texans running back Nick Chubb has been a regular part of the team's running back rotation this season, but his role in Week 17 against the Chargers is a little murky. Woody Marks is ready to return from an ankle injury after missing Week 16, and Jawhar Jordan had a nice breakout while Marks was injured. With both Marks and Jordan in the mix this week, carries could be hard to come by for Chubb. He could still be utilized as a short-yardage specialist since he is an effective between-the-tackles option, but he doesn't have the explosiveness he showcased earlier in his career. He'll be a touchdown-dependent flex long shot this week in a tough matchup, and he's only the No. 53 RB in RotoBaller's rankings, making him best left on the bench or waiver wire if possible this week.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 17,
+  "team": "HOU",
+  "opp": "LAC",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 1,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 79
+}

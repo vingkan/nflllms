@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208474",
+  "title": "Kenneth Walker III Listed as Questionable for Week 12",
+  "description": "Seattle Seahawks running back Kenneth Walker III (glute) popped up with a new injury on Friday's injury report and is now listed as questionable for Sunday's matchup against the Tennessee Titans, per Michael-Shawn Dugar of The Athletic. Seahawks head coach Mike Macdonald said that Walker \"should be fine\" for Sunday despite the questionable tag, noting that the team is being precautionary. It's never good to see a player show up with a new injury late in the practice week, but signs point to the 25-year-old back playing in Week 12. The timing is quite unfortunate, as Macdonald hinted earlier this week at Walker seeing his opportunities increase moving forward, so ideally, this injury doesn't impact those plans. Zach Charbonnet will likely continue to be a thorn in his side, but Walker gets a dream matchup against the Titans on Sunday and could deliver for fantasy managers who have been waiting all season.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 12,
+  "team": "SEA",
+  "opp": "TEN",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 71,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

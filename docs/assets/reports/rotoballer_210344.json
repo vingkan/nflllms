@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210344",
+  "title": "Michael Carter Could Maintain Passing-Down Role in Arizona",
+  "description": "Arizona Cardinals running back Michael Carter has seen minimal usage as a rusher in recent weeks, as he has not recorded more than five carries in a game since Week 7. However, the 26-year-old has seen consistent work in the passing game, hauling in 15 receptions for 117 yards on 20 targets over the last four weeks. The Cardinals' backfield has been in a constant state of flux this season due to injuries. With James Conner (ankle), Trey Benson (knee), and Emari Demercado (ankle) sidelined, Carter and journeyman back Bam Knight have seen the majority of the work over the last month. Arizona could be getting Benson back in Week 15 against the Houston Texans, which may eliminate Carter's role. However, it appears the Cardinals are also considering shutting down Benson for the season due to his lingering knee injury. If Benson remains out, Carter could have some flex appeal for deep-league PPR fantasy managers thanks to his pass-catching ability.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 14,
+  "tgt": 4,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 4,
+  "receiving_yards": 38,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

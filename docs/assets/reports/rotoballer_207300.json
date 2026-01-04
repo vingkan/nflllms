@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207300",
+  "title": "Devin Singletary Boasts Another Modest Touch Load",
+  "description": "New York Giants running back Devin Singletary rushed eight times for 20 yards, adding another 53 on 3-of-3 receiving in Sunday's 24-20 loss to the hosting Chicago Bears. The veteran boasted a season-high ten touches in Week 9, and one week later set a new high-water mark. Singletary hasn't been overly efficient in 2025, but this past weekend marked the first time this year that he played in front of backfield mate Tyrone Tracy Jr. in the passing game. That may be an aberration, although he's undoubtedly been more involved since rookie Cam Skattebo (ankle) went down with a gruesome ankle injury. Singletary should be on fantasy managers' radars for the time being, as the situation in New York could shift as they're further removed from Skattebo's departure.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 11,
+  "team": "NYG",
+  "opp": "GB",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 14
+}

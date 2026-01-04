@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207824",
+  "title": "Woody Marks Is In a Favorable Matchup in Tennessee",
+  "description": "Houston Texans running back Woody Marks is a decent RB2 and an excellent flex play this week in his rematch with the Titans. In Week 4, he went off for a huge game in his first game against this division foe, racking up 69 rushing yards on 17 carries and adding 50 receiving yards on four catches. He also had one rushing score and one receiving score, and he was back in the end zone last week against the Jaguars, taking 14 carries for 53 yards and adding two catches for 18 yards. The rookie seems to have taken a lead in the backfield over Nick Chubb, but Chubb will still be involved, especially if the Texans are playing from ahead. Marks is the No. 17 running back in RotoBaller's rankings for Week 11, and the Titans have allowed the fourth-most fantasy points to running backs this season, giving him a high ceiling this week.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 11,
+  "team": "HOU",
+  "opp": "TEN",
+  "att": 18,
+  "tgt": 1,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 41
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210442",
+  "title": "Devin Neal's Stock Rising As Fantasy Playoffs Approach",
+  "description": "New Orleans Saints running back Devin Neal (abdomen) is warding off an injury but has nonetheless seen his fantasy stock rise, making him a possible priority free agent for managers looking to make a playoff run. The rookie from Kansas is coming off the best day of his NFL career last week at Tampa, during which he rushed 19 times for 70 yards and a touchdown, and also caught his only target for 14 yards. The increase in work arrived because longtime starter Alvin Kamara (knee, ankle) has been sidelined, which included missing Wednesday's practice. For his part, Neal practiced in a limited capacity on Wednesday ahead of a Week 15 game against Carolina. Though he's not out of the woods yet, Neal and the Saints have a terrific set of matchups with the Panthers, Jets, and Titans on deck in the next three weeks, which could give Neal steady value if Kamara remains out.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 15,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 28
+}

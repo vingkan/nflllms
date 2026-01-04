@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211663",
+  "title": "Isaiah Davis Efficient in Loss to Saints",
+  "description": "New York Jets running back Isaiah Davis made the most out of his increased playing time on Sunday. Davis has seen more involvement down the stretch of the season and is taking full advantage of it. On Sunday, Davis rushed the ball three times for eight yards, while hauling in all four of his targets for 52 yards in the loss to the New Orleans Saints. These are promising numbers from Davis, who has been a non-factor throughout most of the season. The 23-year-old remains behind Breece Hall in the pecking order, so his fantasy value outlook isn't great. Davis won't be a recommended starting option for the difficult matchup against the New England Patriots in Week 17.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 17,
+  "team": "NYJ",
+  "opp": "NE",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 11,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 54
+}

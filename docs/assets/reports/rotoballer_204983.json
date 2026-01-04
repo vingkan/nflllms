@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204983",
+  "title": "Kyren Williams Looks to Extend Touchdown Streak Against Jacksonville",
+  "description": "Los Angeles Rams running back Kyren Williams has scored a touchdown in back-to-back games and will look to extend his streak against the Jacksonville Jaguars in Week 7. The 25-year-old has a firm grasp on the lead-back role in Los Angeles, handling 39 touches over the last two games compared to Blake Corum's six. Williams has been efficient on the ground with 4.4 yards per carry and has also taken on a bigger receiving role with 10 catches and two receiving touchdowns over his last two games. The Jaguars rank near the middle of the league in terms of fantasy points allowed to running backs, so we don't expect Williams to run into any challenges that he can't handle. He remains a high-end RB2 for Week 7.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 7,
+  "team": "LAR",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 54,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 25
+}

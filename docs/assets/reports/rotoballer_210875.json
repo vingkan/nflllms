@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210875",
+  "title": "De'Von Achane Cleared to Play Against Steelers in Week 15",
+  "description": "Miami Dolphins running back De'Von Achane (ribs) practiced in full on Saturday. He has been removed from the injury report and will play in Monday's Week 15 contest against the Pittsburgh Steelers. Achane is the overall RB5 in PPR leagues so far, and he has scored a touchdown in back-to-back games. Pittsburgh's defense has been tough against running backs this year, allowing the 10th-fewest fantasy points to the position, but they'll be at a major disadvantage without T.J. Watt (lung) on Monday night. Even with Jaylen Wright handling more volume lately, Achane should continue to be viewed as a high-end RB1 in fantasy football.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 6,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209698",
+  "title": "Can Kenneth Gainwell Maintain a Consistent Role?",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell saw just five carries for 20 yards and secured two of his three targets for 25 yards in a 26-7 loss to the Buffalo Bills. After delivering two straight performances as a fantasy RB1, Gainwell logged his lowest snap share since Week 9 and ceded both targets and goal-line work to Jaylen Warren. Though Gainwell should remain involved down the stretch, it's clear that Pittsburgh prioritizes Warren as its primary ballcarrier. In Week 14, Gainwell will face the division-rival Baltimore Ravens, who have held running backs to the sixth-fewest fantasy points per contest and the 10th-fewest yards per carry over the past eight weeks. The game script could make Gainwell a necessary check-down option for quarterback Aaron Rodgers, but fantasy managers should view him as a risky flex play on Sunday.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 14,
+  "team": "PIT",
+  "opp": "BAL",
+  "att": 4,
+  "tgt": 7,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 15,
+  "receiving_catches": 6,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 12
+}

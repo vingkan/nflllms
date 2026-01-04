@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209935",
+  "title": "Omarion Hampton Out of Non-Contact Jersey",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton (ankle) practiced without a non-contact jersey on Friday, a positive sign for his chances to play on Monday night against the Philadelphia Eagles, Kris Rihm of ESPN reports. Hampton said on Thursday that he feels great and is ready to get back on the field, but the decision is ultimately up to the doctors. The rookie first-rounder has been sidelined since Week 5 when he suffered a fractured ankle, and it's a great sign to see the rookie first-rounder shed the non-contact jersey in practice. Hampton is trending toward being activated off Injured Reserve and playing in Week 14 against the visiting Philadelphia Eagles, though he's likely to operate in a timeshare with Kimani Vidal in his first game back. He projects as RB3/FLEX option if he is active on Monday night.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

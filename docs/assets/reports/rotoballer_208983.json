@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208983",
+  "title": "Malik Davis Locked in as Cowboys Backup RB?",
+  "description": "Dallas Cowboys running back Malik Davis has been active for the last five games, mostly contributing on special teams. However, Davis has seen a slight uptick in playing time on offense in the past two games. After playing just 10 snaps total and handling three carries for six yards in his first three games active on gameday, the 26-year-old has played 25 snaps total and rushed seven times for 44 carries in the past two weeks. Davis noticeably has a bit more explosiveness than starter Javonte Williams and adds a useful change-of-pace element to the Cowboys ' backfield. He had three carries for 24 yards in Dallas' comeback win over the Eagles in Week 12, reaching 15+ mph on two of those carries, per Next Gen Stats. Davis looks like the clear handcuff to Williams at the moment and is stashing on benches in 12-team leagues and deeper.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 13,
+  "team": "DAL",
+  "opp": "KC",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 32
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209370",
+  "title": "Bam Knight Projects to Lead Arizona Backfield in Week 13",
+  "description": "Arizona Cardinals running back Bam Knight (knee) is questionable for Week 13 against the Tampa Bay Buccaneers, but is expected to play on Sunday. With Trey Benson (knee) ruled out for his eighth consecutive game, and Emari Demercado (ankle) sidelined again, Knight is in to draw the start and split touches with Michael Carter. Carter has outsnapped Knight in the past two weeks with the same situation, but Knight holds the touch advantage with 23 compared to Carter's 15 in the past two games. The 24-year-old hasn't been efficient as a runner, recording 15 carries for 36 yards to go with eight receptions for 41 yards on nine targets, but has found the end zone in both games to return some fantasy value. Knight should lead Arizona in touches again on Sunday against a Bucs defense that has allowed the 11-most PPR points per game to opposing running backs. He ranks as RotoBaller's RB36 in PPR leagues for Week 13.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

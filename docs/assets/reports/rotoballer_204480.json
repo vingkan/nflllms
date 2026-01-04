@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204480",
+  "title": "Kimani Vidal Proves He is the RB1 for the Chargers",
+  "description": "Los Angeles Chargers running back Kimani Vidal exploded in Week 6 against the Miami Dolphins with 18 carries for 124 yards (6.89 YPC) and three catches for 14 yards with a receiving touchdown. With rookie sensation Omarion Hampton (ankle) set to miss at minimum the next three games, Vidal was the clear RB1 in this offense, with Hassan Haskins hardly used on Sunday, with only six carries for 14 yards and one reception for nine yards. Vidal played 70% of the snaps, while Haskins played only 28% of them. Vidal proved he is the running back fantasy managers should prioritize in this offense, and moving forward, Vidal should provide low-end RB2 value until Hampton returns. Up next for the Chargers is a tougher matchup at home against the Indianapolis Colts, who rank in the top 10 against opposing running backs.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 7,
+  "team": "LAC",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 4,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 27
+}

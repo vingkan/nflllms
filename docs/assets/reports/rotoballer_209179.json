@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209179",
+  "title": "Jahmyr Gibbs' has Underwhelming Week 13 Performance",
+  "description": "Detroit Lions running back Jahmyr Gibbs did not have his most efficient day in his team's 31-24 Week 13 loss to the Green Bay Packers, recording 86 scrimmage yards and failing to find the end zone on 23 touches. However, Gibbs has now averaged 24.5 touches per game over the last two weeks. With Detroit likely to be without both wide receiver Amon-Ra St. Brown (ankle) and tight end Sam LaPorta (back) for Week 14 against the Dallas Cowboys and possibly longer, the Lions seem likely to continue force-feeding Gibbs the ball. Across 12 games this season, the 23-year-old has recorded 1,416 scrimmage yards and 13 touchdowns on 226 touches and now profiles as by far the most reliable weapon on his team's offense. As long as Gibbs can stay healthy, he profiles as a must-start fantasy running back.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 14,
+  "team": "DET",
+  "opp": "DAL",
+  "att": 12,
+  "tgt": 7,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 43,
+  "receiving_catches": 7,
+  "receiving_yards": 77,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 37,
+  "ppr_scoring_position_rank": 1
+}

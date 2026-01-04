@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211743",
+  "title": "Evan Hull Worth Avoiding on the Waiver Wire in Week 17?",
+  "description": "New Orleans Saints running back Evan Hull is coming off a very disappointing performance against the New York Jets. As a result, he can be left on waivers in most fantasy leagues ahead of his Week 17 matchup against the Tennessee Titans. Although there had been some speculation that Hull would lead New Orleans' backfield on Sunday with Alvin Kamara (knee, ankle) sidelined, that never came to fruition. Instead, he handled just five carries for three rushing yards on a 21% snap share. Audric Estime (three catches) was far more productive than Hull in the receiving game, and veteran playmaker Taysom Hill (12 carries) handled the bulk of the volume on the ground. If Kamara misses another game, Hill is the early favorite to lead the team in carries while Estime gets involved in the passing game. That leaves Hull as the odd man out, despite facing a Titans defense that has allowed the 12th-most fantasy points to running backs in 2025.",
+  "player_id": 9220,
+  "player_name": "Evan Hull",
+  "week": 17,
+  "team": "NO",
+  "opp": "TEN",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 75
+}

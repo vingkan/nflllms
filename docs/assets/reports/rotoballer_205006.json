@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205006",
+  "title": "Jaydon Blue Should Remain Off of Fantasy Radars in Week 7",
+  "description": "Dallas Cowboys rookie running back Jaydon Blue has seen his first NFL game action over the last two weeks, but he's yet to play a significant role in the team's offense. Through two games, Blue has recorded seven rushing yards on seven carries and has not been targeted by Cowboys quarterback Dak Prescott. With veteran Cowboys back Miles Sanders (knee, ankle) on Injured Reserve, Blue figures to have an extended run as the team's RB2 behind Javonte Williams. Still, it would appear that the team does not currently trust Blue to do much beyond give Williams the occasional play off. That seems unlikely to change in a crucial divisional matchup in Week 7 against the Washington Commanders. Blue maintains long-term fantasy appeal as a handcuff, but he's not startable for fantasy managers in Week 7.",
+  "player_id": 12457,
+  "player_name": "Jaydon Blue",
+  "week": 7,
+  "team": "DAL",
+  "opp": "WAS",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 29,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 42
+}

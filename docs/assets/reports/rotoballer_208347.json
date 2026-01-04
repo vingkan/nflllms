@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208347",
+  "title": "Jaylen Warren in Danger of Losing Snaps?",
+  "description": "Pittsburgh Steelers running back Jaylen Warren (ankle), who didn't practice on Wednesday due to an ankle injury he picked up in Sunday's win over the Cincinnati Bengals, could be in danger of losing snaps to backfield mate Kenneth Gainwell. Offensive coordinator Arthur Smith said that Warren and Gainwell are both \"really good\" on third downs and are \"pretty interchangeable.\" Smith also added that the Steelers got into a rhythm during their two-minute drive against Cincy, which is why Gainwell stayed in for most of the drive. The 27-year-old Warren downplayed his ankle injury, but he didn't appear at all in the fourth quarter on Sunday, while Gainwell caught a season-high seven passes for 81 yards and two touchdowns. Warren has been the team's best RB all year by far, but the Steelers could be positioning themselves for Gainwell to take more of the load off Warren in Week 12 against the Bears if Warren is not 100% healthy.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 18,
+  "tgt": 0,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 68,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 18
+}

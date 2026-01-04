@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209406",
+  "title": "Ray Davis Likely to Remain Limited to Reserve Role in Week 13",
+  "description": "Across 11 games played in 2025, Buffalo Bills running back Ray Davis has recorded just 44 rushing yards on 22 carries. The 26-year-old appears to have completely faded out of his team's offensive plans in recent weeks, as he's failed to earn a single carry in three out of Buffalo's last four games. With top Bills running backs James Cook and Ty Johnson both healthy and ready to roll for the team's Week 13 matchup against the Pittsburgh Steelers, there's little reason for fantasy managers to think that Davis' role will be significantly changed. Since Week 3, Davis has played fewer than 10 offensive snaps in every game but one. He should remain off the radar of fantasy managers in Week 13.",
+  "player_id": 11575,
+  "player_name": "Ray Davis",
+  "week": 13,
+  "team": "BUF",
+  "opp": "PIT",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 44
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209632",
+  "title": "Tyrone Tracy Jr. Carted Off With Hip Injury on Monday Night",
+  "description": "New York Giants running back Tyrone Tracy Jr. (hip) was carted off the field after suffering a hip injury during his team's Week 13 matchup against the New England Patriots on Monday night. Dan Salomone of Giants.com reports that Tracy Jr. is officially questionable to return. The 26-year-old back recorded 10 carries for 36 yards and one catch for -3 yards before being forced to exit the game. If he's unable to return, veteran running back Devin Singletary would be in line to handle most of New York's backfield work for the remainder of Week 13. While the exact nature of Tracy Jr.'s injury is unclear, an extended absence for Tracy Jr. would be a major loss for the Giants. With rookie running back Cam Skattebo (ankle) on Injured Reserve, Singletary would be the last back standing in New York and could be in line for a significant workload increase going forward.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 5
+}

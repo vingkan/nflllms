@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203500",
+  "title": "Cam Skattebo A Must-Start In Week 5",
+  "description": "New York Giants running back Cam Skattebo is set up for another high-volume workload against the New Orleans Saints in Week 5. With Tyrone Tracy Jr. still sidelined, Skattebo has cemented his role as the team's workhorse, commanding a 70.8% timeshare last week and ranking as the RB20 on the season with an average of 11.97 fantasy points per game. He faces a Saints defense that allows the 24th-most fantasy points to running backs but has significant vulnerabilities that a high-volume back can exploit. New Orleans ranks 30th in the NFL in both points allowed per game (30.3) and red zone touchdown percentage (76.9%), setting the stage for Skattebo to capitalize on scoring opportunities.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 5,
+  "team": "NYG",
+  "opp": "NO",
+  "att": 15,
+  "tgt": 7,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 59,
+  "receiving_catches": 6,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 19
+}

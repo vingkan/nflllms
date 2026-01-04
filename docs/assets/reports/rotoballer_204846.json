@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204846",
+  "title": "Kimani Vidal's Volume Could Offset Tough Matchup",
+  "description": "Los Angeles Chargers running back Kimani Vidal proved himself as the clear leader in the backfield during the team's 29-27 victory over the Miami Dolphins, handling 70% of the snaps and rushing for 124 yards on 18 carries. He also caught three passes for 14 yards and scored a touchdown. Vidal's tough running, which averaged 6.89 yards per carry last week, helped lighten the load on quarterback Justin Herbert. Although the Indianapolis Colts have a strong rush defense, Vidal's likely heavy usage, especially with fellow backup running back Hassan Haskins listed as Questionable (chest), makes him a solid volume-based starter. RotoBaller projects Vidal as RB21 this week. He is a low-end RB2 and should be in your lineup, especially if Haskins is limited.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 7,
+  "team": "LAC",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 4,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 27
+}

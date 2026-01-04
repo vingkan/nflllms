@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211686",
+  "title": "Michael Carter Can Be a Solid Streamer",
+  "description": "Arizona Cardinals running back Michael Carter filled in as the starter in Week 16 for the team's banged-up backfield, and he had a solid game against the Falcons. He took 11 carries for 65 yards but failed to catch either of his two targets or get into the end zone. Carter played well ahead of Emari Demercado and Corey Kiner and will likely lead the backfield committee again in Week 17 with James Conner, Trey Benson, and Bam Knight all on the shelf for the rest of the season. Carter and the Cards get a favorable matchup in Week 17 against the Bengals, so if you need some emergency help in the backfield, he's a solid streaming option with touchdown-dependent upside in Week 17.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 17,
+  "team": "ARI",
+  "opp": "CIN",
+  "att": 7,
+  "tgt": 4,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 38
+}

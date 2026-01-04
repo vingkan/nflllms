@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210568",
+  "title": "Kareem Hunt Loosening Grip On Backfield Heading Into Week 15",
+  "description": "Kansas City Chiefs running back Kareem Hunt handled 12 carries for 30 yards and a touchdown in last week's loss to the Houston Texans. The veteran back once again found the endzone, but was inefficient with his opportunities. Hunt averaged 2.5 yards per carry and failed to bring in his only target of the contest. Hunt has been the unquestioned lead back in the absence of Isiah Pacheco and retained that role in Pacheco's first game back from injury in Week 13, but things shifted last. Hunt had 12 carries for 30 yards, and Pacheco had nine carries for 30 yards (3.3 yards per carry). Pacheco's opportunities ticked up in his second week back from injury, putting Hunt's grip on the backfield in jeopardy. That said, Hunt should remain the back most likely to score a touchdown given the team's trust in him for goal-line chances. Hunt will have to fend off Pacheco for opportunities while taking on the Los Angeles Chargers in Week 15. The Chargers have been middle-of-the-pack in fantasy points allowed to opposing running backs this season, so it should not be a difficult matchup. Splitting touches with Pacheco in a game with a 40.5 O/U may lead to a lower ceiling for both players. Hunt is ranked RB31 in our RotoBaller Half-PPR rankings, making him a RB3/Flex option for this contest in the fantasy playoffs.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 15,
+  "team": "KC",
+  "opp": "LAC",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 12,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 54
+}

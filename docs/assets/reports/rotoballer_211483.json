@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211483",
+  "title": "Devin Singletary Tough To Trust in Lineups for Week 16",
+  "description": "New York Giants running back Devin Singletary took a backseat to Tyrone Tracy Jr. in Week 15's loss to the Washington Commanders. Singletary recorded only six touches for 14 yards from scrimmage, his fewest touches in a game since Week 8 and his fewest yards since Week 7. The veteran has taken on a larger role in the backfield and has been fantasy viable since Cam Skattebo (ankled) suffered a season-ending injury in Week 8. Since Week 9, the 28-year-old is averaging 10.2 PPR points per game, ranking as the RB30 over that time. Singletary profiles as a low-end flex play for Week 16's matchup against a Minnesota Vikings defense that ranks middle of the pack in PPR points per game allowed to running backs.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 16,
+  "team": "NYG",
+  "opp": "MIN",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 49
+}

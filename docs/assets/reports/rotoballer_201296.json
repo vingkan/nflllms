@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201296",
+  "title": "Austin Ekeler Injured, Carried Off Field with Non-Contact Injury",
+  "description": "Washington Commanders running back Austin Ekeler (Achilles) suffered what appeared to be a serious injury in the fourth quarter of the Thursday Night Football game against the Green Bay Packers, and had to be carried off the field. Due to the non-contact nature of the injury, and the fact that he immediately grabbed at his lower-leg area, there is speculation that he may have suffered a torn Achilles. He has officially been ruled out for the game, and we would expect him to miss significant time, if not the remainder of the season. Rookie running back Jacory Croskey-Merritt should be elevated even further into a featured role, with Jeremy McNichols and Chris Rodriguez Jr. likely being involved as well. Look for further news updates as we hear more confirmation about the severity of Ekeler's injury after further medical testing.",
+  "player_id": 4663,
+  "player_name": "Austin Ekeler",
+  "week": 3,
+  "team": "WAS",
+  "opp": "LV",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

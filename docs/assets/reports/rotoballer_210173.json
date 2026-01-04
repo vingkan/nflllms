@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210173",
+  "title": "Jordan Mason Scores In Vikings' Rout Of Commanders",
+  "description": "Minnesota Vikings running back Jordan Mason rushed for 52 yards and a touchdown as his squad crushed Washington 31-0 on Sunday. The first-year Viking was involved early by capping a 98-yard scoring drive with an eight-yard touchdown in the second quarter that established a 14-0 cushion that set up Minnesota to control the game the rest of the way. Encouragingly for managers who roster Mason, the split between Mason and Jones was close, as the pair took 11 and 14 carries, respectively. The Vikings have been a volatile, unpredictable team this year, but Mason is doing just enough to deserve week-to-week lineup consideration. He'll see another strong matchup when Minnesota travels to Dallas in Week 15.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 15,
+  "team": "MIN",
+  "opp": "DAL",
+  "att": 10,
+  "tgt": 0,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 29,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

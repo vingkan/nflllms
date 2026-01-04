@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209383",
+  "title": "Travis Etienne Jr. a High-End RB2 in Week 13",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. should be in line for a good fantasy day against the Tennessee Titans in Week 13. Not only should game script favor the Jaguars running game against their 1-10 division rival, but the Titans defense has been extra susceptible to the run compared to the pass. That means the Jaguars game plan on paper should be to run early and often, meaning if Etienne Jr. can find the end zone, he could have a big day. Bhayshul Tuten has had mixed involvement in the rushing attack which could limit Etienne Jr.'s upside slightly, but that shouldn't deter fantasy managers. Start the Jaguars star back with confidence in Week 13.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 13,
+  "team": "JAX",
+  "opp": "TEN",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 52
+}

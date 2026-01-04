@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209778",
+  "title": "Kyren Williams Expected to Play in Week 14",
+  "description": "Los Angeles Rams running back Kyren Williams (ankle) was limited in Wednesday's practice ahead of their divisional clash against the Arizona Cardinals. Despite being limited on Wednesday, head coach Sean McVay expects Williams to be ready to play in Week 14. The Rams have featured a committee much more in 2025 than in previous years, and Williams' workload has been limited. The fourth-year running back has eclipsed 15 carries in just one of his last nine games, and second-year back Blake Corum has been efficient this season. Williams faces a Cardinals run defense that has struggled in recent weeks and has allowed double-digit fantasy points to every starting running back they've faced this season. If Williams is good to go this week, he is a high-end RB2 in Week 14.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 14,
+  "team": "LAR",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

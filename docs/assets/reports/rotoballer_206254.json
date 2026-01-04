@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206254",
+  "title": "Zach Charbonnet Checks in as a Touchdown-Dependent Flex in Week 9",
+  "description": "Seattle Seahawks running back Zach Charbonnet is not a confident play in Week 9 against the Washington Commanders. The Commanders are No. 16 against opposing running backs in fantasy, but Charbonnet is an inefficient runner with low volume. However, Charbonnet has scored in four of his six games this season for a total of five touchdowns. When he scores, he generally delivers flex or RB2 value. When he has not scored, he has completely sunk your fantasy week. Touchdowns are a difficult statistic to project, but the Seahawks are as good a bet as anyone to find themselves at the goal line, handing the ball off to Charbonnet. This is especially true against a soft Commanders' defense. It is unlikely that you drafted Charbonnet to be a starter, but you may need his services in a week in which four teams are on a bye. If that is the case, the Charbonnet is a solid dart throw, albeit with a very low floor. Proceed with caution with Charbonnet in Week 9 if you must.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 9,
+  "team": "SEA",
+  "opp": "WAS",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 25,
+  "receiving_catches": 1,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 38
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201483",
+  "title": "Kareem Hunt Bidding For Larger Workload In Week 2",
+  "description": "Kansas City Chiefs running back Kareem Hunt will take on the Philadelphia Eagles at home this Sunday. Hunt received an identical workload to Isiah Pacheco and produced similar results. The veteran back was less efficient with his carries but picked up more receiving yards in his three opportunities. It is also important to note that Hunt appeared to be the preferred back on passing downs and short yardage situations. If this usage continues, Hunt could end up being the more fantasy-relevant player in this backfield. The Chiefs deployed Hunt in goal-line situations last season, and he was successful in that role, so it's possible that he retains that job. That said, the backfield usage was split 50/50, and it will be a difficult situation to deal with unless one player starts commanding more touches. Hunt will have to face a stout Eagles defense this week, so even if he gets more work, it could be hard to get anything going. Hunt is ranked RB48 in our RotoBaller rankings this week, making him a deeper league flex option. It might be best to wait and see how this backfield shakes out.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 2,
+  "team": "KC",
+  "opp": "PHI",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 48
+}

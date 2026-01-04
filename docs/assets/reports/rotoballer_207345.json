@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207345",
+  "title": "Ravens Want to Get Keaton Mitchell More Involved?",
+  "description": "Baltimore Ravens head coach John Harbaugh acknowledged on Monday that the team needs to get running back Keaton Mitchell \"more involved,\" according to Jeff Zrebiec of The Athletic. Harbaugh said it was in the game plan in the Week 10 win over the Minnesota Vikings, but \"they just didn't get to it.\" Harbaugh also mentioned that it's \"tough to take plays away\" from Derrick Henry. Mitchell played only 7% of the offensive snaps on Sunday compared to the 67% that Henry played and the 27% that Justice Hill was featured on. The 23-year-old Mitchell has had four carries apiece in each of the last three games, and he managed 31 rushing yards in the Week 10 victory. He only has two catches for 12 yards in his five games played in 2025. Mitchell had a 22-yard pickup on Sunday, and the third-year back has game-breaking abilities, but as long as Henry remains healthy, it's hard to see him getting enough weekly touches to give him standalone fantasy value.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 11,
+  "team": "BAL",
+  "opp": "CLE",
+  "att": 6,
+  "tgt": 3,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 2,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 39
+}

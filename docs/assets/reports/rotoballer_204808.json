@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204808",
+  "title": "Rico Dowdle to See Majority of Work in Week 7 for Panthers?",
+  "description": "Carolina Panthers head coach Dave Canales told reporters on Friday that the coaching staff has determined who will start at running back on Sunday in Week 7 against the New York Jets and get most of the reps between Rico Dowdle and Chuba Hubbard, according to David Newton of ESPN. The Panthers are trying to keep a competitive advantage, so they are keeping things close to the vest as far as their backfield plans. Hubbard missed the last two games with a calf injury and was limited in practice on Wednesday and Thursday before upgrading to a full practice on Friday, so that could indicate that Dowdle will see the majority of backfield touches this weekend. That would make sense, especially since Dowdle went for 400-plus scrimmage yards and two scores on 60 total touches the last two weeks with Hubbard out. Fantasy managers should keep Dowdle in their starting lineups, while Hubbard will be more of an RB3/flex in his return.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 7,
+  "team": "CAR",
+  "opp": "NYJ",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 22
+}

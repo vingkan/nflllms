@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208183",
+  "title": "Raiders Abandon the Run on Monday, Ashton Jeanty Suffers",
+  "description": "In a blowout loss to the Dallas Cowboys on Monday Night Football to close out Week 11 action to drop them to 2-8 on the season, the Las Vegas Raiders abandoned their running game. Rookie first-round running back Ashton Jeanty had just six carries for seven yards and had just two rushing attempts in the first half. The Raiders had a designed pass on 84% of its plays, the team's highest rate in a game since 2012. Head coach Pete Carroll admitted that he heavily influenced the offensive game plan. \"I don't really care about pleasing people with our run/pass mix. I'm trying to move the football,\" Carroll said. \"I wanted to get the ball to Brock Bowers a bunch and see what he could do. I'm responsible for that.\" The expectation was that the Raiders would rely heavily on Jeanty after he was taken sixth overall in the draft, but he currently ranks 16th among RBs with 149 rushing attempts. Vegas' poor offensive line play and the fact that they continue to fall behind by multiple scores doesn't bode well for Jeanty's workload on the ground increasing anytime soon.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 12,
+  "team": "LV",
+  "opp": "CLE",
+  "att": 17,
+  "tgt": 8,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 8,
+  "receiving_yards": 58,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 4
+}

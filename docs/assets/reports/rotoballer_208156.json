@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208156",
+  "title": "Is Blake Corum Getting Enough Opportunities?",
+  "description": "Los Angeles Rams running back Blake Corum continues to get significant opportunities in the team's rushing game, and he can be a deep-league addition if you're looking for running back options on the waiver wire. Corum only had 10 rushing yards in Week 11 against the Seahawks, but he still did get eight carries while playing 16 snaps (31% of the offensive total). He's still working behind Kyren Williams, but he has averaged 11.5 carries per game over his last four contests, and he continues to play about one-third of the Rams' snaps. He and the Rams have a favorable schedule the rest of the season, with the Buccaneers this Sunday night and then matchups against the Panthers and Cardinals, who have been good running back matchups this season.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 12,
+  "team": "LAR",
+  "opp": "TB",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 50
+}

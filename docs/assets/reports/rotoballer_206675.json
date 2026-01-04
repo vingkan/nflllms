@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206675",
+  "title": "Jacory Croskey-Merritt Trending Down After Tough Four-Game Stretch",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt has struggled over the past month after a hot start to the season. The rookie has recorded 51 carries for 151 yards, no touchdowns, and a lost fumble while adding just three receptions (five targets) for nine yards in his past four games. Croskey-Merritt was outproduced by third-year back Chris Rodriguez Jr. in Washington's blowout loss to the Seattle Seahawks on Sunday night. Rodriguez could be earning his way back into a more prominent role on early downs while veteran Jeremy McNichols handles the pass-down responsibilities. Croskey-Merritt has been held below four yards per carry in each of the last four games and has a longest run of just 11 yards in that time. Now, with star quarterback Jayden Daniels (elbow) out for an extended period of time, the Washington offense as a whole takes a significant hit. Croskey-Merritt doesn't catch passes, and now that the explosive runs have dried up, it's left fantasy managers with a disappointing result. After a promising start to his career, Croskey-Merritt looks more like an RB3/RB4 option than the potential league winner he appeared to be earlier in the year.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207097",
+  "title": "Bijan Robinson Remains a Top Option at Running Back in Week 10",
+  "description": "Atlanta Falcons running back Bijan Robinson will go up against the Indianapolis Colts on Sunday in Germany. The 23-year-old has just four total touchdowns on the season (two rush, two receiving), but still stands as the sixth-most productive running back for fantasy in half-point PPR formats due to his involvement in both the running and passing attack. The third-year pro has tallied at least 92 yards from scrimmage with Michael Penix Jr. under center, and is averaging seven targets and five receptions per game in those seven contests. The University of Texas product takes on a Colts defense that has been mostly tough against the run in 2025, although it allowed two rushing TDs last week and will be without starting DT DeForest Buckner (neck) in Week 10. They're also top 12 in terms of receptions (41) and reception yards allowed (273) to opposing running backs, and are allowing 24.5 points per game on the road compared to 16.6 PPG at home. Expect Robinson to be heavily involved regardless of game script, and he sets up as a top option at running back again in Berlin.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 10,
+  "team": "ATL",
+  "opp": "IND",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

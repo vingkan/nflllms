@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211118",
+  "title": "Kenneth Gainwell's Fantasy Value Continues to Trend Up for Week 16",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell had a monster game in Week 15, as he totaled 126 all-purpose yards (80 on the ground, 46 through the air), played 52 percent of the snaps, and was much more efficient as a runner than backfield mate Jaylen Warren. That being said, Warren was playing with an illness leading up to the game; however, this has been trending towards an actual backfield split for about six to seven weeks now. Additionally, in PPR formats, Gainwell is seeing all of the running back receiving work; he has 31 receptions over the past five weeks (6.2 receptions per game). At the same time, Warren is seeing two, maybe three targets per game during that same stretch. On the season, Warren is RB19 while Gainwell is RB23. Given the Steelers' Week 16 matchup with the Detroit Lions, who are stout against the run (allowing the third fewest points to the running back position), it appears likely the Steelers might be in a shootout or from behind, meaning it's setting up to be a game where Gainwell sees a ton of volume in the receiving game, giving him low-end RB2/flex value in Week 16.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 16,
+  "team": "PIT",
+  "opp": "DET",
+  "att": 9,
+  "tgt": 7,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 50,
+  "receiving_catches": 5,
+  "receiving_yards": 78,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 8
+}

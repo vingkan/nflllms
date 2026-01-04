@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206017",
+  "title": "Devin Singletary Set for Bigger Role After Teammate's Injury",
+  "description": "New York Giants running back Devin Singletary is expected to see an increased workload following the season-ending ankle injury to Cam Skattebo. Through eight games, Singletary has logged 28 carries for 84 yards and added 28 receiving yards on three catches. With Skattebo sidelined, both Tyrone Tracy Jr. and Singletary should see expanded roles in the offense. Tracy projects as the primary back, as he averaged 13.5 carries per game last season compared to Singletary's 8.9. Still, with how well the Giants' offense has operated under Jaxson Dart, both players could hold fantasy appeal. Singletary is worth a look in deeper leagues as a handcuff to Tracy, who has already battled injuries this season.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 43,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 32
+}

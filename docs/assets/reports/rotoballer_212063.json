@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212063",
+  "title": "Devin Singletary Lagging Behind in Backfield Pecking Order",
+  "description": "New York Giants running back Devin Singletary's workload has fallen off following the team's Week 14 bye, as backfield mate Tyrone Tracy Jr. has become the preferred rusher. Singletary had a nice run of fantasy production following the injury to teammate Cam Skattebo (ankle), posting double-digit efforts thrice ahead of New York's week off. During that time, Singletary and Tracy roughly split snaps, with one leading the other on a given week. However, over the previous two contests, the latter has handily out-touched (36-18) and out-snapped (87-37) the veteran, while the former's role in the passing game has all but vanished. With Singletary falling out of favor, fantasy managers can turn elsewhere for help over the season's remaining weeks.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 17,
+  "team": "NYG",
+  "opp": "LV",
+  "att": 8,
+  "tgt": 4,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 4,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 13
+}

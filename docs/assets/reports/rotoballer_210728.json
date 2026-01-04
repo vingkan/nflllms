@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210728",
+  "title": "Tony Pollard Looks to Build on Last Week's Outburst",
+  "description": "Tennessee Titans running back Tony Pollard had been an underwhelming fantasy contributor ever since Tyjae Spears returned from injured reserve, but that all changed last week as Pollard exploded for 161 rushing yards and two touchdowns in the Titans' Week 14 win over the Cleveland Browns. The 28-year-old will look to carry the momentum from last weekend into this Sunday's Week 15 contest against the San Francisco 49ers. Tennessee seems to be riding the hot hand at running back, so Pollard will likely get the first crack at handling the every-down role this week. If he starts strong, he could have a shot at replicating last week's huge game. If Pollard can excel against a strong Browns run defense, he's capable of finding similar success against the Niners, who rank near the middle of the league in terms of fantasy points allowed to opposing running backs this year. With that being said, we can't guarantee that Pollard will explode just because of one big, unexpected performance. There's still some risk here, making Pollard a low-floor, high-ceiling option for Week 15. He ranks as the overall RB34 in this week's RotoBaller fantasy rankings and can be deployed as a flex in most formats.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 15,
+  "team": "TEN",
+  "opp": "SF",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 104,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 11
+}

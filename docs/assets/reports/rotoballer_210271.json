@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210271",
+  "title": "Omarion Hampton Making his Return on Monday Night",
+  "description": "Los Angeles Chargers rookie first-round running back Omarion Hampton (ankle) is officially active to take on the visiting Philadelphia Eagles on Monday Night Football, according to Eric Smith of Chargers.com. This will be Hampton's first game since fracturing his left ankle in Week 5. The 22-year-old should be L.A.'s lead back by season's end, but in his first game back on Monday in a poor matchup for fantasy purposes, the North Carolina product will be more of an RB3/flex for fantasy managers as he shares the backfield with Kimani Vidal. Before his ankle injury, Hampton had taken over as the Chargers' lead back following Najee Harris' (Achilles) season-ending injury early in the year. He had a healthy 4.8 yards per carry for 314 yards and two rushing touchdowns on 66 carries. Hampton should not be available on the waiver wire in any fantasy leagues now that he's back.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

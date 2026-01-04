@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204001",
+  "title": "Giants View Cam Skattebo As Running Back Of Future",
+  "description": "According to a new story by Jordan Raanan of ESPN, the New York Giants view running back Cam Skattebo as both their top option for the present and the future. The rookie from Arizona State has received the lion's share of work with Tyrone Tracy Jr. (shoulder) out for the past couple of weeks, but the team apparently views Skattebo as their preferred option for the near term. Fantasy managers have seen a nice return on investment in Skattebo, especially in PPR formats, in which his 14 catches over the past three games have paired nicely with 198 rushing yards and a touchdown. The split between the two backs will be worth watching, but it seems like Skattebo will carry the upper hand.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 6,
+  "team": "NYG",
+  "opp": "PHI",
+  "att": 19,
+  "tgt": 2,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 98,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 31,
+  "ppr_scoring_position_rank": 4
+}

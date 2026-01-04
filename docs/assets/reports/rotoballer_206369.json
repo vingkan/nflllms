@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206369",
+  "title": "Jaylen Warren A Safe PPR Option Against Colts",
+  "description": "Pittsburgh Steelers running back Jaylen Warren has been steady this season but will face a tough test in Week 9 against the Indianapolis Colts. Indianapolis has been stout versus opposing backs, allowing the seventh-fewest fantasy points per game and just five total touchdowns to the position. The good news for Warren is that this home matchup is expected to be high-scoring, giving Pittsburgh's offense as a whole a boost for fantasy. Even if the Steelers are forced to abandon the run to keep up with the Colts' high-powered attack, Warren should remain a reliable pass-catching weapon for quarterback Aaron Rodgers. Fantasy managers can continue to treat the 27-year-old as an RB2 with a safe floor in PPR formats.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 9,
+  "team": "PIT",
+  "opp": "IND",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 31,
+  "receiving_catches": 2,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 9
+}

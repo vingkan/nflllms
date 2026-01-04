@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203560",
+  "title": "Jonathan Taylor a Top-Three Fantasy RB in Week 5",
+  "description": "Indianapolis Colts running back Jonathan Taylor will look to continue a hot start to the season in a Week 5 home matchup against the Las Vegas Raiders. Taylor has already rushed for 414 yards and added 113 receiving yards while notching four all-purpose touchdowns through four games to start the year. The veteran running back should continue to dominate the Indy backfield in a matchup against a Raiders defense that is allowing the 26th-most fantasy points per game to opposing running backs. As one of the few true bell-cow backs in the league, treat Taylor as a top-three fantasy running back in Week 5 despite the difficult matchup.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 5,
+  "team": "IND",
+  "opp": "LV",
+  "att": 17,
+  "tgt": 4,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 66,
+  "receiving_catches": 3,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 31,
+  "ppr_scoring_position_rank": 2
+}

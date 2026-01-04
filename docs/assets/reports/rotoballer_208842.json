@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208842",
+  "title": "David Montgomery Logs Single-Digit Touches for Second Straight Game in Week 12",
+  "description": "Detroit Lions running back David Montgomery was held in check by the New York Giants in Week 12, recording 37 scrimmage yards on eight touches in his team's overtime win. The 28-year-old played just 34% of Detroit's offensive snaps against New York, the third time in four games since the Lions' Week 8 bye that he's failed to reach the 40% mark. Once one of the league's most reliable touchdown scorers, Montgomery has now failed to hit pay dirt in five out of his last six games. He's recorded single-digit touches in consecutive weeks and 40 or fewer rushing yards in six out of his last eight outings. All indications suggest that Montgomery is fading into a true RB2 role in Detroit, behind star running back Jahmyr Gibbs. Fantasy managers may want to avoid Montgomery when the Lions will face one of the league's best defenses in the Green Bay Packers on Thanksgiving Day in Week 13.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 13,
+  "team": "DET",
+  "opp": "GB",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 32,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 22
+}

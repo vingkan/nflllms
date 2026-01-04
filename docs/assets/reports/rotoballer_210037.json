@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210037",
+  "title": "Kyren Williams on Track to Share Opportunities Ahead of Favorable Matchup",
+  "description": "Los Angeles Rams running back Kyren Williams remains the primary option out of the team's backfield, but his floor has declined with the emergence of Blake Corum. Offensive coordinator Mike LaFleur recently noted that allowing Corum to spell Williams more often has allowed the latter running back to stay fresh over the course of the whole season, and that trend should continue as the playoffs get closer. Managers shouldn't be surprised to see Williams finish with around 15 touches per game while Corum handles roughly seven to 10. With that said, Williams does remain a low-end RB1 in fantasy football, largely due to his ability to catch passes and score touchdowns. He has 24 receptions and 10 trips to the end zone so far in 2025. That bodes well for his outlook in Week 14 against the Arizona Cardinals, who have allowed the 10th-most fantasy points and second-most receiving touchdowns to opposing running backs in 2025. While Williams is no longer the high-end RB1 that managers consistently depended on when he was handling north of 20 carries per game, he's still a top-12 fantasy running back for the rest of the season. Specifically, he ranks as the overall RB10 in RotoBaller's fantasy rankings for Week 14.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 14,
+  "team": "LAR",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210463",
+  "title": "Breece Hall Doing Positional Drills on Thursday",
+  "description": "New York Jets running back Breece Hall (knee), who sat out of practice on Wednesday with a sore knee, is doing positional drills at practice on Thursday, according to Rich Cimini of ESPN. Hall will most likely be listed as limited on Thursday's final injury report. Either way, it's a good sign that he's back at practice after picking up a DNP tag to begin the week. The 24-year-old could still be questionable for the Week 15 game this Sunday against the Jacksonville Jaguars, so his status to close out the week will be worth monitoring. If Hall is out or limited in any way this weekend, it would open up more playing time for Isaiah Davis. However, fantasy managers may want to avoid the Jets' entire offense this week, with it looking more likely that Brady Cook will start at quarterback. Both Tyrod Taylor (groin) and Justin Fields (knee) have not practiced this week.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 15,
+  "team": "NYJ",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 23,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211123",
+  "title": "R.J. Harvey Thriving as Broncos Lead Back",
+  "description": "Denver Broncos rookie running back R.J. Harvey (rib) has found the end zone four times over the past three games, bringing his season total to 10 touchdowns. The rookie second-rounder is currently dealing with a rib injury he suffered late in the Week 15 win over the Green Bay Packers. The severity of the injury is unknown, but the Broncos did claim RB Cody Schrader off waivers on Tuesday, so fantasy managers will want to keep a close eye on Harvey's status in practice this week. Harvey has recorded at least 14 touches in four games since taking over as Denver's lead back with J.K. Dobbins (foot) on Injured Reserve. He's been one of the most productive running backs in fantasy football with the increased workload, ranking as the RB6 in PPR points per game at 18.6 over that stretch. Assuming he is healthy, Harvey will project as a solid RB1 again in Week 16 against the Jacksonville Jaguars. If Harvey is held out or is limited, Jaleel McLaughlin would step in to handle most of the early down work, with Tyler Badie working on passing downs.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 16,
+  "team": "DEN",
+  "opp": "JAX",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 71,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 11
+}

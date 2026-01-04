@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204627",
+  "title": "Kimani Vidal Provides RB2 Value Moving Forward",
+  "description": "Los Angeles Chargers running back Kimani Vidal exploded in Week 6 with 124 rushing yards on 18 carries (6.89 YPC) and three receptions for 14 yards and a touchdown through the air. The reason for his opportunity is that rookie Omarion Hampton (ankle) landed on the injured reserve in Week 5, which opened up the door for Vidal, and he made the most of it. At this point, Vidal should not be on your waiver wire and should be picked up immediately if he is. The most encouraging thing for Vidal is that he outsnapped, out-touched, and outplayed other Chargers running back Hassan Haskins by a landslide, saw 67% of the snaps to Haskins' 31%, out-touched him 22 to seven, and outgained him 138 to 23 in all-purpose yards. While fantasy managers may want to temper expectations, considering the Chargers faced the Miami Dolphins, who have allowed the seventh most points to running backs on the season, it was encouraging to see one of the two running backs get a majority of the touches, as coming into the matchup on Sunday, it was unclear who the lead back was going to be. Vidal can be viewed as a low-end RB2 moving forward until Hampton returns.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 7,
+  "team": "LAC",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 4,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 27
+}

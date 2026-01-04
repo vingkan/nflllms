@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202247",
+  "title": "Derrick Henry Ready to Bounce Back in Week 3",
+  "description": "Baltimore Ravens running back Derrick Henry was surprisingly shut down during last week's win over the Cleveland Browns. He couldn't find much success at all as he rushed 11 times for 23 yards on the ground. It's not often that fantasy managers see Henry actually get bottled up. The expectation is that Henry will go back to his elite ways on the ground in Week 3. He'll draw a strong matchup against the Detroit Lions defense on Monday night. Fantasy managers should forget about that Week 2 dud and lock-in Henry as an elite RB1 for this weekend.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 3,
+  "team": "BAL",
+  "opp": "DET",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

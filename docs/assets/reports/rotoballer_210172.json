@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210172",
+  "title": "Aaron Jones Sr. Leads Minnesota In Rushing",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. put together a solid, if unremarkable, fantasy day by rushing for 76 yards on only 14 carries as the Vikings routed Washington 31-0 on Sunday. While the veteran was effective on the ground, his overall fantasy output was lessened with no touchdowns and no catches on a single target. Backfield mate Jordan Mason scored the lone rushing touchdown of the game as Minnesota split carries 14-11 in favor of Jones. Most encouragingly, quarterback J.J. McCarthy completed 16 of 23 passes and threw three touchdowns with no interceptions, and the offense predictably opened up with some semblance of a passing game. Managers will hope for a similar showing from Jones and the Vikings in a plus matchup with Dallas in Week 15.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 15,
+  "team": "MIN",
+  "opp": "DAL",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 3,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 32
+}

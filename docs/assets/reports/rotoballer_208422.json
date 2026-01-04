@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208422",
+  "title": "Trey Benson Could Suit Up in Week 12",
+  "description": "According to head coach Jonathan Gannon, Arizona Cardinals running back Trey Benson (knee) could suit up this weekend for the first time since picking up a meniscus injury in Week 4. \"We'll see how he goes today,\" said Gannon. With the team's backfield at less-than-full health, Arizona could certainly use the 23-year-old back in the fold as they gear up for a home matchup with the Jacksonville Jaguars in Week 12. However, Gannon's sentiment doesn't seem particularly encouraging. Benson has yet to practice in a full capacity since being injured, so you'd have to think the team would like to see him do so before activating him from Injured Reserve. With teammate Emari Demercado (ankle) already ruled out, Michael Carter and Bam Knight (ankle) project to lead the backfield again if Benson sits for another contest.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

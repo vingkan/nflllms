@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201061",
+  "title": "Christian McCaffrey Logs 31 Touches in Season Opener",
+  "description": "San Francisco 49ers running back Christian McCaffrey was the central focus of his team's offense in a 17-13 49ers' win over the Seattle Seahawks in Week 1. McCaffrey rushed 22 times for 69 yards and caught nine passes for 73 yards, a comforting sign for fantasy managers who might have been worried that a lingering calf issue would lead to San Francisco limiting his touches early in the season. The 49ers lost two offensive weapons in George Kittle (groin) and Jauan Jennings (shoulder) during the game. If Kittle and Jennings miss time going forward, San Francisco could be forced to lean on McCaffrey just as heavily in the weeks to come. As long as he's on the field, he's a must-start fantasy running back with game-breaking upside.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 2,
+  "team": "SF",
+  "opp": "NO",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 55,
+  "receiving_catches": 6,
+  "receiving_yards": 52,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 5
+}

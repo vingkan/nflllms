@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206352",
+  "title": "Kyren Williams Gets Favorable Matchup in Return from Bye Week",
+  "description": "Los Angeles Rams running back Kyren Williams will look to bounce back as the team returns from its bye week. This week, the Rams take on the New Orleans Saints, who have struggled on both sides of the ball. This matchup comes at a perfect time for Williams, who was relatively quiet in the Rams' win over the Jaguars prior to the bye. This was a direct result of Los Angeles taking an early lead and leaving a reduced workload for several starters, but it still hurt his fantasy performance nonetheless. Although a matchup against the Saints could put Williams in a similar situation, we can't ignore how poor the New Orleans run defense has been. The Saints are allowing the seventh-most rushing yards to opposing running backs in 2025, putting Williams in a position to feast if he handles at least 15 touches or so. The 25-year-old is a fantasy RB2 with RB1 upside.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 9,
+  "team": "LAR",
+  "opp": "NO",
+  "att": 25,
+  "tgt": 0,
+  "touches": 25,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 114,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

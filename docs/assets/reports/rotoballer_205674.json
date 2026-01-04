@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205674",
+  "title": "Kyle Monangai Gaining Steam Heading into Week 8",
+  "description": "Chicago Bears rookie running back Kyle Monangai continues to trend upward in recent weeks. In Week 7, the seventh-round pick posted 94 scrimmage yards and a touchdown on just 15 touches, setting career highs across the board. Since the team's Week 5 bye, Monangai has played nearly 40% of the snaps, complementing starter D'Andre Swift, who has been on the field for 57%. With Swift battling a groin injury entering Week 8, Monangai could once again see a sizable workload against a vulnerable Baltimore Ravens run defense that has allowed the second-most fantasy points to running backs this season. Even if Swift suits up (which is expected), Monangai carries FLEX appeal in this soft matchup, especially given his increasing role and recent production.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 52
+}

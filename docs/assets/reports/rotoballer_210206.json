@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210206",
+  "title": "Jaylen Wright Runs Wild in Week 14 Win",
+  "description": "Miami Dolphins running back Jaylen Wright had a career day in Week 14's 34-10 win over the New York Jets after De'Von Achane (ribs) exited early. Wright finished with 24 carries for 107 yards and a touchdown while also seeing three targets but not hauling in any of them. The second-year back has only been active in six games this season, with 10 touches being his most in a game, which came back in the Week 8 blowout win against the Atlanta Falcons. He's been firmly behind rookie Ollie Gordon II in the pecking order for touches, but Wright operated ahead of Gordon in this game after Achane left in the second quarter due to a rib injury. Gordon also punched in a touchdown on seven carries. The severity of Achane's injury is currently unknown, but Wright would emerge as a priority waiver-wire addition if Achane were to miss any time.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 65
+}

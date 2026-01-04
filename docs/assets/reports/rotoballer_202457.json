@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202457",
+  "title": "First Quiet Game of the Season for Alvin Kamara Just a Blip?",
+  "description": "New Orleans Saints running back Alvin Kamara rushed 18 times for just 42 yards and added one catch for 14 yards on two targets in the blowout loss to the Seahawks. His 50 rushing attempts through three weeks rank ninth in the league, though his 3.3 targets per game are well below his career average of 6.25. Kamara's usage on the ground remains high despite a limited role in the passing game, and the Saints face a Bills defense in Week 4 that recently allowed De'Von Achane seven receptions for 36 yards and 5.2 yards per carry on the ground. Negative game script may continue, but Kamara is expected to see a mix of carries and targets in both the run and passing game, keeping him relevant in fantasy lineups.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 4,
+  "team": "NO",
+  "opp": "BUF",
+  "att": 15,
+  "tgt": 5,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 4,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 29
+}

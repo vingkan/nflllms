@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211134",
+  "title": "David Montgomery Gaining Steam as a Goal-Line Weapon",
+  "description": "Detroit Lions running back David Montgomery has seen a reduced workload in 2025 as fellow Lions back Jahmyr Gibbs has emerged as the team's clear lead rusher. However, Montgomery remains a red zone and goal-line threat, as he's scored a touchdown in three straight weeks and has eight scores on the season. The 28-year-old is still an effective rusher when given the opportunity, as he's averaging a career-best 4.7 yards per carry and has totaled 635 rushing yards across 14 games this season. Montgomery's ceiling is capped as long as Gibbs is healthy, as he's recorded double-digit touches just once over the last five weeks. Still, as a touchdown-dependent flex option, Montgomery has some fantasy value heading into his Week 16 matchup against the Pittsburgh Steelers and Week 17 matchup against the Minnesota Vikings.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 16,
+  "team": "DET",
+  "opp": "PIT",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 66
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209705",
+  "title": "Tyjae Spears Remains a Low-Ceiling Flex Play in PPR Leagues",
+  "description": "In the lowest-scoring offense (14.2 points per game) in the league, Tennessee Titans running back Tyjae Spears has a low ceiling and low floor for fantasy managers, and he should only be rostered in point-per-reception leagues. In the Week 13 loss to the Jacksonville Jaguars on Sunday, Spears had two rushing attempts for a loss of one yard, but he salvaged his fantasy day by catching all six of his targets for 25 yards through the air. The 24-year-old's six catches were tied for the team lead, and his six targets were second on the team. Since returning from Injured Reserve due to a high-ankle sprain, Spears has a very modest 39 carries for 158 yards and one touchdown while adding 28 receptions for 173 yards on 30 targets in eight games. Fantasy managers cannot count on him to produce on the ground -- he's had more than five carries in a game only twice in eight games. Spears has had at least five targets in each of the last three games, though, which makes him a low-upside RB3/flex in deep PPR leagues going into a tough Week 14 matchup against the Cleveland Browns.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 14,
+  "team": "TEN",
+  "opp": "CLE",
+  "att": 8,
+  "tgt": 4,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 19,
+  "receiving_catches": 2,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

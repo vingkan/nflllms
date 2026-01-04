@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206984",
+  "title": "Jahmyr Gibbs Poised for Bounce-Back Game in Week 10?",
+  "description": "Detroit Lions running back Jahmyr Gibbs had one of the least productive games of his career in Week 9, recording just 28 yards from scrimmage on 12 touches in a loss to the Minnesota Vikings. The 23-year-old has been much better for the season overall with 748 scrimmage yards and seven touchdowns on 142 touches across eight games. Gibbs will be looking to rebound in Week 10 when Detroit faces the Washington Commanders. Through nine weeks, Washington ranks 22nd in yards per carry allowed (4.4) and 25th in total rushing yards allowed (1,118). Despite the favorable matchup, there is reason for concern along the Lions' offensive line. Detroit will be without starting left guard Christian Mahogany (leg), and starting left tackle Taylor Decker is questionable to play due to a shoulder injury. Even still, Gibbs profiles as a must-start fantasy running back in Week 10.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 10,
+  "team": "DET",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 142,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 38,
+  "ppr_scoring_position_rank": 3
+}

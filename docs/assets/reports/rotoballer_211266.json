@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211266",
+  "title": "Devin Neal Placed on Injured Reserve, Will Not Return in 2025",
+  "description": "ESPN's Adam Schefter reports that New Orleans Saints rookie running back Devin Neal (hamstring) has been placed on Injured Reserve, ending his 2025 season. Neal suffered a hamstring injury during New Orleans' Week 15 win over the Carolina Panthers. With Saints backs Alvin Kamara (knee, ankle) and Kendre Miller (knee) sidelined, Neal has served as his team's RB1 since Week 13. The 22-year-old played well across his two fully healthy starts, recording 153 scrimmage yards and a touchdown on 37 touches. With Kamara's return timeline uncertain and Neal and Miller both done for the season, the Saints appear likely to turn to the combination of Audric Estime and Evan Hull for backfield snaps down the stretch of the season. Estime was the more productive of the two backs in Week 15, recording 50 scrimmage yards on six touches. New Orleans will host the New York Jets in Week 16 before traveling to Tennessee to take on the Titans in Week 17.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 16,
+  "team": "NO",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

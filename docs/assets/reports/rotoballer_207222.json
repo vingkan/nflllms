@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207222",
+  "title": "Ollie Gordon II Active in Week 10",
+  "description": "Miami Dolphins rookie running back Ollie Gordon II (ankle), who was considered questionable for Week 10 against the division-rival Buffalo Bills, is officially active on Sunday. Gordon suffered an ankle injury in last Thursday night's Week 9 loss to the Baltimore Ravens, but with more time to recover between games, he's ready to roll this weekend. The 21-year-old has been Miami's RB2 so far this year behind bell-cow RB De'Von Achane, which has forced Jaylen Wright down to RB3 duties. In his first nine NFL games, Gordon has had 40 rushing attempts for 122 yards (3.1 yards per tote) and a touchdown while adding six receptions for 30 yards and another TD on eight targets. The 6-foot-2, 225-pounder gives the Dolphins a size/speed combination they haven't had in a while, but unless Achane gets hurt, he won't be much more than a handcuff in fantasy.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 10,
+  "team": "MIA",
+  "opp": "BUF",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": -3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 70
+}

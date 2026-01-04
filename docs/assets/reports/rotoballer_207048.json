@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207048",
+  "title": "Christian McCaffrey Has RB1 Potential Despite Difficult Matchup",
+  "description": "San Francisco 49ers running back Christian McCaffrey took a while to get things going on the ground, but now has reached 100 rushing yards in two of his last three games. However, in the game between, McCaffrey put up his worst numbers of the year in a slog against the Houston Texans. On Sunday, McCaffrey again faces another tough opponent in the Los Angeles Rams. The Rams have allowed the fewest fantasy points per game to opposing running backs, the sixth-fewest rushing yards, and have yet to give up a touchdown on the ground to the position. When the teams met in Week 5, McCaffrey had just 2.6 yards per carry but logged an 8-82-1 line as a receiver. Despite the difficult matchup, McCaffrey's talent makes him a weekly contender to finish as a top-12 back, and he should be locked into fantasy lineups this weekend.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 10,
+  "team": "SF",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 10,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 30,
+  "receiving_catches": 8,
+  "receiving_yards": 66,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

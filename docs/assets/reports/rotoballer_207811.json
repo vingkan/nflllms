@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207811",
+  "title": "Brashard Smith Should Be Avoided In Week 11",
+  "description": "Kansas City Chiefs running back Brashard Smith will face the Denver Broncos in Week 11. Smith should step into the RB2 role for the Chiefs this week with Isiah Pacheco ruled out with a knee injury. Despite a suspected bump in usage, Smith's statistical outputs before their bye in Week 10 were concerning. In Weeks 8 and 9, the rookie failed to eclipse 10 rushing yards, and his passing game usage was practically non-existent. Smith went from catching at least three passes in four games from Weeks 4 through 7, to catching zero passes in Weeks 8 and 9. The converted wide receiver has not been used much between the tackles this season due to his size and inexperience at the position, so if his receiving usage dries up, there is not much to be excited about. Smith will also have to face the Broncos this week. The Denver defense has allowed the fifth-fewest fantasy points to opposing running backs this season. Smith is ranked RB55 in our RotoBaller Half-PPR rankings, putting him deep in desperate flex range this week. Smith is explosive, but his floor is zero points. Fantasy managers should avoid Smith this week against one of the best defenses in football.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 11,
+  "team": "KC",
+  "opp": "DEN",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 54
+}

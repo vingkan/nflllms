@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210940",
+  "title": "Tyrone Tracy Jr. Scores as a Runner and Receiver in Week 15",
+  "description": "New York Giants running back Tyrone Tracy Jr. did it all on Sunday in his team's 29-21 loss to the division-rival Washington Commanders in Week 15. Tracy suffered what looked like a serious hip injury in the Week 13 loss to the New England Patriots, but he had the Week 14 bye to recover, and he quickly proved this weekend that he's still New York's lead back when healthy. The 26-year-old had a team-high 15 carries for 70 yards (4.7 yards per carry) and a touchdown while adding three catches on three targets for 27 yards and another score. Backfield mate Devin Singletary had only six touches for 14 scrimmage yards. Tracy rewarded fantasy managers who were bold enough to start him this week with his first trips to the end zone since Week 7. Going into a Week 16 matchup against the Vikings, Tracy will profile as an RB2 in the fantasy semifinals as the Giants' clear RB1.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 16,
+  "team": "NYG",
+  "opp": "MIN",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 2,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 32
+}

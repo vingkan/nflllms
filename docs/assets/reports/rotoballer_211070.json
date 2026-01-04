@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211070",
+  "title": "Dare Ogunbowale Worthy of Deep-League Consideration?",
+  "description": "Houston Texans running back Dare Ogunbowale has largely been a special-teamer during his nine-year career, but he has seen more work as a runner in the past two weeks. With Nick Chubb (ribs) and Woody Marks (knee) dealing with injuries, Ogunbowale scored his first touchdown of the season in Week 14. He handled a season-high eight touches in Week 15 against the Arizona Cardinals, with five carries for two yards and three receptions (four targets) for 32 yards as a receiver. The 31-year-old was in just a complementary role after Marks exited against the Cardinals, though, with second-year running back Jawhar Jordan seeing the bulk of the carries. Jordan handled 15 carries for 101 yards, becoming the first Texans running back to go over the century mark in rushing yards this season. Ogunbowale profiles as the receiving back if Chubb and Marks remain unavailable in Week 16 against the Raiders, limiting his fantasy appeal to just deeper PPR leagues.",
+  "player_id": 4718,
+  "player_name": "Dare Ogunbowale",
+  "week": 16,
+  "team": "HOU",
+  "opp": "LV",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -3,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 72
+}

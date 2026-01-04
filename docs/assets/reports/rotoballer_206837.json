@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206837",
+  "title": "Versatile Rachaad White Could Retain Lead-Back Role in Week 10",
+  "description": "Tampa Bay Buccaneers running back Rachaad White remains a must-start option heading into Sunday's tilt with a stingy New England Patriots defense. The Patriots have allowed a league-best 75.4 rushing yards per game, but White's impact in the passing game should allow him to remain relevant on Sunday. White has converted 24 targets into 21 receptions for 117 yards this season, making him a PPR weapon throughout the year. Along with his already high usage, the losses of Mike Evans and Chris Godwin have increased the need for quarterback Baker Mayfield to rely on his backs in the passing game. Look for more of the same on Sunday, in this battle between two of the best teams in the league.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 10,
+  "team": "TB",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 5,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 27
+}

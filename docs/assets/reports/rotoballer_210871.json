@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210871",
+  "title": "Jaylen Warren an Appealing Fantasy Option if Game Script Cooperates",
+  "description": "Pittsburgh Steelers running back Jaylen Warren continues to be a strong RB2 option in fantasy football, but his exact role in Monday's Week 15 contest against the Miami Dolphins will depend on game script. Warren had an underwhelming role on the ground last Sunday as he had just eight carries for 13 yards. However, he salvaged his fantasy showing with three catches, 49 receiving yards, and a receiving touchdown. He ranked outside the top 55 running backs in both yards before contact per attempt and yards after contact per attempt. Pittsburgh is favored by 3.5 points over Miami, which means the Steelers could go run-heavy. However, he'll also have to share some volume with Kenneth Gainwell. Pittsburgh routinely gets the ball in its running backs' hands, but it's just a matter of whether it happens on the ground or through the air. Either way, Warren is a top-24 fantasy running back for this week.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 15,
+  "team": "PIT",
+  "opp": "MIA",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 38
+}

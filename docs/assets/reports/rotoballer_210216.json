@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210216",
+  "title": "Bam Knight With a Tough Week 14, Still Holds Fantasy Value Heading Into Week 15",
+  "description": "Arizona Cardinals running back Bam Knight's lack of volume and efficiency finally caught up to him in Week 14. The 24-year-old running back has been a top-21 running back over the past three weeks, and on Sunday against a stout Los Angeles Rams defense, he was stuffed on the ground, rushing for only 16 yards on seven carries, and somewhat salvaged his fantasy afternoon with three receptions for another 18 yards. Knight has been a solid waiver wire pickup in 2025 and has scored 10 or more fantasy points in three straight contests, but on the season, he is only averaging 3.35 YPC and around nine or 10 rush attempts per game. He has been touchdown and receiving-dependent for fantasy managers, which is not a recipe for long-term success. Knight has stepped into this role because Trey Benson (knee) has not proven healthy enough to play since his Week 4 injury, so as long as Benson remains sidelined, Knight remains a decent RB3 option and shouldn't be on waivers.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 80
+}

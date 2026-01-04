@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205116",
+  "title": "Kendre Miller Questionable to Return with Knee Injury",
+  "description": "New Orleans Saints running back Kendre Miller (knee) is currently considered questionable to return to Sunday's game against the Chicago Bears. Miller suffered a knee injury that forced him to the sideline in the first half. Before exiting, Miller carried the ball one time for seven yards. If he's unable to return, Devin Neal figures to see an expanded role as the backup to Alvin Kamara. Neither back offers much value while Kamara is healthy.",
+  "player_id": 9757,
+  "player_name": "Kendre Miller",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

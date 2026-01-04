@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204942",
+  "title": "Kareem Hunt's Usage Could Trend Down in Week 7",
+  "description": "Kansas City Chiefs running back Kareem Hunt will take on the Las Vegas Raiders in Week 7. Hunt handled six carries for 23 yards and one catch for 11 yards in Week 6 against the Detroit Lions. The veteran running back continued his run of inefficient games, averaging under 4.0 yards per carry for the fifth time in six games this season. Despite his struggles, the Chiefs put him in goal-line situations and allowed him the opportunity to score three rushing touchdowns this season. Hunt and Isiah Pacheco had split the backfield opportunities nearly 50/50 until Week 6. Pacheco handled 12 carries compared to Hunt's six, and the former was more efficient with his touches. If the Chiefs decide to feed Pacheco more each week, Hunt's usage in the offense could be trending down. Despite having a nice matchup against the Raiders, who have allowed eight rushing touchdowns this season, Hunt is ranked RB34 in our RotoBaller Half-PPR rankings this week. Hunt should be viewed as an RB3/Flex option against the Las Vegas Raiders.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 7,
+  "team": "KC",
+  "opp": "LV",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 18,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 59
+}

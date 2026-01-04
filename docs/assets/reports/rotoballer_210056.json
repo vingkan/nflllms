@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210056",
+  "title": "Derrick Henry Carries Low-End RB1 Value in Week 14",
+  "description": "Baltimore Ravens running back Derrick Henry is coming off of a RB1 level finish against the Cincinnati Bengals where there were plenty of points left on the table after receiving just 10 carries. Head coach John Harbaugh talked about getting Henry more carries, but this isn't the first time he's said it, even over the course of this season. Plus, in Week 14, Henry faces off against the Pittsburgh Steelers who are currently ranked as the eighth toughest defense against opposing backfields. They allow 19.37 fantasy points per game to running backs and have only given up five rushing touchdowns all season. Henry has had a better time finding the end zone at home which still gives him a bit of a value boost, but he's projected as the RB11 in half-PPR formats on the RotoBaller rankings.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 14,
+  "team": "BAL",
+  "opp": "PIT",
+  "att": 25,
+  "tgt": 2,
+  "touches": 27,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 94,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 24
+}

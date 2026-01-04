@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210970",
+  "title": "Jahmyr Gibbs Underwhelms in Week 15 Loss",
+  "description": "Detroit Lions running back Jahmyr Gibbs posted an underwhelming performance in his team's Week 15 loss to the Los Angeles Rams, recording 58 scrimmage yards and zero touchdowns on 17 touches. The 23-year-old's 3.4 yards per touch against Los Angeles was his third-worst mark of the season and his worst since Week 9 against the Minnesota Vikings. On the bright side, Gibbs continues to be a featured player in the Lions' passing game. He saw seven targets in Week 15 and has earned 38 targets across five games since Detroit tight end Sam LaPorta (back) was placed on Injured Reserve with a back injury. Gibbs also out-snapped fellow Lions running back David Montgomery 52 to 18 in Week 15, marking the fifth straight game where Gibbs has logged at least 20 more snaps than his backfield running mate. Despite the frustrating showing against the Rams, Gibbs remains a must-start fantasy running back in Week 16 against the Pittsburgh Steelers.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 16,
+  "team": "DET",
+  "opp": "PIT",
+  "att": 7,
+  "tgt": 13,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 10,
+  "receiving_yards": 66,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

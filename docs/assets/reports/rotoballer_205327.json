@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205327",
+  "title": "Devin Neal In Line For Significant Role?",
+  "description": "New Orleans Saints running back Devin Neal could be in line for a significant role moving forward with Kendre Miller (knee) out for the season. Neal has just three rushes for 10 yards on the season and has only been active for three of the Saints' seven games so far. The rookie is now set to serve as the RB2 behind veteran Alvin Kamara, who praised Neal as \"one of the smartest rookies that I've been around.\" The sixth-round pick out of Kansas was a workhorse in college, rushing for over 1,200 yards in each of his final two seasons and showing his receiving ability with 49 catches over that span. He's worth an add off the waiver wire in 12-team leagues to stash as a handcuff.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

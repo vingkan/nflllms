@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204329",
+  "title": "Tyler Allgeier a Risky Flex Play if Falcons Fall Behind Early",
+  "description": "Atlanta Falcons running back Tyler Allgeier garnered 16 rush attempts and rumbled his way to 51 yards and his second touchdown of the season in Week 4. It was his third dose of double-digit carries through the team's first four games, but the fourth-year pro is averaging just 3.6 yards per rush compared to Bijan Robinson's 4.9 YPR. It will be difficult to predict the games where the 25-year-old finds paydirt, so he makes for a dicey Flex play most weeks with such a low YPR, especially if the Falcons have to abandon the run. In Week 3 against the Panthers, the Falcons fell behind early and had to play catch-up, leaving Allgeier with a total of two touches (one rush, one reception). The Bills could present a similar problem for the Falcons on Monday, making the BYU product a risky RB4/Flex option in Week 6.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 6,
+  "team": "ATL",
+  "opp": "BUF",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 32,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 16
+}

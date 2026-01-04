@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202091",
+  "title": "James Conner a Mid-Level RB2 in Week 3",
+  "description": "Arizona Cardinals running back James Conner saw his snap share shrink a bit more in Week 2 from 65% to 55%. A two-yard rushing touchdown salvaged his week as he finished as the RB24 in half-PPR formats, but he could only muster 34 yards on 11 carries. The Panthers are ranked 26th against the run through two weeks, which doesn't provide anyone any confidence when their Week 3 opponent is ranked 13th. On top of that, this is the San Francisco 49ers' home opener, so they should come out with some added motivation. With the combination of a tough defense and Trey Benson getting most of the passing work, Conner projects to be around a mid-level RB2 this week.",
+  "player_id": 4137,
+  "player_name": "James Conner",
+  "week": 3,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 9,
+  "tgt": 4,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 22,
+  "receiving_catches": 3,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 39
+}

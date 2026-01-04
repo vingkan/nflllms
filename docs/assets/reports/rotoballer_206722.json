@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206722",
+  "title": "Quinshon Judkins Expected to Practice on Wednesday",
+  "description": "Cleveland Browns rookie running back Quinshon Judkins (shoulder) is expected to return to practice on Wednesday ahead of Week 10. Judkins suffered an AC joint sprain in Week 8, but the Week 9 bye provided valuable recovery time. Through seven games, the rookie has handled 118 carries for 486 yards and five rushing touchdowns, while adding 12 receptions for 60 yards, solidifying his role as the lead back in Cleveland's offense. The Browns draw a favorable Week 10 matchup against the New York Jets, who have allowed the 11th-most fantasy points to opposing running backs this year. Judkins is on track to play and should be viewed as a strong RB2 with touchdown upside in this matchup.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 75,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 26
+}

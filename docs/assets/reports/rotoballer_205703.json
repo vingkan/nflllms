@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205703",
+  "title": "James Cook Remains Top-Five Running Back for Week 8",
+  "description": "Buffalo Bills running back James Cook should be started with confidence as the team travels to Carolina to face the Panthers in Week 8. While the Bills have struggled through back-to-back losses, they should be back on track following their Week 7 bye. Cook's success has driven the offense to this point, as he's averaging 21.3 fantasy points in wins, but just 6.8 in their losses. Cook remains the featured back in Buffalo and should continue to see consistent targets in the passing game, making him a lock for fantasy lineups. Look for the Bills to bounce back, as they will need to be firing on all cylinders before their Week 9 matchup with the Chiefs.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 8,
+  "team": "BUF",
+  "opp": "CAR",
+  "att": 19,
+  "tgt": 0,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 216,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 33,
+  "ppr_scoring_position_rank": 2
+}

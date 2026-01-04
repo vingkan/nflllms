@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202425",
+  "title": "David Montgomery Explodes for Career-High 151 Yards, Two Touchdowns Against Ravens",
+  "description": "Detroit Lions running back David Montgomery ran all over the Ravens defense in Monday night's 38-30 win, finishing with a career-high 151 rushing yards and two touchdowns on only 12 carries while adding a reception for 13 yards. Montgomery's previous career high was 146 yards with the Bears in December 2020, and he needed 32 carries to reach that mark. The workhorse back needed only 12 carries to set a new record, adding 108 rushing yards over expected. That is 39 yards more than any other player in a game this season, per Next Gen Stats. The Lions' offense moved the ball at will for the second week in a row, putting together touchdown drives of 96 and 98 yards. One of the highlights of the night was Montgomery breaking loose up the gut for a 72-yard run late in the third quarter and propelling Detroit to an explosive 17-point fourth quarter and a win. Montgomery continues to be a strong RB2 with the upside for monster games like this in an elite offense.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 4,
+  "team": "DET",
+  "opp": "CLE",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 64
+}

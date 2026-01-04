@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209166",
+  "title": "Omarion Hampton Listed as Limited in Thursday\u2019s Estimated Injury Report",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton (ankle) was listed as limited in Thursday's estimated practice report. Hampton was designated to return from the injured reserve on Tuesday after being out since Week 5 with an ankle fracture. According to ESPN's Kris Rhim, Hampton has been dealing with a left ankle fracture and wants to play on Sunday against the Las Vegas Raiders, but is leaving it up to the doctors. The Chargers have until Saturday afternoon to activate Hampton from the IR. The 22-year-old has rushed for 314 yards and two touchdowns while catching 20 passes for 136 yards over five games this season. Hampton would give the Chargers a much-needed boost in the rushing attack if he can return to action in Week 13. If Hampton remains out, look for Kimani Vidal to be the lead back for the Chargers again, and he is considered a FLEX play as the 37th-ranked running back from RotoBaller this week.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

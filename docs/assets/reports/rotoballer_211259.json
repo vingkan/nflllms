@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211259",
+  "title": "Emanuel Wilson Could See Massive Workload Bump in Week 16",
+  "description": "Green Bay Packers running back Emanuel Wilson could have a significant impact in Week 16 when the Packers travel to Soldier Field to take on the Chicago Bears. Starting running back Josh Jacobs (knee/ankle) is listed as questionable on the team's final injury report heading into Saturday's divisional showdown. If Jacobs is out or limited, Wilson would likely have a massive role in line for Week 16. The last time Wilson saw a full rushing workload was just a few weeks ago in Week 12, where Wilson had 28 carries for 107 yards and two rushing touchdowns against the Minnesota Vikings. Chicago allows the 13th-fewest fantasy points to the running back position, but Jacobs had 86 yards and a touchdown against the Bears in their last meeting. If Jacobs misses this game, Wilson is a locked-in RB2 against the Bears. If Jacobs is active, Wilson is more of a low-end RB3 fantasy option.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 14,
+  "tgt": 0,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 82,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 40
+}

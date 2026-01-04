@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_200856",
+  "title": "Kareem Hunt Inefficient in Friday's Loss",
+  "description": "Kansas City Chiefs running back Kareem Hunt was inefficient during their loss to the Los Angeles Chargers on Friday evening. Hunt ran the ball five times for a mere 16 yards, averaging a low 3.2 yards per carry. Through the air, Hunt was able to bring in two of his three targets for 10 yards. Despite his modest showing on the ground, Hunt saw the same amount of carries (five) as presumed starter Isiah Pacheco. However, given Hunt's underwhelming production, the Chiefs may look to decrease his workload later in the season as Pacheco averaged 5.0 YPC in this contest. In 2024, Hunt replaced the injured Pacheco and served as the lead option for most of the campaign, but carried a low ceiling as he posted a similar 3.2 YPC on 200 attempts. For now, managers in deeper formats should view Hunt as low-range, touchdown-dependent RB3 heading into their Week 2 matchup against the Philadelphia Eagles.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 2,
+  "team": "KC",
+  "opp": "PHI",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 48
+}

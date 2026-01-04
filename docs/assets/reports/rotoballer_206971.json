@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206971",
+  "title": "Kenneth Gainwell Still the Steelers' No. 2 RB?",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell heads into a Sunday night game in Week 10 against the Los Angeles Chargers with 52 carries for 220 yards and three rushing touchdowns in eight games in his first year in the Steel City. He has added 27 catches for 119 yards on 31 targets. Gainwell lost a yard on his three rushing attempts in the upset win over the Indianapolis Colts in Week 9, but he did tie a season high with 35 receiving yards on his four receptions. The 26-year-old also played 37% of the offensive snaps to rookie Kaleb Johnson's 8%, signaling that he's still the team's clear RB2 behind starter Jaylen Warren. Gainwell hasn't seen enough volume to make him a standalone starting option in fantasy behind Warren, but he's a decent handcuff in PPR leagues. If Warren were to go down with an injury, Gainwell would be a priority waiver-wire pickup.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 10,
+  "team": "PIT",
+  "opp": "LAC",
+  "att": 0,
+  "tgt": 3,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 52
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206772",
+  "title": "Quinshon Judkins Not on the Week 10 Injury Report",
+  "description": "Cleveland Browns rookie running back Quinshon Judkins (shoulder) practiced in full on Wednesday and is not on the Week 10 injury report as the team begins preparing to face the New York Jets on Sunday. Judkins was forced from the Week 8 loss to the New England Patriots early with a shoulder injury, but the 22-year-old Ohio State product benefited from last week's bye. He doesn't come in with an injury status this week and should be all systems go as Cleveland's unquestioned lead back against the 1-7 Jets this weekend. Against a New York defense that just traded away star cornerback Sauce Gardner and defensive lineman Quinnen Williams, Judkins will be an absolute must-start in his return. Judkins has looked strong in his first seven NFL games with the Browns, carrying the ball 118 times for 486 yards and five touchdowns while adding 60 receiving yards on 12 receptions.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 75,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 26
+}

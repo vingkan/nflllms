@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204785",
+  "title": "Isaiah Davis a Prime Stash Candidate?",
+  "description": "New York Jets running back Isaiah Davis has recorded just 85 yards from scrimmage on 15 total touches across six games so far this season. However, the 23-year-old could be on the verge of a significant increase in playing time and backfield touches. Davis moved into the Jets' RB2 role after Week 4, when second-year back Braelon Allen (knee) was placed on Injured Reserve due to a knee injury. Breece Hall remains the team's clear lead rusher, but Hall is in the final year of his current contract with the 0-6 Jets and has been frequently mentioned as a trade candidate. If Hall were to get dealt or suffer an injury, Davis would be in line to assume a workhorse role in New York. In deep leagues, he should be rostered and stashed given his clear playing time upside in the second half of the season.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 7,
+  "team": "NYJ",
+  "opp": "CAR",
+  "att": 2,
+  "tgt": 4,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 10,
+  "receiving_catches": 2,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 41
+}

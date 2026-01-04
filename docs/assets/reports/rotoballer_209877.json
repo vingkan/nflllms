@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209877",
+  "title": "Jahmyr Gibbs Scores Three Times on Thursday Night Football",
+  "description": "Detroit Lions running back Jahmyr Gibbs had 12 carries for 43 rushing yards and three rushing touchdowns during Thursday's Week 14 win over the Dallas Cowboys. He also caught all seven of his targets for an additional 77 receiving yards. The 23-year-old's explosive season continues, as he has now recorded three-touchdown performances in three of the last five weeks. He's a top-three running back in PPR scoring this year with a whopping 58 catches so far. He also has 16 touchdowns and over 1,500 scrimmage yards. David Montgomery remains a factor in Detroit, but clearly, this backfield belongs to Gibbs. He should continue to be viewed as a high-end RB1 going forward, even in non-PPR leagues. He'll look to build on his success in 10 days against the Los Angeles Rams in Week 15.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 15,
+  "team": "DET",
+  "opp": "LAR",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 30
+}

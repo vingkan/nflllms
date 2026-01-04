@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201339",
+  "title": "David Montgomery Could Lead Lions in Carries Again in Week 2?",
+  "description": "Like most of the Lions offense, David Montgomery had a quiet Week 1. The 28-year-old rushed for 25 yards on 11 carries, adding 18 yards on four receptions out of the backfield. The re-worked interior of Detroit's offensive line struggled last week against the Green Bay Packers, but they have an easier matchup on paper against the Chicago Bears in Week 2. In three career games against Chicago, Montgomery has rushed for 230 yards and a touchdown on 43 carries. In the lone game last season where both Montgomery and fellow Lions running back Jahmyr Gibbs were active, Montgomery earned 21 carries while Gibbs recorded just nine. Detroit's shaky offensive line play in Week 1 raises questions about Montgomery's effectiveness in Week 2, likely making him dependent on finding the end zone to be productive in fantasy. He profiles as a low-end RB3/flex option against the Bears.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 2,
+  "team": "DET",
+  "opp": "CHI",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 57,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 24
+}

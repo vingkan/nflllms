@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208343",
+  "title": "Travis Etienne Jr. Still Limited in Practice",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. (shoulder) was wearing a non-contact jersey at Thursday's practice, per Ryan O'Halloran of The Florida Times-Union. It looks like Etienne will be listed as a limited participant in practice for the second straight day after injuring his shoulder in Sunday's win over the Los Angeles Chargers. Rookie RB Bhayshul Tuten (ankle) also hurt his ankle in Week 11 and was limited on Wednesday, but he wasn't in a non-contact jersey on Thursday. Etienne was productive on Sunday with two touchdowns in a blowout win over the Chargers in which the Jags leaned heavily on the ground game, but Tuten also saw his biggest workload of the year and scored a rushing touchdown. Both RBs could be active this weekend in Arizona, but if Etienne is less than 100%, Tuten could be the favored option out of Jacksonville's backfield in Week 12.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 86,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 7
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209856",
+  "title": "Bucky Irving Full Steam Ahead for Week 14",
+  "description": "Tampa Bay Buccaneers running back Bucky Irving (shoulder) upgraded from a limited practice participant on Wednesday to a full showing on Thursday ahead of the Week 14 game against the division-rival New Orleans Saints on Sunday, according to Sara Palczewski of Louisiana First News. Irving returned in last Sunday's win over the Arizona Cardinals for the first time since suffering foot and shoulder injuries back in Week 4. The 23-year-old played 52% of the offensive snaps and had 19 touches for 81 scrimmage yards and his first rushing touchdown of the year. The Bucs will continue to involve both Rachaad White and Sean Tucker in change-of-pace roles down the stretch, but Irving is their preferred back and has clear RB1 upside for fantasy managers now that he's back and set to see an even bigger workload this weekend against the Saints. Irving is averaging a mediocre 3.4 yards per carry in five games this year, but he's had at least 14 rushing attempts in all five games and has a high floor.",
+  "player_id": 11584,
+  "player_name": "Bucky Irving",
+  "week": 14,
+  "team": "TB",
+  "opp": "NO",
+  "att": 15,
+  "tgt": 3,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 13
+}

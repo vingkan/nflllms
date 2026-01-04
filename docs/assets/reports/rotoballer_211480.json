@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211480",
+  "title": "Tyrone Tracy Jr. Offers RB2 Value in Week 16",
+  "description": "New York Giants running back Tyrone Tracy Jr. posted his best fantasy performance of the season in Week 15's loss to the Washington Commanders, handling 15 rushes for 70 yards and a touchdown to go with three catches (four targets) for 27 yards and another score as a receiver. The second-year back played his highest snap share (76.1%) of the season, while veteran Devin Singletary played his lowest (23.9%) since Cam Skattebo (ankle) went down for the season in Week 8. Tracy has recorded at least 15 touches in four of the past five games and has delivered solid results for fantasy managers, averaging 15.7 PPR points per game and ranking as the RB12 in that span. He profiles as a solid RB2 again for Week 16's matchup against the Minnesota Vikings, who have allowed the ninth-most rushing yards per game this season.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 16,
+  "team": "NYG",
+  "opp": "MIN",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 2,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 32
+}

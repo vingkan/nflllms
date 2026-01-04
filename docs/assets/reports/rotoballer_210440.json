@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210440",
+  "title": "Kyle Monangai Emerging as Weekly Fantasy Option?",
+  "description": "Chicago Bears rookie running back Kyle Monangai has earned a sizable role in the team's backfield alongside D'Andre Swift. Monangai and Swift both have exactly 60 carries each over the past four games, with Monangai totaling 258 yards and three touchdowns and Swift having 293 yards and one touchdown. The duo's skill sets complement each other well in a Chicago running game that has proven to be one of the best in the league. The rookie seventh-rounder ranks as the RB20 during that four-game span, averaging 12.3 PPR points per game. Monangai should continue to receive a healthy workload and touchdown opportunities in a strong Bears offense with head coach Ben Johnson pulling the strings. He profiles as a viable flex option in Week 15 against the Cleveland Browns.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 15,
+  "team": "CHI",
+  "opp": "CLE",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 33,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 52
+}

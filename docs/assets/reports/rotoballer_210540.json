@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210540",
+  "title": "Josh Jacobs \"Feeling Pretty Good,\" Will Practice on Friday",
+  "description": "Green Bay Packers head coach Matt LaFleur said that running back Josh Jacobs (knee) will practice in a limited fashion on Friday after missing the last two days, according to Rob Demovsky of ESPN. \"It sounds like he's feeling pretty good,\" LaFleur said. The Packers must still see how Jacobs' knee is feeling after the workout, but the star RB at least has a chance to play this Sunday against the Denver Broncos. The 27-year-old injured his knee in the Week 11 win over the New York Giants and was held out the following week, but he has played the last two games while handling his normal workhorse role, carrying the ball 37 times for 169 rushing yards and a touchdown. However, Jacobs' knee stiffened up during the win over the Bears on Sunday, putting his availability in question for Week 15. The good news is that he's not dealing with any structural damage. The bad news is that he could share more work with Emanuel Wilson on Sunday if he's active.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

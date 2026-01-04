@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203219",
+  "title": "Alvin Kamara's Workload Intact or Committee Brewing in the Big Easy?",
+  "description": "New Orleans Saints running back Alvin Kamara had another solid workload in Week 4 against the Bills, turning 19 touches into 72 yards. Over the last four seasons, Kamara has averaged 20.3 touches and 97.7 yards per game. So far in 2025, he is averaging 19.5 touches for only 76.3 yards. While the decline in production can be attributed to poor offensive line play and a struggling offense overall, fellow running back Kendre Miller had a strong outing in Buffalo with 11 carries for 65 yards and a touchdown. Kamara looks to be an RB2 with upside against the Giants, and is worth monitoring if Miller continues to eat away from his usual workhorse load.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 5,
+  "team": "NO",
+  "opp": "NYG",
+  "att": 8,
+  "tgt": 6,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 27,
+  "receiving_catches": 4,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 27
+}

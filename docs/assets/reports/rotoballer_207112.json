@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207112",
+  "title": "Jeremy McNichols Could Be Option In Deep PPR Leagues For Week 10",
+  "description": "Washington Commanders running back Jeremy McNichols has maintained a consistent role as the team's most trusted option on pass downs. McNichols has totaled 17 carries for 143 yards and a touchdown to go with 12 catches on 17 targets for 129 yards in nine games this season. The 29-year-old led Washington in receiving in their Week 8 loss at Kansas, catching five of his six targets for 64 yards, the second most in a game of his career. That was also his highest snap share in a game this season at 43.4%, but he's mostly been limited to late down responsibilities while rookie Jacory Croskey-Merritt and Chris Rodriguez Jr. handle the early down carries. In a Week 10 matchup where Washington is a sizable home underdog against the Lions, McNichols could be on the field more often in a negative game script. McNichols has some sneaky PPR value in deeper leagues on Sunday.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 25,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 46
+}

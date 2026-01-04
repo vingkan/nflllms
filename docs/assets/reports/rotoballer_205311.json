@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205311",
+  "title": "Isaac Guerendo Still Hasn't Played an Offensive Snap in 2025",
+  "description": "San Francisco 49ers running back Isaac Guerendo was thrust into action in his rookie season in the NFL in 2024 because Christian McCaffrey missed most of the year due to injuries. Guerendo finished with 84 rushing attempts for 420 yards and four touchdowns in 16 games (three starts) and also chipped in 15 catches on 16 targets as a pass-catcher for 152 yards. Fantasy managers probably viewed him as a pretty valuable handcuff for the injury-prone CMC going into 2025 drafts, but the Niners' acquisition of Brian Robinson Jr. before the season pretty much killed whatever fantasy appeal he had. Through the first seven weeks of his sophomore campaign, the 25-year-old former fourth-rounder has yet to play an offensive snap with CMC and B-Rob both staying healthy. Instead, Guerendo has been limited to a special teams role, returning five kickoffs for a combined 100 yards.",
+  "player_id": 11651,
+  "player_name": "Isaac Guerendo",
+  "week": 8,
+  "team": "SF",
+  "opp": "HOU",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

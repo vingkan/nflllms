@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209177",
+  "title": "Jordan Mason Trending Downwards Amidst Offensive Struggles in Minnesota",
+  "description": "Minnesota Vikings running back Jordan Mason has provided solid production at times throughout the 2025 season, recording 531 rushing yards and five touchdowns on 116 carries across 11 games. However, since fellow Vikings back Aaron Jones Sr. returned from the hamstring injury that forced him to miss Weeks 3-7 in Week 8, Mason has seen his playing time decline sharply. Over Minnesota's last three games in particular, Mason has failed to play more than 27% of the Vikings' offensive snaps in any game. He's recorded just 18 carries and one reception (one target) over those three weeks as well. With Jones Sr. emerging as the team's feature back and the Vikings' offense struggling amidst uncertainty at the quarterback position, Mason's production figures to continue trending downwards. He should be avoided by fantasy managers in a difficult Week 14 matchup against the Seattle Seahawks.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 13,
+  "team": "MIN",
+  "opp": "SEA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

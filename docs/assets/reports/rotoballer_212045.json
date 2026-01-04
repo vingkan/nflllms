@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212045",
+  "title": "Tank Bigsby Not Worth Fantasy Playoff Start Behind Saquon Barkley",
+  "description": "Philadelphia Eagles running back Tank Bigsby recorded 37 rushing yards and his first touchdown of the season on four carries against the Commanders last week. Bigsby broke free for a 22-yard score in the fourth quarter, and now averages an impressive 6.1 yards per attempt this year. However, with Saquon Barkley healthy and ready to play, it seems as though any chance of Bigsby stepping into a notable role before season's end has faded away. With his low volume, it would be a massive gamble to start him in fantasy lineups as playoffs come to a close, even against a poor Buffalo run defense. It's best to leave Bigsby benched for Week 17.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 17,
+  "team": "PHI",
+  "opp": "BUF",
+  "att": 19,
+  "tgt": 0,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 68,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 33
+}

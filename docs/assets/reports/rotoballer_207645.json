@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207645",
+  "title": "Will Sean Tucker be Fantasy Relevant if Teammate Returns?",
+  "description": "Tampa Bay Buccaneers third-year running back out of Syracuse, Sean Tucker, has seen an increased workload the last couple of weeks due to Rachaad White's ineffectiveness on the ground (3.74 YPC) and Bucky Irving's (toe/shoulder) injuries. Over the past two games, Tucker has earned 21 carries and rushed for 95 yards and a touchdown. As long as Irving remains sidelined, Tucker will be in the RB3 conversation, given the fact that, based on the last few games, he appears likely to earn 8-12 carries a game. That being said, if Irving returns, which he has logged limited practices on Wednesday and Thursday, Tucker will immediately go back to third on the depth chart and can be returned to the waiver wires. Fantasy managers rostering Tucker as a desperate RB3 option will want to continue to monitor Irving's practice status on Friday and Saturday to know when or if they should drop him.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 11,
+  "team": "TB",
+  "opp": "BUF",
+  "att": 19,
+  "tgt": 2,
+  "touches": 21,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 106,
+  "receiving_catches": 2,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 34,
+  "ppr_scoring_position_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203072",
+  "title": "Josh Jacobs at the Center of Packers' Offense Again in High-Scoring Tie",
+  "description": "Green Bay Packers running back Josh Jacobs rushed for 86 yards and two touchdowns on 22 carries during Sunday's Week 4 tie with the Dallas Cowboys. He also caught all four of his targets for an additional 71 receiving yards. Jacobs briefly exited with an injury but was on the field for most of the game, keeping the score close and ultimately helping the Packers get in position to tie the game as overtime ended. He now has the sixth-most fantasy points among running backs and will continue to rank as a fringe RB1 on the other side of Green Bay's bye week.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 6,
+  "team": "GB",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 93,
+  "receiving_catches": 5,
+  "receiving_yards": 57,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 3
+}

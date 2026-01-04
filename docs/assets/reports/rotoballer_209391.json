@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209391",
+  "title": "James Cook Eyeing Another Dominant Outing in Week 13",
+  "description": "Buffalo Bills running back James Cook has been on a terror in his fourth season in the NFL, totaling 1,287 scrimmage yards and nine touchdowns in 11 games. Despite the Bills struggling against the Houston Texans in Week 12, Cook had a big game, totaling 129 yards and a touchdown on 20 attempts. Cook has ascended in every season he's been in the NFL, jumping from a 16.7 PPR points per game average in 2024 to an 18.7 average this season. While Cook has been matchup-proof this season, the Steelers are very tough against the run, allowing the sixth-fewest fantasy points to running backs this season. Despite the difficult matchup, Cook is a sure-fire RB1 in fantasy this week, as he looks to continue his dominance.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 13,
+  "team": "BUF",
+  "opp": "PIT",
+  "att": 32,
+  "tgt": 3,
+  "touches": 35,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 144,
+  "receiving_catches": 3,
+  "receiving_yards": 33,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

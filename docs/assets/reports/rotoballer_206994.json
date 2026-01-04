@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206994",
+  "title": "Nick Chubb A Fringe Flex Option in Week 10",
+  "description": "Houston Texans running back Nick Chubb could help carry the load for the team against the Jaguars in Week 10, since C.J. Stroud (concussion) will be sidelined. Chubb has seen fewer snaps the last few weeks, but he still is getting double-digit carries on a regular basis. He had 11 carries for 34 yards against the Broncos last week after 17 carries for 56 yards against the 49ers in Week 8. Chubb hasn't been very dynamic this season and hasn't ripped off many big plays. He does have a pair of touchdowns on the year and can bring touchdown-dependent upside in what should be a run-heavy game script with Davis Mills at QB. If the Texans can get out front and rely on their defense, Chubb could have a heavier workload than usual. He's ranked as the No. 35 RB, making him a stretch for a flex play in standard leagues but a fringe option for deep leagues. He will need to find the end zone to deliver on his fantasy potential, though.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 10,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

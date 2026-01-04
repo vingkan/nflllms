@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205643",
+  "title": "Nick Chubb Is a Touchdown Dependent Flex Option",
+  "description": "Houston Texans running back Nick Chubb played his smallest share of snaps of the season in Week 7 in the Texans' loss, but he still has the potential to bounce back this week against San Francisco. Chubb played 25% of snaps and had five carries for 16 rushing yards, while also hauling in one of his three targets for a loss of five yards. Before the game, head coach DeMeco Ryans made a big deal of needing to establish the run against, but the game plan didn't turn out that way. Chubb still seems to have a hold on early-down work with Woody Marks and Dare Obunbowale taking over on passing downs. Before the bye week, Chubb had a pair of busy games against the Titans and Ravens when the Texans played from ahead. He could be more in the mix, depending on the game flow this week against San Francisco. He is the RB31 in RotoBaller's rankings, making him a high-risk option in a flex or RB3 spot this week, especially since his role in the passing game is limited. In his favor, though, the 49ers have allowed five running back touchdowns in their last three games.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 8,
+  "team": "HOU",
+  "opp": "SF",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 29
+}

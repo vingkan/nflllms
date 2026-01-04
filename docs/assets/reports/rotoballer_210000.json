@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210000",
+  "title": "Bhayshul Tuten's Role has Yet to Expand",
+  "description": "Jacksonville Jaguars rookie running back Bhayshul Tuten broke out in Week 11 against the Los Angeles Chargers, tallying a season-high 15 carries for 74 yards and a touchdown. The rookie fourth-rounder left the game early with an ankle injury, but Tuten was outcarrying Travis Etienne Jr. 15 to 12 before exiting. Tuten also played a season-high 42.9% of the snaps in the first three quarters. Fantasy managers hoped that this was the beginning of a second-half breakout for the dynamic running back, but Tuten hasn't seen the same usage in the past two weeks. His snap share has dipped back to 26.3%, just marginally above his season average of 22.7%. The 23-year-old also hasn't been as efficient in the past two games, totaling 36 yards on 16 touches, but he has still earned some goal-line usage and was able to punch in a touchdown last week against the Tennessee Titans. His role hasn't quite expanded yet, and he remains firmly behind Etienne. Tuten holds low-end flex value in Week 14 against the Indianapolis Colts.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 14,
+  "team": "JAX",
+  "opp": "IND",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 5,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": -1,
+  "ppr_scoring_position_rank": 72
+}

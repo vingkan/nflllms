@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205833",
+  "title": "Rico Dowdle Runs for 54 Yards in Panthers' Loss in Week 8",
+  "description": "In Sunday's 40-9 loss to the Buffalo Bills, Carolina Panthers running back Rico Dowdle had his worst fantasy performance since Week 4, netting 5.4 fantasy points. He was scripted out of the mix and finished with 54 rushing yards on just eight carries and did not catch a pass for the first time this season. Dowdle outrushed Chuba Hubbard 54 to 34 on four fewer rushing attempts. He was the most efficient runner for Carolina, averaging 6.8 yards per carry and recording a longest run of 24 yards, so he still has starting appeal when the Panthers can stay in a game. He should continue to split work nearly evenly with Hubbard, and there is a danger that Dowdle's production could be capped in another one-sided loss next week. Green Bay will come into Week 9 aiming for a fourth consecutive win. In their past four games, the Packers have scored between 27 and 40 points, and Carolina will likely struggle to keep up with that scoring pace.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 25,
+  "tgt": 3,
+  "touches": 28,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 130,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203364",
+  "title": "Kyren Williams Excels as Pass-Catcher, Snags Two Touchdowns on TNF",
+  "description": "Los Angeles Rams running back Kyren Williams rushed for 65 yards on 14 carries during Thursday's overtime loss to the San Francisco 49ers in Week 5. He also converted 10 targets into eight catches, 66 yards, and two receiving touchdowns. It was a remarkable showing from the young running back as he delivered massive production as a receiver. After primarily being a ball carrier through his first three seasons, Williams has suddenly taken on a large role in the passing game with 13 catches and three receiving touchdowns over his last three contests. His dual-threat impact has allowed him to hold onto the lead back role over Blake Corum, who had 11 touches last Sunday but just one on Thursday night. While Williams' eight catches and two receiving touchdowns may not be sustainable going forward, managers should expect that he'll continue to make an impact on the ground and through the air. He's back in the low-end RB1 territory for Week 6 against an underwhelming Ravens defense.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 6,
+  "team": "LAR",
+  "opp": "BAL",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 2,
+  "receiving_yards": 37,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 11
+}

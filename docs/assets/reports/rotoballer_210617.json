@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210617",
+  "title": "Woody Marks Good to Go in Week 15",
+  "description": "Houston Texans rookie running back Woody Marks (knee) was able to practice in full on Friday and has been removed from the final Week 15 injury report. Marks will be active on Sunday against the visiting Arizona Cardinals and should have another heavy workload. Backfield mate Nick Chubb (ribs) is questionable after getting hurt in Sunday night's win over the Kansas City Chiefs. With Chubb getting hurt in Week 14, the 24-year-old Marks had a season-high 26 carries for 68 yards and caught two of three targets for eight yards and a touchdown. Marks was a non-participant in Wednesday's practice before slowly working his way to a full-go on Friday. Against a Cardinals defense that has allowed the fourth-most half-PPR points to RBs this year, Marks has plenty of upside for fantasy managers as an RB2 this weekend, even if Chubb is cleared to play. He has had double-digit carries in each of the last eight games and 16-plus carries in each of the last four contests.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 15,
+  "team": "HOU",
+  "opp": "ARI",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

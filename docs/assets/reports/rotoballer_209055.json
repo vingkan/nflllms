@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209055",
+  "title": "Chris Rodriguez Jr. Under the Weather on Wednesday",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (illness) missed Wednesday's practice due to an illness, according to The Washington Post's Nicki Jhabvala. Rodriguez's status for the Sunday night primetime game against the visiting Denver Broncos in Week 13 is worth monitoring, but the 25-year-old should be cleared by then. In recent weeks, C-Rod has taken over early-down duties in Washington's backfield from struggling rookie Jacory Croskey-Merritt, while Jeremy McNichols continues to be the team's primary pass-catching back. Rodriguez should be good to go against Denver, but his fantasy stock is trending down this week in a bad matchup with backup quarterback Marcus Mariota set to make another start. The Broncos' strong defense has allowed the third-fewest rushing yards per game (88.5) in 2025.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 13,
+  "team": "WAS",
+  "opp": "DEN",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 41,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 35
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210592",
+  "title": "Josh Jacobs Officially Questionable to Face the Broncos",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) is officially questionable to play against the Denver Broncos on Sunday in Week 15. Jacobs suffered a knee injury in Week 11 against the New York Giants and was held out in Week 12 as a precaution. The 27-year-old only missed one game, though, and handled his normal workhorse role the last two weeks, with 37 rushing attempts for 169 yards and one touchdown on the ground. Jacobs' knee stiffened up on him on Sunday against the Chicago Bears, though, prompting him to undergo an MRI exam. Tests have thankfully turned up negative for any structural damage, but his status for Week 15 is in question. It creates a difficult decision for fantasy managers this weekend, especially since the Packers and Broncos square off in the late window on Sunday. Jacobs has been a must-start RB1 in fantasy in 2025 with 12 touchdowns in 12 games, but he could be at less than full strength against a Broncos defense that allows the second-fewest rushing yards per game (89). Emanuel Wilson is worth a speculative waiver-wire pickup in case Jacobs is ruled out entirely on Sunday.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

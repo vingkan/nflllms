@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207744",
+  "title": "Jeremy McNichols Off Fantasy Radars For Week 11",
+  "description": "Washington Commanders running back Jeremy McNichols hasn't been a relevant fantasy option in most leagues this season, serving as the team's third-down back. McNichols handled a season-high five carries for 25 yards in Washington's blowout loss last week to the Detroit Lions. The 25 yards were his most in a game since his Week 3 performance against the Raiders, where he rushed for 78 yards and a touchdown on four carries. The 29-year-old isn't involved enough to be considered outside of the deepest leagues.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 11,
+  "team": "WAS",
+  "opp": "MIA",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 13,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

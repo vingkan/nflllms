@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210003",
+  "title": "Devin Neal Set to Lead Saints' Backfield Again in Week 14",
+  "description": "New Orleans Saints running back Devin Neal rushed 14 times for 47 yards and caught all three of his targets for 22 yards in the Week 13 loss to the Dolphins. He will retain the lead-back role against the Buccaneers with Alvin Kamara (ankle, knee) set to miss his second straight contest. There is a clear path to high volume for the rookie, with Evan Hull the only other back to see touches in Week 13 and Taysom Hill recording just one carry. Still, the Saints' offense has done little to support any running back this season, ranking 30th in yards per attempt and recording the fewest rushing touchdowns in the league. Neal will be in the back-end RB2/Flex ranks against the Buccaneers, who are allowing just 97.4 rushing yards per game, sixth-best in the league.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 14,
+  "team": "NO",
+  "opp": "TB",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 70,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

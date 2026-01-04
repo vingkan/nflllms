@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208750",
+  "title": "George Holani Ruled Out for Remainder of Week 12 with Hamstring Injury",
+  "description": "Seattle Seahawks running back George Holani (hamstring) has been ruled out for the remainder of his team's Week 12 matchup against the Tennessee Titans due to a hamstring injury. The 25-year-old did not record a carry or earn a target before exiting the game. Holani plays the RB3 role in Seattle behind Kenneth Walker III and Zach Charbonnet. Without Holani, Walker III and Charbonnet will now handle all of the Seahawks' backfield work for the remainder of Week 12. More information on the severity of Holani's injury should come following the game.",
+  "player_id": 12048,
+  "player_name": "George Holani",
+  "week": 13,
+  "team": "SEA",
+  "opp": "MIN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

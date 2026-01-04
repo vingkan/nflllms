@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206050",
+  "title": "Tony Pollard Not Seen at Wednesday's Practice",
+  "description": "Tennessee Titans running back Tony Pollard was not seen at the portion of practice open to the media on Wednesday, according to Terry McCormick of TitanInsider.com. The Titans never reported an injury for Pollard coming out of Sunday's loss to the Indianapolis Colts, but Pollard did play only 46% of the offensive snaps, his second-lowest mark of the 2025 season. Fantasy managers will want to check back later for an update on why Pollard wasn't on the practice field. Tyjae Spears would have plug-and-play RB2 upside against the Los Angeles Chargers this weekend if Pollard is limited in any way or out completely. Pollard had only two more carries than Spears in Week 8 and finished with 44 rushing yards and nine receiving yards on his lone catch. Even if Pollard is fine heading into the weekend, his role is diminishing as Tennessee looks to get Spears more involved out of the backfield.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 9,
+  "team": "TEN",
+  "opp": "LAC",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 56,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 28
+}

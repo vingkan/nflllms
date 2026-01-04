@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205003",
+  "title": "Rhamondre Stevenson Could Excel with Favorable Game Script in Week 7",
+  "description": "New England Patriots running back Rhamondre Stevenson could see a large workload again in Week 7. The Patriots are facing off against the Tennessee Titans, which means the Patriots could enjoy a positive game script and therefore run the ball quite often. That would be good news for Stevenson, who has a slight edge on the lead-back role in New England despite some fumbling issues. Volume is just half the battle, though. Stevenson has struggled with efficiency at times this year, including last week when he had 13 carries for 18 yards (1.4 YPC). Fortunately for him, the Titans have been worn down by the run, allowing 4.7 YPC and the third-most fantasy points to running backs in 2025. With such a favorable matchup headed his way, Stevenson ranks as an RB3/flex.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 7,
+  "team": "NE",
+  "opp": "TEN",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 88,
+  "receiving_catches": 2,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 13
+}

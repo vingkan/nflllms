@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206894",
+  "title": "Emari Demercado's Week 10 Role Uncertain",
+  "description": "When asked about how the team's backfield split will look in Sunday's road tilt with the Seattle Seahawks, Arizona Cardinals head coach Jonathan Gannon declined to give clear insight. \"Similar but not the same,\" said Gannon. \"Maybe a little bit different.\" It was also noted that he and offensive coordinator Drew Petzing have not discussed which running back will be out there to start the game. Emari Demercado led the team in carries (14) and yards (79) in Week 9. However, it's worth noting that Bam Knight led the duo in snaps (38-27) and was handily out-produced (9/27). As it stands, Gannon could deploy a hot-hand approach, leaving fantasy managers stuck guessing between the two. For what it's worth, Knight has been the snap-leader since teammate Trey Benson (knee) went down with injury. Hopefully, Week 10's clash with Seattle yields further understanding of the situation.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 10,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 4,
+  "tgt": 4,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 64,
+  "receiving_catches": 3,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

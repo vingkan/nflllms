@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204887",
+  "title": "Ollie Gordon II Still in Very Limited Role",
+  "description": "Miami Dolphins running back Ollie Gordon II continues to serve as the primary backup for De'Von Achane, but he hasn't been involved enough to make him a good fantasy play this week against the Browns. Gordon played 24% of snaps last week against the Chargers but only had two carries for one yard and one catch on one target for one more yard. He has played 14 or 15 snaps in each of the last four weeks, but he hasn't produced over 10 yards in any of those contests. He's only the RB55 in RotoBaller's rankings this week since the Browns have allowed the second-fewest fantasy points to running backs this season. The rookie's role looks like it will remain minimal for as long as Achane is healthy.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 7,
+  "team": "MIA",
+  "opp": "CLE",
+  "att": 5,
+  "tgt": 2,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 11,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 54
+}

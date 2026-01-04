@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209888",
+  "title": "Kareem Hunt Emerging as the Lead Back in Kansas City",
+  "description": "Across 12 games this season, Kansas City Chiefs running back Kareem Hunt has recorded 629 scrimmage yards and eight touchdowns on 144 touches. While the 30-year-old's season-long numbers don't jump off the page, Hunt's work in recent weeks is more notable. He's earned double-digit touches in five straight games and scored five touchdowns in that span. Hunt saw a boost in playing time throughout November due to a knee injury to fellow Chiefs running back Isiah Pacheco. Still, in Pacheco's first game back in Week 13, Hunt remained the clear lead rusher and out-touched Pacheco 15 to five. Even if Kansas City works towards a more even split between the two backs as Pacheco gets healthier, Hunt has proven to be the team's trusted option at the goal-line. Hunt has earned 34 red zone snaps so far this season, compared to just 15 for Pacheco. Hunt profiles as a low-end fantasy RB2 heading into Kansas City's Week 14 matchup against the Houston Texans.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 14,
+  "team": "KC",
+  "opp": "HOU",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 29
+}

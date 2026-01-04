@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208123",
+  "title": "Jaleel McLaughlin Scores in Win Over Chiefs",
+  "description": "Denver Broncos running back Jaleel McLaughlin saw an increased role during Sunday's game against the Kansas City Chiefs. McLaughlin has been a healthy scratch throughout most of the season, but is likely to see an expanded role going forward. The Broncos are going to be without J.K. Dobbins (foot) for the foreseeable future, so McLaughlin will likely see more touches. He carried the ball six times for 19 yards and scored a touchdown in the Week 11 win. McLaughlin won't be worth adding with the team on bye in Week 12, but is someone to keep an eye on going forward. He could see a handful of carries on a weekly basis.",
+  "player_id": 11439,
+  "player_name": "Jaleel McLaughlin",
+  "week": 13,
+  "team": "DEN",
+  "opp": "WAS",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 58
+}

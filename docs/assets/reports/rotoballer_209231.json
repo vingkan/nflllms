@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209231",
+  "title": "Kimani Vidal's Usage Should Remain Elite Heading into Week 13",
+  "description": "Los Angeles Chargers running back Kimani Vidal is expected to see significant usage in Week 13 after rushing for only 13 yards on five carries against the Jacksonville Jaguars in Week 11. Teammate Hassan Haskins (hamstring) remains on IR, and rookie Omarion Hampton (ankle) has been ruled out, even though the team opened his 21-day practice window earlier this week. Vidal has been inconsistent lately, but is likely to handle most of the carries against the Las Vegas Raiders. The Raiders have a surprisingly strong run defense, allowing just 3.7 yards per carry (second-best in the league), which could challenge Vidal's efficiency. However, the Raiders' defense is also the league's worst at stopping goal-line touchdowns, boosting Vidal's scoring upside in a game where the Chargers' coaching staff might lean on the run if the team gets an early lead. Given the opportunity and Hampton's injury status, Vidal should be upgraded to a mid-range RB2 for this week.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 25,
+  "tgt": 1,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 126,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

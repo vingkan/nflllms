@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205793",
+  "title": "Saquon Barkley Questionable to Return Against Giants in Week 8",
+  "description": "Philadelphia Eagles running back Saquon Barkley (groin) exited during the third quarter of Sunday's Week 8 contest against the New York Giants. He was taken into the blue medical tent for further evaluation, and the team is now listing him as questionable to return. The Eagles may be keeping Barkley off the field as a precaution because they lead by three possessions in the final minutes of the fourth quarter. If his day is indeed done, he will finish with 14 carries, 150 rushing yards, and one rushing touchdown, as well as four catches, 24 receiving yards, and one receiving touchdown. This easily goes down as Barkley's best game of the year, getting him back on track after ranking as the overall RB14 (PPR) through the first seven weeks. The Eagles have a Week 9 bye and don't play again until Nov. 10 against the Packers, giving Barkley a full 15 days to rest and recover before his next game. In the event that he still can't suit up coming out of the bye, Tank Bigbsy would be in line to lead Philadelphia's backfield.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 10,
+  "team": "PHI",
+  "opp": "GB",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

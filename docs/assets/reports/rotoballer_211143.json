@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211143",
+  "title": "Josh Jacobs Not Practicing on Wednesday",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) is a non-participant at practice on Wednesday, according to Rob Demovsky of ESPN. Jacobs did not take part in the team's walkthrough practice on Tuesday, either, but he intends to play through his knee issue again in a crucial Week 16 divisional rematch against the Chicago Bears this Saturday night. The 27-year-old has been battling a knee injury since Week 11, and he sat out the Week 12 win over the Minnesota Vikings. He was questionable going into last Sunday's loss to the Denver Broncos, but he ultimately played and had a rushing and receiving touchdown. Jacobs is also listed with an ankle injury, but his knee is the more serious ailment. He might not end up practicing much, if at all, this week, but the expectation is that he'll be ready to go on Saturday. Still, Emanuel Wilson isn't a bad speculative waiver-wire pickup in case Jacobs is ruled out. Jacobs has been a must-start RB1 in fantasy all year with 14 total touchdowns in 13 games, but he's literally limping to the finish line.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

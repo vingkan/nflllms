@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211307",
+  "title": "Tyrone Tracy Jr. Earned a Majority of Giants Snaps in Week 15, Value on the Rise?",
+  "description": "New York Giants second-year running back out of Purdue, Tyron Tracy Jr., piled up 97 total yards (70 rushing and 27 receiving) in Week 15 and punched in two touchdowns, good for 23.20 points in half PPR formats. Since the injury to Cam Skattebo (ankle) in Week 8, the backfield snaps have been relatively split between Tracy and Devin Singletary. However, in Week 15 we saw Tracy take a majority of the snaps for the first time since Skattebo's injury (76% compared to Singletary's 24%), and out touch him 19 to six, which is an excellent sign for Tracy fantasy managers as we head into the semi-finals of the fantasy football playoffs, as he now provides managers with the confidence to start him as an RB2/flex option against the Minnesota Vikings due to his projected opportunities. The Vikings have been middle-of-the-pack against opposing running backs, allowing the 15th fewest points to the position; however, given Tracy's projected volume after what he earned in Week 15, he can be started in most 12-team or larger formats.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 16,
+  "team": "NYG",
+  "opp": "MIN",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 2,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 32
+}

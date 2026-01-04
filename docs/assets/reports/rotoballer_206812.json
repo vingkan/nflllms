@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206812",
+  "title": "Raheem Mostert Just a Handcuff Entering Week 10",
+  "description": "Las Vegas Raiders running back Raheem Mostert has worked strictly as a backup this season. Through five games, he has logged 16 carries for 80 yards and added three receptions for 27 yards. With rookie Ashton Jeanty leading the backfield, Mostert has been limited to just a 24% snap share. The matchup doesn't help in Week 10, as Denver is allowing the fifth-fewest fantasy points to running backs. Mostert holds value only as Jeanty's handcuff and on kick returns, but he should remain on waivers in all fantasy formats for now.",
+  "player_id": 2749,
+  "player_name": "Raheem Mostert",
+  "week": 10,
+  "team": "LV",
+  "opp": "DEN",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 4,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 50
+}

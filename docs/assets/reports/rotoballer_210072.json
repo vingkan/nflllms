@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210072",
+  "title": "Quinshon Judkins in Line for Heavy Workload in Week 14",
+  "description": "Across 11 games this season, Cleveland Browns rookie running back Quinshon Judkins has recorded 758 rushing yards and seven touchdowns on 196 carries. While the 22-year-old hasn't always been particularly efficient as a rusher this season, the Browns continue to lean on him in the run game. Over his last four outings, Judkins is averaging 19.5 carries per contest. Judkins also recorded three catches for 18 yards in Week 13. With primary Browns receiving back Dylan Sampson (calf) questionable to play in Week 14 against the Tennessee Titans, Judkins could see more work in the passing game. Tennessee currently ranks 26th among NFL defenses in yards per carry allowed (4.6) and is tied for 29th in rushing touchdowns allowed (17). Judkins should see a heavy workload on Sunday and profiles as a must-start fantasy running back in Week 14.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 14,
+  "team": "CLE",
+  "opp": "TEN",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 26,
+  "receiving_catches": 1,
+  "receiving_yards": 58,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 27
+}

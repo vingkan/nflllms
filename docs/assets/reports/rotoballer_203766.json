@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203766",
+  "title": "Jaydon Blue Makes Minimal Impact in Debut",
+  "description": "Dallas Cowboys running back Jaydon Blue rushed four times for seven yards in Sunday's 37-22 victory over the New York Jets. He added 32 yards on a lone kick return. The rookie saw his first action of the season in Week 5 with backfield mate Miles Sanders (knee, ankle) inactive while dealing with injuries. Blue didn't do much with his work, while teammate Javonte Williams ran wild (16/135/1) over a vulnerable Jets' defense. Sanders did not log even a limited practice session last week, but was initially deemed questionable for Sunday's contest, leaving his status for Week 6 unclear. If he can't suit up again, Blue will operate as the change-of-pace option for Williams for the second consecutive week. The former Texas Longhorn is nothing more than a temporary handcuff, but he holds more value -- and is worth holding onto -- in dynasty.",
+  "player_id": 12457,
+  "player_name": "Jaydon Blue",
+  "week": 6,
+  "team": "DAL",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

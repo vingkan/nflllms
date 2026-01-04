@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210207",
+  "title": "Ollie Gordon II Finds the End Zone in Week 14",
+  "description": "Miami Dolphins running back Ollie Gordon II scored his third rushing touchdown of the season on Sunday in his team's 34-10 win over the Jets. The rookie punched home a seven-yard rush in the fourth quarter and finished with five carries for 17 yards on the day. With De'Von Achane (rib) leaving the game early, it was Jaylen Wright who went off for the Dolphins, but Gordon did stay involved as a change-of-pace back. If Achane misses time, Gordon and Wright would both be worth a look in the Dolphins' offense that relies heavily on its running backs to make plays. However, it looks like Wright would probably be the primary back in that scenario. If Achane returns next week, Gordon and Wright would return to their typical minimal roles.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

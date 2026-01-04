@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206654",
+  "title": "Brian Robinson Jr. Scores First Touchdown of 2025",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. found his way into the end zone early in the fourth quarter of the team's 34-24 win over the New York Giants in Week 9. Robinson was only on the field for nine offensive snaps, but it was easily his most productive game as a 49er. Robinson registered five carries for a season high 53 rushing yards and his score, and also had a 41-yard kickoff return. With Christian McCaffrey carrying the 49ers offense, opportunities for Robinson have been few and far between. Still, Robinson remains a valuable handcuff worth stashing as he would step into a bellcow role if McCaffrey ever does go down. The 49ers next face the Rams, who are allowing the fewest fantasy points per game to running backs. Given his team role and the difficult matchup, fantasy managers adding Robinson via waivers are better off keeping him on the bench in Week 10.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 10,
+  "team": "SF",
+  "opp": "LAR",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 41,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

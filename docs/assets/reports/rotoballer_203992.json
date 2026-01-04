@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203992",
+  "title": "Bhayshul Tuten Limited on Wednesday",
+  "description": "Jacksonville Jaguars running back Bhayshul Tuten (shoulder) was limited in practice on Wednesday, according to the team. After being limited in practice all last week, Tuten begins the Week 6 practice week with the same tag. He played in Monday night's win over the Chiefs, handling four rushes for only six yards and catching his lone target for five yards. The team may be keeping the rookie fresh during the week with the shoulder issue. Tuten will remain the primary backup to Travis Etienne Jr. for the time being and ranks as a low-end flex play for Week 6, assuming he is good to go.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 6,
+  "team": "JAX",
+  "opp": "SEA",
+  "att": 2,
+  "tgt": 3,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 41
+}

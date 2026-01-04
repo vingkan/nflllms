@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205986",
+  "title": "Jaylen Warren Continues to Run Well Despite Quiet Week 8",
+  "description": "Pittsburgh Steelers running back Jaylen Warren turned 13 carries into 62 yards and caught two of three targets for 11 yards in a Week 8 loss to the Green Bay Packers. Warren ran efficiently in the first half but became an afterthought late as Pittsburgh fell behind early in the fourth quarter. His utilization will be worth monitoring in Week 9 against the 7-1 Indianapolis Colts, who shouldn't struggle to score on the Steelers' faltering defense. The Colts have been strong against the run this season, so Warren's best path to production likely comes as a receiving weapon for Aaron Rodgers. Fantasy managers can continue to roll with the 27-year-old as a solid RB2 heading into Sunday's matchup.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 9,
+  "team": "PIT",
+  "opp": "IND",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 31,
+  "receiving_catches": 2,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 9
+}

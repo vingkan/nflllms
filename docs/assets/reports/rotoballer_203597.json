@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203597",
+  "title": "Isaiah Davis Set for More Significant Role Amid Backfield Injuries",
+  "description": "New York Jets running back Isaiah Davis will be thrust into a more critical role in Week 5 when his team takes on the visiting Dallas Cowboys. The South Dakota State product saw his most extensive workload of the season last Monday night in their loss to the Dolphins, totaling 27 scrimmage yards on five touches (2-of-2 receiving). With backfield mate Braelon Allen not expected back until December, Davis projects to handle handcuff duties behind first-string rusher Breece Hall. Furthermore, with Kene Nwangwu (hamstring) deemed questionable, and Khalil Herbert only a member of the team since Thursday, Davis figures to handle an even more sizable role this weekend. It will be interesting to see how New York divvies up his backfield responsibilities, particularly with his prowess as a returner. Either way, he'll be challenging to depend on for standalone value until his weekly touch share increases. The 23-year-old is RotoBaller's PPR RB49 ahead of this weekend's action.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 5,
+  "team": "NYJ",
+  "opp": "DAL",
+  "att": 1,
+  "tgt": 4,
+  "touches": 5,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 3,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

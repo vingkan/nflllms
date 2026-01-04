@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212093",
+  "title": "TreVeyon Henderson Poised to Feast if Active in Week 17",
+  "description": "New England Patriots running back TreVeyon Henderson (concussion) could feast in a very favorable Week 17 matchup against the New York Jets, but only if he's active. The rookie entered concussion protocol during last Sunday's win over the Baltimore Ravens, and although he has progressed through the five-stage protocol very quickly, he still hasn't officially been cleared to play. As a result, he is listed as questionable to play on Sunday. If Henderson ends up being cleared, he should operate as a strong RB1 option in fantasy football. He had 161 scrimmage yards and two touchdowns in his last healthy game, and this week, he faces off against a Jets defense that has allowed the most touchdowns and the third-most fantasy points to opposing running backs in 2025. In his last game against the Jets, when Rhamondre Stevenson was inactive, Henderson amassed 62 rushing yards, 31 receiving yards, and three touchdowns. Stevenson may eat into his workload slightly this week, but if Henderson is active, he'll be the team's most productive option out of the backfield. The rookie should rank as a top-12 fantasy running back if active.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 17,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 19,
+  "tgt": 0,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 82,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 29
+}

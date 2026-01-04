@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209173",
+  "title": "Rhamondre Stevenson Fading into Backup Role in New England",
+  "description": "Across the first eight weeks of the 2025 season, New England Patriots running back Rhamondre Stevenson recorded 448 scrimmage yards and three touchdowns on 99 touches as his team's RB1. However, Stevenson suffered a toe injury in Week 8 that forced him to miss New England's next three games across Weeks 9 through 11. During that stretch, Patriots rookie running back TreVeyon Henderson made his case to lead the team's backfield by averaging over 100 yards from scrimmage per game and scoring five touchdowns. In Stevenson's first game back in the lineup in Week 12 against the Cincinnati Bengals, Henderson remained New England's feature back. Stevenson struggled to just 10 scrimmage yards on seven touches, while Henderson logged 81 yards from scrimmage on 21 touches. The Patriots may just be bringing Stevenson along slowly in his return from injury, but it's also quite possible that the 27-year-old will be limited to backup running back duties for the rest of 2025. Stevenson should be avoided by fantasy managers in Week 13, even in a favorable matchup against the New York Giants.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 13,
+  "team": "NE",
+  "opp": "NYG",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 40,
+  "receiving_catches": 3,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 31
+}

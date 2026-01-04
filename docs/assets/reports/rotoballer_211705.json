@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211705",
+  "title": "Chuba Hubbard Had a Quiet Outing In Week 16",
+  "description": "Chuba Hubbard had another quiet outing in the Carolina Panthers' 23-20 win against the Buccaneers. The Carolina RB had six carries for 27 yards while also adding one reception for seven yards. Hubbard finished the game with 4.4 PPR points, his lowest fantasy total since Week 11. Rico Dowdle also outperformed Hubbard with 43 scrimmage yards and 8.3 PPR points. Even though the workload was split between the two RBs, Hubbard logged fewer snaps (41%). In Week 17, the Carolina Panthers will face the No. 1 seed in the NFC, the Seattle Seahawks. Seattle ranked seventh in Fantasy Points Per Game allowed to the RB position in the last four weeks leading up to Week 16. Due to the rough matchup against Seattle and inconsistent volume, Hubbard is off the fantasy radar for Week 17.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 17,
+  "team": "CAR",
+  "opp": "SEA",
+  "att": 4,
+  "tgt": 3,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 12,
+  "receiving_catches": 3,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 57
+}

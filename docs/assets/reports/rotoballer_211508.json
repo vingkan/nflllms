@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211508",
+  "title": "Travis Etienne Jr. Remains RB2 Despite Tough Week 16 Matchup",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. should be in many starting lineups despite a tough Week 16 matchup with the Denver Broncos. He mustered three receiving touchdowns in a huge passing day for the Jaguars' offense last week. That receiving work gives Etienne Jr. a high floor. With backup running back Bhayshul Tuten (finger) out with a finger injury, Etienne Jr.'s upside increases. That floor and upside combination makes Etienne Jr. a great starting option this week, even though the Broncos are second-best in the NFL in rushing yards allowed. While he should be slightly downgraded, managers should feel comfortable starting Etienne Jr. in their Week 16 playoff matchups.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 16,
+  "team": "JAX",
+  "opp": "DEN",
+  "att": 16,
+  "tgt": 5,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 18
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205277",
+  "title": "Bam Knight Leads Arizona's Backfield for Second Straight Week",
+  "description": "Arizona Cardinals running back Michael Carter took over RB1 duties in the backfield in Week 5 in the first game without Trey Benson (knee), but since then, it's been Bam Knight leading the way. For a second straight contest in the Week 7 loss to the visiting Green Bay Packers on Sunday, Knight was the Cardinals' clear backfield leader, handling 14 carries for 57 yards while also catching three of his four targets for seven yards. Carter, meanwhile, had seven carries for only 11 yards and caught both of his targets for 25 yards through the air. The 24-year-old Knight now has 25 rushing attempts for 91 yards and a touchdown while adding four catches (six targets) for 27 yards as a pass-catcher the last two weeks as the team's preferred choice out of the backfield. Arizona has a bye in Week 8, but Knight should be the Cardinals' RB1 for at least another game in Week 9 against the Dallas Cowboys with Benson on Injured Reserve.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 27,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

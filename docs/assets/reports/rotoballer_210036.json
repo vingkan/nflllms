@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210036",
+  "title": "Bijan Robinson a Solid RB1 Despite Tough Matchup Vs. Seattle",
+  "description": "Atlanta Falcons running back Bijan Robinson continues to produce despite his team losing six of the last seven games, as he's currently the fourth-ranked running back in PPR formats after adding five receptions for 51 yards to his 142-yard rushing total in last week's 27-24 loss to the Jets. The 23-year-old's seven targets were an encouraging development with Kirk Cousins under center after totaling just five in Cousins' previous two starts. Week 14 brings a home matchup with the Seahawks, a defense that has yielded the fourth-fewest fantasy points to opposing running backs, but that has also allowed the second-most receptions per game (5.7) and fourth-most receiving yards per game (39.7) to opposing backs. Whether the Falcons are playing from behind or with a lead, Robinson should be heavily involved regardless and is once again a rock-solid RB1 for Sunday's contest.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 14,
+  "team": "ATL",
+  "opp": "SEA",
+  "att": 20,
+  "tgt": 2,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 86,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

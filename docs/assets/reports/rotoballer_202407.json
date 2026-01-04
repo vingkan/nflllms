@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202407",
+  "title": "James Conner Undergoes Season-Ending Surgery",
+  "description": "Arizona Cardinals running back James Conner (ankle) underwent season-ending surgery on Monday after suffering a significant right ankle injury in the third quarter of Sunday's game. Conner was carted off with his ankle immobilized, and head coach Jonathan Gannon confirmed he won't return this season. With Conner sidelined, the Cardinals will turn to second-year back Trey Benson, who has been highly efficient, averaging 6.0 yards per carry (second among RBs). Gannon praised Benson before the season, noting he viewed both Conner and Benson as capable starters. Benson now projects as the lead option in Arizona's backfield, while Emari Demercado is expected to mix in behind him.",
+  "player_id": 4137,
+  "player_name": "James Conner",
+  "week": 4,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

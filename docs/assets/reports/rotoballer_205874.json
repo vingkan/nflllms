@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205874",
+  "title": "Cardinals Release Michael Carter on Monday",
+  "description": "The Arizona Cardinals released veteran running back Michael Carter on Monday, according to Tom Pelissero of NFL Network. It comes as a surprise with the Cardinals coming off their Week 8 bye. James Conner (foot) is already out for the year, and Trey Benson (knee) isn't eligible to come off Injured Reserve until Week 10. Bam Knight became the team's RB1 several weeks before the Cardinals went on bye, but Emari Demercado (ankle) was unable to play in Week 7, so Arizona's RB depth was already a bit thin. With Carter now on the street, D'Ernest Johnson and Jermar Jefferson would be the next men up behind Knight in Week 9 against the Dallas Cowboys if Demercado misses another game. In his four games with the Cardinals, Carter averaged just 2.8 yards per carry for 97 rushing yards and a touchdown on 35 carries.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204900",
+  "title": "Jacory Croskey-Merritt Should Bounce Back in Dream Matchup Against Dallas",
+  "description": "Washington Commanders running back Jacory Croskey-Merritt had his worst performance of the season in Week 6 against the Bears, handling 17 carries for 61 yards with one reception for seven yards and losing a fumble for the second consecutive game. It's concerning to see him put the ball on the ground this frequently, but the coaching staff showed faith in him and went right back to him. On a positive note, the rookie seventh-rounder posted his highest snap share of the season at 66.7%. Croskey-Merritt should again handle the bulk of the touches in Week 7 against a Dallas defense that just allowed Rico Dowdle to rack up 239 total yards. They are allowing the fourth-most PPR points per game to opposing running backs, which sets up Croskey-Merritt for a nice bounce-back game. He is a must-start in Week 7.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 7,
+  "team": "WAS",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 33,
+  "receiving_catches": 1,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

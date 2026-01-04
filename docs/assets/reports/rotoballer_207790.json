@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207790",
+  "title": "Rico Dowdle Will be A Fantasy Difference-Maker in Week 11",
+  "description": "Carolina Panthers running back Rico Dowdle has a highly favorable matchup against the Atlanta Falcons in Week 11. Atlanta ranks 29th in Fantasy Points Per Game allowed to running backs. The Falcons' run defense was trampled in Week 10 by Jonathan Taylor, who registered 244 rushing yards, three TDs, and 49.6 PPR Fantasy Points. In his last six games, Dowdle had four rushing touchdowns, averaged 5.8 yards per carry, and averaged 21 PPR Fantasy Points Per Game. Dowdle is a must-start in all formats in Week 11, as he is capable of being a major fantasy difference-maker.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 11,
+  "team": "CAR",
+  "opp": "ATL",
+  "att": 19,
+  "tgt": 7,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 45,
+  "receiving_catches": 5,
+  "receiving_yards": 55,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 17
+}

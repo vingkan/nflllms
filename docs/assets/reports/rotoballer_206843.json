@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206843",
+  "title": "Saquon Barkley Practicing on Thursday",
+  "description": "Philadelphia Eagles running back Saquon Barkley (groin) is taking part in the team's first practice of the week coming off their bye on Thursday, according to Dave Zangaro of NBC Sports Philadelphia. Barkley was forced to leave the team's Week 8 win over the New York Giants in the third quarter due to a groin injury, but after the game, the 28-year-old was confident that he'd be ready to roll following the Week 9 bye. The fact that Barkley is practicing on Thursday is a good sign that he'll be ready to play on Monday night against the Green Bay Packers in Week 10, but we'll continue to monitor his status closely in the coming days. Barkley hasn't been nearly as good this year as he was in his first year in Philly in 2024, but he remains a must-start in all fantasy lineups when he's healthy. He had 18 touches for 174 scrimmage yards and two touchdowns in Week 8 before suffering his groin injury.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 10,
+  "team": "PHI",
+  "opp": "GB",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

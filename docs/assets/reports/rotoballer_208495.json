@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208495",
+  "title": "Dylan Sampson an RB5 in Week 12",
+  "description": "Cleveland Browns running back Dylan Sampson will take on the Las Vegas Raiders on the road in Week 12. Sampson has been overshadowed by workhorse Quinshon Judkins as the former has seen more than four carries just once all season and has just one catch for three yards over his past two games. The Raiders set up as a reasonably tough matchup for Sampson and company as they are allowing just the 19th-most fantasy points per game to opposing running backs this season. With Sampson unlikely to approach double-digit touches in Week 12, he sets up as a low-end RB5 who should not be in fantasy lineups heading into Week 12's clash with the Raiders.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 12,
+  "team": "CLE",
+  "opp": "LV",
+  "att": 7,
+  "tgt": 3,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 2,
+  "receiving_yards": 59,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 11
+}

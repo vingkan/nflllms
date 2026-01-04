@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209748",
+  "title": "Woody Marks Not Practicing Wednesday",
+  "description": "Houston Texans rookie running back Woody Marks (foot) did not participate in Wednesday's practice session, according to Aaron Wilson of KPRC 2 Houston. Marks exited early during Week 13 against the Indianapolis Colts due to a foot injury, but he was eventually able to return and finished with 19 carries for 64 yards while adding one reception (one target) for three yards as a receiver. It's not a great sign that the rookie missed practice to open the week, but he'll have two more opportunities to practice before Sunday night's game against the Kansas City Chiefs. Marks has served as the Texans' workhorse over the last four games, playing 67.1% of the snaps while averaging 18 touches per game. The USC product hasn't been dynamic with the increased workload, though, averaging just 9.4 PPR points per game during that time. Marks' status will continue to be monitored as the week goes along. If he's limited or out in Week 14, veteran Nick Chubb would see an elevated workload.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 14,
+  "team": "HOU",
+  "opp": "KC",
+  "att": 26,
+  "tgt": 3,
+  "touches": 29,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 68,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

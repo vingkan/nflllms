@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211529",
+  "title": "RJ Harvey Looks to Continue Touchdown Streak in Week 16",
+  "description": "Denver Broncos rookie running back RJ Harvey is set to dominate backfield touches again against the Jacksonville Jaguars in Week 16, but faces another difficult test. The Jaguars currently rank first in the NFL in average rushing yards allowed per game, at just 86.3. With the Broncos having success in Week 15 through the air while facing the Green Bay Packers, it's possible that they could lean more towards the passing game as a focal point to keep the win streak alive. While Harvey has scored at least one touchdown on the ground in three consecutive games and averages 75.7 total yards per game in that stretch, RotoBaller ranks him as the RB14 overall for Week 16.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 16,
+  "team": "DEN",
+  "opp": "JAX",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 71,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 11
+}

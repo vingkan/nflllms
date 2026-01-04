@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206024",
+  "title": "Bam Knight Set Up for Success Heading into Favorable Week 9 Matchup",
+  "description": "Arizona Cardinals running back Bam Knight appears to have a clear runway to be his team's lead back in a favorable Week 9 matchup against the Dallas Cowboys. Cardinals running back Trey Benson (knee) will be on Injured Reserve for at least one more game, and the team released veteran back Michael Carter earlier this week. Before Arizona's Week 8 bye, Knight had recorded 118 scrimmage yards and a touchdown on 29 touches across his last two games. He'll likely split backfield snaps to some degree with Emari Demercado in Week 9, but Knight profiles as the early-down and goal-line back. The Cowboys have allowed the third-most rushing yards (1,168) in the NFL this season. Knight should be viewed as a low-end fantasy RB2 heading into Week 9.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 27,
+  "receiving_catches": 2,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

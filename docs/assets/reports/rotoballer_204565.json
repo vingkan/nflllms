@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204565",
+  "title": "Rico Dowdle Set to Take Over Panthers Backfield?",
+  "description": "Carolina Panthers running back Rico Dowdle has been the talk of the NFL lately, recording 373 yards from scrimmage and two touchdowns on 60 total touches across his last two games played. Dowdle has been filling in for Panthers running back Chuba Hubbard (calf), who could make his return in Week 7 against the New York Jets. However, Panthers head coach Dave Canales has been non-committal about whether Hubbard will remain the starter once he returns. While Hubbard will certainly get his touches, it's hard to imagine that Carolina would completely remove Dowdle from the game plan, given what he has done over the last two weeks. If there are any leagues where Dowdle remains available, he needs to be rostered in all fantasy formats and could be a borderline must-start running back in Week 7, even if Hubbard returns to the lineup.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 7,
+  "team": "CAR",
+  "opp": "NYJ",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 22
+}

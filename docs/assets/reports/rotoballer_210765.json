@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210765",
+  "title": "Saquon Barkley Faces a Weak Raiders Run Defense in Week 15",
+  "description": "Philadelphia Eagles running back Saquon Barkley broke free for a 52-yard touchdown run in the fourth quarter of last week's game against the Chargers, finally snapping his four-game scoreless streak. This play also boosted him to his second-highest rushing yards count in a game this season with 122, his second time surpassing 100 yards on the ground. He'll try to carry this momentum into Week 15's matchup with the Raiders, who allow the ninth-most fantasy points to RBs in the league. Las Vegas is also tied for the second-most rushing touchdowns given up this year, letting up 18 scores to runners over 13 games. While he has left some to be desired in the passing game lately, Barkley is primed to find the end zone this weekend, which should make up for any lack of catches. Consider him a low-end RB1.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 15,
+  "team": "PHI",
+  "opp": "LV",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 78,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

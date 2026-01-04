@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208707",
+  "title": "Alvin Kamara to Suit Up for Clash with Falcons",
+  "description": "According to ESPN's Adam Schefter, the New Orleans Saints expect running back Alvin Kamara (ankle) to be available for Sunday's meeting with the visiting Atlanta Falcons. Kamara has battled an ankle injury for a large portion of the 2025 campaign. Despite being labeled as questionable for the past few games, he's yet to miss one because of it. The 30-year-old put together one of his better performances of the season before New Orleans went on bye in Week 11, eclipsing 100 scrimmage yards for the first time since Week 2, and showed well against a decent Carolina run defense. If, for whatever reason, the veteran is unable to suit up in Week 12, teammates Devin Neal and Audric Estime would man the backfield in his stead.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 12,
+  "team": "NO",
+  "opp": "ATL",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 11,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

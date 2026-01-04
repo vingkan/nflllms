@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211678",
+  "title": "Nick Chubb Remains in Limited Role",
+  "description": "Houston Texans running back Nick Chubb (ribs) was able to play through his questionable tag on Sunday, but his fellow running back Woody Marks (ankle) was ruled out. Even without Marks, though, Chubb's workload was limited as Jawhar Jordan led the way with 15 carries for 53 yards, while Chubb had six carries for 33 yards and one catch for nine more yards. He remains involved as an early-down option and could get work around the goal line, but he doesn't seem likely to be the featured running back at this point in his career. If Marks is ready to return next week against the Chargers, Chubb could get even less work with Jordan and Marks each looking more effective and explosive than the veteran.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 17,
+  "team": "HOU",
+  "opp": "LAC",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 1,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 79
+}

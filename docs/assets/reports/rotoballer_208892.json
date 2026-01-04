@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208892",
+  "title": "Bam Knight Scores a Rushing TD to Salvage Week 12 Fantasy Performance",
+  "description": "Arizona Cardinals running back Bam Knight had 10 carries for 12 yards and a touchdown in Sunday's 27-24 overtime loss to the Jacksonville Jaguars in Week 12. He added four catches on five targets for 20 yards through the air. Knight was able to tough out an ankle injury that had limited him in practice leading up to Sunday's performance. The 24-year-old had to find the end zone to save his Week 12 fantasy performance, and he has now scored a touchdown in back-to-back weeks to stay fantasy viable. In a high-volume passing offense, Knight has become a touchdown-dependent running back in all fantasy formats. Since Week 9, over a third of Knight's fantasy points have come from his touchdown production. Heading into Week 13 against the Tampa Bay Buccaneers, Knight's short-term fantasy appeal could run out if Trey Benson (knee) returns from Injured Reserve.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

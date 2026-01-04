@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210211",
+  "title": "Woody Marks Carries the Load as Texans Triumph",
+  "description": "Houston Texans running back Woody Marks had already taken over most of the work in the team's backfield coming into Sunday night's matchup with the Chiefs, but with Nick Chubb (rib) leaving early, Marks got even more work. The rookie finished with a season-high 26 carries for 68 rushing yards and added two catches on three targets for eight receiving yards and a touchdown. It was his third receiving touchdown of the season and fifth touchdown overall. He has helped Houston win five straight games to climb back into the playoff chase, and he gets great matchups the next two weeks against the Cardinals and Raiders. Check on Chubb's status throughout the week, but Marks will be a good play either way after Sunday's strong showing.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 15,
+  "team": "HOU",
+  "opp": "ARI",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

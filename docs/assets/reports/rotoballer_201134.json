@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201134",
+  "title": "D'Andre Swift Works as the Clear Lead Running Back in Chicago",
+  "description": "Chicago Bears running back D'Andre Swift didn't have huge totals against the stout Vikings defense on Monday Night Football, but the good news for his fantasy value is that he was clearly still the featured back. He took 17 carries for 53 rushing yards, while no other running back received even one carry. Roschon Johnson (foot) was sidelined, and rookie Kyle Monangai only played nine snaps, getting one target and no carries. Swift had five targets and hauled in three catches for 12 yards, but he wasn't able to get into the end zone to put his fantasy production over the top. His role as the featured back is encouraging, though, for his value going forward. He and the Bears head to Detroit to face the Lions in Week 2, after Detroit allowed Josh Jacobs to take 19 carries for 66 yards and a touchdown in Week 1. Swift will be touchdown-dependent, but he's lined up for enough work to still be a starter in most standard leagues.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 2,
+  "team": "CHI",
+  "opp": "DET",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 63,
+  "receiving_catches": 3,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 23
+}

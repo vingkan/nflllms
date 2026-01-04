@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201297",
+  "title": "Jeremy McNichols Could See Increased Usage After Austin Ekeler Injury",
+  "description": "Washington Commanders running back Jeremy McNichols could be headed for an increased workload after teammate Austin Ekeler suffered a serious Achilles injury on Thursday night. Ekeler suffered the injury late in the fourth quarter and was quickly ruled out, indicating that the severity is serious. NFL Network's Ian Rapoport echoed these concerns postgame, telling the Amazon Prime broadcasters that the Commanders' front office is concerned about Ekeler's status. If the veteran running back misses extended time, McNichols could step into a much larger role. He didn't register an offensive touch Thursday night but should enter Week 3 as the Commanders' No. 2 running back behind Jacory Croskey-Merritt. With more snaps on the way, McNichols immediately becomes an intriguing waiver wire option in fantasy football.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 3,
+  "team": "WAS",
+  "opp": "LV",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 78,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205661",
+  "title": "Tyler Allgeier Has Dream Matchup Against Miami in Week 8",
+  "description": "Atlanta Falcons running back Tyler Allgeier (hip, knee) is listed as questionable to play in Week 8 against the Miami Dolphins after being limited in practice during the week. It appears to be a new injury for Allgeier, as he was not listed on the injury report last week. The 25-year-old has been an impactful player for the Atlanta offense in a backup role behind superstar Bijan Robinson, handling 57 carries for 203 yards and three touchdowns on the season. The Falcons' offense could look a tad different on Sunday against the Dolphins with veteran Kirk Cousins expected to start in place of Michael Penix Jr. (knee), who has been managing a bone bruise this week. Allgeier has gotten a good amount of his production when the Falcons look to salt the game away late, setting him up for a potential big day against a porous Miami run defense. Allgeier is right on the RB2/flex line for Week 8, ranked as the RB27 in PPR formats by RotoBaller.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 8,
+  "team": "ATL",
+  "opp": "MIA",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 27
+}

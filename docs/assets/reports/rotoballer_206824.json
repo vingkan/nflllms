@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206824",
+  "title": "Will Dylan Sampson be More Involved Coming Off the Bye Week?",
+  "description": "Cleveland Browns rookie running back Dylan Sampson saw his biggest volume since the season opener in the Week 8 loss to the New England Patriots, when fellow rookie Quinshon Judkins left the game in the third quarter due to a shoulder injury. The Browns had their bye in Week 9 and are getting ready to face the New York Jets this Sunday in Week 10. The 21-year-old Sampson was a speculative waiver-wire addition for fantasy managers who need help at the RB position, but it remains to be seen how much the fourth-rounder will be involved this weekend now that Judkins has been removed from the injury report. Barring a setback, Judkins should be fine to face the Jets as Cleveland's lead back. Sampson had a season-high 12 carries in Week 1 against the Cincinnati Bengals, but since then, he hasn't had more than four totes in a single game. It's looking like Sampson won't be a realistic starting option in fantasy lineups this weekend.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -4,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 59
+}

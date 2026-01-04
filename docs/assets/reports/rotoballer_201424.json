@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201424",
+  "title": "Derrick Henry has Plenty of Bulletin-Board Material vs. Browns",
+  "description": "Baltimore Ravens running back Derrick Henry doesn't have anything to prove when it comes to his overall career. After last week, however, he'll look to bounce back after fumbling during a key moment in the fourth quarter, which eventually led to a loss. Then, while talking to the media, Grant Delpit from the Browns responded to a question about how hard it was to tackle Henry with \"not hard.\" As if the 10-year vet already didn't run with a purpose. Last season, he collected 211 yards and three touchdowns on 31 carries combined between the two games against the Browns. They saw his third-highest yards per carry mark (6.81) out of all of the teams he played that year. RotoBaller currently has him ranked the RB1 in half-PPR leagues, so make sure he isn't on the bench.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 2,
+  "team": "BAL",
+  "opp": "CLE",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

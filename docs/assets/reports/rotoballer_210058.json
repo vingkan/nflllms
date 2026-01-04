@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210058",
+  "title": "Jonathan Taylor Remains an Elite RB1 in Week 14 vs. Jaguars",
+  "description": "Indianapolis Colts running back Jonathan Taylor is one of the short favorites to win Offensive Player of the Year as he's put together a historically great season through 12 games so far. Taylor has recorded 226 carries for a league-leading 1,282 rushing yards and 15 touchdowns while adding 35 receptions for 304 yards and two more touchdowns on 40 targets as a receiver. Taylor is averaging 24.8 PPR points per game, only trailing Christian McCaffrey among running backs this season. The superstar running back has cooled off in the past two games, though, totaling 143 yards and no touchdowns on 37 carries following his monster day against the Falcons in Week 10, when he racked up 244 rushing yards and three touchdowns. That was the second-most rushing yards in a game for his career, trailing only his 253-yard outing against the Jacksonville Jaguars in Week 17 of 2021. Taylor will be looking for a repeat of that performance on Sunday against the Jaguars and ranks as RotoBaller's RB3 in PPR leagues for Week 14.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 14,
+  "team": "IND",
+  "opp": "JAX",
+  "att": 21,
+  "tgt": 0,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 74,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 20
+}

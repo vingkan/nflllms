@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207652",
+  "title": "Kyle Monangai's Involvement Takes a Hit With Teammate Back",
+  "description": "Chicago Bears rookie running back Kyle Monangai slid back into a secondary role in the team's backfield last weekend with the return of teammate D'Andre Swift (hip) from a one-game absence. The New Jersey native showed out back in Week 9 with a 29-touch, 198-yard performance while Swift dealt with a hip injury. However, the former saw his workload scale back significantly as the latter resumed his role as lead back in their win over the Giants. Monangai would catapult in the rankings if Swift were ever made to miss more time, although, as it stands, he'll still boast some standalone value as a low-end RB3 asset. While both backs will be in play during Week 11's matchup with the Minnesota Vikings, Monangai loses some ceiling with Swift in the picture.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 11,
+  "team": "CHI",
+  "opp": "MIN",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 23,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

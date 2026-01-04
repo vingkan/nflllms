@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210114",
+  "title": "James Cook in Line for Another Big Day in Week 14",
+  "description": "Buffalo Bills running back James Cook recorded a season-high 32 carries for 144 yards during last week's win over the Pittsburgh Steelers. Despite missing both starting tackles, Cook and the Bills' ground game tore up the Steelers for 249 total rushing yards. The 26-year-old has been an elite fantasy asset all season, handling 231 rushing attempts for 1,228 yards and eight touchdowns with 27 receptions (29 targets) for 236 yards and a touchdown. He ranks as the RB6 on the year, averaging 18.6 PPR points per game. The Bills' RB1 has already set a career high in rushing yards and is set up to surpass his career high of 237 carries in Week 14 against a porous Cincinnati Bengals defense. The Bengals have allowed the most PPR points per game to opposing running backs, setting Cook up for another potential massive game on Sunday.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 14,
+  "team": "BUF",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 80,
+  "receiving_catches": 2,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 25
+}

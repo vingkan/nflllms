@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201301",
+  "title": "Lack of Joe Mixon Injury Updates Sparking Concern for Fantasy Managers?",
+  "description": "A lack of injury updates on Houston Texans running back Joe Mixon (ankle, foot) is creating a sense of concern and uncertainty for fantasy managers. The Texans have provided very few updates on Mixon since placing him on the non-football injury list, and general manager Nick Caserio was non-committal on the running back playing this season. That was two weeks ago, though, and a lack of chatter about the veteran ball-carrier puts managers in a difficult position. Roster spots are precious, so managers only want to stash Mixon if they think he's going to return later this year. Even in leagues with IR spots, there's no point in holding Mixon if the Texans don't expect him back. However, with the team declining to provide an update, managers have no choice but to keep him on the back end of their rosters. In the meantime, Nick Chubb will remain the team's primary running back with Dameon Pierce and Woody Marks also getting involved.",
+  "player_id": 4018,
+  "player_name": "Joe Mixon",
+  "week": 2,
+  "team": "HOU",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

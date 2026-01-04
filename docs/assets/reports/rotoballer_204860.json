@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204860",
+  "title": "Quinshon Judkins in a Smash Spot in Week 7",
+  "description": "Cleveland Browns running back Quinshon Judkins has been one of the few bright spots for his team's offense through six games in 2025. The rookie running back has now rushed for 383 yards and two touchdowns while adding nine catches for 62 yards in five games. Judkins will be looking to bounce back in Week 7 after he turned in his slowest output of the season last week as the Pittsburgh Steelers held him to just 36 yards on 12 carries. Judkins has a good shot at a big afternoon in Week 7 as he will face off against the Miami Dolphins at home. Miami's defense has been quite generous to opposing running backs this season, allowing the fifth-most fantasy points per game so far. Judkins can be trusted as a low-end RB1 heading into Week 7.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 7,
+  "team": "CLE",
+  "opp": "MIA",
+  "att": 25,
+  "tgt": 0,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 84,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 4
+}

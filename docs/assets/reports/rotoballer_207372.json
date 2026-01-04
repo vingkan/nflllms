@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207372",
+  "title": "Quinshon Judkins Handles Another Heavy Workload in Week 10 Loss",
+  "description": "Cleveland Browns running back Quinshon Judkins has had a strong rookie campaign through eight games, handling 140 carries for 561 yards and five touchdowns to go with 14 catches (18 targets) for 70 yards as a receiver. The 22-year-old was bottled up on heavy usage in Cleveland's Week 10 loss at the Jets, averaging just 3.5 yards on 24 touches. Judkins has taken on one of the biggest workloads in the league as a rookie, with his 17.5 carries per game ranking sixth highest among running backs. Cleveland's poor offensive situation has limited some of the upside, and he doesn't catch a ton of passes, but the rookie has still been productive, ranking as RB20 in PPR points per game (13.4). Judkins will remain on the RB1/RB2 border for Week 11 against the Baltimore Ravens.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 11,
+  "team": "CLE",
+  "opp": "BAL",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 59,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 42
+}

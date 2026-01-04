@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201435",
+  "title": "D'Andre Swift Touchdown-Dependent Against Lions",
+  "description": "Chicago Bears running back D'Andre Swift is looking to bounce back after an inefficient outing to start the season. Swift was the workhorse in Week 1, totaling 20 attempts for 65 yards against the difficult Minnesota Vikings run defense. Head coach Ben Johnson stated, \"He needs to call more run plays.\" The matchup is just as difficult in Week 2, as Swift faces the Lions defense, which allowed the second-fewest rushing yards to running backs in 2024. The Lions' defense was able to contain Packers running back Josh Jacobs, who averaged 3.5 yards per carry in Week 1. Swift struggled against his former team last season, averaging less than three yards per carry in those games. Swift is a mid to low-RB3 this week, with his fantasy production likely depending on whether he scores a touchdown or not.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 2,
+  "team": "CHI",
+  "opp": "DET",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 63,
+  "receiving_catches": 3,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 23
+}

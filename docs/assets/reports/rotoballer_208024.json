@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208024",
+  "title": "Travis Etienne Jr. Scores Two Touchdowns in Run-Heavy Blowout",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. had 19 carries, 73 rushing yards, and two rushing touchdowns during Sunday's Week 11 win over the Los Angeles Chargers. He was unable to haul in either of his two targets in the passing game. Etienne ceded early-game touches to Bhayshul Tuten (ankle), but then the rookie left the game with an injury, clearing the way for Etienne to re-establish himself as the lead back. The 26-year-old took full advantage of the opportunity, helping fuel a 35-6 upset victory at home. If Tuten is healthy in Week 12, we could see somewhat of a 50/50 backfield split, as both running backs have proven that they are effective and can provide a spark. In a split backfield, Etienne is a low-end RB2. However, he would jump to the RB1 tier if he operates as the workhorse or if Tuten misses time.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 86,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 7
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206895",
+  "title": "James Cook a Full-Go for Clash With Dolphins",
+  "description": "NFL Network's Cameron Wolfe reports that Buffalo Bills running back James Cook (ankle) is \"good to go\" for Sunday's matchup with their division-rival Miami Dolphins. Cook missed practice on Wednesday with what has been called an ankle injury, but was elevated to limited on Thursday. While his status for Friday's practice has yet to be disclosed, fantasy managers can breathe a sigh of relief knowing he's ready to rock heading into the weekend. Miami has been one of the worst teams against the rush this season, and one of the friendliest toward fantasy running backs -- yielding the sixth-most fantasy points per game to the position (25.52). Cook owners can comfortably slot him into their lineups as a high-end RB1 in a smash Week 10 spot.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 5,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

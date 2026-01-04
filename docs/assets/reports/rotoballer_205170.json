@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205170",
+  "title": "Josh Jacobs Saves Fantasy Performance With Two Touchdowns Against Cardinals",
+  "description": "Green Bay Packers running back Josh Jacobs came into Sunday's Week 7 game versus the Arizona Cardinals with a questionable tag thanks to a calf injury that popped up late in the week. Jacobs tested his calf during pre-game warmups and was cleared to play. The 27-year-old had a modest 13 rushing attempts on the day in the 27-23 victory for 55 yards, but he was able to salvage his day for his fantasy managers by scoring two touchdowns. Jacobs caught his only target in the passing game for three yards. Perhaps he was a bit limited by his calf injury, as his 13 carries were a season low, but it didn't stop Jacobs from scoring on the ground twice for the third straight game. Jacobs now has eight trips to the end zone on the ground in 2025, with the Sept. 21 game against the Cleveland Browns being the only game that he hasn't found paydirt for Green Bay. He won't have the best of matchups next Sunday night against the Pittsburgh Steelers in Week 8, but Jacobs' volume alone and nose for the end zone make him a pretty safe RB2.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 8,
+  "team": "GB",
+  "opp": "PIT",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

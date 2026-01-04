@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203596",
+  "title": "Breece Hall a Strong Week 5 Play",
+  "description": "New York Jets running back Breece Hall is slated for a juicy matchup in Week 5 when his team takes on the Dallas Cowboys at home. The Iowa State alum got back in fantasy managers' good graces last weekend when he churned out 111 scrimmage yards following single-digit output the two weeks prior. Hall has yet to find the end zone in 2025, but he should see a few more goal-line carries with teammate Braelon Allen (knee) dealing with a significant MCL sprain. In fact, the 24-year-old should boast a modest increase in volume with Allen set to miss multiple months. Second-year pro Isaiah Davis will mix in behind Hall, but the latter figures to handle the lion's share of New York's backfield work moving forward. Dallas' defense is allowing the most yards per game to opponents, and Hall's dual-threat ability should keep him viable regardless of game script. He's RotoBaller's PPR RB8 for this weekend's matchup.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 5,
+  "team": "NYJ",
+  "opp": "DAL",
+  "att": 14,
+  "tgt": 5,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 113,
+  "receiving_catches": 4,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

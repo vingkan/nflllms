@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205235",
+  "title": "Return To Platoon For Jordan Mason, Vikings Backfield?",
+  "description": "Running back Jordan Mason has had the run of the Minnesota Vikings backfield in the past few weeks, but his workload will be worth monitoring as Aaron Jones Sr. (hamstring) is now eligible to come off Injured Reserve. The Vikings initially were targeting Week 8 against the Los Angeles Chargers, a Thursday night game, to bring back Jones, but so far, have not officially activated him. Mason has been decent if not great in Jones' absence, but it's worth noting that four of five starters on the offensive line have been impacted by injuries and starting quarterback J.J. McCarthy has missed four straight games. Mason may have another week in the lead role, but Jones is likely to play a factor when he returns.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 8,
+  "team": "MIN",
+  "opp": "LAC",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 55
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210900",
+  "title": "Christian McCaffrey to Play in Week 15",
+  "description": "Per the team, San Francisco 49ers running back Christian McCaffrey (back, illness) will be active for Week 15's home matchup with the Tennessee Titans. Fresh off a bye week, the fantasy stalwart gave owners a scare after coming down with an illness. A late-week back issue offered no solace, but it appears that McCaffrey will be out there despite just one full practice this week. Fantasy managers can exhibit no worries slotting him into their lineups, as it doesn't appear he's in any danger of playing less than his typical allotment of snaps. McCaffrey is an elite RB1 option, and, officially, RotoBaller's PPR RB1 in this week's rankings.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

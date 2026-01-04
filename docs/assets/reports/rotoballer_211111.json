@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211111",
+  "title": "Omarion Hampton Could See Larger Workload as He Regains Full Health",
+  "description": "Los Angeles Chargers running back Omarion Hampton missed seven games in the middle of the 2025 season due to an ankle injury, but he made his return to the field in Week 14. The Chargers have worked Hampton back in slowly, as he's split backfield snaps with Kimani Vidal over each of the past two weeks. Even with the limited playing time, Hampton has provided modest production. Over his last two games, the 22-year-old has recorded 132 scrimmage yards and a touchdown on 31 touches. In his final two full games before suffering the ankle injury, Hampton demonstrated his explosive upside by logging 294 yards from scrimmage and two touchdowns on 42 touches. If the Chargers continue to increase his workload as he gets healthier, Hampton could get back to his pre-injury levels of production. Los Angeles will face the Dallas Cowboys in Week 16 before hosting the Houston Texans in Week 17.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 16,
+  "team": "LAC",
+  "opp": "DAL",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 85,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 19
+}

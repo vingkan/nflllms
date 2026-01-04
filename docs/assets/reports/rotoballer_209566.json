@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209566",
+  "title": "Jordan Mason Worth Targeting on the Waiver Wire With Teammate Injured",
+  "description": "Minnesota Vikings running back Jordan Mason has recorded single-digit touches in each of his last four games. However, the 26-year-old may step into a much more prominent role going forward after fellow Vikings back Aaron Jones Sr. (shoulder) suffered a shoulder injury during the team's Week 13 loss to the Seattle Seahawks. Across the four games that Jones Sr. missed earlier this season with a hamstring injury, Mason recorded 301 scrimmage yards and four touchdowns on 66 touches. Minnesota's offense as a whole has spiraled downwards in recent weeks, recording six points combined over its last two games. However, Minnesota could get quarterback J.J. McCarthy (concussion) back in Week 14, and the Vikings have a far more favorable matchup against the Washington Commanders. If Jones Sr. is forced to miss time, Mason would have starting fantasy appeal in Week 14. He's worth targeting on the waiver wire even if more clarity around Jones Sr.'s status does not come until later in the week.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 52,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

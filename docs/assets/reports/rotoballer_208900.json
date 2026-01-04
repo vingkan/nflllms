@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208900",
+  "title": "Tyjae Spears' Timeshare Continues",
+  "description": "Tennessee Titans running back Tyjae Spears continued to share time in the backfield in Week 12's matchup with the Seahawks. He only had three carries for four yards, compared to Tony Pollard's 11 carries for 20 yards. Each running back also posted exactly four catches on five targets for 21 yards. While Pollard got more work this week, Spears played 43% of snaps and remains in almost an even snap share. If he can get going in any week, he'll likely end up with over 50% of snaps, as he did in Week 8 and Week 11. His best game of the year was Week 8 against Indianapolis, when he had nine carries for 59 yards and his only touchdown of the season. Spears is getting enough work to still be a deep-league flex play from the waiver wire, although he has tough running back matchups against the Jaguars and Browns the next two weeks.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 13,
+  "team": "TEN",
+  "opp": "JAX",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": -1,
+  "receiving_catches": 6,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 41
+}

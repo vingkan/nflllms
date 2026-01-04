@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207478",
+  "title": "No Update on Bam Knight on Wednesday",
+  "description": "Arizona Cardinals head coach Jonathan Gannon did not have an injury update on running back Bam Knight (ankle) on Wednesday, according to Theo Mackie of The Arizona Republic. Knight, who has become the Cardinals' primary option in the backfield in recent weeks with Trey Benson (knee) on Injured Reserve, picked up an ankle injury in the fourth quarter of the Week 10 loss to the Seattle Seahawks. The 24-year-old only had 28 rushing yards on 10 carries in the blowout loss before leaving, adding one catch for five yards. Fantasy managers will want to check back on Knight's practice status on Wednesday. Benson has yet to resume practicing, so he feels unlikely to make his return this Sunday against the division-rival San Francisco 49ers. Fantasy managers in need of RB help may want to pick up Emari Demercado now in case Knight is unable to go this weekend.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 11,
+  "team": "ARI",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 24,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

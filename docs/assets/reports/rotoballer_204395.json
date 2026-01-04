@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204395",
+  "title": "Alvin Kamara Officially Active for Week 6 Against Patriots",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is officially active for Sunday's Week 6 contest against the New England Patriots. He had been listed as questionable after being a limited participant in practice. The veteran running back has remained a productive ball carrier and pass catcher in his age-30 season, but we've started to see the Saints opt for somewhat of a split between him and Kendre Miller lately. Kamara's eight receptions over the last two games keep him in the high-end RB3/flex range for fantasy football, but he's no longer a top-tier workhorse. That is especially true against a Patriots defense that has allowed the sixth-fewest fantasy points to running backs in 2025.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 14
+}

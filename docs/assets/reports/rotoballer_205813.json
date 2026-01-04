@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205813",
+  "title": "Christian McCaffrey Posts Rare Dud in 49ers' Loss",
+  "description": "San Francisco 49ers running back Christian McCaffrey rushed for just 25 yards on eight carries during Sunday's Week 8 loss against the Houston Texans. He also caught three of his six targets for an additional 43 receiving yards. McCaffrey had his worst game of the season; his 9.8 points in PPR leagues marked the first time he scored fewer than 22 points in a single game this year. This was a rare dud for McCaffrey, and part of the blame can be attributed to the quarterback position, as Mac Jones (59.4% completion rate, 193 yards, two touchdowns, one interception) struggled to put together many quality drives in place of Brock Purdy (toe). McCaffrey is still one of the most talented running backs in recent NFL history, and he should have no trouble bouncing back against a struggling Giants squad in Week 9.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 9,
+  "team": "SF",
+  "opp": "NYG",
+  "att": 28,
+  "tgt": 6,
+  "touches": 34,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 106,
+  "receiving_catches": 5,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 34,
+  "ppr_scoring_position_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203896",
+  "title": "Rachaad White Set to Dominate Backfield Touches in Tampa Bay?",
+  "description": "Tampa Bay Buccaneers running back Rachaad White took full advantage of his opportunity to be the team's RB1 in Week 5 with Bucky Irving (shoulder, foot) sidelined by injury. White recorded 71 yards from scrimmage and two touchdowns on 18 total touches, and has now logged 213 yards from scrimmage and three scores on 49 total touches for the season. With Irving's status in doubt for Week 6 against the San Francisco 49ers, White looks poised for another week with a significant workload. The 26-year-old is a must-start running back in Week 6 and has a good chance to maintain that status for as long as Irving is unable to play.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 6,
+  "team": "TB",
+  "opp": "SF",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 3,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

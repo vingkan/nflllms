@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203416",
+  "title": "Tyjae Spears Questionable for Week 5",
+  "description": "Tennessee Titans running back Tyjae Spears (ankle) is listed as questionable for Sunday's game in Arizona, according to John Glennon of the Nashville Post. Spears missed the first four weeks of the season after being placed on injury reserve with a high right ankle sprain. His 21-day window to return to practice was opened this week and presents the possibility for Spears to make his season debut in Week 5. Head coach Brian Callahan is \"mindful\" of how much to put on him as soon as he is back, but the third-year back has a good week of practice. Spears finished the 2024 season on a high note, playing at least 55% of the snaps over the final three games. He averaged 42 rushing yards on 11 carries and four balls for 45 yards per game to go with four total touchdowns. Spears will likely be eased into the mix in Week 5, but he could see more work as he gets healthier.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 5,
+  "team": "TEN",
+  "opp": "ARI",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 61
+}

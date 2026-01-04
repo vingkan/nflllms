@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202534",
+  "title": "D'Andre Swift Limited on Wednesday with Hip Injury",
+  "description": "Chicago Bears running back D'Andre Swift (hip) was limited on Wednesday due to a hip injury. Fantasy managers should continue to keep a close eye on his status as Swift was listed as questionable for Sunday's contest due to a quadriceps injury. While he was able to suit up, it appears he exited that contest with an additional injury. In their victory over the Cowboys, Swift took only 13 carries for 33 yards and added 45 yards on three receptions. In this contest, D'Andre Swift logged his lowest snap total of the season. This opened the door for rookie Kyle Monangai to see an uptick in work. If Swift were to remain limited in practice this week, the rookie could see another sizeable role facing the Las Vegas Raiders this weekend.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 4,
+  "team": "CHI",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 20
+}

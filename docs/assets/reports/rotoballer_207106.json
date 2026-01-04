@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207106",
+  "title": "Jacory Croskey-Merritt Losing Role as Washington's Lead Back?",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt has struggled over the past four games, totaling just 157 yards on 51 carries and no touchdowns. Croskey-Merritt's 3.1 yards per carry ranks sixth lowest among running backs with at least 25 carries in that span. That comes after a five-game stretch to begin the season where the rookie seventh-rounder was one of the best stories in the league, averaging a league-best 6.6 yards per carry and a ridiculous 72.1% success rate, per Fantasy Points Data Suite. Croskey-Merritt also owned the second-highest explosive run rate (15+ yards) at 11.6% in that time, but has not generated a single explosive run over the past four weeks. With third-year back Chris Rodriguez Jr. coming off his best game of the season against Seattle and being named a team captain for Sunday's matchup against the Lions, Croskey-Merritt may cede more work to Rodriguez. With a lack of involvement in the pass game, Croskey-Merritt finds himself in low-end RB3 territory for Week 10, ranking as RotoBaller's RB33 in PPR leagues.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

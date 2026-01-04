@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206695",
+  "title": "Malik Davis Waived by Cowboys",
+  "description": "Dallas Cowboys running back Malik Davis has been waived by the organization on Tuesday. Davis was signed off the practice squad ahead of Monday's game against the Arizona Cardinals. The 26-year-old has seen a minimal role in the backfield over the last two games. Davis has rushed three times for six yards over the last two games. His absence isn't going to make much of an impact on the Cowboys backfield going forward.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 11,
+  "team": "DAL",
+  "opp": "LV",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 20,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 57
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205492",
+  "title": "Omarion Hampton Still Wearing a Walking Boot After Week 8",
+  "description": "Los Angeles Chargers running back Omarion Hampton (ankle) was seen wearing a walking boot following the team's win over the Minnesota Vikings in Week 8, according to Daniel Popper of The Athletic. Hampton has required the boot ever since Week 5, when he injured his ankle and was subsequently placed on injured reserve. The rookie was spectacular when healthy, averaging 5.6 rushing yards per carry as the team's primary running back, as well as 5.7 receptions and 0.7 touchdowns per game. Fantasy managers are surely ready for Hampton to return so that he can continue to offer RB1 production, but they may have to be patient given that the rookie still hasn't been able to shed his boot. Kimani Vidal remains the lead running back in Los Angeles for the time being.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 9,
+  "team": "LAC",
+  "opp": "TEN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

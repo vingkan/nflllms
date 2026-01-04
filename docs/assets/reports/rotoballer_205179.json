@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205179",
+  "title": "Zavier Scott Suffers Wrist Injury in Week 7",
+  "description": "Minnesota Vikings running back Zavier Scott suffered an injury to his right wrist in Week 7's loss to the Eagles. Scott handled four carries for four yards and added a catch for two yards in the game, and appears to have banged up his wrist at some point during the game. Scott has served as the primary backup to Jordan Mason while Aaron Jones (hamstring) is on injured reserve. The severity of Scott's injury is unclear at the moment, but more updates should follow in the coming days.",
+  "player_id": 11299,
+  "player_name": "Zavier Scott",
+  "week": 8,
+  "team": "MIN",
+  "opp": "LAC",
+  "att": 2,
+  "tgt": 2,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 42
+}

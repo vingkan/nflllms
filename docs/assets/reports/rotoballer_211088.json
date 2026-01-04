@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211088",
+  "title": "Texans Sign Jawhar Jordan to Their Active Roster",
+  "description": "The Houston Texans signed second-year running back Jawhar Jordan from their practice squad to the active 53-man roster on Tuesday, according to Adam Schefter of ESPN. Jordan, a sixth-round selection in 2024 out of Louisville, made his NFL debut in Sunday's blowout win over the Arizona Cardinals after rookie Woody Marks left with an ankle injury. Veteran Nick Chubb (ribs) was inactive, so the Texans were down to Jordan and Dare Ogunbowale. Jordan ended up leading Houston with 15 carries for 101 yards (6.7 yards per tote) while catching both of his targets for 17 yards. He played seven more snaps than Ogunbowale and will likely operate as the Texans' lead back for a plus matchup in Week 16 against the Las Vegas Raiders if neither Marks nor Chubb is cleared to play. The 26-year-old deserves serious waiver-wire consideration this week.",
+  "player_id": 11588,
+  "player_name": "Jawhar Jordan",
+  "week": 16,
+  "team": "HOU",
+  "opp": "LV",
+  "att": 15,
+  "tgt": 5,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 53,
+  "receiving_catches": 5,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 26
+}

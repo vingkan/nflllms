@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207091",
+  "title": "Isaiah Davis a Low-End RB3/Flex Option in Tough Outing",
+  "description": "New York Jets running back Isaiah Davis put together his most productive performance of the season in Week 8's win over the Bengals, but could find it more difficult to churn out yardage when he takes on the Cleveland Browns this Sunday. Davis saw season-highs across the board in Week 8, piling up 65 yards on seven carries, and adding 44 more on 5-of-5 receiving. While it was an encouraging performance, Cleveland's defense is a much more formidable opponent. Furthermore, it's unclear if the South Dakota State product will retain the uptick in volume following the team's week off, considering he didn't see a correlative uptick in snap share. If Davis runs hard again, he may finally garner more solidified work in the backfield. Until then, he'll be a dodgy, low-floor play. Davis is RotoBaller's PPR RB36 ahead of Sunday's slate of action.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 53
+}

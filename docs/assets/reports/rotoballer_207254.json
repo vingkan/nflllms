@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207254",
+  "title": "Breece Hall Heavily Involved in Week 10 Win",
+  "description": "New York Jets running back Breece Hall was a huge factor during Sunday's game against the Cleveland Browns. He rushed the ball 21 times for 83 yards on the ground, but his biggest play came through the air. Hall took a screen pass for a 42-yard touchdown in the fourth quarter to help get his team the victory. This is now back-to-back strong fantasy performances from Hall who was sluggish there for a few games. The Jets are going to need him now more than ever with Garrett Wilson (knee) exiting this game. It's unclear if Wilson will be ready to go in time for the quick turnaround with a Thursday night matchup against the New England Patriots.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 11,
+  "team": "NYJ",
+  "opp": "NE",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 33
+}

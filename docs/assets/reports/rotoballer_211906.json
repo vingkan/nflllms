@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211906",
+  "title": "Malik Davis a Fantasy Fade on Christmas",
+  "description": "Dallas Cowboys running back Malik Davis won't be an optimal choice for fantasy when his team takes on the hosting Washington Commanders on Christmas Day. The fourth-year pro has seen a bit of extra work over the previous two weeks, notching eight carries in consecutive outings while getting a boost in playing time. In both appearances, Davis' extended play came while backfield mate Javonte Williams tended to injuries. With Williams presumably back to full health ahead of a road outing with the Commanders, considering he carries no designation, owners can look elsewhere for assistance in the fantasy playoffs. Even in an excellent matchup with the league's fourth-worst rush defense (141 yards per game), the 27-year-old is little more than a desperation flex play for fantasy. Davis lands as RotoBallers PPR RB57 for Week 17.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 17,
+  "team": "DAL",
+  "opp": "WAS",
+  "att": 20,
+  "tgt": 2,
+  "touches": 22,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 103,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 21
+}

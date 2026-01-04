@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209181",
+  "title": "David Montgomery Finds the End Zone in Week 13",
+  "description": "Detroit Lions running back David Montgomery broke his three-game touchdown-less streak in Week 13 against the Green Bay Packers, recording 48 scrimmage yards and a score on 10 touches. While finding the end zone is obviously a positive for Montgomery, his overall workload trends continue to be worrying for fantasy managers. The 28-year-old has now played 39% or fewer of his team's offensive snaps in four out of Detroit's last five games. If there's one positive for Montgomery going forward, the Lions will be getting former All-Pro center Frank Ragnow back from retirement in the coming weeks, which should greatly improve the struggling interior of their offensive line. Still, Montgomery appears entirely dependent on touchdowns for fantasy production, which will be difficult to predict every week. He faces a rapidly improving Dallas Cowboys defense in Week 14.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 14,
+  "team": "DET",
+  "opp": "DAL",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 60,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 19
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205737",
+  "title": "Jeremy McNichols An Option in Deep Leagues For Week 8 Against Chiefs",
+  "description": "Washington Commanders running back Jeremy McNichols has been an important player this season, playing a vital role in pass protection and as a receiving option out of the backfield. McNichols has played at least 25% of offensive snaps over the last five weeks. He had his highest combined yardage total since Week 3 in last week's game against the Dallas Cowboys, handling two carries for 22 yards and catching two of three targets for 23 yards. The 29-year-old has recorded seven targets over the last two weeks and has made big plays when his number has been called. His involvement in the passing game keeps him somewhat relevant in deeper leagues, but he hasn't had more than five touches in any game this season. McNichols will be a touchdown-dependent option in deeper PPR formats for Monday Night Football against the Chiefs.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 8,
+  "team": "WAS",
+  "opp": "KC",
+  "att": 1,
+  "tgt": 6,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 4,
+  "receiving_catches": 5,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 20
+}

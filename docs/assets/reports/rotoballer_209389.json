@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209389",
+  "title": "Bhayshul Tuten a Sneaky Flex Play in Week 13",
+  "description": "Jacksonville Jaguars running back Bhayshul Tuten has had mixed involvement in the Jaguars rushing attack, but this week against the 1-10 Titans seems like an ideal week to get him involved. In what should be a straight-forward win, the Jaguars have a chance to get their electric rookie more involved than usual. The game scrip should also favor the running game, and the Titans have a weak rushing defense. It is a risk to start Tuten considering he is coming off a rough seven carry for 17 yards performance against the Arizona Cardinals, but that involvement is still promising enough to have faith in a bounce-back week. Anyone looking for a high-risk high-reward flex in Week 13 should be intrigued by Tuten against the Titans.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 13,
+  "team": "JAX",
+  "opp": "TEN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 17,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 40
+}

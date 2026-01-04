@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210834",
+  "title": "Christian McCaffrey Expected to Play in Week 15",
+  "description": "San Francisco 49ers running back Christian McCaffrey (back) popped up on the injury report on Saturday due to a back issue. According to Adam Schefter, McCaffrey is expected to suit up for the Week 15 matchup against the Tennessee Titans. This issue doesn't appear to be severe enough to keep McCaffrey on the sideline. If he suffers a setback, Brian Robinson Jr. and Isaac Guerendo would likely split up a majority of the snaps in the backfield. Fantasy managers should expect McCaffrey out there on Sunday, but there probably won't be official word until closer to kickoff. The 49ers don't play until 4:25 pm ET, so his official announcement might not be made until sometime in the afternoon.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

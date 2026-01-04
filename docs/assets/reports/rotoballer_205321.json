@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205321",
+  "title": "Ray Davis Continues to See Minimal Usage in Buffalo",
+  "description": "Through his team's first six games this season, Buffalo Bills running back Ray Davis has seen minimal usage. Davis has recorded just 48 yards from scrimmage and a touchdown on 16 total touches. After averaging 7.6 touches per game as a rookie in 2024, Davis is averaging 2.7 touches per game so far in 2025. Bills RB1 James Cook is currently dominating the early-down work in Buffalo, with veteran back Ty Johnson playing a role on passing downs. That leaves Davis on the outside looking in, barring an injury. Davis maintains some fantasy value as the handcuff option to Cook. Still, his standalone appeal is nonexistent if his usage remains the same when Buffalo returns to the field after its Week 7 bye.",
+  "player_id": 11575,
+  "player_name": "Ray Davis",
+  "week": 8,
+  "team": "BUF",
+  "opp": "CAR",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 57
+}

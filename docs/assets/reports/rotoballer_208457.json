@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208457",
+  "title": "Alvin Kamara Officially Questionable to Play in Week 12",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is officially listed as questionable to play in his team's Week 12 matchup against the Atlanta Falcons, per Matthew Paras of The Times-Picayune. Kamara has been listed as a limited practice participant all week as he battles a nagging ankle injury that has plagued him for much of the 2025 season. The 30-year-old had an encouraging game in his final outing before the Saints' Week 11 bye, recording 115 scrimmage yards on 25 touches against the Carolina Panthers. If he's unable to play in Week 12, rookie Devin Neal and Audric Estime would likely handle the backfield work for New Orleans against Atlanta on Sunday. Should Kamara be active, he profiles as a high-end fantasy RB2 and could be in for another big week against the reeling Falcons.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 12,
+  "team": "NO",
+  "opp": "ATL",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 11,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

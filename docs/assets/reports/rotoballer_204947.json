@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204947",
+  "title": "Brashard Smith Could Continue Gadget Role In Week 7",
+  "description": "Kansas City Chiefs running back Brashard Smith will face the Las Vegas Raiders in Week 7. The rookie did not handle a single carry in the 30-17 victory over the Detroit Lions last week, but he did handle his normal allotment of receptions. Smith has three receptions in each of the last three games and he's averaging 8.9 yards per catch. The 22-year-old was a wide receiver at the University of Miami, but proved his ability to run between the tackles at SMU. That said, the Chiefs have not allowed him to handle many carries, likely due to his small stature. The smaller back is a speedster with 4.39 speed, and Kansas City is likely trying to maximize his efficiency by getting him in space. There is a chance that his role grows as the season goes on, but it's not likely to happen this week against the Raiders. The Raiders have been middle-of-the-pack against running backs, but with Kansas City being massive home favorites, Isiah Pacheco should be the favorite for more carries to run out the clock. Smith is ranked RB49 in our RotoBaller Half-PPR rankings, making him nothing more than a bench stash until he gets a larger workload.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 7,
+  "team": "KC",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 5,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 39,
+  "receiving_catches": 5,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 14
+}

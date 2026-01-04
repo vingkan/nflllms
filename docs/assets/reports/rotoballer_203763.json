@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203763",
+  "title": "Kimani Vidal Battling for Lead Rushing Role in Los Angeles?",
+  "description": "Los Angeles Chargers running back Kimani Vidal has been active for just two games this season and recorded his first five touches in Week 5 against the Washington Commanders, finishing with 19 yards from scrimmage. However, with Chargers RB1 Omarion Hampton (ankle) potentially facing missed time due to an ankle injury, Vidal could be battling with Hassan Haskins for the lead rushing role in Los Angeles. Both Haskins and Vidal played exactly 14 snaps in Week 5, with Haskins earning one more touch. That could suggest an equal split between the two backs going forward if Hampton does indeed miss game action. Still, Vidal is now worth rostering in fantasy leagues with 12 or more teams due to his potential to seize the RB1 role for the Chargers if Hampton is sidelined. Los Angeles has a very favorable matchup in Week 6 against the Miami Dolphins, who just allowed 239 rushing yards to the Carolina Panthers in Week 5.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 124,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207636",
+  "title": "TreVeyon Henderson Scores Hat Trick in Career-Best Outing",
+  "description": "New England Patriots running back TreVeyon Henderson capitalized on a favorable matchup against the New York Jets in Week 11, scoring three touchdowns as the Patriots became the first team in the NFL to reach nine wins this season. Henderson totaled 19 carries, 62 rushing yards, two rushing touchdowns, five catches, 31 receiving yards, and one receiving touchdown. While he remained relatively inefficient in terms of yards per carry, he dominated in nearly every other category. Henderson took advantage of an increased workload with Rhamondre Stevenson (toe) sidelined, handling a career-high 88 percent snap share and 24 total touches. Stevenson is getting closer to returning, but the rookie has proven that he deserves to be the lead back even when Stevenson is healthy. Henderson should continue to be viewed as a high-end RB2 in fantasy football.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 12,
+  "team": "NE",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 66,
+  "receiving_catches": 3,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203723",
+  "title": "Omarion Hampton Seen Wearing a Walking Boot After Week 5 Loss",
+  "description": "Los Angeles Chargers running back Omarion Hampton (left ankle) was seen wearing a walking boot following Sunday's Week 5 loss against the Washington Commanders. The rookie injured himself in the third quarter and was not able to return. He finished Week 5 with 12 carries for 44 rushing yards, as well as six catches for 26 receiving yards. The 22-year-old wasn't able to replicate his top-tier showings from the previous two weeks, but he still turned in a solid fantasy performance, largely thanks to his involvement in the passing game. Unfortunately, Hampton's status for Week 6 is already murky, and a walking boot typically isn't a good sign. Fantasy managers should monitor Hampton's practice participation throughout the week. If healthy, he'll rank as a low-end RB1 against the Miami Dolphins. If not, he'd be inactive while leaving Hassan Haskins and Kimani Vidal to split lead-back duties.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

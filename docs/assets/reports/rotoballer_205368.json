@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205368",
+  "title": "Sean Tucker Set for Bigger Role in Week 8, but Still Just a Deep-League Stash",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker is expected to see an uptick in opportunities in Week 8 with Bucky Irving (foot/shoulder) ruled out. Tampa Bay relied heavily on Rachaad White last week, giving him a massive 90% snap share, but that workload isn't sustainable long term and the team is likely to rotate in a second back more frequently. Tucker has been used sparingly this season with just 11 carries for 34 yards and one touchdown, but he is the clear favorite to slot into the No. 2 role behind White this week. Still, Tucker remains more of a watch-list name than a priority waiver pickup in fantasy leagues, as White continues to dominate both rushing and receiving work in Tampa Bay's offense. Managers in deeper formats may consider adding Tucker as a speculative bench stash.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 8,
+  "team": "TB",
+  "opp": "NO",
+  "att": 12,
+  "tgt": 0,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 42,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

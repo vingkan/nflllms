@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208538",
+  "title": "Terrell Jennings is Unlikely to Succeed in Week 12",
+  "description": "New England Patriots running back Terrell Jennings has been a non-factor in the offense in recent weeks. Jennings only saw four carries in Week 10 and didn't play any offensive snaps against the New York Jets last week. TreVeyon Henderson has been excellent over the last two games, so Jennings hasn't been needed in the rushing game. Fellow back Rhamondre Stevenson (toe) is currently questionable to suit up against the Cincinnati Bengals in Week 12. If he returns, Jennings is unlikely to touch the field at all. Regardless, Jennings is expected to have a minimal role in the offense going forward.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 12,
+  "team": "NE",
+  "opp": "CIN",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

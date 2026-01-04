@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206920",
+  "title": "Alvin Kamara Listed as Questionable for Week 10",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is officially listed as questionable headed into Sunday's matchup against the Carolina Panthers, according to Katherine Terrell of ESPN. Kamara was a limited participant in every day of practice this week, but he followed a similar pattern last week and was able to play in Week 9 against the Rams. The veteran back has been managing this ankle injury for five weeks now, but hasn't missed any games and should be ready to go in Week 10. However, the lingering ankle issue has likely contributed to his poor production this season, averaging a career-low 3.6 yards per carry and scoring only one touchdown. Some of that can be attributed to New Orleans' poor offensive environment, but it's been a disappointing year regardless for the 30-year-old. Kamara profiles as an RB3/flex option for Week 10 against the Panthers.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 10,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 83,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 17
+}

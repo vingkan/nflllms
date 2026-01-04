@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204826",
+  "title": "Josh Jacobs Listed as Questionable For Week 7",
+  "description": "Green Bay Packers running back Josh Jacobs (calf) is now listed as questionable for Week 7 against the Cardinals, according to Zach Kruse of the Packers Wire. Jacobs was previously listed on the injury report with an illness and had been limited, but now looks to be dealing with a calf injury despite being upgraded to a full practice on Friday. His status for Sunday is to be determined, but he should be all good to go for Sunday, barring something unforeseen. Jacobs has erupted over the last two weeks, totaling 307 yards and scoring four touchdowns. He's lined up to crush again in Week 7 against a Cardinals defense that is allowing the ninth most PPR points per game to opposing running backs.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 7,
+  "team": "GB",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 1,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

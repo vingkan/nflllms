@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203483",
+  "title": "Jacory Croskey-Merritt Has Flex Appeal in Week 5",
+  "description": "Washington Commanders running back Jacory Croskey-Merritt has weekly upside because he's been so efficient and dynamic on his touches, but the role is still murky as part of a three-man committee in the Washington backfield. Croskey-Merritt is tied with third-year back Chris Rodriguez Jr. in snap share over the past two weeks without Austin Ekeler, each playing 37.4% of the snaps and earning 18 touches apiece. Veteran back Jeremy McNichols has filled in primarily on late downs, playing 11 of 19 third and fourth-down plays over the past two weeks. Croskey-Merritt's role should continue to increase as he gets more experience. The rookie has been one of the most efficient runners in the league over his first month of NFL games. His 5.8 yards per carry ranks second best, while his 58.6% success rate is the best among all running backs. That may not continue in a tough Week 5 matchup against the Chargers, as they have been the stingiest defense against the run. They've allowed just 10.6 PPR points per game on the season. That leaves Croskey-Merritt as a low-end flex play in Week 5.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 5,
+  "team": "WAS",
+  "opp": "LAC",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 111,
+  "receiving_catches": 2,
+  "receiving_yards": 39,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 27,
+  "ppr_scoring_position_rank": 5
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203340",
+  "title": "Emari Demercado to Remain Cardinals' Third-Down Back?",
+  "description": "Arizona Cardinals running back Emari Demercado will \"be what he's always been, a third-down back,\" according to ESPN's Adam Schefter. The Cardinals have plenty of available playing time in their backfield after losing James Conner (ankle) for the season and Trey Benson (knee) for four to six weeks due to a meniscus injury. However, Schefter reports that it could be Cardinals running back Michael Carter, not Demercado, who sees the most backfield touches. Demercado has recorded 21 yards from scrimmage and a touchdown on six total touches so far in 2025. The 26-year-old has appeared in 31 career games for the Cardinals but has not logged more than four carries in a game since October 2023. Heading into a Week 5 matchup against the Tennessee Titans, Demercado looks like a low-end flex option in deep leagues at best.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 5,
+  "team": "ARI",
+  "opp": "TEN",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 81,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 36
+}

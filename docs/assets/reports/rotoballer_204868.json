@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204868",
+  "title": "De'Von Achane Keeps Rolling as a Top RB Option in Tough Matchup",
+  "description": "Miami Dolphins running back De'Von Achane has been one of the top running backs all season despite his team's offensive inconsistencies. Achane had his best game of the season last week, racking up 128 rushing yards, two rushing touchdowns, four catches, and 22 receiving yards in his team's narrow loss to the Chargers. He has six touchdowns in his six games this season, averaging 65 rushing yards and 32.5 passing yards per game. He's had a total of 10 catches in the last two weeks without Tyreek Hill (knee) available, and he should remain very involved and productive as both a rusher and receiver as the Dolphins go to Cleveland to take on the Browns. Even though the Browns have allowed the second-fewest fantasy points to running backs this season, Achane's volume and production are enough to still make him the RB6 in RotoBaller's Week 7 rankings.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 7,
+  "team": "MIA",
+  "opp": "CLE",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 82,
+  "receiving_catches": 3,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 15
+}

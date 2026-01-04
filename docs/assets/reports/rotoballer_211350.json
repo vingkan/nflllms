@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211350",
+  "title": "Improving Offense Gives Aaron Jones Sr. Potential In Week 16 Matchup",
+  "description": "As the Minnesota Vikings' offense has looked markedly improved during the past two weeks, an increased commitment to the running game offers great potential for running back Aaron Jones Sr. in Week 16 against the New York Giants. The Vikings ran the ball on nearly 57% of snaps the past two games, did damage with play-fakes, and saw quarterback J.J. McCarthy play his best football of the year. Jones has 15 touches in back-to-back weeks, which could mean good things against a Giants defense that ranks dead last in yards per carry allowed. Additionally, New York ranks a lowly 30th against half-PPR running backs and has allowed the fifth-most rushing touchdowns, presenting a terrific matchup at a great time for managers who roster the veteran running back. Jones can be considered a solid RB2 with the potential for more in Week 16.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 16,
+  "team": "MIN",
+  "opp": "NYG",
+  "att": 21,
+  "tgt": 3,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 85,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 28
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204173",
+  "title": "Ollie Gordon II Playing a Limited Change-of-Pace Role in Miami",
+  "description": "Miami Dolphins running back Ollie Gordon II has played about 25% of snaps in four of his five games, usually logging about 15 snaps per game. He had a season-high nine carries in Week 3 against the Bills, when he scored his only touchdown of the year as well. The last two weeks, though, he hasn't been able to move into a larger role. Last week against the Panthers, he only managed -2 yards on three carries against the Panthers. The rookie does have some potential, but De'Von Achane is dominating the workload and production in the Dolphins' backfield for now. He will likely get some work against the Chargers in Week 6, but as the RB50 in RotoBaller's rankings, he's not a strong play in most leagues since his role has been so limited.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 6,
+  "team": "MIA",
+  "opp": "LAC",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 1,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 62
+}

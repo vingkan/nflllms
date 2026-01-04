@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204134",
+  "title": "Kimani Vidal to Share Backfield in Favorable Matchup",
+  "description": "Los Angeles Chargers running back Kimani Vidal enters Week 6 against the Miami Dolphins, sharing the backfield with Hassan Haskins after Omarion Hampton (ankle) was placed on IR this week. Vidal looked like the more explosive option last week, averaging 4.5 yards per carry on four rushes and splitting targets with Haskins. Facing the Miami Dolphins, who rank dead last in average rushing yards allowed, presents a significant opportunity for the backfield. However, OC Greg Roman confirmed a committee approach that limits Vidal's volume. Although he's capable in the passing game, don't assume Vidal is set to handle most pass-catching downs, as he only posted 18 receptions in his final year at Troy. RotoBaller ranks him as RB33. He could be more of a touchdown-dependent high-end RB3/FLEX option this week, and managers should monitor his usage throughout the game.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 124,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

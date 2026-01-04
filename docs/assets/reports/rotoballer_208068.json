@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208068",
+  "title": "Jaylen Warren Says He Could Have Returned from Ankle Injury in Week 11",
+  "description": "Pittsburgh Steelers running back Jaylen Warren (ankle) was forced to exit early from his team's 34-12 Week 11 win over the Cincinnati Bengals due to an ankle injury. However, Warren said after the game that he \"could have (played), but (not returning) was part of being smart,\" per Chris Adamski of the Pittsburgh Tribune-Review. Warren's status for Week 12 against the Chicago Bears is unclear, but it seems he may have avoided a serious injury. Before leaving the game, Warren recorded 67 scrimmage yards on 12 touches. Steelers running back Kenneth Gainwell took advantage of the additional playing time in Warren's absence, hauling in seven receptions for 81 yards and two touchdowns to go along with 24 rushing yards on nine carries. The Steelers' running back situation will be one for fantasy managers to closely monitor this week. If Warren is unable to go, Gainwell could be a must-start fantasy running back in Week 12 against Chicago.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 18,
+  "tgt": 0,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 68,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 18
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210806",
+  "title": "RJ Harvey Gaining Momentum but has Difficult Matchup in Week 15",
+  "description": "Denver Broncos running back RJ Harvey will be the workhorse back once again as they face the Green Bay Packers at home in Week 15. Although the Packers rank eighth-best in rushing yards allowed per game, averaging 101.8, Harvey is coming off his best game of the rookie season with 23 touches for 100 total yards and a touchdown. Having six targets in the last game as a frequent checkdown option also pads his floor and shows Harvey's versatility in the offense as a key piece of head coach Sean Payton's game plan. The Packers will be a good test for Harvey as he's rounding out his rookie regular season, alluding to RotoBaller ranking him as the RB19 overall for Week 15.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 15,
+  "team": "DEN",
+  "opp": "GB",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 65,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 27
+}

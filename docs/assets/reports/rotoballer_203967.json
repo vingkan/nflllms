@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203967",
+  "title": "Alvin Kamara Injures Ankle in Practice Wednesday",
+  "description": "New Orleans Saints running back Alvin Kamara injured his ankle during Wednesday's practice, according to Luke Johnson of the New Orleans Times. Head coach Kellen Moore said that the injury to Kamara is not a concern, for what it's worth. The veteran's back will be listed as day-to-day this week, and fantasy managers will want to pay attention to Thursday's injury report to confirm that he will be all good to go for Week 6. Kamara played a season low 53% of the snaps in Week 6 with the emergence of third-year back Kendre Miller. There's a possibility that the New Orleans backfield could be closer to a 50/50 split moving forward. Kamara will rank on the RB2/RB3 line if he can suit up on Sunday. UPDATE: Kamara was officially limited in Wednesday's practice.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 31,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 14
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210903",
+  "title": "Bam Knight Ruled Out on Sunday With Ankle Injury",
+  "description": "According to Darren Urban of AZCardinals.com, Arizona Cardinals running back Bam Knight (ankle) will not return to the Week 15 road outing against the Houston Texans due to an ankle injury. Knight was initially deemed questionable to re-enter the game after he was carted off early on with an ankle injury. However, he'll now miss the remainder of the contest after recording a loss of two yards on his lone carry. Backfield mate Michael Carter has taken over lead rushing duties in the 24-year-old's stead, and he figures to get the bulk of the work this afternoon, considering teammate Emari Demercado entered the game with an ankle issue of his own. Depending on the severity of Knight's ailment, Carter could be a hot waiver add over the week ahead.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 16,
+  "team": "ARI",
+  "opp": "ATL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

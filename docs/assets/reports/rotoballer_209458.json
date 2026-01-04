@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209458",
+  "title": "Rhamondre Stevenson Stuck in Depth Role Despite Juicy Matchup",
+  "description": "New England Patriots running back Rhamondre Stevenson has a favorable matchup against the New York Giants on Monday Night Football in Week 13, but he's not a dependable fantasy starter as long as TreVeyon Henderson remains healthy. Stevenson returned from a three-week injury absence last Sunday and found himself relegated to the backup role; he played just 31% of the offensive snaps and logged a measly 10 scrimmage yards on seven touches. Henderson was far more productive and efficient on his 65% snap share and 21 touches. The rookie has officially taken over as the primary ball carrier in New England, leaving Stevenson stuck in a depth role. If he were more efficient, Stevenson would be a candidate to carve out standalone value in games with favorable matchups. However, he has just 3.19 yards per carry this year, including just 1.95 yards per carry over his last two games. With a small workload, Stevenson's inefficiency makes it nearly impossible for him to carve out any sort of production or fantasy value. The Giants have allowed the second-most fantasy points to running backs in 2025, but he ranks as the RB44 in RotoBaller's Week 13 rankings and can be benched in most leagues.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 13,
+  "team": "NE",
+  "opp": "NYG",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 40,
+  "receiving_catches": 3,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 31
+}

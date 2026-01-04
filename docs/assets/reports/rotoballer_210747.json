@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210747",
+  "title": "Keaton Mitchell a Risky Flex Play in Week 15",
+  "description": "Baltimore Ravens running back Keaton Mitchell briefly popped up on the injury report after registering a limited practice on Wednesday due to knee issues. Since then, he's been a full participant and was cleared from the injury report. Despite seeing 15% or less of the snap share in the last two weeks, Mitchell has finished as a high-end RB3 in half-PPR leagues. The last time against the Cincinnati Bengals in Week 13, Mitchell found the end zone with two carries for 19 yards and two receptions for 12 yards. While he could have a similar game against the 32nd ranked defense against opposing backfields, he's a very risky flex play. He's currently projected as the RB55 in RotoBaller's rankings.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 15,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 66,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 42
+}

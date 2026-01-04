@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201902",
+  "title": "Josh Jacobs Limited in First Practice of the Week",
+  "description": "Green Bay Packers running back Josh Jacobs (ankle) is dealing with an ankle injury and was listed as a limited participant on the first injury report of Week 3 on Wednesday. It's probably just a bit of rest for the veteran RB early in the week, but it's something worth watching the next few days for fantasy managers. The 27-year-old has been Green Bay's workhorse back through two weeks, as expected, handling 42 carries for 150 yards (3.6 yards per carry) and two touchdowns on the ground, adding one catch for four yards. The Packers will have more than a week of rest going into a Week 3 tilt against the Cleveland Browns, so we'd expect Jacobs to return to practice later this week and play on Sunday. Jacobs should be considered a must-start RB in fantasy if he's active. If he's out or limited, both Chris Brooks and Emanuel Wilson would likely share backfield touches.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 3,
+  "team": "GB",
+  "opp": "CLE",
+  "att": 16,
+  "tgt": 9,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 30,
+  "receiving_catches": 5,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 19
+}

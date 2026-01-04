@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206150",
+  "title": "Woody Marks Pops Up on Injury Report With Calf Injury",
+  "description": "Houston Texans rookie running back Woody Marks (calf) popped up on the Week 9 injury report on Thursday and was listed as a limited practice participant. Mid-week additions to the injury report are usually not a good sign, but we should have a better idea of Marks' status for Week 9 against the Denver Broncos on Sunday after the Texans release their final injury report for the week on Friday. The 24-year-old has become a bigger part of the team's offense in recent weeks, especially in the passing game, making him an RB3/flex consideration in PPR formats. However, he's now looking questionable to play this weekend after popping up on the injury report with his calf injury. If Marks cannot play on Sunday, or if he's limited, it would mean more work for veteran Nick Chubb out of the backfield. Dare Ogunbowale would be in line for RB2 duties as well.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 9,
+  "team": "HOU",
+  "opp": "DEN",
+  "att": 10,
+  "tgt": 3,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 27,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 47
+}

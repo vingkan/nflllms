@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210715",
+  "title": "Kyren Williams Maintains High Efficiency in Reduced Role",
+  "description": "Los Angeles Rams running back Kyren Williams continues to handle a reduced role as the team looks to keep him fresh heading into the 2025 NFL playoffs. While Williams is now averaging 14.0 touches per game over the last five weeks (compared to 21.9 touches per game last season), he has been able to stay on the fantasy radar as a low-end RB1 thanks to his yardage and touchdown efficiency. He averaged 6.5 yards per carry on the ground last week, and he's averaging 5.7 yards per carry over his last five games combined. He also has five touchdowns during those five games, including a trip to the end zone in back-to-back contests. Williams ranks as the overall RB9 in PPR leagues this year while starting to co-exist with Blake Corum, who has taken on a much larger role lately. He has also proven to be matchup-proof, which means managers shouldn't be too concerned about this week's game against the Lions, who have allowed the second-fewest fantasy points to opposing running backs. Even with Corum making an impact and a tough Lions run defense on tap, we expect Williams to remain a very strong running back option ahead of the fantasy playoffs in most leagues. He ranks as the overall RB12 in the latest RotoBaller fantasy rankings for Week 15.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 15,
+  "team": "LAR",
+  "opp": "DET",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 78,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 8
+}

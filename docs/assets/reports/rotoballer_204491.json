@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204491",
+  "title": "Jaydon Blue Makes No Impact in Week 6",
+  "description": "Dallas Cowboys running back Jaydon Blue saw a decrease in workload on Sunday during his team's 30-27 loss to the Carolina Panthers. The rookie was expected to see an increase in playing time in Week 6, but Dallas' ground game was relatively ineffective against Carolina's defense, prompting the team to air it out more. With backfield mate Miles Sanders (knee, ankle) set to miss the remainder of the season, Blue's role should grow as he becomes more comfortable on an NFL field. However, he doesn't figure to have much standalone value with Javonte Williams dominating touches and looking effective. For now, fantasy managers can consider the former Texas Longhorn a solid handcuff, but not a startable option with Williams in front of him.",
+  "player_id": 12457,
+  "player_name": "Jaydon Blue",
+  "week": 7,
+  "team": "DAL",
+  "opp": "WAS",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 29,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 42
+}

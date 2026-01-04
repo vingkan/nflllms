@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203510",
+  "title": "Ashton Jeanty Emerging as Raiders' Offensive Focal Point",
+  "description": "Las Vegas Raiders running back Ashton Jeanty erupted in Week 4 against the Bears, racking up 155 total yards and three touchdowns in a true breakout performance. Remarkably, that single-game yardage output surpassed his combined production from the first three weeks, signaling a potential turning point for the rookie back. With quarterback Geno Smith struggling to protect the football, the Raiders are expected to emphasize Jeanty in both the ground game and short passing attack heading into a Week 5 matchup with the Colts. Indianapolis boasts the ninth-ranked run defense and a disruptive unit that sits fourth in the league in turnover percentage, but Jeanty's dual-threat skill set gives him a reliable path to volume and scoring opportunities. Fantasy managers should view Jeanty as a strong RB1 moving forward, with a chance to become the centerpiece of the Raiders' offense.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 5,
+  "team": "LV",
+  "opp": "IND",
+  "att": 14,
+  "tgt": 7,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 67,
+  "receiving_catches": 5,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

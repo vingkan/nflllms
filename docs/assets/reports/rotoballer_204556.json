@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204556",
+  "title": "Tyler Allgeier Scores Again, but Can his Pace be Sustained?",
+  "description": "Atlanta Falcons running back Tyler Allgeier broke off a 21-yard touchdown run early in the first quarter of Monday's 24-14 win over the Bills, his third touchdown of the season. Outside of that electric play, the 25-year-old managed only 11 yards on nine carries (1.2 yards per rush), and he added one catch for six yards. The fourth-year pro has scored in three of the Falcons' five games, and even has more rushing scores on the ground than Bijan Robinson does. Even so, it would be surprising to see him keep up this pace over the remainder of the season, having a previous career high of four rushing scores, and with him typically playing around 30 percent of the team's offensive snaps compared to Robinson's 70 percent or more. Still, for now, the BYU product has some Flex appeal in this offense, just know that he put up less than two points in half-point PPR formats in the two weeks he didn't find the end zone, so there is a very low floor here, too. The Falcons will take on San Francisco in Week 7, a defense that has allowed the 21st-most fantasy points to opposing RBs.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 7,
+  "team": "ATL",
+  "opp": "SF",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 62
+}

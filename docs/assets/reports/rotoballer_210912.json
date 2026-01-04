@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210912",
+  "title": "Devin Neal Exits with Hamstring Issue",
+  "description": "Per the team, New Orleans Saints running back Devin Neal (hamstring) is questionable to return for Sunday's home game against their division rival, the Carolina Panthers. The Kansas native picked up his third straight start in Week 15 with backfield mate Alvin Kamara (knee, ankle) sidelined again. However, he'd exit the contest in the first half after picking up 32 total yards and a touchdown on his eight opportunities (one reception). For the time being, teammates Audric Estime and Evan Hull will divvy up the share of backfield touches in his stead. Hull has more total work on the campaign, although Estime has out-carried the former in each of their previous two outings.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 16,
+  "team": "NO",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

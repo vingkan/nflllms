@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209731",
+  "title": "Devin Singletary Ticketed for RB1 Workload in New York?",
+  "description": "New York Giants running back Devin Singletary started the season as the RB3 in New York behind Cam Skattebo (ankle) and Tyrone Tracy Jr. (hip). However, Skattebo is on Injured Reserve with an ankle injury, and Tracy Jr. suffered a hip injury in the Giants' Week 13 loss to the New England Patriots. While Tracy Jr. said he merely suffered a hip contusion and should be good to go following New York's Week 14 bye, the 2-11 Giants could still choose to shift more work towards Singletary going forward. Even with Tracy Jr. healthy, Singletary has logged at least 14 touches in each of the team's last three games. The 28-year-old has also provided solid production in that span, recording 196 scrimmage yards and three touchdowns. As long as he continues to see a similar workload following the Giants' bye week, Singletary should provide flex-worthy production for fantasy managers down the stretch of the season.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 13,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

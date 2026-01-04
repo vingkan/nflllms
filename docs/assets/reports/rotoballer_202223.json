@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202223",
+  "title": "D'Andre Swift a High-Risk RB2 in Week 3",
+  "description": "Chicago Bears running back D'Andre Swift (hamstring) is questionable for Sunday's game against the Dallas Cowboys. Swift has been limited in practice all three days this week and enters Week 3 with the questionable tag. Swift is coming off a mixed outing against his former team, where he logged 12 carries for 63 yards and a touchdown, adding three catches for six yards in the Bears' blowout loss to the Lions. While the production was solid against a tough Detroit run defense, Swift's costly fumble and the emergence of rookie Kyle Monangai stood out. Swift played 56% of the snaps compared to Monangai's 42%, though that split may have been skewed by the game script once the contest got out of hand. Swift remains the Bears' lead back and draws a favorable matchup against the Dallas Cowboys, who allowed the third-most yards per carry in 2024 and have continued to struggle against the run in 2025. Assuming Swift is active, he has a clear path to finishing as a top-20 fantasy running back this week. If inactive, Monangai would take over the workload, with Roschon Johnson sliding into the backup role. Look for the Bears to activate a running back off the practice squad on Saturday, which would signal that Swift will be inactive.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 3,
+  "team": "CHI",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

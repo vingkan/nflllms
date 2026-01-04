@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209591",
+  "title": "Ravens Want to Increase Derrick Henry's Usage",
+  "description": "Baltimore Ravens running back Derrick Henry carried the ball only 10 times in a primetime Thanksgiving loss to the Bengals. In a season that has not played out as most had prognosticated for the Ravens, this marked the fourth time that Henry was held to 12 carries or fewer. While it was the first such occurrence since a Week 4 loss to the Chiefs, head coach John Harbaugh stressed on Monday that he wants the Ravens to be a running team. With quarterback Lamar Jackson clearly hampered by a growing list of ailments, much of that identity will presumably fall on Henry's shoulders. Henry himself has also visibly lost a step from his fantasy MVP days, but he has still been a serviceable RB1 for most of the season, and if given a full workload, especially as temperatures drop and the frequency of on-field business decisions increases, he remains one of the safest plays in fantasy.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 14,
+  "team": "BAL",
+  "opp": "PIT",
+  "att": 25,
+  "tgt": 2,
+  "touches": 27,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 94,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 24
+}

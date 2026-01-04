@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209921",
+  "title": "Dylan Sampson Questionable to Play on Sunday",
+  "description": "The Cleveland Browns have listed rookie running back Dylan Sampson (calf) as questionable to play this Sunday against the Tennessee Titans in Week 14, according to Scott Petrak of Browns Zone. Sampson didn't practice on Wednesday or Thursday, but a return to the practice field on Friday gives him a chance of suiting up this weekend. The 21-year-old injured his calf in Sunday's loss to the San Francisco 49ers and never returned. If the first-round RB isn't cleared to face the Titans this Sunday, Jerome Ford would see more playing time as the backup to rookie Quinshon Judkins in a favorable matchup. Still, with Judkins seeing the majority of backfield work for the Browns, Ford wouldn't be expected to have enough volume to make him a realistic flex play in 12-team fantasy leagues. Sampson has averaged just 2.7 yards per carry in his first 12 NFL games, running for 112 yards and no TDs on 42 rushing attempts.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 14,
+  "team": "CLE",
+  "opp": "TEN",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 5,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 26
+}

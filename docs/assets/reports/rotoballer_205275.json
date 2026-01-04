@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205275",
+  "title": "Isaiah Davis has Only Four Touches in Ugly Loss to Panthers",
+  "description": "New York Jets running back Isaiah Davis is the clear RB2 behind starter Breece Hall, with Braelon Allen (knee) injured, but he wasn't able to get anything going on just four touches in Sunday's ugly 13-6 loss to the visiting Carolina Panthers in Week 7. Davis had only two rushing attempts for 10 yards and caught two of his four targets for 22 yards on a day when starting quarterback Justin Fields was benched in favor of veteran Tyrod Taylor in the second half. The 23-year-old is the fantasy handcuff to Hall as long as Allen remains out, but Davis has seen more than two carries in a game just once this year and has yet to rush for over 18 yards in a bad Jets offense. Davis is averaging 4.4 yards per carry on his 10 rushing attempts through seven games. Perhaps the Jets' offense can improve if Fields is benched permanently, but Davis won't have any standalone fantasy value behind Hall. Davis is rostered in only 4% of Yahoo leagues.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 8,
+  "team": "NYJ",
+  "opp": "CIN",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 5,
+  "receiving_yards": 44,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 11
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204632",
+  "title": "Kenneth Walker III, Zach Charbonnet to Continue Splitting Backfield Work",
+  "description": "The Seattle Seahawks believe running backs Kenneth Walker III and Zach Charbonnet \"complement each other well\" and will \"continue to vary their usage according to their weekly game plan and opponent,\" according to ESPN's Dan Graziano. Through six weeks, Walker III has recorded 425 scrimmage yards and three touchdowns on 86 total touches, while Charbonnet has logged 186 scrimmage yards and three touchdowns on 64 total touches. As long as both backs are healthy, it appears it will remain difficult for fantasy managers to fully trust either one for high-end fantasy production. In Week 7 against the Houston Texans, Walker III profiles as a low-end RB2 while Charbonnet profiles as a low-end flex option.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 7,
+  "team": "SEA",
+  "opp": "HOU",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 8
+}

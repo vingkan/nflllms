@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207801",
+  "title": "Chuba Hubbard Firmly Entrenched in Backup Role",
+  "description": "Carolina Panthers running back Chuba Hubbard has become firmly entrenched in the backup role following Rico Dowdle's early-season breakout. Hubbard missed Weeks 5 and 6 due to injury, leaving Dowdle with the perfect opportunity to break out. The veteran capitalized on the opportunity, seized the lead-back role, and never looked back. As a result, Hubbard's role declined when he returned from injury, and his involvement took another step back two weeks ago. He has played fewer than 23 percent of the offensive snaps in each of his last two games, totaling just eight carries and one reception during that span. Despite signing an extension last winter, Hubbard is now a mere handcuff option behind Dowdle, a potential league-winner.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 11,
+  "team": "CAR",
+  "opp": "ATL",
+  "att": 4,
+  "tgt": 3,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210529",
+  "title": "TreVeyon Henderson a Strong Play in Week 15 Despite Losing Volume",
+  "description": "New England Patriots rookie running back out of Ohio State, TreVeyon Henderson, has been seeing his workload decrease since the return of Rhamondre Stevenson from injury. However, he is earning significantly more work than he was earlier in the year, when Stevenson was playing a majority of the snaps in the first eight weeks of the season. The backfield has appeared to turn into a true running back by committee, with both playing roughly 50 percent of the snaps in Week 13 (Stevenson 58% and Henderson 49%). Regardless, they play the Buffalo Bills in Week 15, who allow the sixth most points to the running back position in fantasy, and Henderson should be expected to see 10-15 total touches, making him a strong RB2 play for the week. On the season, Henderson has 625 rushing yards (4.84 YPC), 199 receiving yards on 38 targets (32 receptions), and six total touchdowns (five on the ground and one through the air). He has been very explosive when given the opportunity, and when you combine the explosiveness with the good matchup, that makes him a solid play in Week 15.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 15,
+  "team": "NE",
+  "opp": "BUF",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 148,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 30,
+  "ppr_scoring_position_rank": 3
+}

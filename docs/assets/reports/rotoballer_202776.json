@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202776",
+  "title": "Nick Chubb Remains a Flex Play in Week 4",
+  "description": "Houston Texans running back Nick Chubb is set to make another start for the Texans in a favorable spot against the Titans this Sunday afternoon in Houston. Chubb has been the team's primary running back for the first three games of the season, and he should remain in a very involved role with Joe Mixon (foot, ankle) still without a clear timeframe for a return. Chubb had totaled 34 carries for 141 yards (4.1 yards per carry) and one touchdown and added five catches for 31 more yards. Chubb has played just over 50% of the team's snaps in each week, but his carries and rushing yards have trended down each week. He'll look to flip that script in this week's matchup against the Titans, who have allowed the third-most fantasy points to running backs in the NFL this season. Chubb is still just the RB26 in RotoBaller's Week 4 rankings, so he's not a starter in standard-sized leagues unless he's your best play at a flex spot. He will be a touchdown-dependent option as he tries to help the Texans' offense get rolling after their 0-3 start.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 4,
+  "team": "HOU",
+  "opp": "TEN",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 2,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 42
+}

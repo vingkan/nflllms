@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211769",
+  "title": "Jaylen Warren Will be Limited to Start the Week",
+  "description": "Pittsburgh Steelers running back Jaylen Warren (undisclosed) suffered an unspecified injury in the team's Week 16 win over the Lions, and head coach Mike Tomlin told reporters on Tuesday that he will be limited to begin the week in practice. Tomlin did note that he is optimistic about Warren's availability for Pittsburgh's Week 17 matchup with the Browns. Warren is coming off a career-high 143 rushing yards and an RB4 finish in Half-PPR formats, but fantasy managers will need to monitor the team's Wednesday injury report for additional information. Assuming a return to health, Warren should be viewed as a high-upside RB2/flex against a Cleveland defense that he collected 63 total yards against in a Week 6 victory.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 17,
+  "team": "PIT",
+  "opp": "CLE",
+  "att": 12,
+  "tgt": 0,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 64,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 37
+}

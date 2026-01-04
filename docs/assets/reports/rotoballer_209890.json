@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209890",
+  "title": "Travis Etienne Jr. Remains the Clear Lead Back in Jacksonville",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. has been one of the most consistently productive backs in the NFL so far this season, recording 1,016 scrimmage yards and seven touchdowns across 12 games. The 26-year-old has recorded at least 15 touches in 10 out of 12 contests and scored four touchdowns over the last four weeks. Jaguars rookie running back Bhayshul Tuten has played a role as the team's RB2 and looked like he might be pushing Etienne Jr. for playing time when he recorded 15 carries in Week 11 against the Los Angeles Chargers. However, in the two weeks since that game, Etienne Jr. has out-touched Tuten 31 to 16 and out-snapped him 71 to 31. Etienne Jr. appears to still have a firm grasp on the RB1 role in Jacksonville and profiles as a high-end fantasy RB2 heading into a Week 14 matchup against the Indianapolis Colts.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 14,
+  "team": "JAX",
+  "opp": "IND",
+  "att": 20,
+  "tgt": 1,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 74,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 5
+}

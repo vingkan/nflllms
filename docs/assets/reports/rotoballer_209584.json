@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209584",
+  "title": "Aaron Jones Sr. Not Dealing With Serious Shoulder Injury, Likely Day-to-Day",
+  "description": "The Minnesota Vikings do not think that running back Aaron Jones Sr. (shoulder) suffered a serious shoulder injury in Sunday's blowout loss to the Seattle Seahawks in Week 13, and he is likely to be considered day-to-day, according to Adam Schefter of ESPN. Jones injured his shoulder in the third quarter on Sunday and never returned in the 26-0 loss. Jordan Mason took over the bulk of the backfield duties the rest of the way, with Zavier Scott backing him up. The 30-year-old Jones finished with only six carries for three yards (and a lost fumble) while catching all four of his targets for 22 yards through the air. Jones' injury isn't serious, but fantasy managers will want to keep a close eye on his practice status this week as the team heads into a Week 14 clash against the Commanders. Even if Jones can play against Washington, he could cede more work to Mason in Minnesota's backfield if he's not 100%.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 76,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 35
+}

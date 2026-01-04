@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210537",
+  "title": "De'Von Achane Should Be Available Monday",
+  "description": "According to offensive coordinator Frank Smith, the Miami Dolphins expect running back De'Von Achane (ribs) to be ready for Monday night's matchup against the Pittsburgh Steelers. The former Texas A&M Aggie picked up a rib injury in Week 14's 34-10 win over their division-rival New York Jets, posting 105 scrimmage yards and a touchdown on just eight total touches. Achane would start the week with a limited practice on Thursday. However, he is expected to be a full go for his matchup on Monday Night Football, as head coach Mike McDaniel noted that the 24-year-old could have returned to last weekend's game if it were more competitive. Fantasy managers should continue to monitor Achane's status over the weekend, but he'll be an elite RB1 play in Week 15 if he's active.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 6,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

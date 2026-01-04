@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205036",
+  "title": "Will Woody Marks Take Over Houston's Backfield in Week 7?",
+  "description": "Houston Texans running back Woody Marks had a breakthrough game in Week 4, dominating the Titans for 69 rushing yards, 50 receiving yards, and a pair of touchdowns. He looked every bit the part of an every-down feature back, but then against the Ravens in Week 5, he only had 24 yards on seven carries and no catches, while Nick Chubb took back over the lead role. After the team's bye week, Marks has the potential to emerge as the top option this week against the Seahawks in Seattle for Monday Night Football's late game. He has shown a very high ceiling, but he remains a risky flex or RB3 option since his workload is uncertain from week to week. He's high-risk but also brings a very high ceiling as the RB33 in RotoBaller's Week 7 rankings.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 7,
+  "team": "HOU",
+  "opp": "SEA",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 15,
+  "receiving_catches": 3,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 16
+}

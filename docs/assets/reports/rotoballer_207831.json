@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207831",
+  "title": "Derrick Henry Projects as RB2 in Tough Week 11 Matchup",
+  "description": "Baltimore Ravens running back Derrick Henry has yet another tough matchup ahead of him in Week 11 after registering a low-end RB2 finish in Week 10 against the Minnesota Vikings. The veteran goes up against the Cleveland Browns for the second time this season after registering just two fantasy points in half-PPR leagues the first time these two met. Throughout the season, the Browns are the fourth-toughest defense against backfields and have only allowed three touchdowns on the ground all season. They give up just 16.79 fantasy points per game to the whole backfield. While Henry could always break off a big play, he's projected as a high-end RB2 this week.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 11,
+  "team": "BAL",
+  "opp": "CLE",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 103,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 8
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205476",
+  "title": "Josh Jacobs Remains Limited With Calf Injury",
+  "description": "Green Bay Packers running back Josh Jacobs (calf) was limited in practice for a second straight day this week on Thursday with a calf injury, according to Matt Schneidman of The Athletic. Jacobs popped up on Green Bay's injury report last week with an illness and a calf injury and was listed as questionable to play in Week 7 against the Arizona Cardinals. He ultimately suited up and scored two rushing touchdowns for the third straight week, but he also played a season-low 55% of the offensive snaps while running for 55 yards on a season-low 13 rushing attempts. It's possible that Jacobs could be questionable again heading into Sunday night's contest against the Pittsburgh Steelers in Week 8 if he doesn't upgrade to a full practice on Friday, but it feels likely that he'll end up playing this weekend, barring a setback. The Packers are most likely trying to keep Jacobs fresh for Sunday night's primetime game, where he'll be a must-start RB in fantasy if he's active.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 8,
+  "team": "GB",
+  "opp": "PIT",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

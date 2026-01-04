@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210827",
+  "title": "Ollie Gordon II Could Find Work Hard to Come by in Week 15",
+  "description": "Miami Dolphins running back Ollie Gordon II got into the end zone for his third touchdown of the season last week against the Jets, but this week, the Dolphins' backfield will be crowded, which could leave the rookie without much work. De'Von Achane (ribs) is expected to play despite an injury to his ribs suffered last week, and Jaylen Wright stepped in and went off in his place against New York. Gordon did have five carries for 17 yards with his touchdown, but only played 16 snaps, compared to Wright's 34. The two will share backup duties behind Achane, who has been sensational while carrying the load in Miami's backfield. Even while sharing backup duties with Wright, Gordon will have some touchdown-dependent upside, but his workload is too uncertain to make him a reliable play in Week 15 against the Steelers, leaving him as the RB59 in RotoBaller's rankings, well off the starting radar in all but the deepest of leagues.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

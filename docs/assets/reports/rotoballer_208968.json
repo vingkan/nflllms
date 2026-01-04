@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208968",
+  "title": "Saquon Barkley Limited With Groin Injury on Tuesday",
+  "description": "Philadelphia Eagles running back Saquon Barkley (groin) was limited in Tuesday's practice due to a groin injury, according to Ian Rapoport of NFL Network. Barkley originally tweaked his groin in Week 8 against the New York Giants, but he hasn't missed any time because of it. The Eagles are likely just managing the injury and being cautious on a short week with the team facing the Chicago Bears on Black Friday in Week 13. Barkley still has two more days to return to a full practice, so he could be removed from the final injury report by Thursday. The 28-year-old has disappointed in 2025 in comparison to his monster 2024 campaign. Barkley had only 10 carries for 22 yards in the Week 12 loss to the Dallas Cowboys after seeing 20-plus carries in each of the previous two games. He salvaged his fantasy line, though, with a season-high seven catches for 52 yards on eight targets. If Barkley were to miss Friday's game, Tank Bigsby would likely see most of Philly's backfield touches.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 13,
+  "team": "PHI",
+  "opp": "CHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 47
+}

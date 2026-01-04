@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203975",
+  "title": "Saquon Barkley is a Must-Start in Week 6",
+  "description": "Philadelphia Eagles running back Saquon Barkley tallied his lowest rushing yards count of the season against the Broncos, carrying the ball just six times for 30 yards. On the other hand, Barkley has the 10th-most receptions among RBs this year with 17, and added to that count by hauling in three catches for 58 yards and a touchdown versus Denver. In Week 6 he matches up with the Giants on Thursday Night Football, and New York allows the fifth-most fantasy points to RBs this season. When Barkley met the G-Men last year, he bulldozed them for 176 yards. Whether he has a good game running or a good game receiving, you can bet on #26 to have a good game. Barkley is a high-end RB1 against his division rival.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 6,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 23
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212056",
+  "title": "Emari Demercado is a Desperation Flex Option in Deep Leagues for Week 17",
+  "description": "Arizona Cardinals running back Emari Demercado has been gradually reacclimated to the Cardinals' rushing attack after recovering from an ankle injury. In his two games back, Demercado has had six carries for 31 rushing yards and two catches for zero receiving yards. The 26-year-old has been heavily outsnapped and out-touched by fellow running back Michael Carter since returning to action. Demercado and the Cardinals' offense will face a positive matchup against the Cincinnati Bengals in Week 17. The Bengals' defense has struggled to stop running backs on the ground and in the air this year. They have allowed the most fantasy points to running backs and have given up 25.9 fantasy points per game this season, according to Pro-Football-Reference. However, Demercado should be viewed as a deep league desperation option in Week 17 because he hasn't been a reliable fantasy option since his ankle injury.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 17,
+  "team": "ARI",
+  "opp": "CIN",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 11,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 46
+}

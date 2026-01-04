@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210844",
+  "title": "D'Andre Swift Remains Important Player in Bears Offense",
+  "description": "Chicago Bears running back D'Andre Swift is in the midst of his best season as a runner, averaging a career-high 69.8 rushing yards per game with six total touchdowns. Swift has been Chicago's lead back for most of the season, but has been splitting carries with rookie seventh-rounder Kyle Monangai in recent weeks. The 26-year-old back's workload has remained consistent, even as Monangai has earned more work with the Bears leaning more into the ground game, which has proven to be one of the best in the league this season. Swift has double-digit touches in all but one game this season, delivering solid value for fantasy managers with 14.4 PPR points per game. Swift can be viewed as a low-end RB2 in Week 15 in a tough matchup against the Cleveland Browns, who have allowed just 3.8 yards per carry, the second-best mark in the league.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 15,
+  "team": "CHI",
+  "opp": "CLE",
+  "att": 18,
+  "tgt": 1,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 98,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 7
+}

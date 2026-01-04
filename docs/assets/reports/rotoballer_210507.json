@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210507",
+  "title": "Christian McCaffrey Limited Thursday Due to Illness",
+  "description": "San Francisco 49ers running back Christian McCaffrey (illness) was a limited participant during practice on Thursday. This was an improvement in status for McCaffrey, who missed practice entirely on Wednesday. He's trending in the right direction to play against the Tennessee Titans in Week 15, but managers should check back on Friday for additional confirmation on his status. If he's able to practice in full, he could avoid any sort of injury designation heading into the weekend. However, if he remains limited, the 49ers may list him as questionable. With that being said, the fact that McCaffrey was able to get on the field in some capacity on Thursday bodes well for his Week 15 availability. If active, he'll rank as a high-end RB1 against the Titans, who have allowed the 10th-most fantasy points to running backs in 2025.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 22,
+  "tgt": 1,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

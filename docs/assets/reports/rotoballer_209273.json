@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209273",
+  "title": "Is Jeremy McNichols Deep-League Viable in Week 13 Against Broncos?",
+  "description": "Washington Commanders running back Jeremy McNichols has maintained his role as the team's primary back on pass downs for the majority of this season. McNichols has totaled 26 carries for 181 yards and a touchdown to go along with 15 receptions for 149 yards on 20 targets as a receiver. The veteran has two games with double-digit PPR points this season, with the first coming in Week 3 against the Las Vegas Raiders when he broke off a career-long 60-yard touchdown run, and the second in Week 8 versus the Kansas City Chiefs when he racked up five receptions for 64 yards. McNichols' season high for touches is only six as he remains behind Chris Rodriguez Jr. and Jacory Croskey-Merritt, so the weekly floor for fantasy is still low, keeping him relevant primarily in deeper leagues.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 13,
+  "team": "WAS",
+  "opp": "DEN",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 2,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 53
+}

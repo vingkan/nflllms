@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207339",
+  "title": "Terrell Jennings Listed as Limited on Monday",
+  "description": "New England Patriots running back Terrell Jennings (knee) was listed as a limited participant on the team's estimated practice report on Monday. Jennings was injured in Sunday's Week 10 win over the Tampa Bay Buccaneers and was unable to return, putting his status in jeopardy in a quick turnaround for a Thursday night game against the division-rival New York Jets in Week 11. Rookie TreVeyon Henderson also tweaked his knee on Sunday, but he was able to return and finish out a career day that included his first 100-yard rushing effort and two rushing touchdowns. Rhamondre Stevenson (toe) missed his second straight game, and it's unclear if he'll be ready for Thursday night after a limited estimation on Monday. Jennings' fantasy value this week will depend on whether he's able to play and whether Stevenson can return. If Stevenson and Jennings are out, D'Ernest Johnson could be elevated to the RB2 role behind Henderson.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

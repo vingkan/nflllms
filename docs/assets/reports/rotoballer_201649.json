@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201649",
+  "title": "Christian McCaffrey Catches Touchdown Pass from Backup QB in Week 2",
+  "description": "San Francisco 49ers running back Christian McCaffrey rushed for 55 yards on 13 carries during Sunday's Week 2 victory over the New Orleans Saints. He also caught six of seven targets for an additional 53 receiving yards and one receiving touchdown. Although the veteran playmaker didn't quite eclipse the 100-yard mark, he made up for it by scoring his first touchdown of the 2025 campaign. He also served as a very valuable and dependable pass-catching option for quarterback Mac Jones amidst the injury to Brock Purdy (shoulder). McCaffrey has wasted no time making a big impact in fantasy football, scoring at least 22.7 points (PPR) in each of his first two games this year. There's minimal competition for the 29-year-old in San Francisco, keeping him in the mid-range RB1 tier ahead of Week 3 versus the Arizona Cardinals.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 3,
+  "team": "SF",
+  "opp": "ARI",
+  "att": 17,
+  "tgt": 15,
+  "touches": 32,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 52,
+  "receiving_catches": 10,
+  "receiving_yards": 88,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 6
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204717",
+  "title": "Hassan Haskins' Role in Question",
+  "description": "Despite being named the team's starter leading up to their win against the Miami Dolphins last weekend, Los Angeles Chargers running back Hassan Haskins took a backseat to teammate Kimani Vidal. It was never assumed that the 25-year-old would absorb all of LA's backfield work in Omarion Hampton's (ankle) absence, but Vidal took the opportunity and ran with it. Haskins was out-touched 21-7, out-gained 139-23, and out-snapped 43-20. The Chargers could opt to even out the distribution of backfield touches moving forward. Still, Vidal has the hot hand currently, and figures to get another crack at running away with the starting job in Sunday's home outing with the Indianapolis Colts. Haskins can't be trusted for fantasy, but he's on the radar as the handcuff to own in Los Angeles for the time being.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 7,
+  "team": "LAC",
+  "opp": "IND",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 2,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 53
+}

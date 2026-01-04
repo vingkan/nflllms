@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208897",
+  "title": "Rico Dowdle Leads Panthers in Rushing and Receiving in Loss to 49ers",
+  "description": "Carolina Panthers running back Rico Dowdle recorded six carries for 38 yards to go along with four receptions (four targets) for 36 yards in Monday night's loss to the San Francisco 49ers. Dowdle was one of the few players who the Panthers could rely on to move the ball. The Panthers ran just 43 plays in the game, which limited their opportunities to get Dowdle a big workload. His 10 touches were his fewest in a game since their blowout loss to the Bills in Week 8, where he had only eight touches. The former Dallas Cowboy was still quite productive with his opportunities, leading the team in rushing and receiving yards. Backup Chuba Hubbard was also more involved than expected in this game, handling three carries for 15 yards and four catches for 27 yards. Dowdle has been more active as a receiver to offset some rushing inefficiencies lately, adding 12 receptions in the last three games, fifth most among running backs in that span. Dowdle has another tough matchup against an NFC West opponent in Week 13 against the Los Angeles Rams.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 13,
+  "team": "CAR",
+  "opp": "LAR",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 37
+}

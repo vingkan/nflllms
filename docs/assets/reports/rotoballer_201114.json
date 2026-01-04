@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201114",
+  "title": "Austin Ekeler Pops Up on Week 2 Injury Report",
+  "description": "Washington Commanders running back Austin Ekeler (shoulder) is on the initial injury report for Week 2 and was listed as limited on the team's estimated injury report for Monday. The Commanders conducted a walk-through practice. While Ekeler's status should be followed heading into Thurday night's tilt against the Green Bay Packers, he should be able to suit up in Week 2. The 30-year-old played on only 33 of the team's 70 offensive snaps in their Week 1 win over the New York Giants while carrying the ball six times for 26 yards and catching all three of his targets for 31 yards as a pass-catcher. Rookie Jacory Croskey-Merritt led the team's RBs with 10 carries and had a team-high 82 rushing yards and a touchdown. JCM already looks like the leader on early downs in Washington, leaving Ekeler as the Commanders' primary pass-catching back in a committee.",
+  "player_id": 4663,
+  "player_name": "Austin Ekeler",
+  "week": 2,
+  "team": "WAS",
+  "opp": "GB",
+  "att": 8,
+  "tgt": 4,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 2,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 49
+}

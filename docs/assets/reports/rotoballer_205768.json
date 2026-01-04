@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205768",
+  "title": "Breece Hall Active for Week 8 Against Bengals",
+  "description": "New York Jets running back Breece Hall (knee) is officially active for Sunday's Week 8 contest against the Cincinnati Bengals. He had been listed as questionable but was trending in the right direction after logging a full practice on Friday. The 24-year-old has carved out a decent season when you consider how poorly the rest of the offense has performed. He had 448 rushing yards and 164 receiving yards so far, ranking as the overall RB19 in PPR leagues. His ranking would be even higher if not for the fact that he hasn't scored a single touchdown in 2025. Hall's volume and pure talent keep him in the RB2 tier for Week 8 against Cincinnati, but the woes of the Jets' offense, led by Justin Fields, make it impossible to have full confidence in the Iowa State product.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 8,
+  "team": "NYJ",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 133,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 4
+}

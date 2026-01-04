@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211675",
+  "title": "Jaylen Wright Scores Late Touchdown",
+  "description": "Miami Dolphins running back Jaylen Wright scored his second touchdown of the season in the last five minutes of the team's 42-21 loss to the Bengals. After breaking out with a monster game in Week 14 against the Jets, he only had one carry and one target last week against the Steelers, but he was more involved on Sunday against Cincy. He finished with nine carries for 35 yards and one catch for 18 yards to go with his touchdown, while fellow backup Ollie Gordon II only had one carry for -1 yards. Wright seems to be the better option behind De'Von Achane at this point, but Achane will likely handle most of the work next week against the Bucs, with Wright mixing in a few times as a change-of-pace option.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 17,
+  "team": "MIA",
+  "opp": "TB",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 56,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 42
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205786",
+  "title": "Cam Skattebo Exits Week 8 Early Due to Serious Ankle Injury",
+  "description": "New York Giants rookie running back Cam Skattebo (ankle) suffered a serious-looking ankle injury during his team's Week 8 matchup against the Philadelphia Eagles. Skattebo had an air cast placed on his leg and was carted off the field. Assuming the rookie's day is done, he will finish Week 8 with 30 yards from scrimmage and a touchdown on four total touches. With Skattebo likely out for the remainder of Week 8 and possibly much longer, the Giants will turn to the combination of Tyrone Tracy Jr. and Devin Singletary in the backfield. Tracy Jr. recorded 1,123 yards from scrimmage and six touchdowns across 17 games in 2024, so he's capable of producing in a lead-back role.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205481",
+  "title": "Alvin Kamara Picks Up Another Limited Tag in Thursday's Practice",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) was limited on Thursday for the second straight day this week due to an ankle injury. Kamara has been dealing with an ankle injury for three weeks, but it hasn't kept him from playing in any games, and he should be fine to suit up for a divisional clash this Sunday versus the visiting Tampa Bay Buccaneers. Fantasy managers should be comforted by the fact that the 30-year-old veteran played a season-high 84% of the offensive snaps in last week's loss to the Chicago Bears after backup Kendre Miller (knee) suffered a season-ending torn ACL. The Bucs have been a top-10 matchup for opposing RBs this year in terms of half-PPR points allowed per week, but Kamara is also averaging a career-low 3.6 yards per carry in seven games for the 1-6 Saints. With six teams on bye in Week 8, Kamara is still more of a low-end RB2 for fantasy purposes with minimal upside.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 6,
+  "tgt": 2,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 33
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206795",
+  "title": "Emari Demercado Set to Lead Arizona Backfield in Week 10?",
+  "description": "Arizona Cardinals running back Emari Demercado had a strong performance in a 27-17 win over the Dallas Cowboys in Week 9, rushing for a team-high 79 yards on 14 carries. Demercado ran well against a poor Dallas run defense, and with uncertainty in regards to Trey Benson's (knee) return, the Cardinals could ride the hot hand with Demercado as the back to receive the most touches in their Week 10 matchup against the division-leading Seattle Seahawks. The Arizona backfield has been a messy one to figure out for fantasy managers, and it will likely stay that way for the foreseeable future. Seattle is a tough matchup, but Demercado has value as a flex play.",
+  "player_id": 11199,
+  "player_name": "Emari Demercado",
+  "week": 10,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 4,
+  "tgt": 4,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 64,
+  "receiving_catches": 3,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201842",
+  "title": "Joe Mixon Remains Without a Firm Injury Return Timeline",
+  "description": "The Houston Texans have been worringly vague when providing updates on the status of running back Joe Mixon (ankle, foot), who did not participate in any team offseason activities while recovering from an ankle/foot injury. Mixon was placed on the non-football injury list before the start of the regular season, meaning his earliest possible return date is Week 5 against the Baltimore Ravens. However, it appears as though Mixon will likely be out significantly longer and could even miss the entirety of 2025. The 29-year-old was a huge piece of Houston's offense in 2024, totaling 1,325 yards from scrimmage and 12 touchdowns in 14 games. In Mixon's absence so far, the Texans have turned to veteran running back Nick Chubb, who has 103 rushing yards and a touchdown on 25 carries through the team's first two games. Mixon may be worth stashing in an IR spot for fantasy managers, but the lack of updates from the team is a concerning sign.",
+  "player_id": 4018,
+  "player_name": "Joe Mixon",
+  "week": 3,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

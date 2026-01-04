@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204002",
+  "title": "Kendre Miller a Must-Add Amid Alvin Kamara Injury, Trade Rumors",
+  "description": "New Orleans Saints running back Kendre Miller should be rostered in all fantasy leagues heading into Week 6. The rookie has seen his workload steadily increase, logging back-to-back games with double-digit carries and totaling 119 yards and a touchdown over that span. Starting running back Alvin Kamara suffered an ankle injury during Wednesday's practice, putting his status for the Week 6 matchup against the New England Patriots in question. Even if Kamara suits up, his workload could be limited, giving Miller a strong chance to see meaningful touches once again. Beyond the short-term upside, Miller offers long-term appeal as well. Trade rumors have begun to swirl around Kamara, with reports suggesting the Saints could move him to a contending team before the deadline. If that happens, Miller would immediately step into a featured role. With both injury uncertainty and potential trade movement ahead, Miller should be added in all formats before his price skyrockets.",
+  "player_id": 9757,
+  "player_name": "Kendre Miller",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 47
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205532",
+  "title": "Tyler Allgeier Officially Questionable to Play in Week 8",
+  "description": "Atlanta Falcons running back Tyler Allgeier (hip, knee) is officially questionable to play in Week 8 against the Miami Dolphins, per Josh Kendall of The Athletic. Even while stuck behind star running back Bijan Robinson in Atlanta, Allgeier has been a productive player so far this season. Across six games, the 25-year-old has rushed for 203 yards and three touchdowns on 57 carries. If Allgeier cannot play in Week 8, Robinson could be in line for an absolutely monstrous game in a very favorable matchup against the Dolphins. Miami has allowed the most rushing yards (1,115) and third-most rushing touchdowns (nine) in the NFL. Should Allgeier be able to go, he profiles as a high-end flex option for fantasy managers in Week 8.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 8,
+  "team": "ATL",
+  "opp": "MIA",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 27
+}

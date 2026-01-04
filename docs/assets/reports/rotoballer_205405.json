@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205405",
+  "title": "Quality Matchup, But Possible Changes For Jordan Mason In Week 8",
+  "description": "Minnesota Vikings running back Jordan Mason has an enticing matchup, but might not have full control of the Vikings' backfield in a Thursday game at the Los Angeles Chargers. Backfield mate Aaron Jones (hamstring) is eligible to come off injured reserve as of this week, had his practice window opened, and is listed as questionable, which is a variable worth watching prior to the game. This week brings a good matchup for any Minnesota rusher as they take on a Chargers defense ranked 28th in yards per carry allowed, 31st in rushing touchdowns allowed, and 29th in expected points added from rushing defense. Mason has earned at least 15 touches in four games in a row, giving him a solid fantasy floor as a steady RB2 option. Ultimately, managers should check back in to see if Jones is active before making a final decision.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 8,
+  "team": "MIN",
+  "opp": "LAC",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 55
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209021",
+  "title": "Omarion Hampton to Share Backfield Touches Upon his Return?",
+  "description": "Los Angeles Chargers offensive coordinator Greg Roman hinted that rookie first-round running back Omarion Hampton (ankle) could split backfield touches with Kimani Vidal when he returns from Injured Reserve, according to Alex Insdorf. \"We'll play that one by ear. I feel really good about both of them. I'm sure you'll see some sort of 1-2 punch there,\" Roman said when asked about Hampton's snap numbers with Vidal also in the fold. The 22-year-old Hampton is hoping to come off IR to play in Week 13 against the division-rival Las Vegas Raiders, but nothing is official. If Hampton does return this Sunday, it sounds like he could see more of a timeshare in L.A.'s backfield, at least as the Bolts work him back into the fold for the first time since he injured his ankle in Week 5. Hampton will be a lot more volatile in fantasy football lineups if he's back on Sunday, even in a plus matchup, but eventually, he should regain lead-back duties for the Chargers by season's end.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

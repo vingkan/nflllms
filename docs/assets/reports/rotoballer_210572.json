@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210572",
+  "title": "Isiah Pacheco Earning More Touches Heading Into Week 15",
+  "description": "Kansas City Chiefs running back Isiah Pacheco handled nine carries for 30 yards in last week's 10-20 loss to the Houston Texans. In his second game back from injury, Pacheco's opportunities ticked up closer to Kareem Hunt, who handled 12 carries in the contest. Pacheco looked like the best back in the backfield before his knee injury, so the team may prefer to lean on him more as he gets healthier. Pacheco will have a chance to surpass Hunt this week against the Los Angeles Chargers. The Chargers defense has been middle-of-the-pack in fantasy points allowed to opposing running backs this season, meaning that it should not be a difficult matchup for Pacheco. That said, splitting carries with Hunt in a divisional matchup could be a difficult situation to succeed in. Pacheco is ranked RB48 in our RotoBaller Half-PPR rankings, making him a difficult player to trust until he shows more upside.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 15,
+  "team": "KC",
+  "opp": "LAC",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 21,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 64
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204133",
+  "title": "David Montgomery a Good Bet to Find the End Zone in Week 6?",
+  "description": "Detroit Lions running back David Montgomery logged a season-high 18 carries in Week 5 against the Cincinnati Bengals, finishing with 65 rushing yards and a touchdown. The 28-year-old also tossed the second touchdown pass of his career on a trick play. Heading into a Week 6 matchup against the Kansas City Chiefs, Montgomery should be expected to return to the 1B role in the Lions' backfield alongside Jahmyr Gibbs. Kansas City has been surprisingly subpar against the run so far this season, ranking 24th in rushing touchdowns allowed (six) and 26th in yards per carry allowed (4.8). Montgomery's limited touch ceiling while playing next to Gibbs makes him reliant on touchdowns for fantasy production, but he looks like a decent bet to find the end zone against the Chiefs. In Week 6, Montgomery profiles as a low-end fantasy RB2.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 6,
+  "team": "DET",
+  "opp": "KC",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 24,
+  "receiving_catches": 2,
+  "receiving_yards": 37,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 29
+}

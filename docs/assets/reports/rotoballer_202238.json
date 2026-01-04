@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202238",
+  "title": "D'Andre Swift is Expected to Play Sunday",
+  "description": "Chicago Bears running back D'Andre Swift (hamstring) is expected to play in Sunday's game against the Dallas Cowboys, according to ESPN's Jeremy Fowler. Swift was limited in practice all week and is officially listed as questionable. Through the first two games, Swift has carried 29 times for 116 yards and one touchdown, plus six catches for 18 yards in the passing game. He's now facing a Dallas defense that has been vulnerable to the run, allowing 4.1 yards per carry so far this season. The favorable matchup, along with his expected availability, makes Swift a solid RB2/Flex option for fantasy managers in Week 3.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 3,
+  "team": "CHI",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

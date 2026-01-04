@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210162",
+  "title": "Bhayshul Tuten Returns in Week 14 After Injury Scare",
+  "description": "Jacksonville Jaguars rookie running back Bhayshul Tuten (head) has been cleared to return to his team's Week 14 matchup against the Indianapolis Colts. Tuten briefly exited the game and was evaluated for a concussion, but evidently the rookie running back passed the necessary tests to return to the field. The Jaguars have split backfield playing time this season between Tuten, Travis Etienne Jr., and LeQuint Allen Jr., with Etienne Jr. serving as the team's feature back. Jacksonville may be cautious with Tuten's workload for the remainder of Week 14, but he has been cleared of a concussion.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 15,
+  "team": "JAX",
+  "opp": "NYJ",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 7,
+  "receiving_catches": 1,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 33
+}

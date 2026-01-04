@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209290",
+  "title": "Woody Marks a Strong Flex Option in Week 13",
+  "description": "Houston Texans running back Woody Marks will look to continue establishing himself as the team's top backfield option this week, as the Texans roll into Indianapolis to face the division-leading Colts. Marks has double-digit carries in six straight weeks since the team's bye week, and he had 74 yards on his 16 carries last week against the Bills, while playing 69% of the team's offensive snaps. He didn't get into the end zone in that matchup, but he has four touchdowns on the season to go with his 422 rushing yards and 185 receiving yards. He has taken on more work over the last few weeks while Nick Chubb's role has decreased. This week against the Colts, Marks is the RB24 in RotoBaller's rankings, making him a low-end RB2 or strong flex play in this road matchup.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 13,
+  "team": "HOU",
+  "opp": "IND",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 64,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 42
+}

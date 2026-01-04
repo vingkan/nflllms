@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_200664",
+  "title": "Saquon Barkley Scores Touchdown in Low-Yardage Outing",
+  "description": "Philadelphia Eagles running back Saquon Barkley carried the ball 18 times for 60 rushing yards and one rushing touchdown during Thursday's season opener against the Dallas Cowboys. He also caught four of his five targets for an additional 24 receiving yards. The superstar running back wasn't as efficient as expected, especially against a defense that just lost run-stopper Micah Parsons. However, Barkley's volume remained appealing as he amassed 23 touches with a healthy blend of carries and catches. Plus, he added a touchdown, showcasing an ability to score that we've become quite familiar with. The veteran remains a mid-range RB1 option heading into a Super Bowl rematch against the Kansas City Chiefs.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 2,
+  "team": "PHI",
+  "opp": "KC",
+  "att": 22,
+  "tgt": 2,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 88,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

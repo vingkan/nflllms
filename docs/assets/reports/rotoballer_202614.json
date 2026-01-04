@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202614",
+  "title": "D'Andre Swift Limited Again on Thursday",
+  "description": "Chicago Bears running back D'Andre Swift (hip) was listed as a limited participant in Thursday's practice for the second straight day this week with a hip injury. Swift will probably be able to play in Week 4 against the Las Vegas Raiders on Sunday, but he might need a full practice on Friday to avoid going into the weekend with a questionable status. The 26-year-old is Chicago's clear RB1 through three weeks and is averaging 17 touches per game. Through the first three weeks of 2025, Swift has 42 rushing attempts for 149 yards (career-low 3.5 yards per carry) and one touchdown, adding nine receptions for 63 yards on 12 targets. The Raiders have been decent against opposing RBs so far this year, but Swift's volume alone puts him at least in the RB3/flex mix this weekend if he's active. If he does not play, the Bears would split backfield work among rookie Kyle Monangai and Roschon Johnson.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 4,
+  "team": "CHI",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 20
+}

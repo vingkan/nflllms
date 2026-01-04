@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207768",
+  "title": "Saquon Barkley Has Challenging Matchup Against Lions",
+  "description": "Philadelphia Eagles running back Saquon Barkley has gone without a rushing touchdown in four of his last five games after Monday's 10-7 victory over the Packers. For a low-scoring game, however, Barkley did manage a decent fantasy outing with three catches for 41 yards and matched his season-high carry count with 22. On Sunday, he is faced with a Lions defense that allows the second-least amount of fantasy points to RBs this season, giving up just seven scores on the ground through nine games. In a game where the Eagles may need to play catch-up against a powerful Detroit offense, Barkley could also be in for less attempts if Philly has to rely on the passing game. While it's an uphill battle, he is the type of player that can dominate a game in any given week. Start Barkley as a solid RB1, but temper expectations ever so slightly.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 11,
+  "team": "PHI",
+  "opp": "DET",
+  "att": 26,
+  "tgt": 2,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 27
+}

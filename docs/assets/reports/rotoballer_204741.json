@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204741",
+  "title": "Commanders Still Confident in Jacory Croskey-Merritt Despite Fumbling Issues",
+  "description": "Washington Commanders offensive coordinator Kliff Kingsbury said that the team is \"still confident\" in rookie running back Jacory Croskey-Merritt despite his ball-security issues, according to Tashan Reed of The Washington Post. Croskey-Merritt was unable to keep the momentum he had coming out of a breakout game in the Week 5 win over the Los Angeles Chargers, as he had 61 rushing yards on 17 carries and caught one pass for seven yards in the Monday night loss to the Chicago Bears. The 24-year-old also had a crucial fumble early in the game that led to a Bears touchdown. With Austin Ekeler (Achilles) out for the season, JCM isn't going anywhere in Washington's backfield and is clearly a better lead-back option than both Chris Rodriguez Jr. and Jeremy McNichols. Croskey-Merritt should maintain heavy volume in a plus matchup in Week 7 and is ripe for a bounce-back performance against the division-rival Dallas Cowboys.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 7,
+  "team": "WAS",
+  "opp": "DAL",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 33,
+  "receiving_catches": 1,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

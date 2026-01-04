@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209168",
+  "title": "What Will Sean Tucker's Role be Moving Forward?",
+  "description": "With the Tampa Bay Buccaneers getting healthy at the running back position, specifically Bucky Irving (foot, shoulder) appearing to be suiting up in Week 13 against the Arizona Cardinals, Sean Tucker's value is heading in the wrong direction after his Week 11 explosion in Buffalo, where he scored 33 fantasy points (half PPR) with 106 rushing yards, 34 receivng yards, and three touchdowns. While he figures to get still a few carries with Irving back in the lineup, Rachaad White still figures to mix in as well, making this a three-headed backfield that could get a bit messy, specifically for White and Tucker. Irving is the clear top back, as he was a second-round pick in most fantasy drafts in August, and if he's fully healthy, he will get a majority of the snaps. Something to note, offensive coordinator Josh Grizzard did speak on behalf of Irving's expected volume earlier in the week, saying it will be similar to how the team handled wide receiver Chris Godwin in his return against the Rams last week, where Godwin played 36% of the snaps. Regardless, even at a 35-40% snap share for Irving, it still trickles into Tucker's playing time, diminishing his fantasy value. Because of Tucker's recent success, he is still worth a bench spot while Irving gets ramped up, but if we see Irving take over the backfield in Week 13 or 14, Tucker can be dropped to waivers.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 13,
+  "team": "TB",
+  "opp": "ARI",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

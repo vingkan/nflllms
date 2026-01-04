@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212039",
+  "title": "Kenneth Gainwell Draws Favorable Matchup Against Browns",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell is the fantasy RB21 on the season and carries plenty of value in PPR formats against the Cleveland Browns in Week 17. Although Gainwell is not listed on the team's injury report, the status of all of Pittsburgh's starters needs to be monitored up until game time. If the Baltimore Ravens lose to the Green Bay Packers on Saturday, the Steelers will clinch the AFC North title and could choose to rest some players on Sunday. Assuming Gainwell plays, however, he is set up for success against a Cleveland defense that has surrendered the second-most fantasy points to opposing backs over the past eight weeks. With DK Metcalf suspended, Gainwell's involvement as a pass-catcher could increase. That said, fantasy managers can continue to rely on Gainwell as an RB2 or flex option if he is expected to play a full allotment of snaps.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 17,
+  "team": "PIT",
+  "opp": "CLE",
+  "att": 7,
+  "tgt": 4,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 26,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 34
+}

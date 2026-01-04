@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209271",
+  "title": "Rachaad White Likely to Have Reduced Role in Week 13",
+  "description": "Tampa Bay Buccaneers running back Rachaad White has seen an increased role in the rushing game with Bucky Irving (shoulder, foot) sidelined for the last seven games. Now, Irving is back and ready to suit up for the Week 13 matchup against the Arizona Cardinals. The Bucs will likely ease him back into the mix, but this won't be a favorable situation for fantasy managers. The expectation is that Sean Tucker will stay involved as well, so this should be a three-back committee. White will probably be at the bottom of that committee, so he won't be an ideal fantasy option for Week 13. At best, White is a low-end flex option for the upcoming matchup against the Cardinals.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 13,
+  "team": "TB",
+  "opp": "ARI",
+  "att": 2,
+  "tgt": 3,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 7,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 45
+}

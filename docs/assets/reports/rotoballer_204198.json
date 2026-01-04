@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204198",
+  "title": "Jaydon Blue Not Worth a Start Against Carolina",
+  "description": "Dallas Cowboys running back Jaydon Blue logged 11 offensive snaps in the Week 5 win over the New York Jets after not getting any action through the first four weeks. However, despite the increased involvement, the rookie ended Week 5 with only four carries for seven yards. With Miles Sanders (ankle, knee) now done for the remainder of the 2025 campaign, Blue will slide into the No. 2 spot on the depth chart behind Javonte Williams. Without question, Williams has had a fantastic year, meaning he'll likely continue to handle the bulk of the snaps out of the backfield. As a result, Blue shouldn't be much of a factor offensively in Week 6 versus the Panthers, so he can be left out of all fantasy lineups. That probably won't change moving ahead unless Williams goes down with an injury.",
+  "player_id": 12457,
+  "player_name": "Jaydon Blue",
+  "week": 6,
+  "team": "DAL",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

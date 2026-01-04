@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204820",
+  "title": "Alvin Kamara Officially Good to Go in Week 7",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) will not carry an injury designation into his team's Week 7 matchup against the Chicago Bears, per Mike Triplett of NewOrleans.Football. The veteran back will reportedly sit out the team's Wednesday practices for the foreseeable future as he manages an ankle injury, but it does not appear the ailment will keep him from playing. Kamara has recorded 436 yards from scrimmage and one touchdown on 105 total touches through six games so far this season. He's averaging career lows in both yards per touch (4.2) and yards per reception (5.5). Kamara profiles as a low-end fantasy RB2/high-end flex option in Week 7 against Chicago.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 7,
+  "team": "NO",
+  "opp": "CHI",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 3,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

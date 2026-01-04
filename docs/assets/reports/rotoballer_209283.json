@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209283",
+  "title": "D'Andre Swift Goes Over 100 Rushing Yards, Finds End Zone in Win Over Eagles",
+  "description": "The Chicago Bears' rushing attack was unstoppable in their Week 13 win over the hosting Philadelphia Eagles on Black Friday. Running back D'Andre Swift carried the ball 18 times for 125 rushing yards and scored on the ground in the 24-15 victory, adding one catch on his two targets for a gain of 13 yards. The crazy part is that the 26-year-old wasn't even Chicago's leading rusher on the day, as rookie Kyle Monangai led the team with 22 carries for 130 yards and also scored on the ground. Although Swift's fantasy managers can't be all that pleased that Monangai out-touched Swift, it was still nice to see Swift score his first touchdown on the ground since Week 8. Swift was Chicago's clear lead back for most of the season, but Monangai's emergence now gives the Bears the option to ride the hot hand as they get ready for a crucial divisional contest in Week 14 against the Green Bay Packers.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 14,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 63,
+  "receiving_catches": 3,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 23
+}

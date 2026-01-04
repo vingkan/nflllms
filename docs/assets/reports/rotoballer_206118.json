@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206118",
+  "title": "Brashard Smith's Playing Time to Increase With Teammate Injured",
+  "description": "Kansas City Chiefs running back Isiah Pacheco (knee) most likely will not be available for Sunday's Week 9 showdown against the Buffalo Bills, which means that rookie Brashard Smith will see the field more as the complement to veteran Kareem Hunt in KC's backfield. The 22-year-old seventh-rounder only played 13% of the offensive snaps in the Monday night win over the Washington Commanders and had just three carries for eight yards. However, in Week 7, he played a season-high 35% of the snaps and had a season-high 14 rushing attempts for 39 yards while also catching all five of his targets for an additional 42 yards against the Las Vegas Raiders. Although Pacheco might only miss one game due to his knee injury with the Chiefs having their bye in Week 10, fantasy managers should expect Smith to be much more involved this weekend against Buffalo, making him a potential flex option in deeper fantasy formats.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 9,
+  "team": "KC",
+  "opp": "BUF",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 7,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 61
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203640",
+  "title": "Isiah Pacheco In Flex Territory For Week 5",
+  "description": "Kansas City Chiefs running back Isiah Pacheco will face the Jacksonville Jaguars on Monday night in Week 5. Pacheco rushed seven times for 35 yards (5.0 yards per carry) and caught two passes for 13 yards and a touchdown in last week's win over the Baltimore Ravens. Pacheco finished second in carries and rushing yards in Week 4, but he's locked into a backfield committee with Kareem Hunt and Brashard Smith. Hunt finished last week's game with the most carries, and Smith's involvement in the offense has increased each week. Pacheco will have to contend with backfield competition and the Jaguars, who allow the eighth-fewest fantasy points to opposing running backs. The 26-year-old should continue handling RB2 duties this Monday night, but it will be interesting to see how the touches are divided. Pacheco is ranked RB35 in our RotoBaller Half-PPR rankings, putting him in the RB3/Flex conversation this week.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 5,
+  "team": "KC",
+  "opp": "JAX",
+  "att": 7,
+  "tgt": 3,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 36,
+  "receiving_catches": 3,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 31
+}

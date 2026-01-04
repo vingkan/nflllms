@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205286",
+  "title": "Josh Jacobs Making Up For Lack of Rushing Efficiency with Touchdowns",
+  "description": "Green Bay Packers running back Josh Jacobs was on the injury report with an illness and a calf injury in Week 7 and was a true game-time decision for the Packers in their game against the Arizona Cardinals. Despite those ailments, Jacobs still put up 58 yards from scrimmage and scored two touchdowns in the Packers' win over Arizona. Despite Jacobs averaging just 3.7 yards per carry this season, he's scored eight touchdowns on the ground and caught 16 passes for 179 yards through the air this season to help balance out the lack of efficiency on the ground. Jacobs is currently the RB7 on the season, averaging over 20 fantasy points per game, so we can't nitpick too much as long as he's a dominant RB1 for fantasy. The Packers face the Steelers in Week 8, where Jacobs remains locked in as a fantasy RB1.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 8,
+  "team": "GB",
+  "opp": "PIT",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 33,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

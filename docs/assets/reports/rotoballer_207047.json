@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207047",
+  "title": "Don't Expect Brian Robinson Jr. To Repeat Last Week's Highs",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. had a season-high 53 rushing yards and his first touchdown of the season in Week 9 against the Giants. The production gave him his first RB2 finish of 2025. Robinson is unlikely to repeat last week's success when the 49ers host the Rams on Sunday. For one, the opportunity for Robinson to produce consistently is not there. Operating as an infrequently used change-of-pace back behind Christian McCaffrey has resulted in an average of 10 offensive snaps and 4.6 rushing attempts per game. Secondly, when Robinson does get on the field in Week 10, he will be up against a Rams defense that held him to 12 yards on five carries and offered McCaffrey 2.6 yards per carry in Week 5. Robinson projects as an RB5 and is better left on the bench in Week 10.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 10,
+  "team": "SF",
+  "opp": "LAR",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

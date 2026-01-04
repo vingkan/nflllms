@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201427",
+  "title": "Justice Hill Doesn't Carry Much Value in Week 2",
+  "description": "Baltimore Ravens running back Justice Hill received two carries and two targets out of the backfield in Week 1 against the Buffalo Bills. Combined, he totaled -11 yards despite seeing a 45% snap share next to Derrick Henry. While he likely won't be in the negatives again, the Cleveland Browns defense is a bit tougher, especially given that they allowed just 46 rushing yards and 113 yards through the air to the Cincinnati Bengals. That doesn't leave a lot of breathing room for Hill unless the Ravens are playing from behind and resort to a predominantly passing game script. In average-sized fantasy leagues, Hill is better left on the bench for this matchup.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 2,
+  "team": "BAL",
+  "opp": "CLE",
+  "att": 3,
+  "tgt": 3,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 7,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

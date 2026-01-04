@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209770",
+  "title": "Aaron Jones Sr. Limited in Wednesday's Practice",
+  "description": "Minnesota Vikings quarterback Aaron Jones Sr. (shoulder) was limited in the team's first practice of the week on Wednesday, according to NFL Network's Tom Pelissero. Although Jones injured his shoulder in Sunday's loss to the Seattle Seahawks and never returned, his injury isn't considered serious, and he's day-to-day going into a Week 14 tilt this weekend versus the visiting Washington Commanders. Still, the 31-year-old veteran's status should be closely monitored over the next couple of days, as Jordan Mason could take on a bigger role this weekend against Washington if Jones ends up being limited at all in Sunday's game. The lack of overall efficiency from Minnesota's offense is draining the fantasy value of all of their skill players, including Jones'. The good news is that quarterback J.J. McCarthy (concussion) is on track to return in Week 14. If Jones plays this weekend, he'll be more of an RB3/flex option with a limited ceiling.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 14,
+  "team": "MIN",
+  "opp": "WAS",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 76,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 35
+}

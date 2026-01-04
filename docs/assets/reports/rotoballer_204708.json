@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204708",
+  "title": "More Work Ahead For Isiah Pacheco?",
+  "description": "Running back Isiah Pacheco of the Kansas City Chiefs is coming off a high mark for involvement following last Sunday's victory against the Detroit Lions, and he could see a continued workload in the weeks to come. Pacheco played 77% of the Chiefs' offensive snaps against Detroit, the most of any running back on the team, which was also his highest mark since Week 1 of 2024. Just more than a year removed from a broken leg, Pacheco's numbers Sunday were more in line with 2023, during which he averaged 17 touches per game. With a solid 4.2 yards per carry so far, he could see more games like the one he just played against the Lions.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 7,
+  "team": "KC",
+  "opp": "LV",
+  "att": 15,
+  "tgt": 2,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 57,
+  "receiving_catches": 1,
+  "receiving_yards": -3,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 17
+}

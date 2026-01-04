@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203521",
+  "title": "Kendre Miller Looks to Build on Breakout Week Against Giants",
+  "description": "New Orleans Saints running back Kendre Miller broke out in Week 4 against the Bills, rushing 11 times for 65 yards and a touchdown. After battling injuries through his first two seasons and never carving out a consistent role, Miller finally flashed his upside in the Saints' backfield. He'll look to build on that momentum in Week 5 against a Giants defense that is allowing a league-worst 6.1 yards per carry. Miller enters the matchup as an RB3/Flex option with upside, especially if his touches continue to rise.",
+  "player_id": 9757,
+  "player_name": "Kendre Miller",
+  "week": 5,
+  "team": "NO",
+  "opp": "NYG",
+  "att": 10,
+  "tgt": 1,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 1,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 38
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207528",
+  "title": "Breece Hall Set to Face League's Top Rush D",
+  "description": "New York Jets running back Breece Hall will get another stiff test this week when his team takes on their division-rival New England Patriots on the road at Gillette Stadium. Hall and the Jets got their second win of the season in Week 10, riding two special teams touchdowns to victory. Despite the offense's struggles against an imposing Cleveland defense, the former second-round pick rewarded fantasy managers who stuck with him, posting at least 100 scrimmage yards and a score in his second consecutive appearance. Hall did most of his damage on a 42-yard touchdown grab, but it was nice to see New York lean on him. That should be the case again, particularly with wide receiver Garrett Wilson (knee) set to miss potentially a month. The Iowa State product won't have it easy, as New England has yielded the fewest rushing yards per contest (79.2). That said, he's the only playmaker still standing and should benefit from Wilson's absence in the passing game. Hall lands as RotoBaller's PPR RB17 for his matchup on Thursday Night Football.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 11,
+  "team": "NYJ",
+  "opp": "NE",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 33
+}

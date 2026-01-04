@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211005",
+  "title": "Omarion Hampton Runs Hard, Still Trapped in a Split Backfield",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton continued to showcase explosiveness in the team's 16-13 victory against the Kansas City Chiefs, rushing 15 times for 61 yards and leading the backfield with 54% of the carries. Hampton often looked more dynamic than Kimani Vidal, but the workload remains split, as Vidal led snaps and handled all of the two-minute offense. With the Chargers relying heavily on the run game to protect Justin Herbert, Hampton stays a part of the weekly rotation. Week 16's matchup against the Cowboys is interesting, as Dallas has improved against the run but still ranks tied for second in rushing touchdowns allowed. Hampton's ceiling is limited by the timeshare, but he remains a decent low-end RB2 or flex option in run-heavy game plans.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 16,
+  "team": "LAC",
+  "opp": "DAL",
+  "att": 16,
+  "tgt": 2,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 85,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 19
+}

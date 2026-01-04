@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209506",
+  "title": "Dylan Sampson Questionable to Return with Calf Injury",
+  "description": "Cleveland Browns rookie running back Dylan Sampson (calf) is questionable to return to Sunday's game against the San Francisco 49ers due to a calf injury. Sampson handled four carries for 23 yards before leaving the game. The rookie fourth-rounder broke out in Week 12 against the Las Vegas Raiders with a 66-yard receiving touchdown, finishing with seven carries for 23 yards and two receptions (three targets) for 59 yards. Sampson has been operating as the No. 2 back behind Quinshon Judkins, but Jerome Ford will slide in as the primary backup with the rookie sidelined. More information should come out about the severity of Sampson's injury soon.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 14,
+  "team": "CLE",
+  "opp": "TEN",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 5,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 26
+}

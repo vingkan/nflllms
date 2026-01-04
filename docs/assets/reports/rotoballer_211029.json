@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211029",
+  "title": "Emanuel Wilson Has High-End Handcuff Appeal for the Fantasy Playoffs",
+  "description": "Across 14 games this season, Green Bay Packers running back Emanuel Wilson has recorded 441 scrimmage yards and three touchdowns on 103 touches. The 26-year-old is the primary RB2 in Green Bay behind star Packers running back Josh Jacobs. Wilson has logged just 27 yards from scrimmage on nine touches over the last three weeks, demonstrating his limited standalone fantasy value. However, Jacobs has been on the injury report for several weeks due to a lingering knee issue, and Wilson would be in a position to boost his production if Jacobs were to miss time. In the one game Jacobs has already missed this season, Wilson recorded 28 carries for 107 yards and two touchdowns against the Minnesota Vikings. In fantasy leagues with 12 or more teams where he remains available, Wilson could be a player worth targeting on the waiver wire in case Jacobs suffers an injury.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 14,
+  "tgt": 0,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 82,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 40
+}

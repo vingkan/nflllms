@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212031",
+  "title": "Kenneth Walker III a Potential Starting Option in Great Matchup",
+  "description": "Seattle Seahawks running back Kenneth Walker III is in a great position to exploit a weak Carolina Panthers' rushing defense in Week 17. Carolina's defense has improved overall this year, but the rushing defense remains a problem. The Panthers are 25th against opposing running backs in fantasy. Additionally, Carolina is allowing 4.76 yards per carry to opposing running backs. This matchup is the remedy needed for a struggling Seahawks' rushing game. It could allow Walker to build on his best performance of the season in Week 16 when he scored 25.40 fantasy points against a tough Rams defense. Walker's volume is going to remain in the 12 to 15-touch range, but his potential for a big play will be high in Week 17. He is still a flex consideration considering his low floor, but Walker has RB1 upside this week. If you are a heavy underdog in your matchup, Walker could provide the upside you need to balance the playing field.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 17,
+  "team": "SEA",
+  "opp": "CAR",
+  "att": 15,
+  "tgt": 2,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 51,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 32
+}

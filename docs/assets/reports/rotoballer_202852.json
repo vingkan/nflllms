@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202852",
+  "title": "Christian McCaffrey Seeking Fourth Straight RB1 Finish",
+  "description": "San Francisco 49ers running back Christian McCaffrey has started the season with three straight RB1 performances, be it standard, half-PPR scoring, or full-PPR scoring. Narrowed down to full-PPR, he has finished in the top five among running backs in each of the first three weeks of 2025. McCaffrey is poised to continue the streak on Sunday when he squares off against the Jacksonville Jaguars. The Jags have been successful at limiting the productivity of opposing backs, but McCaffrey is as matchup-proof as they come. The team's reliance on him will be heightened with wide receivers Jauan Jennings (ankle/shoulder) and Ricky Pearsall (knee) both questionable for the game. Through three weeks, McCaffrey has 52 carries for 176 rushing yards, and his team-leading 25 receptions rank fourth-most in the league. McCaffrey should be locked into starting lineups for Week 4.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 4,
+  "team": "SF",
+  "opp": "JAX",
+  "att": 17,
+  "tgt": 11,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 6,
+  "receiving_yards": 92,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 8
+}

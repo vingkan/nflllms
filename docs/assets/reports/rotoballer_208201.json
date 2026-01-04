@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208201",
+  "title": "Kaleb Johnson Could See More Touches",
+  "description": "Pittsburgh Steelers running back Kaleb Johnson has seen a minimal role in the offense during his rookie season. However, Johnson could see an increased role this week. Lead back Jaylen Warren (ankle) is currently uncertain to suit up against the Chicago Bears in Week 12. If he sits, Kenneth Gainwell figures to take over as the lead back with Johnson presumably being the backup. Last week, Johnson rushed the ball five times for 15 yards in the win over the Cincinnati Bengals. Gainwell is the better option between the two right now, but Johnson might have some deep league appeal if Warren is unable to play.",
+  "player_id": 12504,
+  "player_name": "Kaleb Johnson",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

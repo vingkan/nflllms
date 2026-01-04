@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206904",
+  "title": "Rico Dowdle Cleared to Play Against Saints",
+  "description": "Carolina Panthers running back Rico Dowdle (quadriceps) was a full participant in Friday's practice and has been cleared to play in Week 10 versus the division-rival New Orleans Saints on Sunday, according to the team. Dowdle did not practice on Wednesday, leading to questions about his availability for the weekend, but head coach Dave Canales made it sound like the team was fully counting on Dowdle to be available against the Saints. He was limited on Thursday before being upgraded to a full practice on Friday, so Dowdle should be fine to once again serve as the team's lead back on Sunday. The 27-year-old has been fantastic out of Carolina's backfield this year, unseating Chuba Hubbard for the RB1 role. In the last five games, Dowdle has gone off with 652 rushing yards and three touchdowns on 103 carries while also adding 10 catches for 112 yards and another score. Start him everywhere in Week 10 in a plus matchup.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 10,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

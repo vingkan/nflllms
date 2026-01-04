@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208605",
+  "title": "Breece Hall Boasts High-End RB2 Appeal in Week 12",
+  "description": "New York Jets running back Breece Hall will retain his workhorse role this Sunday in the team's road outing with the Baltimore Ravens in Week 12. Hall has been up and down in 2025 as a part of an inconsistent Jets' attack. The volume has been there, though, and he's relegated backfield mate Isaiah Davis to a strictly handcuff role over New York's previous two outings while boasting a 70% snap share or greater. Sunday's meeting with the Ravens presents as an intriguing one, considering the unit was a better matchup for opposing offenses earlier in the campaign, but they've clamped down in recent weeks. There's some hope that the Jets' offense shows a little life with the changeover to Tyrod Taylor at quarterback. If that's the case, Hall could be productive against a defense that's been liable to give up yardage. He's RotoBaller's PPR RB14 ahead of this weekend's slate of action.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 12,
+  "team": "NYJ",
+  "opp": "BAL",
+  "att": 16,
+  "tgt": 4,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 44,
+  "receiving_catches": 4,
+  "receiving_yards": 75,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 15
+}

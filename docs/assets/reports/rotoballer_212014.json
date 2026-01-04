@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212014",
+  "title": "Sean Tucker is a Touchdown-Dependent Option",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker carries a three-game touchdown streak into Sunday's Week 17 matchup against the Miami Dolphins. Tucker has seen his role on offense take a significant drop since Bucky Irving returned from injury in Week 13. Since Irving returned, Tucker has seen four or fewer carries in three of the last four games. The only thing saving his fantasy value is the fact that he has scored a touchdown in three straight games. The Bucs have been using Tucker in goal-line situations, and he keeps finding his way into the end zone. He figures to remain in the role, which means Tucker should be viewed as a touchdown-dependent flex option for Week 17.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 17,
+  "team": "TB",
+  "opp": "MIA",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 8,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 69
+}

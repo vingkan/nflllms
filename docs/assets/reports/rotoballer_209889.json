@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209889",
+  "title": "Chase Brown is Re-Establishing Himself as a Must-Start Running Back",
+  "description": "Cincinnati Bengals running back Chase Brown (calf) got off to a slow start to the 2025 season, averaging just 50.6 scrimmage yards per game over his first six contests. However, the 25-year-old has taken off ever since Week 7, topping 100 scrimmage yards in each of his last six games. Over the last three weeks in particular, Brown is averaging 22.3 touches and 123.3 scrimmage yards per game. Finding the end zone remains a struggle for Brown, as he's scored just two touchdowns on the season. With Bengals quarterback Joe Burrow back in the fold and Cincinnati's offense as a whole trending upward, Brown should have more red zone chances in the coming weeks. It's worth noting that Brown is listed on the Bengals' injury report with a calf injury heading into the team's Week 14 matchup against the Buffalo Bills, but he's been a full practice participant and appears likely to play. As long as Brown is on the field, he profiles as a must-start fantasy running back.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 14,
+  "team": "CIN",
+  "opp": "BUF",
+  "att": 12,
+  "tgt": 4,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 23,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 6
+}

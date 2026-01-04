@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203817",
+  "title": "Antonio Gibson Out for the Season With Torn ACL",
+  "description": "New England Patriots running back Antonio Gibson (knee), who was quickly ruled out in the Sunday night win over the Buffalo Bills in Week 5, suffered a torn ACL and will miss the rest of the season, sources told NFL Network's Ian Rapoport after Gibson had an MRI exam on Monday. It's a hit to New England's backfield the rest of the way. The 27-year-old will finish the 2025 campaign with 25 rushing attempts for 106 yards and one touchdown. He added two catches for six yards on three targets through the air. Gibson wasn't really a roster candidate in 12-team fantasy leagues, but he can now safely be dropped in deeper single-year formats. Terrell Jennings will likely be elevated from the practice squad to serve as the RB3 behind Rhamondre Stevenson and rookie TreVeyon Henderson. Gibson's injury gives Henderson a clearer path to an elevated backfield workload.",
+  "player_id": 6945,
+  "player_name": "Antonio Gibson",
+  "week": 6,
+  "team": "NE",
+  "opp": "NO",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

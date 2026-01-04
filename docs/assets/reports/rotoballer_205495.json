@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205495",
+  "title": "Brashard Smith Could See Increased Snaps Moving Forward",
+  "description": "Kansas City Chiefs rookie running back Brashard Smith played his highest snap share of the season in Week 7 against the Raiders and could continue to see his role expand in the coming weeks. Head coach Andy Reid spoke glowingly of Smith in Thursday's press conference, noting that \"we're going to keep utilizing his talents.\" The star quarterback shared a similar feeling about the rookie running back, saying, \"he's made a ton of progress.\" The seventh-rounder out of SMU handled a season high 19 touches for 81 total yards last week against the Raiders and figures to be a big piece of the puzzle in Week 8 against the Washington Commanders on Monday Night Football. Veteran running back Kareem Hunt (knee) also missed Thursday's practice, which would open up opportunities for Smith if he is unable to go. He is a viable flex play in Week 8 with many teams on bye.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 8,
+  "team": "KC",
+  "opp": "WAS",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 8,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 62
+}

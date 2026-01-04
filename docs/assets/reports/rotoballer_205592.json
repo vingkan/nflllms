@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205592",
+  "title": "Tyjae Spears Might Offer Flex Value",
+  "description": "Tennessee Titans running back Tyjae Spears has seen a fairly minimal role since returning to the field in Week 5. Over the last two games, Spears has rushed 10 times for 53 yards and has been held out of the end zone. It might not seem great on paper, but Spears registered 6.2 and 4.4 yards per carry during those two games. The biggest problem is that he's stuck behind Tony Pollard on the depth chart. At the moment, Spears is doing a better job rushing the ball, so hopefully he'll get more carries going forward. It's also worth noting, Spears has seven receptions over his last two games, so he's getting chances in the receiving game as well. As mentioned, Pollard is the lead back, so Spears probably won't offer anything more than flex value during the Week 8 matchup against the Indianapolis Colts.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 8,
+  "team": "TEN",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 59,
+  "receiving_catches": 3,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

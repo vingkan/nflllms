@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207695",
+  "title": "Kimani Vidal's Usage Is Elite, But Jaguars' Pass-Funnel Defense Limits Upside",
+  "description": "Los Angeles Chargers running back Kimani Vidal had a big workload last week, with a 93% snap share and 25 carries for 95 yards and a touchdown. This week, however, he faces a challenging Jacksonville Jaguars defense that has become a significant pass-funnel, allowing the third-fewest rushing yards and only six rushing touchdowns all season. Jacksonville is good at preventing big plays, allowing zero rushes of 40 yards or more. With Hassan Haskins (hamstring) and Omarion Hampton (ankle) still on IR, Vidal's heavy usage as the lead back gives him a steady floor. Still, his production mainly depends on the Chargers building an early lead. Due to the Jaguars' tough run defense, Vidal is downgraded to a low-end RB2 this week, projected as RB20.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 11,
+  "team": "LAC",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 2,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 13,
+  "receiving_catches": 2,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 53
+}

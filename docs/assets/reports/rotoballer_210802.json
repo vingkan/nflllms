@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210802",
+  "title": "Emanuel Wilson Questionable to Play in Week 15 Due to Illness",
+  "description": "Green Bay Packers running back Emanuel Wilson (illness) has been added to the injury report and is officially listed as questionable to play in his team's Week 15 matchup against the Denver Broncos due to an illness. With running back Josh Jacobs (knee) also questionable to play with a knee injury, Green Bay could be without its top two backs against Denver. The Packers have elevated running back Pierre Strong Jr. from their practice squad for Week 15, which could be an indication that the team expects to be without at least one of Jacobs or Wilson. If both Jacobs and Wilson are sidelined, Strong Jr. and Chris Brooks would likely handle the team's backfield work on Sunday. Fantasy managers should monitor the Green Bay backfield situation closely, as a final update on both Jacobs and Wilson may not come until closer to game time.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 77
+}

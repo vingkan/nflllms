@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206009",
+  "title": "Panthers Don't Want To Move Chuba Hubbard",
+  "description": "Carolina Panthers running back Chuba Hubbard is not expected to be moved at the trade deadline, according to Joseph Person of The Athletic. Despite some speculation regarding Hubbard's role after head coach Dave Canales indicated that they will ride the hot hand with Rico Dowdle moving forward, the 26-year-old is expected to remain with the team through the trade deadline. It's been a disappointing season for Hubbard after a career year last season, when he rushed for 1,195 yards and 10 touchdowns on 250 carries. He's been unable to replicate that sort of efficiency in 2025, averaging just 3.6 yards per carry on 79 carries in the six games he's started. With Dowdle expected to take the bulk of the work now, Hubbard is likely best left on the bench for their Week 9 matchup against the Packers.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 9,
+  "team": "CAR",
+  "opp": "GB",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 56
+}

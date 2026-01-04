@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206478",
+  "title": "Kareem Hunt, Brashard Smith To Split Carries Sunday",
+  "description": "The Kansas City Chiefs intend to split carries between running backs Kareem Hunt and Brashard Smith on Sunday against the Buffalo Bills, according to a report from Ian Rapoport of NFL Network. Kansas City will be without Isiah Pacheco (knee) this week, and it looks as if the team will employ a committee approach in his absence. Hunt has had consistent touchdown potential for the Chiefs, scoring four times in the past six games, but he has yet to play half the team's snaps in a game this season. Smith had a nice game in the Week 7 blowout of Las Vegas, catching five passes for 42 yards to go with 39 yards rushing, but hasn't been super involved week to week. A split isn't ideal for managers, but both backs still could be viable in lineups this week.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 9,
+  "team": "KC",
+  "opp": "BUF",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 49,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 17
+}

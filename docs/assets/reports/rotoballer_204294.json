@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204294",
+  "title": "Isaiah Davis Unlikely to See Heavy Workload in Difficult Week 6 Matchup?",
+  "description": "With New York Jets running back Braelon Allen (knee) currently on Injured Reserve, fellow Jets back Isaiah Davis is in line to be the team's RB2 behind Breece Hall. In New York's first full game without Allen in Week 5, Davis saw a limited workload, recording 33 yards from scrimmage on four total touches. In Week 6, the Jets will travel to London to take on the Denver Broncos. Denver's defense has been very stingy against the run so far this season, allowing the sixth-fewest rushing yards (442) in the NFL so far this season. Davis did see four targets and record three receptions in Week 5, so his best chance at fantasy production may be as a receiver out of the backfield. Still, he profiles as a desperation flex option for fantasy managers at best and should likely be avoided in Week 6 against Denver.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 6,
+  "team": "NYJ",
+  "opp": "DEN",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 2,
+  "receiving_catches": 1,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 63
+}

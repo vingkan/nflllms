@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211448",
+  "title": "Jordan Mason Remains Stuck as Vikings RB2",
+  "description": "Minnesota Vikings running back Jordan Mason has taken a backseat to Aaron Jones Sr. since his return in Week 8. His fantasy value has predictably cratered since that point, averaging just 5.6 PPR points per game with zero top 12 weekly finishes at the position. The 26-year-old has only exceeded 50 rushing yards once in the last eight games after surpassing that mark in five of the first six games to begin the season. Mason has at least been the preferred runner when the Vikings reach the red zone, leading the team with seven of 11 RB carries inside the 20 since Week 12. Still, Mason's fantasy ceiling is capped with no value added as a receiver. He has a favorable matchup on Sunday against the Giants' 31st-ranked rushing defense, but Mason is still tough to trust as anything more than an RB3 in Week 16.",
+  "player_id": 8408,
+  "player_name": "Jordan Mason",
+  "week": 16,
+  "team": "MIN",
+  "opp": "NYG",
+  "att": 2,
+  "tgt": 1,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 5,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 62
+}

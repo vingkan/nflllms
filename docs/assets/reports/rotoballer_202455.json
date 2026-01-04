@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202455",
+  "title": "Rico Dowdle Gets Involved in Blowout Win",
+  "description": "Carolina running back Rico Dowdle saw his heaviest usage of the season and scored his first touchdown as a Panther in Sunday's blowout win over the Falcons. Dowdle turned 10 carries into 30 yards, with his touchdown coming late in the 4th quarter. The Panthers led throughout, which significantly contributed to Dowdle's increased usage. He did run for over 1,00 yards last season with the Cowboys, so he's far from incapable should the Panthers look to create a more even backfield split, but the team's 30 rushes on Sunday were a season-high. The Panthers face the Patriots in Week 4, who have been stout against the run but susceptible to pass-catching backs. Dowdle's five targets through three games suggest that he won't be used in that role and can therefore be kept on the bench for another week.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 4,
+  "team": "CAR",
+  "opp": "NE",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 32,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 51
+}

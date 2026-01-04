@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207745",
+  "title": "Jacory Croskey-Merritt Better Left on Benches in Week 11",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt has lost hold of the lead-back duties with Chris Rodriguez Jr. taking over in Week 10 against the Lions. Croskey-Merrit wound up leading Washington with 11 carries for 30 yards in the game, but that was due to Rodriguez leaving the game early with a shoulder injury. Rodriguez played 68% of the snaps to Croskey-Merritt's 16% in the first half and is off the injury report heading into Sunday. The past five games have been disappointing for the rookie seventh-rounder and ultimately led to the coaching staff going in a different direction with Rodriguez, who has done a better job of taking what is blocked. Croskey-Merritt should still be involved on some early downs, but he's best left on the bench for Washington's Week 11 matchup against the Miami Dolphins in Madrid, Spain.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 11,
+  "team": "WAS",
+  "opp": "MIA",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 46
+}

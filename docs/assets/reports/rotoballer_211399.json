@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211399",
+  "title": "Kyle Monangai's Fantasy Value Dependent on Swift' Status",
+  "description": "Chicago Bears rookie running back Kyle Monangai struggled in Week 15, totaling just 33 yards on 11 carries against the Cleveland Browns. The 2025 seventh-round pick has been a pleasant surprise this season, forming an elite committee with D'Andre Swift. Both backs are the only two on a team with over 650 rushing yards, leading Chicago to the NFL's second-best rushing attack behind only the Buffalo Bills. With Swift (groin) listed as questionable for Week 16, Monangai could see a significantly increased workload against the Green Bay Packers. However, the Packers have one of the league's strongest run defenses, ranking sixth against running backs this season. Monangai's fantasy value this week will depend on Swift's status, potentially rising from a risky FLEX option to a low-end RB1 if Swift is inactive.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 16,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 9,
+  "tgt": 4,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 50,
+  "receiving_catches": 3,
+  "receiving_yards": 43,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 23
+}

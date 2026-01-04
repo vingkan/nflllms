@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205198",
+  "title": "Kendre Miller Out for the Year After Suffering Torn ACL",
+  "description": "New Orleans Saints running back Kendre Miller (knee) suffered a torn ACL in the Week 7 loss to the Chicago Bears on Sunday and will miss the rest of the year, sources told Jordan Schultz of FOX Sports. It's a tough blow for Miller and for the Saints' backfield depth behind starter Alvin Kamara. The 23-year-old had ascended into the biggest role of his career in his third year in the league as the direct backup to Kamara, carrying the ball 47 times for 193 yards (career-best 4.1 yards per tote) and a touchdown while adding five catches on five targets for 30 yards as a pass-catcher through seven games. Miller has been plagued by the injury bug since entering the NFL as a third-rounder in 2023, as he missed 20 of a possible 34 games in his first two seasons. With Miller now sidelined until next year, rookie Devin Neal becomes the primary handcuff option for Kamara's fantasy managers.",
+  "player_id": 9757,
+  "player_name": "Kendre Miller",
+  "week": 8,
+  "team": "NO",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209729",
+  "title": "Trey Benson Could Dominate Touches in Arizona Upon Injury Return",
+  "description": "Arizona Cardinals running back Trey Benson (knee) has been on Injured Reserve since Week 4 due to a knee injury. However, the 23-year-old was reportedly close to making his return in Week 13, and could now be on track to play in Week 14 against the Los Angeles Rams. Arizona has relied on Bam Knight and Michael Carter to anchor its backfield in recent weeks, with Benson and fellow back Emari Demercado (ankle) sidelined. While Knight has had stretches of solid production, neither back should be much of an impediment to Benson's playing time once he returns to full strength. Across 17 career NFL games, Benson has averaged an impressive 4.9 yards per carry. The Cardinals may choose to work him in slowly in his first game back from injury, but Benson has clear playing time and production upside once he is fully re-integrated into the offense.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 14,
+  "team": "ARI",
+  "opp": "LAR",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

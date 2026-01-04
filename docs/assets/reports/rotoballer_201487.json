@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201487",
+  "title": "Jonathan Taylor a Low-End RB1 in Week 2",
+  "description": "Indianapolis Colts running back Jonathan Taylor will host the Denver Broncos in Week 2. Taylor turned in a solid, if unspectacular, Week 1 performance in a win over the Miami Dolphins, rushing for 71 yards and catching three passes for 27 yards. He will look to find the end zone against a talented Denver defense that allowed just the 21st-most fantasy points per game to running backs in 2024. The Broncos continued that trend in Week 1 as they shut down the running game of the Tennessee Titans, holding Tony Pollard to 3.3 yards per carry. Taylor should see plenty of volume, but the tough matchup downgrades him to more of a low-end RB1 in fantasy this weekend.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 2,
+  "team": "IND",
+  "opp": "DEN",
+  "att": 25,
+  "tgt": 2,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 165,
+  "receiving_catches": 2,
+  "receiving_yards": 50,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 1
+}

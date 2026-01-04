@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202372",
+  "title": "Miles Sanders has Season-High 12 Touches in Blowout Loss to Chicago",
+  "description": "Dallas Cowboys backup running back Miles Sanders saw more run in Dallas' 31-14 blowout loss on Sunday in Week 3 to the hosting Chicago Bears, carrying the ball nine times for 41 yards and catching all three of his targets for an additional 12 yards through the air. The 28-year-old looked the best he had in the third game of the season and had 4.6 yards per carry, although his elevated usage mostly came in garbage time in the second half with the Cowboys down by multiple scores. Four of his nine carries came on the last possession of the game, so fantasy managers looking for RB depth aren't going to be able to count on this kind of workload consistently moving forward, especially once the team finally decides to involve rookie Jaydon Blue (he's been a healthy scratch all three weeks). Right now, Sanders is merely a handcuff for fantasy managers who have Javonte Williams rostered.",
+  "player_id": 6151,
+  "player_name": "Miles Sanders",
+  "week": 4,
+  "team": "DAL",
+  "opp": "GB",
+  "att": 2,
+  "tgt": 2,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 8,
+  "receiving_catches": 2,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 50
+}

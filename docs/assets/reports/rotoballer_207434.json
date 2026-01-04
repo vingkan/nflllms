@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207434",
+  "title": "Christian McCaffrey Totals 96 Yards In Week 10",
+  "description": "San Francisco 49ers running back Christian McCaffrey handled 12 carries for 30 rushing yards and caught eight of his 10 targets for 66 receiving yards in Week 10. As has been the norm this season, McCaffrey's abilities as a receiver kept fantasy football managers happy. He has registered more yards through the air than on the ground in seven of ten games, and Week 10 was the sixth game of the season where he led the team in targets. The 96 scrimmage yards he ground out were his second-lowest total of the season and just the second time in 2025 that he failed to hit the century mark. He should fare better in Week 11 when the 49ers square off against the Arizona Cardinals, who just gave up 181 rushing yards and two touchdowns to Seattle's running backs in Week 10.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 11,
+  "team": "SF",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 6,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 81,
+  "receiving_catches": 5,
+  "receiving_yards": 40,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 35,
+  "ppr_scoring_position_rank": 1
+}

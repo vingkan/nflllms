@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207162",
+  "title": "TreVeyon Henderson Gets Another Starting Opportunity in Week 10",
+  "description": "New England Patriots running back TreVeyon Henderson is on track to earn his second consecutive start during Sunday's Week 10 contest against the Tampa Bay Buccaneers. With Rhamondre Stevenson (toe) sidelined, Henderson will operate as the primary option out of the backfield while Terrell Jennings also gets involved. The rookie handled 75 percent of the offensive snaps in a similar backfield dynamic last week, tallying 14 carries, 55 rushing yards, four catches, and 32 receiving yards against the Falcons. Atlanta's run defense ranks similarly to the Buccaneers in terms of fantasy points allowed to running backs, with a key distinction being that Tampa gives up more receiving yards to the position while Atlanta surrenders more rushing yards. Thus, Henderson has a chance to accumulate some extra points in PPR leagues if he can continue to carve out a role in the receiving game. He ranks as a low-end RB2 once again this week.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 10,
+  "team": "NE",
+  "opp": "TB",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 147,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 4
+}

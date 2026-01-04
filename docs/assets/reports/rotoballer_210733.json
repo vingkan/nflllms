@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210733",
+  "title": "Tyjae Spears an Appealing Flex Play in Deeper PPR Formats",
+  "description": "Tennessee Titans running back Tyjae Spears remains firmly on the fantasy radar as an RB3/flex option in full-PPR leagues ahead of Sunday's Week 15 contest against the San Francisco 49ers. Spears lost key volume to Tony Pollard (25 carries, 161 yards, two touchdowns) last week, but he still maintained a sizable role on passing downs. He has at least three targets in all eight of his games this season, and he's averaging an impressive 4.3 catches per game over the last four weeks. Spears' impressive pass-catching volume has allowed him to rank as the overall RB34 in fantasy points per game since Week 6 (minimum four games played). This week, he takes on a 49ers defense that has struggled against pass-catching backs. Specifically, the Niners have allowed the most catches, eighth-most receiving yards, and eighth-most receiving touchdowns to opposing running backs in 2025. While Pollard has generated most of the buzz after last week's big game, Spears should be the name to get excited about in this backfield, given how often pass-catching backs excel against this 49ers run defense. Spears should be viewed as a strong RB3/flex option in Week 15.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 15,
+  "team": "TEN",
+  "opp": "SF",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 47
+}

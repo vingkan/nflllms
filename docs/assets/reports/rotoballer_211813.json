@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211813",
+  "title": "Jeremy McNichols Not a Great Fantasy Option Against Cowboys",
+  "description": "Washington Commanders running back Jeremy McNichols has had a solid season as the team's primary third-down back, recording 42 carries for 220 yards and a touchdown to go with 21 catches (27 targets) for 176 yards in 15 games. The veteran handled a season-high 10 touches in Week 15 with Chris Rodriguez Jr. inactive, but he had only three touches with Rodriguez back last week against the Eagles. It will likely be a similar situation for McNichols on Christmas Day against the division-rival Dallas Cowboys, where the Commanders could be starting journeyman quarterback Josh Johnson with the status of Marcus Mariota (hand, quadriceps) in doubt. McNichols shouldn't be considered as a fantasy option in Week 17.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 17,
+  "team": "WAS",
+  "opp": "DAL",
+  "att": 1,
+  "tgt": 3,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": -2,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

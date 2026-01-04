@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211093",
+  "title": "Christian McCaffrey Scores 14th Touchdown of 2025",
+  "description": "San Francisco 49ers running back Christian McCaffrey (back) popped up on Saturday's injury report with a back issue, but he looked healthy handling 22 carries for 73 yards and a touchdown in Sunday's win over the Titans. McCaffrey also caught his lone target of the day for 14 receiving yards. The reduction in pass volume was stark compared to the 8.2 targets he averaged before the 49ers' Week 14 bye, but it may have been a small act towards preserving the playmaker's health. McCaffrey will get an extra day of rest going into Week 16, as the 49ers will square off against the Colts on Monday night. Concern over McCaffrey's back makes Brian Robinson Jr. a must-stash as he would likely step into a bellcow role if CMC sits. Assuming McCaffrey is healthy, he will once again be a must-start in the semi-final round of the fantasy football playoffs.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 16,
+  "team": "SF",
+  "opp": "IND",
+  "att": 21,
+  "tgt": 8,
+  "touches": 29,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 117,
+  "receiving_catches": 6,
+  "receiving_yards": 29,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 2,
+  "ppr_scoring_fantasy_points": 32,
+  "ppr_scoring_position_rank": 2
+}

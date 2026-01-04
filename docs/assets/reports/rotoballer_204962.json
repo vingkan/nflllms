@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204962",
+  "title": "Tony Pollard Avoidable Amidst Role Change, Tough Matchup",
+  "description": "Tennessee Titans running back Tony Pollard's fantasy value has started to decline following the return of Tyjae Spears, and he'll continue to face an uphill battle to produce in Week 7 against the New England Patriots. The veteran's snap share was essentially cut in half last week as Spears took on a bigger workload. A reduced snap share is never a good sign for fantasy purposes, and it's particularly concerning when discussing one of the NFL's worst teams. Pollard no longer has volume or game script on his side, making him tough to trust in fantasy football. To make matters worse, he's facing the Patriots, who have allowed the third-fewest rushing yards and fifth-fewest fantasy points to opposing running backs in 2025. Managers in most leagues can bench Pollard this week. At best, he is an RB3/flex.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 7,
+  "team": "TEN",
+  "opp": "NE",
+  "att": 6,
+  "tgt": 6,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 18,
+  "receiving_catches": 6,
+  "receiving_yards": 43,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 18
+}

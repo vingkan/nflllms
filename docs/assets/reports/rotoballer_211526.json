@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211526",
+  "title": "Tony Pollard Looking to Stay Hot Against Kansas City",
+  "description": "Tennessee Titans running back Tony Pollard has posted back-to-back games with over 100 rushing yards and a touchdown. Pollard's previous season high for rushing yards was 92 back in Week 2, and he scored only twice in the first 13 weeks before erupting over the past two games. The 28-year-old ranks as the RB3 in PPR points in the past two weeks after a mediocre first 12 games, where he ranked as the RB29. The former Dallas Cowboys running back has maintained a steady workload with double-digit touches in every game and at least 15 in three of the past four games. However, Pollard has a tough matchup on Sunday against a Kansas City Chiefs defense that has allowed the fourth fewest PPR points per game to running backs. He ranks as RotoBaller's RB29 in PPR leagues and is more of a FLEX option in Week 16.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 16,
+  "team": "TEN",
+  "opp": "KC",
+  "att": 21,
+  "tgt": 0,
+  "touches": 21,
+  "actual": "high",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 102,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 29
+}

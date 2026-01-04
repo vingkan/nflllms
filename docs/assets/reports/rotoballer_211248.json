@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211248",
+  "title": "D'Andre Swift Questionable to Face the Packers",
+  "description": "Chicago Bears running back D'Andre Swift (groin) popped up on the Week 16 injury report on Wednesday and is now listed as questionable to play in another big divisional game against the Green Bay Packers on Saturday night. Swift was limited on Wednesday and Thursday after not being listed at all on Tuesday. The 26-year-old should be on the right side of questionable this weekend, but if he ends up not playing, rookie Kyle Monangai would be a must-start, plug-and-play option for fantasy football managers against Green Bay. If Swift does get the green light to play in Week 16, he'll be a more risky RB3/flex option and potentially give up valuable backfield touches to Monangai, who has been more involved in Chicago's backfield in the second half of the season. In the first game against the Packers on Dec. 7, Swift had 13 carries for 63 yards and caught three of his four targets for 19 yards. He's the RB13 on the year with 14.0 half-PPR points per game.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 16,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 35
+}

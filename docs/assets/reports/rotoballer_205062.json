@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205062",
+  "title": "Tyler Allgeier a Touchdown-Dependent Flex Option in Week 7",
+  "description": "Atlanta Falcons running back Tyler Allgeier scored for the third time in his last four games in Week 6, and while he also logged double-digit carries for the fourth time this season, the 25-year-old tallied just 3.2 yards per carry, which was buoyed by a 21-yard run that amounted to the bulk of his 32 total yards. Although he likely can't keep up this touchdown pace, the fourth-year pro has carved out a solid role as the No. 2 back in Atlanta, and as long as the game remains competitive, Allgeier figures to get enough work to keep him in the Flex conversation. A competitive game appears to be in the cards in Week 7 against the 49ers, so the BYU product sets up as a high-end RB4/Flex play, but fantasy managers should be aware that if he doesn't find the end zone, there will be little fantasy production to be had as the 5-foot-10 running back is not a factor in the passing game.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 7,
+  "team": "ATL",
+  "opp": "SF",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 62
+}

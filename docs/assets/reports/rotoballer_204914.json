@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204914",
+  "title": "Jeremy McNichols a Deep-League Option in Week 7",
+  "description": "Washington Commanders running back Jeremy McNichols continues to play a key role on pass downs, but it hasn't translated to much fantasy production. He had two carries for five yards and added three catches (four targets) for 30 yards last week against the Bears. It was his most productive game as a receiver, but he hasn't had more than four carries in a game all season. With third-year Chris Rodriguez Jr. now off the injury report, he should handle more carries in Week 7 after playing only one snap in Week 6. It's an ideal matchup against a Dallas defense that has allowed the fourth most PPR points per game to opposing running backs, but McNichols hasn't scored more than 6.5 PPR points since Week 3 against the Raiders when he broke off a 60-yard touchdown. He's only an option in deeper leagues for Week 7.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 7,
+  "team": "WAS",
+  "opp": "DAL",
+  "att": 2,
+  "tgt": 3,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 22,
+  "receiving_catches": 2,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 35
+}

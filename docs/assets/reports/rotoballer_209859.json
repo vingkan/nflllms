@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209859",
+  "title": "Omarion Hampton Limited in Thursday's Practice",
+  "description": "Los Angeles Chargers rookie first-round running back Omarion Hampton (ankle) was listed as a limited participant in practice on Thursday, according to ESPN's Adam Schefter. Hampton returned to practice last Tuesday for the first time since suffering a fractured ankle back in Week 5, but he was ultimately held out for the team's win over the Las Vegas Raiders on Sunday. Although the 22-year-old first-rounder was only limited in the first practice of the week, head coach Jim Harbaugh said earlier this week that Hampton was tracking towards making his return for a Week 14 Monday night showdown against the Philadelphia Eagles at SoFi Stadium. Hampton will probably need a full practice on Friday or Saturday to avoid a questionable tag going into Monday's game. The North Carolina product should work up to being L.A.'s primary RB again in time, but in his first game back, he figures to be in more of a timeshare with Kimani Vidal, making him more of an RB3/flex for fantasy purposes.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

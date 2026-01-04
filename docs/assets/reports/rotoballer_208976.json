@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208976",
+  "title": "Is Jaylen Warren Still the RB1 in Pittsburgh?",
+  "description": "Pittsburgh Steelers running back Jaylen Warren turned 18 carries into 68 yards and a touchdown in a Week 12 loss to the Chicago Bears. For the first time this season, he was not targeted in the passing game. Backfield mate Kenneth Gainwell, on the other hand, hauled in all six of his targets and added 92 rushing yards. This marked the second straight week in which Gainwell outproduced Warren for fantasy purposes, though it's important to remember that Warren suffered an ankle injury in Week 11. It will be interesting to see how the two backs are deployed on Sunday against the Buffalo Bills, who have struggled to stop the run all season. Being another week removed from the injury should only benefit Warren, so fantasy managers have no reason to panic just yet.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 13,
+  "team": "PIT",
+  "opp": "BUF",
+  "att": 10,
+  "tgt": 4,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 35,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 23
+}

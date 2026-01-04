@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209785",
+  "title": "Dylan Sampson Unable to Practice on Wednesday",
+  "description": "Cleveland Browns rookie running back Dylan Sampson (calf) was a non-participant during Wednesday's practice session. Sampson is currently considered day-to-day after suffering a calf injury during Sunday's loss to the San Francisco 49ers. The rookie back has rushed for 46 yards on 11 carries over his last two games. He did haul in a touchdown as a receiver over that span, but Sampson has mainly been a non-factor in fantasy football, with fellow rookie Quinshon Judkins seeing most of the backfield work. His absence in Week 14 would mean increased playing time for Jerome Ford and possibly Raheim Sanders. Judkins is the only fantasy-relevant back in Cleveland at the moment.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 14,
+  "team": "CLE",
+  "opp": "TEN",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 5,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 26
+}

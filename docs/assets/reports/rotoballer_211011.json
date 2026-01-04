@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211011",
+  "title": "Cardinals Unsure if Bam Knight Will Play in Week 16",
+  "description": "The Arizona Cardinals are unsure if running back Bam Knight (ankle) will be able to play in Week 16 against the Atlanta Falcons, according to Theo Mackie of The Arizona Republic. \"Not sure. It's an ankle, though. He was sore today,\" head coach Jonathan Gannon said when asked if he expects Knight to play this week. The 24-year-old was carted off the field in Sunday's loss to the Houston Texans and is believed to be dealing with a \"bad sprain.\" The diagnosis alone should lead fantasy managers to believe that Knight probably won't play in Week 16, especially with the Cardinals eliminated from playoff contention. It wouldn't be a surprise if Knight doesn't play in the final three weeks of the season. James Conner (foot) and Trey Benson (knee) are out for the season, so the backfield would be split by Michael Carter and Emari Demercado if Knight is unable to play against Atlanta. We should have a better idea of Knight's Week 16 status in a few days.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 16,
+  "team": "ARI",
+  "opp": "ATL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

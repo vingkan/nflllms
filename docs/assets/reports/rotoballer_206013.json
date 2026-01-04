@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206013",
+  "title": "Tyrone Tracy Jr. In Line For Workhorse Role For Giants",
+  "description": "New York Giants running back Tyrone Tracy Jr. has had a relatively quiet season so far after missing two games with a shoulder injury, which allowed rookie Cam Skattebo to take over as lead back. With Skattebo now out for the season after suffering an ankle injury in Week 8 against the Eagles, Tracy is set up to handle the majority of the touches in New York's backfield. The 25-year-old worked as the Giants' lead back last season from Week 5 on and earned over 17 opportunities per game while playing 68.3% of the snaps. He averaged 14.3 PPR points per game during that stretch, ranking as RB20. Veteran Devin Singletary should mix in for touches occasionally, but most of the volume will likely go to Tracy. He's a must-add player this week and is worth a heavy FAAB investment if he is available.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 18,
+  "receiving_catches": 3,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 34
+}

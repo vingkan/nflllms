@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205053",
+  "title": "Rachaad White Remains on RB2 Radar",
+  "description": "Tampa Bay Buccaneers running back Rachaad White is expected to make his third straight start during the Week 7 matchup against the Detroit Lions. The Bucs are going to be without Bucky Irving (foot) for at least one more game. White has stepped up and played well in the absence of Irving. He has rushed for over 100 yards with three touchdowns over the last two games. Given the Bucs shorthanded offense, White figures to once again have a significant role in the offense on Monday night. This team is already without Jalen McMillan (neck) and Chris Godwin (leg), but might also be missing Mike Evans (hamstring) and Emeka Egbuka (hamstring) in Week 7. That being said, White could be asked to do more receiving work than normal. The 26-year-old figures to be heavily involved and should be a solid RB2 for this Week 7 contest.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 7,
+  "team": "TB",
+  "opp": "DET",
+  "att": 10,
+  "tgt": 6,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 38,
+  "receiving_catches": 4,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

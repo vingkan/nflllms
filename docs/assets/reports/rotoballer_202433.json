@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202433",
+  "title": "Derrick Henry has Another Touchdown and Costly Fumble",
+  "description": "Baltimore Ravens running back Derrick Henry racked up 50 yards on his 12 carries and scored a 28-yard touchdown run in the first quarter. He added a seven-yard catch on his only target, but he also had another costly fumble late in the game, when his team trailed 28-24 and was looking to drive for a potential score to take the lead. Instead, the Lions kicked a field goal after the fumble and went on to win 38-30. The Ravens dropped to 1-2 with the loss, and both their losses came in close games after late Henry fumbles. He and his team will look to bounce back next week, but they're in a tough matchup on the road against the Chiefs. While he has three touchdowns and 242 rushing yards through three games, his late-game fumbles are definitely becoming an issue and a storyline.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 4,
+  "team": "BAL",
+  "opp": "KC",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 42,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 43
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206455",
+  "title": "Jaret Patterson Secures Backup Role Again in Week 9",
+  "description": "Los Angeles Chargers running back Jaret Patterson has been elevated to the active roster for Week 9 against the Tennessee Titans, which means he'll likely serve as the backup to Kimani Vidal once again. The Bolts have been forced to make plenty of running back moves this season with Najee Harris (Achilles), Omarion Hampton (ankle), and Hassan Haskins (hamstring) all on injured reserve. Vidal has played quite well as the de facto lead back, but having someone like Patterson for a change of pace is important. He played 21 percent of the snaps last week, rushing for 30 yards on 11 carries. We could see him handle a similar workload if the Chargers take an early lead on the Titans and pull some starters, but it probably won't be enough to get Patterson on the fantasy radar unless he scores a touchdown. Managers can continue to leave him on waivers in most leagues.",
+  "player_id": 7537,
+  "player_name": "Jaret Patterson",
+  "week": 9,
+  "team": "LAC",
+  "opp": "TEN",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 44,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 41
+}

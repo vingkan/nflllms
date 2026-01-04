@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211105",
+  "title": "TreVeyon Henderson Keeps Impressing in Patriots Backfield",
+  "description": "New England Patriots rookie running back TreVeyon Henderson had arguably his best performance of the season last week in the loss to the Buffalo Bills. Henderson rushed the ball 14 times for 148 yards and scored two touchdowns versus Buffalo. The rookie back put the league on notice when he took over as the lead RB when Rhamondre Stevenson missed three games earlier in the season. Since Stevenson returned, the two backs have been splitting the workload in the backfield. Henderson has been the much more productive option with 60 rushing yards or more in each of his last five games. The expectation is that Henderson will continue to be fed the ball often because of his explosive playmaking abilities. He'll have RB1 upside against the Baltimore Ravens defense in Week 16.",
+  "player_id": 12529,
+  "player_name": "TreVeyon Henderson",
+  "week": 16,
+  "team": "NE",
+  "opp": "BAL",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

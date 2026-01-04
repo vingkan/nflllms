@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205738",
+  "title": "Chris Rodriguez Jr. A Touchdown-Dependent Option in Week 8",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. got back into the rotation in Week 7 against the Dallas Cowboys, handling three carries for 12 yards and scoring his first touchdown of the season. The touchdown came in garbage time, but it was an impressive play to reach across the goal line. Rodriguez played only one offensive snap in Week 6 against the Bears, but that could have been more related to his health, as he didn't practice at all during the week leading up to the game. He was cleared from the injury report ahead of Week 7 and should be all set for Monday night against the Chiefs. The 25-year-old has played almost exclusively on early downs this season for Washington and could mix in more with rookie Jacory Croskey-Merritt going forward. Rodriguez is a better play in standard leagues because he doesn't add much as a receiver. He could find success if he gets enough opportunities against a Chiefs run defense that ranks 22nd in rush success rate (42.6%).",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 8,
+  "team": "WAS",
+  "opp": "KC",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 70
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209585",
+  "title": "Dylan Sampson Labeled Day-to-Day With Calf Injury",
+  "description": "Cleveland Browns head coach Kevin Stefanski said on Monday that rookie running back Dylan Sampson (calf) is being considered day-to-day after suffering a calf injury in Sunday's loss to the San Francisco 49ers in Week 13, according to Zac Jackson of The Athletic. Sampson was injured in the third quarter of the 26-8 loss and never returned, giving way for Jerome Ford to see more work as the RB2 behind rookie starter Quinshon Judkins. Before leaving, the 21-year-old had four carries for 23 yards on the ground. It sounds like Sampson will have a chance to play in Week 14 against the Tennessee Titans, but it will depend on how much he's able to do in practice this week. Sampson doesn't have any standalone fantasy value while working behind Judkins in Cleveland's backfield, but he's a viable handcuff in deeper leagues. The Tennessee product has averaged just 2.7 yards per carry on 42 rushing attempts in his first 12 NFL games and has yet to score a rushing touchdown in 2025.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 14,
+  "team": "CLE",
+  "opp": "TEN",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 5,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 26
+}

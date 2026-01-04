@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204639",
+  "title": "Will Alvin Kamara's Volume Pay Off Against Chicago?",
+  "description": "New Orleans Saints running back Alvin Kamara turned 10 carries into just 31 yards, but had a season-best receiving game with five receptions for 45 yards in the loss to the Patriots. He continues to struggle establishing the run behind a Saints offensive line still developing chemistry, though he salvaged some value through the passing game. He has still only found the end zone once this season, which came back in Week 1 against the Cardinals. His 3.8 yards per carry is his second-lowest of his career, and his 72.6 total yards per game is also a career low. He remains a volume-based RB2 and will face a Bears defense in Week 7 that has allowed five rushing touchdowns through five games.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 7,
+  "team": "NO",
+  "opp": "CHI",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 28,
+  "receiving_catches": 3,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

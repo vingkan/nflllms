@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211064",
+  "title": "Devin Singletary a Top Handcuff Option in the Fantasy Playoffs",
+  "description": "New York Giants running back Devin Singletary was a popular waiver-wire addition following the team's Week 13 loss to the New England Patriots, when he recorded 102 scrimmage yards and a touchdown following Tyrone Tracy Jr.'s hip injury on a Monday night. Tracy had the Week 14 bye to heal up, though, and he returned as New York's clear lead back in Sunday's 29-21 loss to the Washington Commanders, leading the backfield with 15 carries for 70 yards and a touchdown. Tracy also caught all three of his targets for 27 yards and a second score through the air. Singletary was quiet, carrying the ball five times for only 13 yards and catching his only target for a one-yard gain. The lackluster day ended a stretch of three straight games with at least 40 rushing yards for the 28-year-old Singletary. Tracy will be the RB1 again in Week 16 versus the Vikings, but Singletary is a high-end handcuff option for fantasy managers for the final three weeks of the 2025 season.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 16,
+  "team": "NYG",
+  "opp": "MIN",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 1,
+  "receiving_yards": -1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 49
+}

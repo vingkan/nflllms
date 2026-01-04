@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210368",
+  "title": "Trey Benson Will Not Be Activated in Week 15, Will Not Return in 2025",
+  "description": "Arizona Cardinals running back Trey Benson (knee) will not be activated off Injured Reserve for the team's Week 15 matchup against the Houston Texans, according to ESPN's Adam Schefter. Since Benson will not return within his 21-day activation window, he will revert to season-ending IR and will not be eligible to return in 2025. Benson suffered a knee injury in Week 4 that was serious enough to land him on IR, but was not thought at the time to be season-ending. It's unclear whether the 23-year-old suffered a setback once his activation window was opened, or if the 3-10 Cardinals are simply choosing to be cautious with their potential running back of the future. Either way, Benson should now be completely off the radar of redraft fantasy managers for the remainder of 2025. His absence ups the value of Cardinals running backs Bam Knight and Michael Carter, who should continue to see the majority of the team's backfield snaps. Emari Demercado (ankle) could play a role in Arizona as well once he returns from the ankle injury that has sidelined him since Week 11.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

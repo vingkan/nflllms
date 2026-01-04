@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207873",
+  "title": "Blake Corum's Role Not Enough to Overcome Tough Matchup?",
+  "description": "Los Angeles Rams running back Blake Corum has taken on an expanded role lately, registering at least 12 carries in each of his last three games. He played at least one-third of the offensive snaps in two of those three contests. He's also averaging 4.4 yards per carry over the last two weeks. Despite taking on an expanded workload in his role behind Kyren Williams, Corum could be headed for an underwhelming performance in Week 11, even if he continues to log double-digit touches. Corum is rarely ever involved in the passing game, relying on his rushing stats to anchor his fantasy performances. That could backfire on Sunday against the Seahawks, who have allowed the fewest rushing yards, third-fewest rushing touchdowns, and seventh-fewest fantasy points to opposing running backs in 2025. They've been much softer against pass-catching running backs, but that's more of a factor for Williams than Corum, given their respective roles. Against a tough defense, Corum remains a mere handcuff and can be left on the bench in fantasy football.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 11,
+  "team": "LAR",
+  "opp": "SEA",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 61
+}

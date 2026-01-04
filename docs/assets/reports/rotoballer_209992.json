@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209992",
+  "title": "Saquon Barkley Looking to Snap Scoreless Streak",
+  "description": "Philadelphia Eagles running back Saquon Barkley has now gone four straight games without a touchdown, which is his longest scoring drought since 2021. Barkley has also seen a dip in usage over the last couple of weeks, averaging 11.5 carries in his last two outings compared to the 20 he was averaging in Weeks 7-11. Although, this could be chalked up to Philly having to play from behind in their recent back-to-back losses. In Week 14, Barkley faces off against a Chargers defense that allows 106.9 rushing yards per game and has given up 14 touchdowns on the ground through 12 games. It's no daunting matchup, and the reigning Offensive Player of the Year is due for a boom game. As long as the Eagles don't find themselves in too big of a hole in this contest-which they shouldn't-bank on Barkley to find his footing again despite the rough patch. He's a low-end RB1 this week.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 14,
+  "team": "PHI",
+  "opp": "LAC",
+  "att": 20,
+  "tgt": 2,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 122,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 7
+}

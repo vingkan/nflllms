@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208891",
+  "title": "Christian McCaffrey Erupts For 142 Yards, Touchdown in Monday Night Win",
+  "description": "San Francisco 49ers running back Christian McCaffrey handled another massive workload in Monday night's 20-9 win over the Carolina Panthers, recording 24 carries for 89 yards and a touchdown to go with seven catches (seven targets) for 53 yards in the pass game. McCaffrey now has 298 touches on the season after another 31 in Week 12 against his former team, with Jonathan Taylor being the next closest player at 237. The superstar running back also leads the league in receptions with 81. McCaffrey continues to be one of the top options in all of fantasy football as the engine of San Francisco's offense and a security blanket for quarterback Brock Purdy, who struggled throwing downfield in this game with three interceptions in the first half. McCaffrey will rank as an elite RB1 in Week 13 against the Cleveland Browns.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 13,
+  "team": "SF",
+  "opp": "CLE",
+  "att": 20,
+  "tgt": 4,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 53,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206448",
+  "title": "Kyle Monangai Becomes Interesting Option for Week 9",
+  "description": "Chicago Bears running back Kyle Monangai is set to be the lead back for Sunday's Week 9 matchup against the Cincinnati Bengals. The rookie back has seen an increased role in recent weeks, but will be the primary focus in the running back this weekend. The Bears will be without D'Andre Swift (groin), so Monangai will get a chance to show what he can do. The 23-year-old rushed for 81 yards on 13 attempts and scored a touchdown in Week 7. Given bye weeks and injuries, Monangai could offer RB2 value for this weekend.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 9,
+  "team": "CHI",
+  "opp": "CIN",
+  "att": 26,
+  "tgt": 5,
+  "touches": 31,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 176,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 3
+}

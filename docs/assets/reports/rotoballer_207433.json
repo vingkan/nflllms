@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207433",
+  "title": "Chase Brown Looks to Build off Eight-Catch Performance",
+  "description": "Cincinnati Bengals running back Chase Brown is looking to build off a strong performance he had as a receiver in Week 9. Brown hauled in eight of his 14 targets for 75 yards during their loss to the Chicago Bears. The 25-year-old struggled with only 37 yards on the ground, but the eight receptions helped save his fantasy value. The Bengals had a bye week this past weekend, but head into a matchup against the Pittsburgh Steelers in Week 11. Brown rushed for over 100 yards during their last matchup in Week 7. The Bengals are going to be without Samaje Perine (ankle) for a few weeks. That being said, Brown figures to see almost all the work in the backfield. He played 96 percent of the offensive snaps during the loss to the Bears. Brown should be a focal point in this offense going forward.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 11,
+  "team": "CIN",
+  "opp": "PIT",
+  "att": 18,
+  "tgt": 8,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 99,
+  "receiving_catches": 6,
+  "receiving_yards": 28,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 12
+}

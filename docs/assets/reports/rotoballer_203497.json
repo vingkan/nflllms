@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203497",
+  "title": "Julius Chestnut's Role Shrinking as Teammate Returns?",
+  "description": "Tennessee Titans running back Julius Chestnut could be headed for a reduced workload in Week 5 despite a favorable matchup against the Arizona Cardinals. Chestnut has operated as a backup to Tony Pollard through the first four weeks of the season. While his usage has been relatively modest given that Pollard leads all NFL running backs in snap share, Chestnut has still been his backup and did see the field in every game, logging five total carries. That marginal usage could drop to no usage as soon as Tyjae Spears (ankle) returns to game action. Spears is currently on injured reserve but has been designated to return and is questionable for Week 5. Chestnut's already limited opportunity share would surely disappear entirely as soon as another reliable, proven player like Spears is added to the backfield. If Spears plays Sunday, Chestnut, 24, might not touch the ball. Even if he remains on IR, though, the Sacred Heart product is due for just a couple of touches and remains off the fantasy radar.",
+  "player_id": 8254,
+  "player_name": "Julius Chestnut",
+  "week": 5,
+  "team": "TEN",
+  "opp": "ARI",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 69
+}

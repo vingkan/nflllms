@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207644",
+  "title": "Jacory Croskey-Merritt in Jeopardy of Losing Lead-Back Touches?",
+  "description": "Washington Commanders rookie running back Jacory Croskey-Merritt entered Week 10 against the Detroit Lions as the second back to receive touches behind Chris Rodriguez Jr. Although Croskey-Merritt finished the game with 11 carries and played 44 percent of the snaps, prior to Rodriguez leaving the game early due to a shoulder injury, Rodriguez had played 72% of the snaps in the first half, compared to Croskey-Merritt's 16%. As a result of the injury to Rodriguez and the game being out of hand, Croskey-Merritt ended up playing 65.4% of snaps in the second half. This is perhaps why some fantasy managers may believe Croskey-Merritt is still the lead-back. It may continue to be a backfield split moving forward; however, at this time, Rodriguez practiced all week and is expected to play Sunday, and is in line to have lead-back duties. As a result, this makes Croskey-Merritt someone who can't be trusted heading into Week 11. The Commanders play the Miami Dolphins in Spain on Sunday, which should set up to be a strong matchup on paper for him, Rodriguez, making him an RB3/flex option in Week 11.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 11,
+  "team": "WAS",
+  "opp": "MIA",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 46
+}

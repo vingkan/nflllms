@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204874",
+  "title": "Saquon Barkley Seeking an Uptick in Touches Against Vikings",
+  "description": "Philadelphia Eagles running back Saquon Barkley had his second-lowest total yard count (67) of the season last week against the Giants and will look to bounce back this Sunday against the Vikings. Barkley has also seen less touches recently, with his two lowest rush attempt tallies coming in the last two weeks. On the bright side, Minnesota has the ninth-worst run defense in the league, allowing an average of 132.2 yards per game. And with Philly losing each of their last two contests, they could very well turn back to their superstar RB to rely on for production. View Barkley as a bonafide RB1 once again in Week 7.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 7,
+  "team": "PHI",
+  "opp": "MIN",
+  "att": 18,
+  "tgt": 1,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

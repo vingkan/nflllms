@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209341",
+  "title": "Could Bad Weather Be Good For Brian Robinson Jr.?",
+  "description": "San Francisco 49ers running back Brian Robinson Jr.'s fantasy value faces a hard cap in his change-of-pace role behind Christian McCaffrey. With the offense flowing through McCaffrey to the tune of nearly 25 touches per game, on average, those changes of pace are few and far between. To his credit, Robinson has been effective when on the field, logging 4.7 yards per carry in 2025. In Week 13, the 49ers travel to Cleveland to face the Browns. With strong winds, rain, and snow in the forecast, San Francisco will likely lean into the run game, which could provide Robinson a few more opportunities than usual. He can be avoided in most formats, but could be of use in deep leagues on Sunday.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 13,
+  "team": "SF",
+  "opp": "CLE",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 26,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 61
+}

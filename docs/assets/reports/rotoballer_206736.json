@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206736",
+  "title": "Ty Johnson Worth a Look on the Waiver Wire?",
+  "description": "Buffalo Bills running back Ty Johnson could become an interesting mid-week waiver-wire pickup heading into Week 10 against the division-rival Miami Dolphins on Sunday after it was announced on Wednesday that starting RB James Cook (ankle, foot) is not practicing. Johnson only played 20% of the offensive snaps in the Week 9 win over the Kansas City Chiefs and had just two carries, but he was able to fall into the end zone for his first touchdown of 2025. The 28-year-old has also been Buffalo's preferred choice as the backup to Cook this year over Ray Davis, who played just 5% of the snaps last weekend. If Cook's injury is serious enough to sideline him this weekend, the Bills would likely split backfield touches between Johnson and Davis, but at the very least, fantasy managers should be keeping a close eye on this situation over the next few days. Johnson has only 17 carries on the year for 72 yards and one TD.",
+  "player_id": 6039,
+  "player_name": "Ty Johnson",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

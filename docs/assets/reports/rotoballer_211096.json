@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211096",
+  "title": "Josh Jacobs Intends to Play Against Bears on Saturday",
+  "description": "Green Bay Packers running back Josh Jacobs (knee), who was walking with a significant limp in the locker room while wearing a stimulation bracelet around his injured knee, made it clear on Tuesday that he \"intends to play in Chicago\" on Saturday against the division-rival Bears, per Ryan Wood of USA Today Sports. \"For me, it's harder to watch games than it is to play hurt,\" Jacobs said. The 27-year-old played through a questionable tag in Sunday's loss to the Denver Broncos and had 12 carries for 73 yards and a touchdown while adding two receptions for 19 yards and the second receiving TD of his career. It's an injury he's been dealing with since Nov. 16 against the New York Giants. Jacobs missed the following game but has been active each of the last three weeks. All signs point to him being active in Chicago, where he'll be a must-start RB1 in fantasy football.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 16,
+  "team": "GB",
+  "opp": "CHI",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 2,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 53
+}

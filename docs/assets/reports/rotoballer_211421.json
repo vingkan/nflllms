@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211421",
+  "title": "Tyjae Spears Seeing Fewer Opportunities Amid Teammate's Breakout",
+  "description": "Tennessee Titans running back Tyjae Spears has dealt with a reduced role lately as Tony Pollard earns a heavy dose of touches. Pollard was relatively disappointing from Week 5, when Spears returned from injured reserve, through Week 13. However, in Week 14, he broke out against a relatively strong Browns run defense, and he had another big showing last Sunday against the San Francisco 49ers. Through those two games, Pollard has totaled an absurd 265 rushing yards and three rushing touchdowns on 39 carries. As a result of his teammate's sudden breakout, Spears has been left in nothing more than a change-of-pace role. In his last two games, Spears has just 11 carries for 53 yards. He has two catches in each of those contests, setting a new season-low mark. We expect that this backfield will belong to Pollard once again in Week 16 against the Chiefs, leaving Spears off the fantasy radar. He ranks as the overall RB50 in RotoBaller's fantasy rankings for Week 16.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 16,
+  "team": "TEN",
+  "opp": "KC",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 52,
+  "receiving_catches": 5,
+  "receiving_yards": 53,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 12
+}

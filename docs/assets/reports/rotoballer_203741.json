@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203741",
+  "title": "Saquon Barkley Salvages Low-Volume Day With Receiving Touchdown",
+  "description": "Philadelphia Eagles running back Saquon Barkley wasn't a big part of the game plan in the team's first loss of the season on Sunday against the visiting Denver Broncos in Week 5. Barkley had only six rushing attempts for 30 yards on the ground, but he salvaged his day for fantasy managers with three catches (three targets) for an additional 58 yards and a 47-yard receiving touchdown, his first receiving score of the year. It was some concerning usage for Barkley in a game that the Eagles led by multiple scores late into the second half. Barkley's previous low this year for rushing attempts has been 18. Perhaps it's all part of Philly's plan as they head into a short turnaround in Week 6 in a divisional clash against Barkley's former team, the New York Giants. If the 28-year-old isn't used as more of a bell-cow back in that one, fantasy managers will be even more worried.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 6,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 23
+}

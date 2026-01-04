@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208822",
+  "title": "Kareem Hunt to Maintain Lead Role in Kansas City Backfield Going Forward?",
+  "description": "Kansas City Chiefs running back Kareem Hunt was an absolute workhorse in Week 12, recording 30 carries for 104 yards and a touchdown and three catches for 26 yards in his team's overtime win over the Indianapolis Colts. With Isiah Pacheco (knee) sidelined by a knee injury, the Chiefs have leaned on Hunt as their feature back in recent weeks. Pacheco has a chance to return for Kansas City's Week 13 matchup against the Dallas Cowboys on Thanksgiving Day. However, even when Pacheco returns, Hunt could maintain his status as the lead back in Kansas City. While Hunt hasn't been particularly efficient this season (3.9 yards per carry), he's been a reliable goal-line presence (seven rushing touchdowns). In any fantasy league where Hunt remains available on the waiver wire, he should be a priority target for fantasy managers heading into Week 13.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 13,
+  "team": "KC",
+  "opp": "DAL",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 58,
+  "receiving_catches": 1,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 39
+}

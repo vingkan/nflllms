@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207200",
+  "title": "Rachaad White Remains Lead Back for Week 10",
+  "description": "Tampa Bay Buccaneers running back Rachaad White will remain as the lead back for at least one more week. White is set to make his fifth straight start with Bucky Irving (shoulder, toe) ruled out for this Week 10 matchup against the New England Patriots. During that time, White has seen a significant increase in playing time which has resulted in increased fantasy value. The downside is, White really hasn't found much success on the ground with 41 rushing yards or fewer in three of those four games. He comes into a tough matchup against a Pats defense that has done well against the run. The 26-year-old will likely need to get involved through the air in order to offer RB2 value this weekend.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 10,
+  "team": "TB",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 5,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 27
+}

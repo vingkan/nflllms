@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207152",
+  "title": "Saquon Barkley Cleared From Final Injury Report, Good To Go For Monday",
+  "description": "Philadelphia Eagles running back Saquon Barkley (groin) is off the final injury report and is set to play on Monday night against the Green Bay Packers, according to Tom Pelissero of NFL Network. Barkley practiced in full every day this week after tweaking his groin during the Eagles' Week 8 win over the New York Giants, but had the bye week to recover and won't miss any time to the injury. Fantasy managers can exhale with the positive news regarding the Eagles' star running back, who is coming off easily his best performance of the season, rushing for 150 yards and a touchdown on 14 carries and adding four catches (five targets) for 24 yards as a receiver. Barkley will look to build on the strong performance in Week 10 against a Green Bay Packers defense that has struggled to defend the run since their Week 5 bye, ranking 25th in rushing success rate. Barkley is a rock-solid RB1 for Monday Night Football.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 10,
+  "team": "PHI",
+  "opp": "GB",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

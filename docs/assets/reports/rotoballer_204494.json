@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204494",
+  "title": "Blake Corum Considered Day-to-Day",
+  "description": "Los Angeles Rams head coach Sean McVay said that running back Blake Corum (ankle) is considered day-to-day after injuring his ankle in the 17-3 victory over the Baltimore Ravens in Week 6 on Sunday, according to Wyatt Miller. Corum will be monitored throughout the week, but the Rams are hopeful that Corum will be available for the Week 7 contest in London on Sunday when they take on the Jacksonville Jaguars. Corum's availability for the international game will depend on whether he can get back on the practice field this week, starting on Wednesday. Even if Corum practices this week and is active against Jacksonville, though, he won't have any standalone starting value for fantasy managers behind starter Kyren Williams. And if Corum needs more time, rookie Jarquez Hunter would be elevated to the backup role this coming Sunday.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 7,
+  "team": "LAR",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 37,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

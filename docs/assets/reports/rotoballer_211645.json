@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211645",
+  "title": "Raheim Sanders Carries the Load After Judkins Exits Early in Week 16",
+  "description": "Cleveland Browns rookie running back Raheim Sanders led the Browns' backfield after rookie running back Quinshon Judkins (ankle, leg) left the game early due to an injury during Sunday's Week 16 loss against the Buffalo Bills. Sanders substituted in as the early downs back and turned his 11 rushing attempts into 42 yards. He also brought in one reception for four yards, but running back Trayveon Williams saw the majority of the backfield's passing opportunities. The Cleveland Browns will host the Pittsburgh Steelers in Week 17, who are a tough matchup for opposing running backs. With rookie running back Dylan Sampson (hand) still managing an injury and Judkins at risk of missing the rest of the season, Sanders may emerge as the starter against the Steelers.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 17,
+  "team": "CLE",
+  "opp": "PIT",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

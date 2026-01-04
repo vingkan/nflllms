@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210073",
+  "title": "Dylan Sampson Questionable for Week 14, Risky Start if Active",
+  "description": "Cleveland Browns rookie running back Dylan Sampson (calf) is questionable to play in his team's Week 14 matchup against the Tennessee Titans due to a calf injury. Sampson missed practice on Wednesday and Thursday but was able to return to the practice field on Friday. The 21-year-old has done most of his work this season as a receiver while working as the RB2 in Cleveland behind fellow rookie Quinshon Judkins. In his final full game before getting injured back in Week 12, Sampson recorded two catches for 59 yards and a touchdown on three targets against the Las Vegas Raiders. His matchup against the Titans in Week 14 is favorable on paper, as Tennessee currently ranks 26th among NFL defenses in yards per carry allowed (4.6). However, Sampson's injury and workload uncertainty should lead to him being off fantasy radars in Week 14.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 14,
+  "team": "CLE",
+  "opp": "TEN",
+  "att": 2,
+  "tgt": 6,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 5,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 26
+}

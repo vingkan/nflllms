@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210693",
+  "title": "Bhayshul Tuten a Volatile Flex Play With Great Matchup",
+  "description": "Jacksonville Jaguars running back Bhayshul Tuten has had a disappointing few weeks after a season-high 74 rushing yards in Week 11, but hope springs eternal this weekend thanks to a date with the Jets' generous rush defense. Pessimists will point to Tuten's failure to crack 20 total yards in each of the last three games, while optimists can hang their hat on how complementary backs have fared against the Jets lately. Both Jaylen Wright and Ollie Gordon II scored last week, while Tyler Allgeier found paydirt the week before that, and all after the elite starters had scored themselves. It's been a few weeks since Tuten has appeared on Jacksonville's injury report with an ankle issue, so we must assume he's in a position to capitalize here. There's no skirting the low floor that he's shown in recent games, but Tuten's potential ceiling in a game that Jacksonville could run away with makes for a mighty double-edged sword for those needing a flex play to wield.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 15,
+  "team": "JAX",
+  "opp": "NYJ",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 7,
+  "receiving_catches": 1,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 33
+}

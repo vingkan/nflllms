@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205252",
+  "title": "Woody Marks Scores Late in Monday's Loss",
+  "description": "Houston Texans running back Woody Marks led the backfield in carries on Monday Night Football, and even though he wasn't very efficient, he saved his fantasy day with a late touchdown as a receiver. Marks played 61% of snaps and had 10 of the team's 15 running back carries against the Seahawks. He only had 15 rushing yards on those 10 carries, though, while quarterback C.J. Stroud led the team with 25 rushing yards on his two carries. Marks found the end zone on one of his three catches on five targets for 20 receiving yards. While his rushing total is disappointing, his workload is a positive sign moving forward that the fourth-round pick from USC maintains his role in a timeshare. Nick Chubb will still get early down work, but Marks seems to be the go-to option on passing downs and brings nice RB2 upside as a result. The Texans are home next week against the 49ers.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 8,
+  "team": "HOU",
+  "opp": "SF",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 4,
+  "receiving_yards": 49,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

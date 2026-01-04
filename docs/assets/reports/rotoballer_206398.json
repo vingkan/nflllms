@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206398",
+  "title": "Ashton Jeanty Faces Another Stiff Test in Week 9",
+  "description": "Las Vegas Raiders rookie running back Ashton Jeanty will battle the Jacksonville Jaguars in Week 9 on Sunday. Jacksonville's defense ranks eighth against fantasy running backs this season, but the Raiders will look to get Jeanty involved early in what should be an evenly matched game. The team has also been trending towards higher usage for Jeanty in the passing game, and they should continue to put their best playmaker in situations where he is operating in space. Jeanty's workload should remain high following the bye week, making him a safe low-end RB1 option.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 9,
+  "team": "LV",
+  "opp": "JAX",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 42,
+  "receiving_catches": 5,
+  "receiving_yards": 47,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 5
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208786",
+  "title": "Kareem Hunt Totals 33 Touches in Productive Outing Sunday",
+  "description": "Kansas City Chiefs running back Kareem Hunt had 33 carries for 104 rushing yards and one touchdown during Sunday's Week 12 win over the Indianapolis Colts. He also caught all three of his targets for an additional 26 receiving yards. The veteran running back hadn't handled more than 13 carries or 14 touches in a single game this season, so it was a bit surprising to see him finish with more than double both of those totals. The increased volume led to inflated counting stats, so while his 3.5 yards per carry aren't very intriguing, he still racked up enough yardage to produce as a top-12 running back in fantasy football this week. Isiah Pacheco (knee) could return next week and complicate the backfield dynamic, but Hunt should still be able to carve out a role for himself with standalone value as an RB3/flex.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 13,
+  "team": "KC",
+  "opp": "DAL",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 58,
+  "receiving_catches": 1,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 39
+}

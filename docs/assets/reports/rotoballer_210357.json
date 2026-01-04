@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210357",
+  "title": "Jaylen Wright to See More Opportunities Moving Forward?",
+  "description": "Miami Dolphins running back Jaylen Wright recorded his first career 100-yard game in the Week 14 win over the New York Jets, handling 24 carries for 107 yards and a touchdown. Wright dominated the touches in Miami's backfield after De'Von Achane (ribs) left in the second quarter due to a rib injury. Entering Week 14, the 22-year-old running back had only played 37 snaps with 18 carries in five games this season, but he leapfrogged rookie Ollie Gordon II against the Jets. With Achane going out, the second-year back played 37 snaps and set a career high with 24 carries. Head coach Mike McDaniel said Achane could have returned to the game, but he also said Monday that Achane may require additional rest. With Achane's status for Week 15 against the Pittsburgh Steelers in question, Wright could be in line for another workhorse-type role. He'd profile as a plug-and-play RB2 in Week 15 if Achane is ruled out.",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 65
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203918",
+  "title": "Kimani Vidal Offers Flex Appeal in Week 6",
+  "description": "Los Angeles Chargers second-year running back out of Troy University, Kimani Vidal, is expected to step up in Week 6 after Omarion Hampton (ankle) was placed on injured reserve over the past week, and (Vidal) offers flex appeal as the Chargers travel to Miami to take on the Dolphins, who rank in the bottom five against opposing running backs in fantasy football. Vidal will likely be in a timeshare with fourth-year running back Hassan Haskins, who played at Michigan, where head coach Jim Harbaugh coached. Reports have yet to suggest that either running back will get the full workload, but based on past usage, Vidal is the younger, more pass-catching, third-down back, while Haskins should see carries on early downs. With how pass-happy the Chargers have been in 2025, throwing 62.58% of the time, in PPR leagues, Vidal should see four to six targets in the pass game, along with five to 10 carries, offering him some flex appeal in Week 6.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 124,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

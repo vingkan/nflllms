@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206099",
+  "title": "Kimani Vidal Thriving as Chargers' Lead Back",
+  "description": "Los Angeles Chargers running back Kimani Vidal has taken over the starting role in Omarion Hampton's absence and made the most of it. Over his three starts, Vidal has logged 50 carries for 261 yards (5.2 YPC) and a touchdown, adding 39 yards and another score through the air. During that span, he's averaged 16.7 PPR points per game, ranking as the RB7. Vidal has handled roughly 70% of the snaps, with Hassan Haskins filling in on about 30%. That kind of workload in the Chargers' explosive offense gives the 2024 sixth-round pick significant upside. The Week 9 matchup is especially appealing, as the Titans have surrendered the second-most fantasy points to running backs this season. With no clear timetable for Hampton's return, Vidal should continue to command the backfield and deliver strong fantasy production.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 9,
+  "team": "LAC",
+  "opp": "TEN",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 45
+}

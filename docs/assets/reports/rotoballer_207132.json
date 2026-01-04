@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207132",
+  "title": "Bam Knight A Low-End Flex Option For Week 10 Matchup Versus Seahawks",
+  "description": "Arizona Cardinals running back Bam Knight has operated as the team's lead back over the past three games, recording 34 carries for 118 yards and a touchdown and adding six receptions (eight targets) for 47 yards. Knight has played 104 total snaps since Week 6, with the next closest Cardinals running back being Michael Carter at 57, but he didn't record a single snap in their Week 9 win over the Dallas Cowboys. The 25-year-old Knight was out-gained by Emari Demercado in that game, but saw a season high in snap share of 56.9% to Demercado's 40%. It looks like Arizona is trending toward becoming a split two-man backfield between Knight and Demercado, but nothing is set in stone. Head coach Jonathan Gannon has been tight-lipped about how they will distribute the running back touches week to week, but Knight should again be expected to lead Arizona's backfield on early downs in a tough Week 10 matchup against a Seahawks defense that is allowing a league-best 3.5 yards per carry.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 10,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 10,
+  "tgt": 4,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 44
+}

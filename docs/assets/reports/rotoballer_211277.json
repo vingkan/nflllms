@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211277",
+  "title": "Jeremy McNichols Loses Value in Week 16",
+  "description": "Washington Commanders running back Jeremy McNichols surprisingly drew the start last week against the New York Giants with Chris Rodriguez Jr. (groin) sidelined and handled all the snaps on the opening drive of the game. Rookie Jacory Croskey-Merritt took over the bulk of the carries for the remainder of the game and proved to be the far more effective runner, producing 96 yards on 18 carries compared to McNichols with six yards on nine carries. The veteran handled a season-high 10 touches, but totalled only 22 yards and also lost a fumble with less than three minutes remaining in the game with Washington up 29-21, giving the Giants a shot to tie the game. With Rodriguez set to play on Saturday against the Philadelphia Eagles, McNichols should return to his normal duties as the primary third-down back. He profiles only as a deep-league dart throw in PPR formats in Week 16.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 16,
+  "team": "WAS",
+  "opp": "PHI",
+  "att": 1,
+  "tgt": 3,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 51
+}

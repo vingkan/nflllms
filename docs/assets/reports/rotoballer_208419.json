@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208419",
+  "title": "Kimani Vidal to Lose Starting Gig After the Bye?",
+  "description": "Los Angeles Chargers running back Kimani Vidal has been up and down as the team's primary rushing option over the previous few weeks. However, LA's backfield is due for a shift with teammate Omarion Hampton (ankle) working his way back to full health. Consistency has been an issue for Vidal, posting three outings of 95 or more rushing yards that were followed up with a performance of 30 or fewer. He was a fine fill-in while the team dealt with a myriad of injuries, but is set to see his touch share drop significantly as the rookie was expected to return at some point after the Chargers' bye week. It isn't a guarantee that Hampton will play when the team lines up against the Raiders in Week 13, meaning Vidal may have another week or two where he's playable. Still, his time as a viable fantasy asset is running thin.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 25,
+  "tgt": 1,
+  "touches": 26,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 126,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

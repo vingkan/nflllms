@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210734",
+  "title": "D'Andre Swift a Low-End RB2 Against Browns",
+  "description": "Chicago Bears running back D'Andre Swift has been having a standout season as he approaches the final four weeks. In 12 games, Swift has accumulated 1093 total yards and six touchdowns, ranking him as the RB17 on a per-game basis. His season could be even better if it weren't for the rise of rookie Kyle Monangai. Both Swift and Monangai have each had 60 carries over the last four games and have been nearly equal in snap share since Week 8. Although the Bears are among the most run-oriented teams in the NFL, this committee approach will likely make Swift an inconsistent fantasy option moving forward. He faces a Browns defense that's been tough against the run this season but just allowed 161 rushing yards to Titans running back Tony Pollard last week. As the fantasy playoffs approach, it will be tough to bench the veteran, but expectations against the Browns should be tempered.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 15,
+  "team": "CHI",
+  "opp": "CLE",
+  "att": 18,
+  "tgt": 1,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 98,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 7
+}

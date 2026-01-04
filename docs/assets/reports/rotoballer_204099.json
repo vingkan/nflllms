@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204099",
+  "title": "Alvin Kamara Questionable to Play in Week 6 Due to Ankle Injury",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is questionable to play in the team's Week 6 game against the New England Patriots, according to Rod Walker of The New Orleans Advocate. Kamara has been listed as a limited practice participant this week after suffering an ankle injury during practice on Wednesday. The 30-year-old has recorded 360 scrimmage yards and one touchdown on 90 total touches. If he were unable to play in Week 6, Saints running back Kendre Miller would be in line for a significant workload increase. Assuming Kamara can suit up, he profiles as a high-end RB3/flex option in Week 6 against New England.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 31,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 14
+}

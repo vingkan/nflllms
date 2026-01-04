@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210090",
+  "title": "Omarion Hampton Activated From IR, Faces Uncertain Workload Monday Night",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton (ankle) has been activated off Injured Reserve and is set to return to the field for Monday night's game against the Philadelphia Eagles after missing seven games with a fractured ankle. Before the injury, Hampton was impressive, averaging 4.8 YPC across five games. The matchup is favorable, as the Eagles' rush defense was just gashed for 281 yards and may be without defensive tackle Jalen Carter. With quarterback Justin Herbert questionable, this game is likely to be a run-heavy contest favored by Offensive Coordinator Greg Roman. However, with Kimani Vidal having impressed and Hassan Haskins (hamstring) also in the mix, the Chargers are likely to ease Hampton back in and limit his carries. He should not be relied upon as a bell-cow in his first game back and is best viewed as a low-end RB2 due to the uncertainty around his workload.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 14,
+  "team": "LAC",
+  "opp": "PHI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

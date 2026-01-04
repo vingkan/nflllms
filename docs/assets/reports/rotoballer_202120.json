@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202120",
+  "title": "Jeremy McNichols Set Up For Larger Role in Week 3",
+  "description": "Washington Commanders running back Jeremy McNichols will likely see more work as the team's primary pass-down back in Week 3 against Las Vegas. With Austin Ekeler lost for the season, McNichols is the most capable option to step in and try to match his production. McNichols has shown to be very stout as a pass blocker and has earned the coaches' trust in that aspect. His role will likely be mostly on third-downs and occasionally mixing in for Jacory Croskey-Merritt and Chris Rodriguez Jr. McNichols will be alongside Marcus Mariota, who is filling in for an injured Jayden Daniels. McNichols earned some snaps with Mariota last season against Carolina and had a solid day, rushing for 42 yards on seven carries. McNichols is worth keeping an eye on to see what the Washington backfield looks like without Ekeler, but he shouldn't be in many Week 3 lineups.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 3,
+  "team": "WAS",
+  "opp": "LV",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 78,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

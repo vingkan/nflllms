@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201311",
+  "title": "Tony Pollard Remains Likely to Dominate Backfield Touches in Tennessee",
+  "description": "Tennessee Titans running back Tony Pollard did not have his most efficient game in Week 1 against the Denver Broncos, rushing for 60 yards on 18 carries and recording one catch for 29 yards. Still, Pollard received 90% of the running back carries for Tennessee in Week 1, a trend that figures to continue as long as Titans RB2 Tyjae Spears (ankle) remains on Injured Reserve due to a high ankle sprain. Pollard gets a tough matchup in Week 2 against the Los Angeles Rams, who allowed just nine points to the Houston Texans in Week 1. However, Houston gained 127 yards on the ground, and lead back Nick Chubb averaged 4.6 yards per carry. Expect Tennessee to lean on Pollard to ease the pressure on rookie quarterback Cameron Ward and slow down a formidable Rams' pass rush. Pollard is a volume-based low-end fantasy RB2 in Week 2.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 2,
+  "team": "TEN",
+  "opp": "LAR",
+  "att": 20,
+  "tgt": 1,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 92,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 33
+}

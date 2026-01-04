@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209355",
+  "title": "Blake Corum Remains in Handcuff Role for Week 13",
+  "description": "Los Angeles Rams running back Blake Corum continues to carve out a modest role behind Kyren Williams. However, the bulk of his volume has been short-yardage runs, leaving him off the fantasy radar in most leagues. Over the last two weeks, Corum has a respectable 15 carries, but he has totaled just 34 rushing yards (2.27 yards per carry). He also has zero touchdowns and just one reception during that span. Williams remains the clear lead-back in Los Angeles, which leaves Corum as a bench-worthy running back in most fantasy leagues. Even against the Panthers, who have allowed the eighth-most rushing yards and seventh-most fantasy points to running backs in 2025, Corum isn't a dependable fantasy option. He ranks as the overall RB49 in this week's RotoBaller fantasy rankings.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 13,
+  "team": "LAR",
+  "opp": "CAR",
+  "att": 7,
+  "tgt": 0,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 81,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 19
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210081",
+  "title": "Tony Pollard Tough to Trust in Difficult Week 14 Matchup",
+  "description": "Across 12 games this season, Tennessee Titans running back Tony Pollard has recorded 753 scrimmage yards and two touchdowns on 177 touches. The 28-year-old has earned double-digit touches in every contest, but has not seen more than 15 in any game since Week 5. Since Tennessee's Week 10 bye, Pollard has played 95 offensive snaps while fellow Titans back Tyjae Spears has played 92. Given the nearly dead-even playing time split and the overall struggles of the Tennessee offense, Pollard's production upside has a firm ceiling. Additionally, the Titans have a tough matchup in Week 14 against the Cleveland Browns. Entering the week, Cleveland ranks second among all NFL defenses in yards per carry allowed (3.7). Pollard profiles as a deep-league flex option at best for fantasy managers in Week 14.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 14,
+  "team": "TEN",
+  "opp": "CLE",
+  "att": 25,
+  "tgt": 0,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 161,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 28,
+  "ppr_scoring_position_rank": 2
+}

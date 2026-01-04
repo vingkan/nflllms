@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212145",
+  "title": "Chuba Hubbard is off the Fantasy Radar for Week 17",
+  "description": "Chuba Hubbard trudged through another underwhelming performance in Week 16 against the Buccaneers. The Carolina RB had six carries for 27 yards. He also added one reception for seven yards and finished the game with 4.4 PPR points. It was Hubbard's second consecutive game with five or fewer PPR points. In Week 17, the Panthers will face the Seahawks. Seattle ranks seventh in Fantasy Points Per Game allowed to RBs this year. Hubbard does not offer much fantasy appeal this week with a tough matchup, and he has not seen enough consistent volume overall this season. Outside of Week 13, Hubbard has not logged more than 10 carries in a game since Week 8. He is fully off the fantasy radar for Week 17.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 17,
+  "team": "CAR",
+  "opp": "SEA",
+  "att": 4,
+  "tgt": 3,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 12,
+  "receiving_catches": 3,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 57
+}

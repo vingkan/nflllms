@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207762",
+  "title": "Ollie Gordon II Ready to Roll in Week 11",
+  "description": "Miami Dolphins running back Ollie Gordon II has been working through a knee injury and may have lost some playing time as a result. He has been limited in practice leading up to the Dolphins' Week 11 matchup against the Commanders in Madrid, but he does not have an injury designation this week. Last week, when he was listed as questionable, the rookie only played three snaps and had one carry, while Jaylen Wright played 10 snaps and had five carries. The two will continue to back up De'Von Achane, but since Achane is the focus of the offense, the work behind him is very limited. In Week 11, Gordon is the No. 52 RB in RotoBaller's rankings, leaving him buried on the bench or the waiver wire in all but the deepest formats.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 11,
+  "team": "MIA",
+  "opp": "WAS",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 45,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

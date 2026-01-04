@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203427",
+  "title": "Rachaad White Offers Flex Appeal",
+  "description": "Tampa Bay Buccaneers running back Rachaad White will move into the lead back role for Sunday's Week 5 matchup against the Seattle Seahawks. The Bucs will be without Bucky Irving (foot) for at least Sunday's game, but possibly longer. That being said, White will get a chance to make an impact after a slow start to the season. Through four games, White has rushed the ball 23 times for 108 yards with one touchdown while hauling in eight receptions for an additional 34 yards through the air. At times, White has shown the ability to be a capable dual-threat back. He'll get a favorable matchup against the Seattle defense this weekend. White should see enough touches to be able to provide flex value for Week 5.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 5,
+  "team": "TB",
+  "opp": "SEA",
+  "att": 14,
+  "tgt": 4,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 41,
+  "receiving_catches": 4,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 7
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206830",
+  "title": "James Cook Back on the Field on Thursday",
+  "description": "Buffalo Bills running back James Cook (ankle, foot) was seen at the portion of practice open to the media on Thursday after not practicing on Wednesday, according to Sal Capaccio. Fantasy managers might have been running to the waiver wire on Wednesday to pick up Ty Johnson or Ray Davis after news broke that Cook didn't practice due to an ankle/foot injury. The 26-year-old has returned to practice, but there is still some uncertainty about his status for Sunday's divisional matchup against the Miami Dolphins. Cook may need a full practice this week to avoid a questionable tag. If he were to be limited or out altogether in Miami in Week 10, Johnson and Davis would likely split backfield touches for the Bills. Cook is on his way to a third straight Pro Bowl appearance in 2025, collecting 867 rushing yards and seven touchdowns on 153 carries after leading the NFL with 16 rushing scores a year ago. He currently leads the NFL with 5.7 yards per tote and 108.4 rushing yards per game. UPDATE: Cook was limited on Thursday.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 5,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 25
+}

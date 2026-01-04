@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210438",
+  "title": "Bam Knight Locked into Lead Role for Rest of the Season?",
+  "description": "Arizona Cardinals running back Bam Knight has operated as the team's primary running back this season after injuries to James Conner (foot) and Trey Benson (knee). Benson's season has come to an end after not being activated off Injured Reserve within his 21-day activation window. Knight has taken advantage of his opportunities in Benson's absence, sharing backfield duties with Michael Carter and Emari Demercado (ankle). He's handled 81 carries for 271 yards and four touchdowns while adding 22 receptions for 160 yards and one touchdown on 31 targets. It has been underwhelming production for fantasy managers, as he ranks as the RB43 with 8.5 PPR points per game, but he's scored at least 13.2 PPR points in three of the last four games. The 24-year-old has been one of the least efficient runners in the league this season. However, he has been active as a receiver and has a firm hold on goal-line duties in what's been a surprisingly fantasy-friendly Arizona offense with quarterback Jacoby Brissett at the helm. Knight will continue to rank in low-end RB3 territory for the Week 15 game against a tough Houston Texans defense this Sunday.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 15,
+  "team": "ARI",
+  "opp": "HOU",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": -2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 80
+}

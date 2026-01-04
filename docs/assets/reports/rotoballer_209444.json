@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209444",
+  "title": "Devin Singletary a Volatile Flex Play Vs. Patriots",
+  "description": "New York Giants running back Devin Singletary is set for another stiff test in Week 13 when his team squares off with the hosting New England Patriots on Monday Night Football. The former Buffalo Bill has seen a heavier workload over the previous two games, as New York's pace of play shot up with quarterback Jameis Winston under center. That could remain true even with Jaxson Dart back in the fold, but the running game won't be afforded any favors against a staunch Patriots' defense. On the season, New England has allowed the second-fewest rush yards (87.7) and fantasy points per game to running backs (16.63). Singletary sports some low-end flex appeal either way if he can remain involved in the Giants' offense. However, fantasy managers should temper expectations against one of the league's stronger rush defenses. The 28-year-old is RotoBaller's PPR RB42 for this week's slate of action.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 13,
+  "team": "NYG",
+  "opp": "NE",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 68,
+  "receiving_catches": 3,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

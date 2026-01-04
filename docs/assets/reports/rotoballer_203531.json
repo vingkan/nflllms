@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203531",
+  "title": "Rhamondre Stevenson Still Team's Top Running Back Option for Week 5?",
+  "description": "New England Patriots running back Rhamondre Stevenson has held onto his lead-back role despite some fumbling issues so far, and all signs point to him remaining atop the depth chart once again during Week 5 against the Buffalo Bills. Stevenson has been nothing special this season, totaling 125 rushing yards and 141 receiving yards while failing to find the end zone through five weeks. He has managed to hold off rookie TreVeyon Henderson for the top role despite losing two fumbles in Week 3. For now, Stevenson is the best Patriots running back to start in fantasy football, and managers should feel good about him this week. He ranks as a mid-to-low RB3 while taking on a Bills defense that has allowed the ninth-most rushing yards, fourth-most rushing touchdowns, and 13th-most fantasy points to opposing running backs this year.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 5,
+  "team": "NE",
+  "opp": "BUF",
+  "att": 7,
+  "tgt": 2,
+  "touches": 9,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 18
+}

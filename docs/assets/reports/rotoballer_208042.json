@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208042",
+  "title": "Derrick Henry Breaks Two-Game Scoreless Streak in Week 11",
+  "description": "Baltimore Ravens running back Derrick Henry broke his two-game touchdown drought in his team's Week 11 win over the Cleveland Browns. Henry rushed for 103 yards and a score on 18 carries and added two catches for 19 yards on two targets. The 31-year-old has now recorded 807 rushing yards and seven touchdowns across 10 games so far this season. In the three games since Ravens quarterback Lamar Jackson returned from the hamstring injury that sidelined him for over a month, Henry is averaging 99 rushing yards per game. With Baltimore getting back to its winning ways and the offense finding itself in more favorable game scripts, Henry looks to be back to his old self. He profiles as a must-start fantasy running back heading into a Week 12 matchup against the New York Jets.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 12,
+  "team": "BAL",
+  "opp": "NYJ",
+  "att": 21,
+  "tgt": 2,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 64,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 5
+}

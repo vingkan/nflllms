@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204313",
+  "title": "Bijan Robinson a High-Floor, High-End RB1 in Week 6",
+  "description": "Atlanta Falcons running back Bijan Robinson eclipsed 100 yards from scrimmage for the fourth straight game in Week 4, which also included his second touchdown of the season (first rushing score) and his second game with at least 100 yards receiving. With a minimum of five targets and three catches in each of the team's first four games, the 23-year-old has one of the highest floors for fantasy of any running back in the league, and the Falcons will likely need him to contribute in that area again in Week 6 if the team hopes to keep pace with the Bills. With Buffalo yielding the second-fewest pass yards per game and Atlanta as 4.5-point underdogs, the Falcons may lean on the run in an attempt to limit Buffalo's possessions, but could find themselves playing catch-up later in the game. Either way, Robinson will be involved, and with LB Matt Milano (pec) ruled out, there should be more holes for the former first-rounder to run through. The third-year pro sets up as a high-end RB1 again in Week 6.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 6,
+  "team": "ATL",
+  "opp": "BUF",
+  "att": 19,
+  "tgt": 8,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 170,
+  "receiving_catches": 6,
+  "receiving_yards": 68,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 35,
+  "ppr_scoring_position_rank": 1
+}

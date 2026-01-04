@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202351",
+  "title": "J.K. Dobbins Scores Again in Loss",
+  "description": "Denver Broncos running back J.K. Dobbins delivered a solid performance in Week 3 despite his team's last-second 23-20 loss to the Los Angeles Chargers. Dobbins was effective on the ground, rushing for 83 yards and a touchdown on 11 carries, including a 41-yard run that helped set up his score. He also recorded one catch for zero yards. After three games, Dobbins has been highly productive, averaging 5.4 yards per carry with over 220 rushing yards and three touchdowns. He seems to be secured as the lead back and is likely to continue seeing a significant workload as rookie R.J. Harvey struggles to find his rhythm. Dobbins can be viewed as a reliable RB2 option moving forward.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 4,
+  "team": "DEN",
+  "opp": "CIN",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 101,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 28
+}

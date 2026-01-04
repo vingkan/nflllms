@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202593",
+  "title": "Derrick Henry Working Through Fumbling Issues",
+  "description": "Baltimore Ravens running back Derrick Henry noted on Wednesday via the team's official site that he's focused on improving his ball security after a string of recent fumbles. \"I don't try to harp on it too much,\" said the 31-year-old. \"At the same time, it's a problem that's got to be fixed. I'm working on it as hard as I can to get this issue resolved.\" Through nine seasons, Henry had only ever fumbled more than three times twice, matching the number of times he's lost more than two of them. While it's undoubtedly concerning, fantasy managers do not need to worry about this issue in the long term, as the former second-round pick is working to rectify it. Despite two down weeks, he's firmly on the RB1 radar ahead of his matchup with the Kansas City Chiefs this Sunday.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 4,
+  "team": "BAL",
+  "opp": "KC",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 43
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210478",
+  "title": "Josh Jacobs Calling Himself Day-to-Day",
+  "description": "Green Bay Packers running back Josh Jacobs (knee), who missed a second straight day of practice on Thursday, said his knee stiffened up during the second half of Sunday's win over the Chicago Bears, according to Matt Schneidman of The Athletic. Jacobs had another scan on his knee on Monday, and everything is structurally intact. Despite not having practiced yet this week, he's calling himself day-to-day ahead of Sunday's clash in Denver against the Broncos. The 27-year-old initially injured his knee in the Week 11 win over the Giants at MetLife Stadium, forcing him to miss Week 12. He has handled 37 carries for 169 yards and a touchdown while catching three passes for 14 yards in the last two games in his usual lead-back role. Jacobs is trending toward being questionable for Week 15, but fantasy managers would feel a lot better if he can practice on Friday. Emanuel Wilson might be worth a speculative waiver-wire pickup in case Jacobs cannot go this weekend.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

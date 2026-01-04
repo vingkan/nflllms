@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201739",
+  "title": "Nick Chubb Totals 72 Yards, Breaks Off 25-Yard Touchdown",
+  "description": "Houston Texans running back Nick Chubb rushed for 43 yards on 12 carries and a touchdown while adding two receptions for 29 yards in a Monday night loss to the Tampa Bay Buccaneers. Chubb started the game looking good with an explosive gain for 27 yards on a screen pass. He was mostly inefficient on the ground against a stingy Tampa Bay front with Vita Vea and Company. Outside of his 25-yard touchdown run, Chubb rushed for only 18 yards on 11 of his other carries. The 29-year-old looks to be the main back in Houston with Joe Mixon (ankle, foot) out of the picture for the foreseeable future. He handled 12 of the 15 running back carries while playing 52% of the snaps. There may not be a ton of upside with Chubb moving forward with a poor offensive line and offensive environment, but Chubb is a freak athlete who could still have something left. He looks like he will continue to get volume, and if quarterback C.J. Stroud and the Texans offense can find a groove, then he could be valuable. For now, he'll project as a touchdown-dependent RB3.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 3,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 9,
+  "tgt": 4,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 38,
+  "receiving_catches": 3,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 37
+}

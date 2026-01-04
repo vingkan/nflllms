@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206847",
+  "title": "Kyle Monangai Should be Good to Play in Week 10",
+  "description": "Chicago Bears rookie running back Kyle Monangai (ankle) was able to practice in full on Thursday after being limited with an ankle injury on Wednesday, according to The Athletic's Kevin Fishbain. Monangai is on track to be available this weekend for a Week 10 tilt against the visiting New York Giants, but the 23-year-old's fantasy value will take a sizeable hit if D'Andre Swift (groin) can return after missing the Week 9 win over the Cincinnati Bengals. Swift upgraded to a full practice on Thursday, suggesting he's on track to play against New York. Monangai broke out in the lead-back role for Chicago last Sunday, totaling 198 scrimmage yards and a touchdown on his 29 touches. Even if Swift returns, Monangai is a strong handcuff option for fantasy managers, and he could even carve out some RB3/flex appeal going forward if the Bears get him more involved alongside Swift moving forward.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 10,
+  "team": "CHI",
+  "opp": "NYG",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

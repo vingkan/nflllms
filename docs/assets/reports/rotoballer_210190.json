@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210190",
+  "title": "Blake Corum Leads Rams Backfield With Phenomenal Week 14 Showing",
+  "description": "Los Angeles Rams running back Blake Corum had 12 carries for 128 rushing yards and two rushing touchdowns during Sunday's Week 14 win over the Arizona Cardinals. He also converted his lone target into a three-yard reception. Corum had one fewer carry than Kyren Williams, but he was far more productive in terms of yards, yards per carry, and touchdowns. The highlight of Corum's game was a 48-yard rushing touchdown in the fourth quarter, but he also scored from two yards out during the opening frame. Offensive coordinator Mike LaFleur recently said that giving Corum more touches allowed Williams to stay fresh down the stretch. While that's true, the second-year running back would likely be working his way into a larger role even if the Rams weren't trying to preserve Williams' legs. Corum has been playing at an elite level lately with 19 carries for 209 rushing yards (11 YPC) and three touchdowns over his last two games. He is the second-highest-scoring running back in fantasy football during those two weeks. Even though Williams is the Rams' lead back, Corum has worked his way into the high-end RB3 or low-end RB2 conversation against the Detroit Lions in Week 15.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 15,
+  "team": "LAR",
+  "opp": "DET",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

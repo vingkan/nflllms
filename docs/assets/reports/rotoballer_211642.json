@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211642",
+  "title": "Aaron Jones Sr. Compiles 93 Total Yards In Win",
+  "description": "Despite yet another injury and yet another quarterback change, Minnesota Vikings running back Aaron Jones Sr. (ankle) put together an admirable performance with 93 total yards and the game-clinching first down in a 16-13 victory at the New York Giants. Despite departing the game on the first drive due to the injury, different from the shoulder ailment that has plagued him this season, the veteran running back returned to post 85 total rushing yards on 21 carries and two catches for eight yards. It was a necessary effort from Jones, who carried the offense after quarterback J.J. McCarthy (hand) and fellow running back Jordan Mason (ankle) left the game and didn't return. Jones figures to have full command of the backfield if Mason misses Thursday's game against Detroit, but everyone on the Minnesota offense would have a lower ceiling if McCarthy also misses time and undrafted rookie Max Brosmer has to start.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 17,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

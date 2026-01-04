@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206302",
+  "title": "Brashard Smith Without Injury Designation, Could Be Viable In Week 9",
+  "description": "Kansas City Chiefs running back Brashard Smith will take on the Buffalo Bills on Sunday in Week 9. Smith was listed on the injury report with a toe injury, but practiced in full all week and does not have an injury designation heading into the weekend. Smith was barely involved in Week 8, handling just three carries for eight yards in the 28-7 victory over the Washington Commanders. The rookie back has been eased into the offense, but should presumably see a larger workload with Isiah Pacheco ruled out with a knee injury. Smith is the most explosive back in the backfield, but Kareem Hunt should continue seeing the most valuable touches in the offense. That said, Smith could still find success against the Bills, who have allowed the sixth-most fantasy points to opposing running backs this season. With plenty of scoring expected for this matchup, Smith could see an uptick in volume with scoring upside. Smith is ranked RB34 in our RotoBaller Half-PPR rankings, making him a flex option this week.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 9,
+  "team": "KC",
+  "opp": "BUF",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 7,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 61
+}

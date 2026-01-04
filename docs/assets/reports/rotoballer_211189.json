@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211189",
+  "title": "Kenneth Walker III a Low-End Running Back in Week 16",
+  "description": "Seattle Seahawks running back Kenneth Walker III has fallen out of fantasy relevance. Walker does not seem poised to regain his relevance in a Week 16 matchup against the Los Angeles Rams. Walker has recorded three straight games with 10.40 or fewer fantasy points. His last two games have fallen in single digits. He is single-handedly wrecking your fantasy team if you start him. It does not figure to get better against a Rams defense that allows the fewest fantasy points per game to opposing running backs. Walker played solidly against the Rams back in Week 11. That game marked the last time Walker scored a touchdown, and he recorded three receptions. Unfortunately, that performance seems to be an outlier. Expect the Rams to enter this week with a great game plan to handle the Seahawks' rushing attack. If Seattle wants to win this game, it will likely be through the air, leaving Walker as a flex option with little upside this week.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 16,
+  "team": "SEA",
+  "opp": "LAR",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 100,
+  "receiving_catches": 3,
+  "receiving_yards": 64,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 25,
+  "ppr_scoring_position_rank": 7
+}

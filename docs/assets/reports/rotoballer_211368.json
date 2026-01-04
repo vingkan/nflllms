@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211368",
+  "title": "Jaylen Wright Back to Minimal Role",
+  "description": "Miami Dolphins running back Jaylen Wright had a monster game against the Jets in Week 14, running for 107 rushing yards and a touchdown on 24 carries. In Week 15, though, he only had one carry for two yards and one reception for nine yards. Wright didn't get more work, even with Ollie Gordon II (ankle) out of the game, so it's hard to see him getting much work in Week 16 with Gordon healthy. Gordon and Wright will back up De'Von Achane, and Achane will be in a smash spot against the Bengals as an elite start. Even after his big game, it looks like Wright is back to his part-time backup role, and even in this good matchup against the Bengals, he's only the RB No. 66 in RotoBaller's rankings, making him best left on the waiver wire in all but the deepest leagues",
+  "player_id": 11643,
+  "player_name": "Jaylen Wright",
+  "week": 16,
+  "team": "MIA",
+  "opp": "CIN",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 35,
+  "receiving_catches": 1,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 24
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210308",
+  "title": "Isaiah Davis Worth Rostering as a Handcuff Option?",
+  "description": "Across 13 games so far in 2025, New York Jets running back Isaiah Davis has recorded 277 scrimmage yards on 43 touches. Davis has served as the Jets' RB2 behind Breece Hall since Week 4, when second-year back Braelon Allen (knee) suffered a knee injury that landed him on Injured Reserve. The Jets have given almost all of their backfield work to Hall, as Davis has logged more than four touches in a game just twice this season. Davis has zero standalone value for fantasy managers as long as Hall remains healthy. However, if Hall were to get injured, Davis would be in line to dominate backfield touches in New York. As fantasy managers hit the playoffs in most league formats, Davis could be worth stashing in a bench spot just in case Hall gets hurt. The Jets will take on the Jacksonville Jaguars, New Orleans Saints, and New England Patriots over the next three weeks.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 15,
+  "team": "NYJ",
+  "opp": "JAX",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 58,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 18
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203535",
+  "title": "Nick Chubb Still a Flex Option in a Smaller Role?",
+  "description": "Houston Texans running back Nick Chubb played at least 50% of snaps in each of the first three weeks of the season, but he only played 42% of snaps in Week 4, as rookie running back Woody Marks seized the spotlight. Chubb still did have 13 carries and two catches, but only totaled 62 rushing and receiving yards. He may go from slightly more than half the work to slightly less than half the work this week as the Texans take on the Ravens, but he still has touchdown-dependent flex potential. He's the RB31 in RotoBaller's rankings, partly because the Ravens have been the most generous team in the NFL to running backs this season, so if he does get work, he could find space to operate.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 5,
+  "team": "HOU",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 61,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 23
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208210",
+  "title": "Michael Carter Set to Play Passing-Down Role in Arizona Going Forward?",
+  "description": "Arizona Cardinals running back Michael Carter recorded a season-high five receptions on seven targets in his team's 41-22 Week 11 loss to the San Francisco 49ers. With Cardinals running back Emari Demercado (ankle) likely to miss the team's Week 12 matchup against the Jacksonville Jaguars, Carter could be in line for a sizable role for a second straight week. The 26-year-old is unlikely to factor much on early downs, as Carter has fallen behind Arizona back Bam Knight in the pecking order for carries. However, Carter has recorded at least five targets in three out of six games played for the Cardinals this season. One wrinkle for Carter is the potential return of Trey Benson (knee), who could be returning soon from the knee injury that has kept him on Injured Reserve since Week 4. However, if Benson and Demercado are out in Week 12, Carter could have some deep-league fantasy appeal.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 12,
+  "team": "ARI",
+  "opp": "JAX",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 26
+}

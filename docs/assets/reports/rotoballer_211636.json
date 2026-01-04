@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211636",
+  "title": "James Cook Scores Twice in Bills' Win Over Browns",
+  "description": "Buffalo Bills running back James Cook had 16 carries, 117 rushing yards, and two rushing touchdowns during Sunday's Week 16 win over the Cleveland Browns. He also converted two targets into one catch for 17 receiving yards. Cook's quest for the NFL rushing title continued against a Browns defense that has been absolutely ripped apart by opposing running backs over the last three weeks. Buffalo's primary ball-carrier now has 14 touchdowns and over 1,800 scrimmage yards on the year, including five trips to the end zone in his last two games. Preseason concerns that Cook was due for regression have been completely unfounded, as he remains one of the top fantasy running backs while continuing to play a massive role around the goal line. He's a very strong RB1 option with a high ceiling heading into Week 17 against the Philadelphia Eagles.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 17,
+  "team": "BUF",
+  "opp": "PHI",
+  "att": 20,
+  "tgt": 4,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 74,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 25
+}

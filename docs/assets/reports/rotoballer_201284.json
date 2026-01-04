@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201284",
+  "title": "Christian McCaffrey Back in Action on Thursday",
+  "description": "San Francisco 49ers running back Christian McCaffrey (calf) returned to practice on Thursday after being rested in the first practice of the week on Wednesday. It's unclear if McCaffrey was a full or limited participant, but he should be good to go for Week 2 against the New Orleans Saints as long as he doesn't suffer any sort of setback on Friday. The 29-year-old oft-injured RB popped up on last week's injury report on Thursday but proceeded to play in the Week 1 win over the Seattle Seahawks. CMC had a positive season opener after being the biggest fantasy bust in 2024 due to injuries, as he produced 142 scrimmage yards. He ran for 69 yards on 22 carries and also caught nine of his 10 targets for an additional 73 yards through the air. Quarterback Brock Purdy (toe) is not expected to play in Week 2, but McCaffrey should continue to be a target hog, especially with tight end George Kittle (hamstring) out three to five weeks. He's a must-start in all fantasy formats.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 2,
+  "team": "SF",
+  "opp": "NO",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 55,
+  "receiving_catches": 6,
+  "receiving_yards": 52,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 5
+}

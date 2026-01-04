@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210278",
+  "title": "Devin Singletary Could Emerge as the Lead Back in New York",
+  "description": "In his last game before his team's Week 14 bye, New York Giants running back Devin Singletary recorded 102 scrimmage yards and a touchdown on 15 touches against the New England Patriots. Heading into his Week 15 matchup against the Washington Commanders, Singletary has recorded double-digit touches in five straight games. With Giants running back Cam Skattebo (ankle) on Injured Reserve, Singletary and Tyrone Tracy Jr. (hip) have been splitting backfield work in New York. Tracy Jr. suffered a hip injury in Week 13 against New England that forced him to leave the game early, but it's not expected to lead to missed time. Still, the Giants could limit Tracy Jr.'s usage, which would mean more touches for Singletary. In fantasy leagues with 10 or more teams, Singletary is worth targeting on the waiver wire heading into Week 15.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 13,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 60
+}

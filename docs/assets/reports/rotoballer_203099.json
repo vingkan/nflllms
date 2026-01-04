@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203099",
+  "title": "Joe Mixon Not Ready to Return",
+  "description": "Houston Texans head coach DeMeco Ryans indicated that running back Joe Mixon (ankle, foot) is not ready to return at this time, according to Aaron Wilson of KPRC 2 Sports. According to sources, it will be much longer, if at all this year, for Mixon \"to get back on the field this season.\" Fantasy managers who have been stashing Mixon must decide if they're going to remain patient or cut bait entirely. The 29-year-old did it all out of the backfield for the Texans last year, rushing for over 1,000 yards for the fifth time in his career while also scoring 11 rushing touchdowns in 14 regular-season starts. However, it's already looking like his 2025 campaign is a wash, and he could struggle for efficiency if he does return behind a bad offensive line. Houston will move forward with veteran Nick Chubb as the RB1, but rookie Woody Marks, who had two scores in Week 4, is quickly ascending.",
+  "player_id": 4018,
+  "player_name": "Joe Mixon",
+  "week": 5,
+  "team": "HOU",
+  "opp": "BAL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

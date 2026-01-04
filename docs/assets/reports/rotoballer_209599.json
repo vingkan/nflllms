@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209599",
+  "title": "Kyren Williams Feels \"Pretty Good\" on Monday After Injury Scare",
+  "description": "Los Angeles Rams head coach Sean McVay said that running back Kyren Williams' ankle was \"pretty good\" on Monday after he had an injury scare in Sunday's upset loss to the Carolina Panthers, according to Nate Atkins of The Athletic. Williams hurt his ankle in the second quarter on Sunday but returned following halftime and finished with 13 rushing attempts for 72 yards and a touchdown while playing 67% of the snaps. Backup Blake Corum finished with seven carries for 81 yards and a touchdown while playing 33% of the snaps. Williams said the scar tissue from previous injuries made it easier for him to deal with on Sunday. It sounds like the 25-year-old should be just fine for Week 14 against the division-rival Arizona Cardinals, although Corum could take on a larger workload as the Rams look to keep Williams healthy and fresh for a postseason run.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 14,
+  "team": "LAR",
+  "opp": "ARI",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 8
+}

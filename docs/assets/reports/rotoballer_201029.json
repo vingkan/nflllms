@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201029",
+  "title": "Jonathan Taylor Exits Game With Apparent Injury",
+  "description": "Indianapolis Colts running back Jonathan Taylor (undisclosed) exited Sunday's game against the Miami Dolphins and was seen chatting with medical personnel on the sideline, according to Kevin Bowen of 1075 The Fan. After playing 100 percent of the offensive snaps in the first half, Taylor was not on the field for a scoring drive in the fourth quarter of Week 1. The severity of Taylor's injury is unknown, and it's possible that the Colts are being extra cautious with his management because they are leading by four possessions in the final quarter. Nevertheless, fantasy managers should continue to monitor his status. At the time of Taylor's departure, he had 18 carries for 71 rushing yards, plus 27 receiving yards. D.J. Giddens has been handling backfield snaps in his absence.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 2,
+  "team": "IND",
+  "opp": "DEN",
+  "att": 25,
+  "tgt": 2,
+  "touches": 27,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 165,
+  "receiving_catches": 2,
+  "receiving_yards": 50,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 1
+}

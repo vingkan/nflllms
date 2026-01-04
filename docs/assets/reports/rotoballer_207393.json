@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207393",
+  "title": "Jaylen Warren \"Will Get More Touches\"",
+  "description": "Pittsburgh Steelers head coach Mike Tomlin said on Tuesday that running back Jaylen Warren \"will get more touches\" going forward, according to Brooke Pryor of ESPN. Tomlin also added that he's comfortable with both Warren and Kenneth Gainwell on third downs, but Warren \"has to get a break at some point.\" Warren played 46% of the offensive snaps, his second-lowest total of the season, in Sunday night's 25-10 loss to the Los Angeles Chargers, while Gainwell played 52% of the snaps. The 27-year-old Warren finished with 14 rushing attempts for 70 yards and added two catches for 21 yards. Despite the limited number of snaps, Warren had his second-highest rushing total of the season. Gainwell didn't even have a carry while catching just two passes for four yards. Touchdowns have been hard to come by for Warren (he has just three), but he should maintain a safe floor as a volume-based RB2.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 11,
+  "team": "PIT",
+  "opp": "CIN",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 2,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203297",
+  "title": "Brian Robinson Jr. Unable To Shake Handcuff Status",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. still ranks second on the team's depth chart and is, in theory, their change-of-pace back to relieve Christian McCaffrey. The problem for Robinson is that the 49ers have shown little desire to get away from the superstar lately. In the first two weeks of 2025, Robinson got in on nearly one quarter of San Francisco's snaps. However, in Week 3, his share plummeted to 9% and rebounded slightly to a 15% share in Week 4. On the season, Robinson has a total of 22 rushing attempts for 96 yards and has seen just three targets, catching two for two receiving yards. Even with bye weeks underway, Robinson should not be considered a viable fantasy starter in Week 5, especially with the 49ers being featured on Thursday Night Football.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 5,
+  "team": "SF",
+  "opp": "LAR",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 65
+}

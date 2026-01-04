@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206391",
+  "title": "Tyrone Tracy Jr. Ranks As Solid RB2 For Week 9",
+  "description": "New York Giants running back Tyrone Tracy Jr. is in line to serve as the team's lead back in Week 9 with rookie Cam Skattebo (ankle) sidelined for the remainder of the season. The 25-year-old began the season as the Giants' starter, but ended up missing two games due to a shoulder injury, which opened the door for Skattebo. Now, Tracy and veteran Devin Singletary are expected to see the majority of the snaps moving forward. Tracy hasn't been overly efficient with his touches in six games this season, handling 45 carries for 159 yards and a touchdown while adding 10 catches for 68 yards on 16 targets. The New York offense looks much more exciting with rookie Jaxson Dart at the helm, although they are lacking legitimate pass-catching threats at the moment. Tracy ranks as RotoBaller's RB17 for the Giants' Week 9 matchup at home against the San Francisco Giants.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 9,
+  "team": "NYG",
+  "opp": "SF",
+  "att": 5,
+  "tgt": 4,
+  "touches": 9,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 18,
+  "receiving_catches": 3,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 34
+}

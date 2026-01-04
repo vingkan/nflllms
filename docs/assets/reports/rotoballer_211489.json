@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211489",
+  "title": "Chuba Hubbard Is Only Rosterable as A Handcuff In Week 16",
+  "description": "Chuba Hubbard posted underwhelming numbers in Week 15 against the Saints. The Carolina RB had eight carries for 29 yards. He also added nine receiving yards on one reception to total just 4.8 PPR points. Hubbard has registered less than 5.0 PPR points in three of his last five games. The Panthers will face the Tampa Bay Buccaneers in Week 16. Tampa Bay ranks 23rd in Fantasy Points Per Game allowed to the RB position this year. Although Hubbard has a good matchup this week, he has not seen enough consistent volume to warrant a roster spot on most fantasy playoff teams. Outside of Week 13, Hubbard has not posted double-digit rushing attempts since Week 8. He should only be rostered as a handcuff to Rico Dowdle.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 16,
+  "team": "CAR",
+  "opp": "TB",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 27,
+  "receiving_catches": 1,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 54
+}

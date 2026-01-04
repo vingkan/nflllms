@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205899",
+  "title": "Will Shipley Worth Rostering Due to Injury Uncertainty in Eagles Backfield?",
+  "description": "Philadelphia Eagles running back Will Shipley has seen very limited usage so far in the 2025 season. Across six games played, the 23-year-old has recorded 39 yards from scrimmage on nine total touches. However, there may be an opportunity for playing time in Philadelphia's backfield after star running back Saquon Barkley (groin) was forced to exit early from the team's Week 8 win over the New York Giants due to a groin injury. The Eagles have their bye in Week 9, and there's been no indication from the team that Barkley will not be ready to play in Week 10 against the Green Bay Packers. Further complicating matters, Shipley may be behind Eagles running back Tank Bigsby, even if Barkley misses time. Still, Shipley is worthy of waiver-wire consideration until there's more clarity around Barkley's health status. Shipley should be rostered in all fantasy leagues with 10 or more teams.",
+  "player_id": 11577,
+  "player_name": "Will Shipley",
+  "week": 10,
+  "team": "PHI",
+  "opp": "GB",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 2,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 42
+}

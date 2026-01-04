@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202080",
+  "title": "Dare Ogunbowale Losing Playing Time?",
+  "description": "Houston Texans running back Dare Ogunbowale has played significant snaps in the first two weeks of the season, but the veteran could be in for a reduced workload as the team tries to find more dynamic playmakers to jumpstart the offense. He's expected to play a reduced role against the Jaguars in Week 3 as the Texans lean more on rookie Woody Marks instead of the veteran Obubowale. In Week 1, he played 27% of snaps, and in Week 2, he played 20% of snaps. After two carries and two catches in Week 1, he didn't have an offensive opportunity in Week 2. Marks made some big plays as well, showing the spark he brings to the offense. Ogunbowale is only the RB76 in the RotoBaller Week 3 rankings, so he's off the radar in all but the deepest of leagues this week.",
+  "player_id": 4718,
+  "player_name": "Dare Ogunbowale",
+  "week": 3,
+  "team": "HOU",
+  "opp": "JAX",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

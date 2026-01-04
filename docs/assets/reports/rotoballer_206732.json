@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206732",
+  "title": "Jaret Patterson Taking Over RB2 Duties in Los Angeles",
+  "description": "Los Angeles Chargers running back Jaret Patterson worked as the team's No. 2 RB behind Kimani Vidal for the second straight week in the Week 9 win over the Tennessee Titans on Sunday. Patterson played a season-high 28% of the offensive snaps and saw nine rushing attempts for a season-high 44 yards. The 25-year-old made his 2025 debut the previous week in the Thursday night win over the Minnesota Vikings, taking 11 carries for 30 yards. He has yet to be involved in the passing game, but it's clear that Patterson has become the Bolts' temporary RB2 behind Vidal with both rookie first-rounder Omarion Hampton (ankle), Hassan Haskins (hamstring), and Najee Harris (Achilles) on Injured Reserve. Hampton might not return until after the Week 12 bye, so Patterson could have two more weeks with an elevated backfield role.",
+  "player_id": 7537,
+  "player_name": "Jaret Patterson",
+  "week": 10,
+  "team": "LAC",
+  "opp": "PIT",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 1,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 67
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206743",
+  "title": "Rico Dowdle Practicing on the Side on Wednesday",
+  "description": "Carolina Panthers running back Rico Dowdle (undisclosed) was practicing off to the side on Wednesday in the portion of practice open to the media, according to David Newton of ESPN. It's unclear what Dowdle is dealing with, but this will be a situation to watch heading into Carolina's Week 10 divisional battle on Sunday versus the New Orleans Saints. Dowdle has taken over RB1 duties for the Panthers by rushing for an astounding 652 yards and three touchdowns in his last five games while also adding 10 receptions for 112 yards and another score. If the 27-year-old's injury is serious enough to limit him or keep him out entirely this weekend, Chuba Hubbard would once again become a must-start in fantasy lineups everywhere in a plus matchup against New Orleans. Dowdle has had over 20 carries in three of the last five games and has even topped the 200-yard mark in that span.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 10,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 18,
+  "tgt": 3,
+  "touches": 21,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

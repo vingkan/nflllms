@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208090",
+  "title": "Has Sean Tucker Earned Himself a Bigger Role Going Forward?",
+  "description": "Tampa Bay Buccaneers head coach Todd Bowles said on Monday that \"it's hard to say\" if running back Sean Tucker will see more playing time even when Bucky Irving (foot, shoulder) comes back, according to the Pewter Report. The Bucs may go with a hot-hand approach to their backfield when Irving gets cleared to return for the first time since getting hurt in Week 4. Since he's been sidelined, Rachaad White has seen most of the backfield work. White played 60% of the offensive snaps in Sunday's loss to the Buffalo Bills compared to 44% for Tucker, but it was Tucker who went off with a season-high 19 carries for 106 yards and two touchdowns. He also added two catches for 34 yards and another score. The 24-year-old has looked much more explosive than White and deserves attention off the waiver wire this week, regardless of whether Irving is back for Week 12 against the Los Angeles Rams.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

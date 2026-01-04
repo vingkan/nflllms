@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209592",
+  "title": "Justice Hill Could Return This Year",
+  "description": "Baltimore Ravens head coach John Harbaugh said on Monday that running back Justice Hill (neck) will be out three to four weeks with a disc issue in his neck, but there's still a chance that he will return this year, according to Jonas Shaffer of The Baltimore Sun. Hill injured his neck in practice early last week and landed on Injured Reserve before the Thanksgiving Day loss to the Cincinnati Bengals on Thursday night. The 28-year-old pass-catching back will miss at least three more games, but he will be eligible to return from IR in Week 17 on the road at Lambeau Field against the Green Bay Packers. Keaton Mitchell was starting to take on a bigger role behind starter Derrick Henry even before Hill was injured, so if he does return before the end of the 2025 regular season, Hill could be Baltimore's RB3 on passing downs. He only has 18 rushing attempts on the year for 93 yards and two TDs, adding 169 receiving yards and one score.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 14,
+  "team": "BAL",
+  "opp": "PIT",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

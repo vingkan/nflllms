@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211711",
+  "title": "Is Nick Chubb Worth Stashing in Deeper Leagues?",
+  "description": "Houston Texans running back Nick Chubb (ribs) was back on the field Sunday during Houston's 23-21 win over the Las Vegas Raiders. The 29-year-old had six carries for 33 yards and had one catch for nine yards. Despite rookie running back Woody Marks (ankle) being ruled out, Chubb's workload was limited as Jawhar Jordan led the backfield with 15 carries. Chubb has now gone six straight games without seeing double-digit touches and has only been able to find the endzone once during that stretch. It is worth mentioning that Chubb is coming off a rib injury, and the Texans could have been slow to roll him back into the offense. Chubb still profiles as a goal-line back that can still get work in the red zone. With Mark's availability uncertain for Week 17, Chubb is worth targeting off the waiver wire in deep standard leagues.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 17,
+  "team": "HOU",
+  "opp": "LAC",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 1,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 79
+}

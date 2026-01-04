@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204845",
+  "title": "Hassan Haskins' Injury Uncertainty Further Depresses Value for Week 7",
+  "description": "Los Angeles Chargers running back Hassan Haskins (chest) is listed as questionable to play in Week 7 against the Indianapolis Colts. He quickly dropped out of the Week 6 backfield rotation, playing only 31% of the snaps, while second-year back Kimani Vidal gained 138 total yards and scored a touchdown against the Miami Dolphins. Haskins managed just 2.3 yards per carry on six attempts for 14 yards, even against a weak run defense, and now faces an Indianapolis Colts team that allows the 12th fewest rushing yards per game. His career average of 3.0 yards per carry offers little confidence in significant production going forward, and the team seems to prefer going with the hot hand approach in Vidal. While his familiarity with coach Jim Harbaugh and the possibility of goal-line carries provide a small chance for playing time, managers shouldn't depend on that. RotoBaller projects Haskins as RB44, and he should stay on your bench this week.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 7,
+  "team": "LAC",
+  "opp": "IND",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 2,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 53
+}

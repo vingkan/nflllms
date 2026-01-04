@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204457",
+  "title": "Kimani Vidal Dominates Backfield Touches, has Huge Game in Week 6",
+  "description": "Los Angeles Chargers running back Kimani Vidal had a monster game in his team's 29-27 Week 6 win over the Miami Dolphins. Vidal recorded 124 rushing yards on 18 carries, adding three catches for 14 yards and a touchdown as well. The 24-year-old looked like the clear lead back for the Chargers in the team's first game since losing Omarion Hampton (ankle) to Injured Reserve. Vidal's 21 total touches were three times as many as fellow Chargers running back Hassan Haskins (seven). With Hampton set to miss at least three more games, Vidal could have an extended run of RB1 playing time for Los Angeles. The Chargers will host the Indianapolis Colts in an AFC showdown in Week 7.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 7,
+  "team": "LAC",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 4,
+  "receiving_yards": 15,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 27
+}

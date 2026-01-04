@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206952",
+  "title": "Jacory Croskey-Merritt Ready to Go for Week 10",
+  "description": "Washington Commanders running back Jacory Croskey-Merritt (mouth) doesn't carry an injury designation into Sunday's game against the Detroit Lions. Croskey-Merritt was limited to begin the week due to a tooth issue. However, the rookie back was able to finish out the week with back-to-back full practice sessions. He'll be ready to go for this tough matchup against the Lions defense. Croskey-Merritt hasn't found much success on the ground lately. He has been held to 38 rushing yards or fewer in each of his last three games. However, Croskey-Merritt figures to continue having a fairly significant role in the backfield.",
+  "player_id": 12533,
+  "player_name": "Jacory Croskey-Merritt",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 11,
+  "tgt": 0,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 49
+}

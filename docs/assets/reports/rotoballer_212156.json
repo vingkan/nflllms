@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212156",
+  "title": "Bijan Robinson a High-Floor, High-End RB1 for Monday Night Football",
+  "description": "Atlanta Falcons running back Bijan Robinson is coming off the second straight week in which he's produced at least 168 total yards and a touchdown, currently sitting as a top-five running back in season-long fantasy. The 23-year-old even led the team with 11 targets in Week 16 despite the return of Drake London (knee). The work in the passing game provides the workhorse back with a high weekly floor, and he may need it in a Week 17 matchup against the Rams, who have limited opposing running backs to the fourth-fewest fantasy points this season, and are yielding just 97.3 rush yards per game over their last three (fifth-fewest). Expect the third-year pro to be heavily involved once again in a home game on Monday night, and with a high expected point total in this one (49.5), there should be plenty of scoring, making Robinson a high-end RB1 again in Week 17.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 17,
+  "team": "ATL",
+  "opp": "LAR",
+  "att": 22,
+  "tgt": 8,
+  "touches": 30,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 195,
+  "receiving_catches": 5,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 39,
+  "ppr_scoring_position_rank": 2
+}

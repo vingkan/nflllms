@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209060",
+  "title": "Ashton Jeanty Not on the Week 13 Injury Report",
+  "description": "Las Vegas Raiders rookie first-round running back Ashton Jeanty (ankle) is not listed on the team's Week 13 injury report, according to Ryan McFadden of ESPN. Jeanty injured his ankle late in Sunday's loss to the Cleveland Browns, but it was nothing serious, and he'll be ready to play for a Week 13 date with the division-rival Los Angeles Chargers. The 21-year-old from Boise State didn't find much room to run on the ground in Week 12 (17 carries for 50 yards), but he salvaged his fantasy day with a season-high eight receptions for 58 yards and a touchdown through the air. Jeanty has struggled to put up numbers on the ground in his first NFL season behind a bad offensive line, and things probably won't get any easier this weekend. But the volume alone will make Jeanty a low-end RB1/high-end RB2 in fantasy football. He had 11 carries for 43 yards and three catches for one yard in the previous meeting with the Chargers back on Sept. 15.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 13,
+  "team": "LV",
+  "opp": "LAC",
+  "att": 15,
+  "tgt": 8,
+  "touches": 23,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 24
+}

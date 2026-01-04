@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210457",
+  "title": "Josh Jacobs Likely to Miss a Second Straight Practice",
+  "description": "Green Bay Packers head coach Matt LaFleur said that running back Josh Jacobs (knee) will likely miss a second straight day of practice this week on Thursday, and the team will see where he's at on Friday. \"He's been battling through it. We'll see,\" LaFleur said. This is a situation worth keeping a close eye on going into the weekend. Jacobs has been a must-start fantasy RB this year with 12 rushing touchdowns in 12 games, but he could be questionable going into a bad matchup on the road against one of the better defenses in the league in the Denver Broncos. The 27-year-old initially suffered a knee contusion in Week 11 and was held out in the Week 12 win over the Minnesota Vikings. Jacobs only missed one game, though, and handled his normal heavy workload the last two weeks. If he's in danger of missing Sunday's game in Denver, Emanuel Wilson would once again become a plug-and-play fantasy option.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

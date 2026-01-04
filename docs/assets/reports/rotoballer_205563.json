@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205563",
+  "title": "Cam Skattebo Seeks Repeat Success Against Division Rival",
+  "description": "New York Giants running back Cam Skattebo should be in all starting fantasy lineups in Week 8, as he looks to repeat his dominant performance against the Philadelphia Eagles from Week 6. Skattebo has been a fantasy workhorse since taking over the backfield, ranking as the 8th-ranked fantasy RB for the season while averaging 15.46 Fantasy Points per game (FPPG). In the Week 6 matchup against the Eagles, Skattebo exploded for 98 rushing yards on 19 carries and found the end zone three times, demonstrating his elite scoring upside. Though Philadelphia's defense allows an average of 23.39 points to the position (ranking 25th against fantasy RBs), its stout 3rd-ranked red zone defense could be a factor. Skattebo's high 53.4% timeshare and his red-zone usage, evidenced by his five rushing touchdowns, cement him as a must-start despite the Eagles looking for revenge.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 8,
+  "team": "NYG",
+  "opp": "PHI",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 1,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

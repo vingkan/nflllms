@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210302",
+  "title": "Brian Robinson Jr. Maintains High-End Handcuff Appeal in San Francisco",
+  "description": "Across 13 games this season, San Francisco 49ers running back Brian Robinson Jr. has recorded 72 carries for 328 yards and two touchdowns. While Robinson Jr. has been efficient with his touches, the 26-year-old has not recorded more than nine carries or 53 rushing yards in any game. As long as star 49ers running back Christian McCaffrey remains healthy, Robinson Jr. will stay in a supporting role. However, if McCaffrey were to suffer an injury, Robinson Jr. would immediately vault into being a must-start fantasy running back. As the fantasy season winds to a close, Robinson Jr.'s lack of standalone value is less important. In all leagues with 12 or more teams, Robinson Jr. should be a waiver wire target heading into his Week 15 matchup against the Tennessee Titans.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 15,
+  "team": "SF",
+  "opp": "TEN",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 63
+}

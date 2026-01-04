@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211352",
+  "title": "Kareem Hunt Hard To Trust Without Mahomes In Week 16",
+  "description": "Kansas City Chiefs running back Kareem Hunt took a backseat to Isiah Pacheco in last week's loss to the Los Angeles Chargers, and his value should also decrease without Patrick Mahomes leading the offense. Hunt rushed six times for 12 yards and caught one pass for eight yards in Week 15. Hunt handled five fewer carries than Pacheco, but neither back was able to average more than 2.0 yards per carry in the contest. Gardner Minshew is now set to be the starting quarterback for the Chiefs for the rest of the season, which could decrease the number of scoring opportunities in this offense. Since most of his value is tied to finding the endzone, Hunt will be very difficult to trust this week. That said, Hunt will have a softer matchup in Week 16 against the Tennessee Titans. The Titans have given up the 11th-most fantasy points to opposing running backs this season. Hunt is ranked RB33 in our RotoBaller Half-PPR rankings, making him an RB3/Flex option this week. Given his reduced role last week and fewer expected scoring opportunities moving forward, Hunt is a tough player to project.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 16,
+  "team": "KC",
+  "opp": "TEN",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 77
+}

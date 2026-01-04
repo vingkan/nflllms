@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203334",
+  "title": "Emari Demercado, Michael Carter Splitting Practice Reps on Thursday",
+  "description": "Arizona Cardinals running backs Emari Demercado and Michael Carter are splitting reps at practice on Thursday out of the backfield during individual work in the portion of practice open to the media, according to Tyler Drake. James Conner (ankle) was lost for the year in Week 3, and now Trey Benson (knee) is on Injured Reserve (out at least four games), paving the way for Demercado and Carter to take over backfield duties in the desert. Carter said on Wednesday that he will start for the Cardinals in Week 5 against the Tennessee Titans, but fantasy managers should take those comments with a grain of salt. Based on what is transpiring in practice, it looks like the Cardinals could employ a committee approach this weekend, splitting the workload down the middle among Demercado and Carter. Both RBs have been popular waiver-wire additions this week, but fantasy managers may want to temper expectations if they're splitting touches down the middle.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 5,
+  "team": "ARI",
+  "opp": "TEN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 51,
+  "receiving_catches": 5,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

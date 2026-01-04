@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205402",
+  "title": "Tyler Allgeier Limited on Wednesday",
+  "description": "Atlanta Falcons running back Tyler Allgeier (knee, hip) was a limited participant during Wednesday's practice session. He's a new addition to the injury report as Allgeier is dealing with a few minor issues. Allgeier hasn't done much on the field lately as he rushed for 16 yards on four carries during last week's loss to the San Francisco 49ers. He has seen double digit carries in four games this season, but it hasn't resulted in a ton of fantasy value. Whether he's healthy or not, Allgeier isn't going to have much value while Bijan Robinson is healthy and running like he has been in the backfield.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 8,
+  "team": "ATL",
+  "opp": "MIA",
+  "att": 4,
+  "tgt": 2,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 4,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 27
+}

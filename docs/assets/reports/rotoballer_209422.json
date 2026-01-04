@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209422",
+  "title": "Tony Pollard Could Continue to Struggle in Tough Week 13 Matchup",
+  "description": "Across 11 games this season, Tennessee Titans running back Tony Pollard has recorded 690 scrimmage yards and two touchdowns on 166 touches. The 28-year-old's 4.2 yards-per-touch average is the lowest of his seven-year NFL career. Pollard has been particularly inefficient over his last two games, recording just 67 scrimmage yards on 28 touches. Making matters worse for fantasy managers, Pollard is stuck in a nearly dead-even playing time split with fellow Titans running back Tyjae Spears. In Week 13, Pollard will face the stingy Jacksonville Jaguars run defense. Entering the week, the Jaguars' defense ranks seventh in the NFL in yards per carry allowed (3.9) and has allowed just seven rushing touchdowns on the season. Pollard appears unlikely to see a high volume of touches, nor be particularly efficient with the work he receives against Jacksonville. He profiles as a low-end RB3/flex option for fantasy managers in Week 13.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 13,
+  "team": "TEN",
+  "opp": "JAX",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 51
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203382",
+  "title": "Michael Carter Set to Take Over as Cardinals' Early-Down Back?",
+  "description": "Arizona Cardinals running back Michael Carter could be in line to take over as the team's primary early-down back with running backs James Conner (ankle) and Trey Benson (knee) both currently on Injured Reserve. Carter figures to split touches in Week 5 against the Tennessee Titans with Emari Demercado and possibly Bam Knight, but earlier reporting has indicated that Carter could be the team's preferred choice to assume the majority of the rush attempts. Carter has recorded 2,131 yards from scrimmage and nine touchdowns on 439 touches across 49 career NFL games (22 starts). He profiles as a high-end RB3/flex option in a favorable Week 5 matchup against Tennessee.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 5,
+  "team": "ARI",
+  "opp": "TEN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 51,
+  "receiving_catches": 5,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

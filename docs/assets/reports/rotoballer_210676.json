@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210676",
+  "title": "Ashton Jeanty Headed for Large Workload Against Philly?",
+  "description": "Las Vegas Raiders running back Ashton Jeanty could handle increased volume in Week 15 against the Philadelphia Eagles, and he should benefit from this favorable matchup against a below-average run defense. The Raiders will be starting quarterback Kenny Pickett over Geno Smith (back, shoulder) this week, and this quarterback downgrade could prompt Las Vegas to throw the ball less and run the ball more. It could also lead to more checkdowns and fewer passes deep downfield. All of this bodes well for Jeanty, who is averaging 14.7 carries and 3.5 catches per game while ranking as the overall RB14 in PPR leagues. Not only do we think he could handle more than 20 touches in an offensive game plan centered around rushing attempts and short passes, but Jeanty should also benefit from a favorable matchup. Philadelphia has allowed the eighth-most fantasy points, fifth-most receiving yards, and second-most receiving touchdowns to opposing running backs in 2025. This promising opportunity gives Jeanty top-12 running back upside for Week 15.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 15,
+  "team": "LV",
+  "opp": "PHI",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 35,
+  "receiving_catches": 4,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 35
+}

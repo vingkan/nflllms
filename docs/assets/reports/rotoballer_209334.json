@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209334",
+  "title": "Isaiah Davis Unlikely to See Many Opportunities Vs. Atlanta",
+  "description": "New York Jets running back Isaiah Davis offers little more than handcuff insurance ahead of the team's Week 13 meeting against the visiting Atlanta Falcons. The South Dakota State product encroached on 50% of New York's snaps for a two-game stretch during Weeks 7 and 8. However, he's dipped back down since, failing to eclipse 30% of plays in the three ensuing contests. With backfield mate Breece Hall dominating touches on the ground, and even regaining a role in the passing game - which the 23-year-old had owned for a period of time - Davis boasts no value outside his low-end handcuff status. As it stands, fantasy managers can safely avoid the second-year back, particularly with teammate Braelon Allen's (knee) potential return on the horizon. Davis is RotoBaller's PPR RB57 for Week 13.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 13,
+  "team": "NYJ",
+  "opp": "ATL",
+  "att": 0,
+  "tgt": 1,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

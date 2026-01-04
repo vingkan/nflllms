@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210939",
+  "title": "Javonte Williams Returns to Start Second Half on Sunday Night",
+  "description": "Dallas Cowboys running back Javonte Williams (shoulder) returned to the Sunday night game against the Minnesota Vikings for the start of the second half after leaving in the first quarter with a shoulder injury after his one-yard touchdown plunge, according to Charean Williams of Pro Football Talk. After Williams' injury on the first drive of the game, Malik Davis and Hunter Luepke split backfield duties in the second half. Luepke suffered a concussion and was ruled out at halftime, so Williams and Davis will split the touches to close out the game. Dallas added padding under Williams' shoulder pad, and he opened the second half with runs of 15 and three yards. So far, he has eight carries for 31 yards and one touchdown for the Cowboys in a must-win game. His fantasy managers have to be thrilled to see him return in the second half.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 47
+}

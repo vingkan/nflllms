@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207666",
+  "title": "Rico Dowdle Cleared to Play in Week 11",
+  "description": "Carolina Panthers running back Rico Dowdle (quadriceps) was removed from Friday's final injury report and will play on Sunday against the division-rival Atlanta Falcons in Week 11, according to Darin Gantt of Panthers.com. Dowdle missed practice on Wednesday for the second straight week with a minor quad injury, but he returned to practice on Thursday and is now in the clear to play this weekend as Carolina's lead back. The 27-year-old has been one of the NFL's most dominant RBs in 2025, vaulting him into a top-five weekly play at the position in fantasy football. He played through his quad issue in last week's loss to the New Orleans Saints and had 21 touches for 64 yards. Dowdle is averaging a career-best 5.3 yards per carry in his first year with the Panthers for 788 rushing yards and five touchdowns on 149 carries. He has added 18 catches for 142 yards and another score. Keep him locked into your starting lineup.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 11,
+  "team": "CAR",
+  "opp": "ATL",
+  "att": 19,
+  "tgt": 7,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 5,
+  "receiving_yards": 55,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 17
+}

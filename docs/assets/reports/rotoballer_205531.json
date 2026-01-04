@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205531",
+  "title": "D'Andre Swift Officially Questionable to Play in Week 8 Due to Groin Injury",
+  "description": "Chicago Bears running back D'Andre Swift (groin) is officially listed as questionable to play in Week 8 against the Baltimore Ravens due to a groin injury. Swift was held out of practice on Wednesday before logging limited practices on both Thursday and Friday due to the injury. The 26-year-old has recorded 585 yards from scrimmage and four touchdowns on 105 touches across six games so far this season. His two best games have come over the last two weeks, as he's recorded 313 scrimmage yards and two touchdowns in his last two games combined. If Swift were to miss Week 8, Bears rookie running back Kyle Monangai would likely see the majority of the backfield work. Monangai recorded a career-high 13 carries in Week 7 and scored his first NFL touchdown. Assuming Swift can play, he profiles as a must-start fantasy running back in Week 8 against Baltimore.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

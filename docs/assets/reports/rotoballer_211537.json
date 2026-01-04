@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211537",
+  "title": "Tyjae Spears a Risky Option in Tough Week 16 Matchup",
+  "description": "Tennessee Titans running back Tyjae Spears recorded just five touches for 36 yards in last week's loss to the San Francisco 49ers. It was the third year back's fewest touches in a game since Week 5, his first game of the season after opening the year on Injured Reserve with an ankle injury. Spears' role in the Titans' offense hasn't expanded with Tony Pollard locking down the lead back duties and delivering his two best performances of the season in the last two weeks. The 24-year-old has just one game this season with double-digit PPR points, coming back in Week 8. Spears will remain a low-upside FLEX option in a tough Week 16 matchup versus the Kansas City Chiefs, who have allowed the fourth fewest PPR points per game to running backs.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 16,
+  "team": "TEN",
+  "opp": "KC",
+  "att": 13,
+  "tgt": 5,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 52,
+  "receiving_catches": 5,
+  "receiving_yards": 53,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 12
+}

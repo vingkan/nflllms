@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203551",
+  "title": "De'Von Achane Is an Elite Play Against the Panthers",
+  "description": "Miami Dolphins running back De'Von Achane should be very busy in an extremely favorable matchup in Week 5, when his team rolls into Carolina. Achane is coming off a season-high 20 carries on Monday night against the Jets in Week 4, totaling a season-high 99 rushing yards and scoring his first rushing touchdown. His targets were down dramatically because the Dolphins played from ahead, but he could get more work as a receiver with Tyreek Hill (knee) done for the season. Coach Mike McDaniel knows that Achane is a key playmaker in the offense ans always is sure to get him his volume. The Panthers have been a good matchup for running backs, giving up three running back touchdowns in four weeks along with 110 rushing yards and 30.3 receiving yards per game to the position. Achane should continue to serve as the primary back in Miami, and even though he is sharing a little work with rookie Ollie Gordon II, he remains a great play in all formats. His big-play ability, consistent volume, and favorable matchup combine to place him at No. 5 in the RotoBaller RB rankings for this week.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 5,
+  "team": "MIA",
+  "opp": "CAR",
+  "att": 10,
+  "tgt": 7,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 16,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211376",
+  "title": "Jaylen Wright Regresses in Week 15 with De'Von Achane Healthy",
+  "description": "Miami Dolphins running back Jaylen Wright followed up his explosive campaign with a dud in Week 15, totaling only two rushing yards on one carry against the Pittsburgh Steelers. Wright totaled 107 yards on 24 carries against the New York Jets in Week 14, but was phased back to his reserve role with De'Von Achane playing through his rib injury. Wright dropped from a 52% snap share to an 8% snap share last week. Wright appears to be the direct handcuff to Achane, and with two weeks left in the fantasy season, it's hard to fathom that Wright will be fantasy relevant for the remainder of the 2025 season. While he faces the worst run defense in the NFL in the Cincinnati Bengals, he doesn't carry enough volume to be worth rostering.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 16,
+  "team": "MIA",
+  "opp": "CIN",
+  "att": 15,
+  "tgt": 3,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 81,
+  "receiving_catches": 3,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 14
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207962",
+  "title": "Kyle Monangai Has Tough Matchup But Should Remain Involved",
+  "description": "Chicago Bears running back Kyle Monangai will face an unfavorable matchup while operating out of a split backfield during Sunday's Week 11 contest against the Minnesota Vikings. Monangai has impressed in his rookie season, tallying 390 rushing yards, 83 receiving yards, and two touchdowns. He's also two weeks removed from a 29-touch, 198-yard outing with D'Andre Swift sidelined. Now, though, Swift is healthy, and the two seem to have joint roles in the Bears' backfield. This is conducive to fantasy scoring against weaker opponents, but against a team like the Vikings, it might render Monangai tough to trust in lineups. Monangai had just seven carries for 28 yards last week, salvaging his outing with a touchdown, and now, he'll face a Vikings defense allowing the 11th-fewest fantasy points and third-fewest receiving yards to opposing running backs in 2025. Monangai is a low-end RB3/flex in deeper formats, and he can probably be benched in leagues with 12 or fewer teams for fantasy managers who have other options instead.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 11,
+  "team": "CHI",
+  "opp": "MIN",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 23,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

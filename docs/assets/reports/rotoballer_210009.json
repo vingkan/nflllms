@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210009",
+  "title": "Breece Hall Sports RB1 Appeal Vs. Sieve-Like Dolphins' Rush D",
+  "description": "New York Jets running back Breece Hall is slated for another superb matchup in Week 14 when his team squares off with the visiting Miami Dolphins. Hall hasn't been the most efficient of rushers since New York's Week 9 bye (3.61 yards per carry [70 rushes]). However, he's the PPR RB14 over that stretch in terms of points per game (14.4). He'll get a dream outing against a porous Dolphins' rush defense this weekend that's afforded opposing ground games the fourth-most yards per contest (137.5). Hall's involvement in the passing attack took a step back in Week 13, but he should see more work there on Sunday, as the Dolphins give up a good amount of receptions to RBs (57). The Iowa State alum ranks as RotoBaller's RB9 in PPR formats ahead of this weekend's slate of action.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 14,
+  "team": "NYJ",
+  "opp": "MIA",
+  "att": 14,
+  "tgt": 1,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 43,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 46
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205907",
+  "title": "Kareem Hunt Scores Twice in Monday Night Win Over Washington",
+  "description": "Kansas City Chiefs running back Kareem Hunt logged nine carries for 40 yards and a touchdown while adding another score on a two-yard reception in Monday night's 28-7 win over the Washington Commanders. Hunt has recorded exactly one target and one reception in six of eight games this season and caught his first receiving touchdown since Week 1 of the 2022 season, back when he was with the Cleveland Browns. The 30-year-old back has been a reliable, high-success rate runner for Kansas City this season, helping to keep the offense on schedule. He's only averaging 3.9 yards per carry, but he's scored four rushing touchdowns, and his 47% success rate is the seventh highest among running backs with at least 50 carries this season, per SumerSports. Hunt is a touchdown-dependent option in fantasy, but he gets another good matchup in Week 9 against the Buffalo Bills.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 9,
+  "team": "KC",
+  "opp": "BUF",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 17
+}

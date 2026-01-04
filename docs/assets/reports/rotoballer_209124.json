@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209124",
+  "title": "R.J. Harvey Primed For Post-Bye Breakout?",
+  "description": "Denver Broncos rookie running back R.J. Harvey played a season-high 60.7% of the snaps in Week 11 against the Kansas City Chiefs, but had underwhelming production with 11 carries for 30 yards to go with three receptions (three targets) for 20 yards as a receiver. In the first game without J.K. Dobbins (foot), the rookie second-rounder handled the bulk of the running back touches, which bodes well for his rest of season outlook. Jaleel McLaughin's involvement near the goal line could limit the upside as he took two of the three carries inside the 10 and scored a touchdown against the Chiefs, but we'll need to see more than one game to determine that. Harvey has the explosiveness and receiving ability to be impactful in fantasy down the stretch, and he gets a prime matchup in Week 13 against the Washington Commanders.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 13,
+  "team": "DEN",
+  "opp": "WAS",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 35,
+  "receiving_catches": 3,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 2
+}

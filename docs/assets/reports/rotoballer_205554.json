@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205554",
+  "title": "Bijan Robinson Primed for Big Day Against Reeling Miami Run Defense",
+  "description": "Atlanta Falcons running back Bijan Robinson fell just shy of 100 yards from scrimmage for the first time this season in Week 7's 20-10 loss to the 49ers, tallying 92 total yards in the contest. Despite not reaching the century mark, the 23-year-old found the end zone for the third consecutive week and continued to see heavy volume in the passing game with eight targets and six catches. There should be little problem getting back over the 100-yard threshold in Week 8, as it brings a home matchup against a Miami defense that has shown little resistance to the run, ranking dead last in opponent rush yards allowed per game (159.3) and has yielded the fourth-most fantasy points to opposing running backs thus far. Tyler Allgeier (hip/knee) has been limited in practice all week, and if he ends up missing the game, Robinson could see an even bigger workload than normal. Regardless, even with his normal usage, the third-year pro still projects as the top option at running back this week in such a favorable matchup.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 8,
+  "team": "ATL",
+  "opp": "MIA",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 25,
+  "receiving_catches": 3,
+  "receiving_yards": 23,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

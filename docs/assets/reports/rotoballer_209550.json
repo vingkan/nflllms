@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209550",
+  "title": "Bam Knight Puts Together Solid Performance in Week 13 Loss vs. the Bucs",
+  "description": "Arizona Cardinals running back Bam Knight had 11 carries for 62 yards in Sunday's crushing 20-17 loss to the Tampa Bay Buccaneers in Week 13. Knight also had three catches for 36 yards with a receiving touchdown on three targets. The 24-year-old put together his best performance of the season by earning season highs in rushing yards, yards per carry, receiving yards, and his first receiving touchdown this season. Knight's performance came after being a limited participant in practice every day this week due to a knee issue. Despite having his best game this season, Knight's role in the offense will be cloudy heading into Week 14, with the potential of Trey Benson (knee) returning from injured reserve looming.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 14,
+  "team": "ARI",
+  "opp": "LAR",
+  "att": 7,
+  "tgt": 6,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 16,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 40
+}

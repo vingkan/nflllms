@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210744",
+  "title": "De'Von Achane Expected to Play Monday Night",
+  "description": "Barring a setback, Miami Dolphins running back De'Von Achane (ribs) is expected to play Monday night against the Pittsburgh Steelers. Offensive coordinator Frank Smith said Friday that he expects the superstar running back to be ready for Monday night after picking up a rib injury in last week's win over the New York Jets. The team limited his reps in practice, but he shouldn't have any limitations in Week 15. The 24-year-old running back has been on a tear lately, recording 72 carries for 520 rushing yards and four touchdowns while adding 12 receptions for 109 yards on 13 targets over the last four games. Achane remains an elite fantasy option for Week 15's matchup against the Pittsburgh Steelers.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 6,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

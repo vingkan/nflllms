@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204648",
+  "title": "MarShawn Lloyd Getting Closer to Practicing",
+  "description": "Green Bay Packers head coach Matt LaFleur said that running back MarShawn Lloyd (hamstring) is \"getting closer\" to returning to practice, but it won't come this week, according to Rob Demovsky of ESPN. Lloyd has been on Injured Reserve since Week 1. The 24-year-old is eligible to be activated after already missing four games, but he's not quite ready to get back on the practice field. Once the Packers designate him to return from IR, they will have 21 days to officially bring him back to the 53-man active roster. Lloyd will not return in Week 7 against the Arizona Cardinals, and it's probably unlikely that he'll make his 2025 debut in Week 8 against the Pittsburgh Steelers, either. The Packers had high hopes for Lloyd when they drafted him in the third round in 2024, but injuries have been the story so far, and he managed to play in only one game last year. When he's ready to return, there's no guarantee he'll leapfrog Emanuel Wilson or Chris Brooks on the RB depth chart behind starter Josh Jacobs.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 7,
+  "team": "GB",
+  "opp": "ARI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

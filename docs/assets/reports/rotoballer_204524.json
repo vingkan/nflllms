@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204524",
+  "title": "Chris Rodriguez Jr. Active on Monday Night",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (calf) is officially active for the Monday Night Football game against the Chicago Bears in Week 6 despite not practicing all week. Rodriguez, rookie Jacory Croskey-Merritt, and Jeremy McNichols had been operating in a committee backfield after the season-ending injury to Austin Ekeler (Achilles) earlier this year until last week, when Croskey-Merritt took hold of the lead-back role in a breakout performance in the win over the Los Angeles Chargers. It's unclear if Rodriguez will be limited at all on Monday night, but we'd expect him to take a clear back seat to JCM once again against Chicago. The 25-year-old RB should be viewed as a pretty shaky touchdown-dependent RB3/flex in fantasy lineups on Monday. In the last three games, Rodriguez has just over 100 yards rushing and no touchdowns on 23 carries.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 6,
+  "team": "WAS",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204262",
+  "title": "Zach Charbonnet Continues to Remain Touchdown-Dependent",
+  "description": "Seattle Seahawks running back Zach Charbonnet is a touchdown-dependent flex option in Week 6 against the Jacksonville Jaguars. Charbonnet has taken firm control over Seattle's goal line running back role, but his general efficiency has been atrocious. Charbonnet is averaging 2.75 yards per carry this season. He has yet to exceed 4.0 yards per carry in a game this year. However, Seattle's offense has been very effective in 2025, which has provided Charbonnet with plenty of chances to score this season. He is still splitting time with fellow running back Kenneth Walker III, which taps both of their ceilings. The Jaguars are the No. 18 team against opposing running backs in fantasy. There should be enough work to go around for both running backs to be fantasy relevant this week. Still, Charbonnet is a risky play if he does not find the end zone, given his relative lack of involvement in the passing game.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 6,
+  "team": "SEA",
+  "opp": "JAX",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 24,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208824",
+  "title": "Trey Benson Could Dominate Backfield Touches in Arizona Upon Return from Injury",
+  "description": "Arizona Cardinals running back Trey Benson (knee) has been on Injured Reserve since Week 4 due to a knee injury. However, Benson was able to practice in a limited capacity heading into Week 12 and could be on track to make his return in Week 13 against the Tampa Bay Buccaneers. If Benson is cleared to play against Tampa Bay, Arizona may not be able to afford to work him in slowly. Running back Emari Demercado (ankle) missed Week 12 due to an ankle injury, and fellow Cardinals back Bam Knight (leg) suffered a lower leg injury late in Week 12 that could put his status for Week 13 in jeopardy as well. Across four games before getting injured, Benson recorded 224 scrimmage yards on 42 touches. Even in shallow leagues or leagues without IR roster slots, Benson should be a waiver-wire target heading into Week 13.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

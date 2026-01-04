@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203448",
+  "title": "Omarion Hampton is a Locked-in RB1 for Week 5",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton has firmly established himself as the Chargers' workhorse after his impressive performance against the New York Giants. Hampton handled the majority of snaps (89%) and rushed 12 times for 128 yards, including a 54-yard touchdown, while adding five catches for 37 yards. The Washington Commanders are stronger against the run than the pass, but they remain vulnerable on the road, allowing 131.5 rushing yards per game away from home. Although star tackle Joe Alt (ankle) is out, the expected return of veteran guard Mekhi Becton (concussion) adds interior stability. RotoBaller projects Hampton as RB7 for this week. Considering his workload, increased targets, and pass-catching skills, he is a solid RB1 and a must-start in all formats.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 5,
+  "team": "LAC",
+  "opp": "WAS",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 44,
+  "receiving_catches": 6,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

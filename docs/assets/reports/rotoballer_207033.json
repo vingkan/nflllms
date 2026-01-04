@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207033",
+  "title": "Chuba Hubbard is A Backup to Rico Dowdle in Week 10",
+  "description": "Chuba Hubbard was relegated to the backup running back role again in Week 9. Last week, the fifth-year RB only played on 22% of snaps, recorded 17 yards on five carries, and logged 1.7 PPR fantasy points, which was his lowest in a single game this season. Since returning from a calf injury in Week 7, Hubbard has totaled 82 rushing yards and averaged 5.5 PPR Fantasy Points Per Game. In that same span of time, Rico Dowdle outperformed Hubbard with 263 yards and 14.7 PPR fantasy points scored per game. Fantasy players should leave Hubbard on the bench as a handcuff to Dowdle until further notice. Those who don't roster Dowdle can consider cutting Hubbard before Sunday if they need to make any more roster room.",
+  "player_id": 7594,
+  "player_name": "Chuba Hubbard",
+  "week": 10,
+  "team": "CAR",
+  "opp": "NO",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 51
+}

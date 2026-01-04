@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206880",
+  "title": "Trey Benson Trending Toward Missing Week 10?",
+  "description": "Arizona Cardinals' second-year running back out of Florida State, Trey Benson (knee), missed yet another opportunity to practice on Thursday after it was reported on Wednesday by Theo Mackie of The Arizona Republic that head coach Jonathan Gannon did not make it sound likely that he would return from Injured Reserve to play in Week 10 against the division-rival Seattle Seahawks. This is tough news for fantasy managers who were hoping to get him activated after the four-game minimum from the IR stint. Benson remains a top IR stash for the time being, as they likely will give him the RB1 duties upon his return. Arizona will continue to mix and match in their backfield with Bam Knight, Emari Demercado, and Michael Carter. Right now, Demercado and Knight have some RB3 value while Carter is likely the odd man out based on recent usage.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 10,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

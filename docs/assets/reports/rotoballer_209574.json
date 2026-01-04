@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209574",
+  "title": "Devin Neal Sees 17 Touches in Week 13, Could Make More Starts",
+  "description": "New Orleans Saints rookie running back Devin Neal made the first start of his NFL career in Sunday's 21-17 loss to the hosting Miami Dolphins in Week 13. Neal handled a team-high 14 carries for 47 yards (3.4 yards per tote) while also adding three catches on three targets for an additional 22 yards through the air. The 22-year-old got the opportunity after veteran Alvin Kamara (knee) suffered an MCL sprain in last week's loss to the Atlanta Falcons. Neal played a season-high 82% of the offensive snaps, with Evan Hull seeing five rushing attempts as his backup. Although his production wasn't exactly head-turning on Sunday, Neal deserves more attention on the waiver wire this week (he's rostered in 57% of Yahoo leagues) since there's a good chance Kamara will miss more time. Neal will be at least an RB3/flex in fantasy in Week 14 against the division-rival Tampa Bay Buccaneers if Kamara is out again.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 14,
+  "team": "NO",
+  "opp": "TB",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 70,
+  "receiving_catches": 1,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

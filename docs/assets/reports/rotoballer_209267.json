@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209267",
+  "title": "Sean Tucker has Uncertain Value for Week 13",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker earned himself a larger role in the offense after scoring three touchdowns in Week 11. He followed up that performance with 42 rushing yards on 12 attempts during last week's loss to the Los Angeles Rams. Now, it's unclear what kind of role Tucker is going to have with lead back Bucky Irving returning this weekend. The 24-year-old figures to still have a role, but this could turn into a three-back committee with Rachaad White involved as well. The Bucs figure to limit Irving during his first game back in the mix. Tucker should remain involved, but shouldn't be viewed as anything more than a low-end flex option for Week 13.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 13,
+  "team": "TB",
+  "opp": "ARI",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

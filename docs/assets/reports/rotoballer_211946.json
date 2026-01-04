@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211946",
+  "title": "Jawhar Jordan Is a High-Risk Flex Play",
+  "description": "Houston Texans running back Jawhar Jordan has impressed the last two weeks, but he's high-risk this week since his role is uncertain as his team visits the Chargers on Saturday afternoon. The 26-year-old broke out in his NFL debut in Week 15, taking 15 carries for 101 yards against the Cardinals. He followed that up last week with 15 more carries but only for 53 yards, but he saved his fantasy day with five catches for 17 more yards. Both of those big games came after Woody Marks (ankle) left with an injury, but Marks is ready to return this week. Jordan and Nick Chubb will likely continue to mix in for the Texans, but Marks was the primary running back before his injury and will likely resume that role moving forward. The Chargers have been good against the run this season, and Jordan is only the No. 52 RB in RotoBaller's Week 17 rankings. He's a desperation play who should still be involved, but he's best left on your bench this week if possible.",
+  "player_id": 11588,
+  "player_name": "Jawhar Jordan",
+  "week": 17,
+  "team": "HOU",
+  "opp": "LAC",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 36,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 50
+}

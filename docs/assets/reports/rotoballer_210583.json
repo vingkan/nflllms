@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210583",
+  "title": "Kenneth Walker III Remains a Risky Play in Week 15",
+  "description": "Seattle Seahawks running back Kenneth Walker III is a risky start in Week 15 against the Indianapolis Colts. No matter the matchup this season, Walker has been very unpredictable for fantasy purposes. He is hovering around 50-55% of the snaps while splitting time with fellow running back Zach Charbonnet. Despite a low snap count and relatively low volume, Walker has been relatively efficient as a runner, especially over the second half of the season. Additionally, his involvement as a receiver has helped boost him into a flex player with upside. However, Walker cedes just about every touchdown opportunity to Charbonnet. Walker has scored just one touchdown since Week 3 of this season. His lack of touchdown opportunities has resulted in low-end fantasy performances. The Colts are No. 14 against opposing running backs in fantasy. They are also allowing just 3.87 yards per carry to running backs. Walker may be able to buck that trend this week, but he needs to find the end zone to provide any sort of upside. He is a possible flex player this week, but you could very well end up with another 3.8-point dud as we got from Walker in Week 14 against the Falcons.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 15,
+  "team": "SEA",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 1,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 17,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 55
+}

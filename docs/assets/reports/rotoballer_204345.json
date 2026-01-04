@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204345",
+  "title": "Chris Rodriguez Jr. Questionable for Week 6",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (calf) is currently listed as questionable ahead of the Week 6 matchup against the Chicago Bears. It doesn't look good for Rodriguez who has been able to practice all week due to a lingering calf issue. Despite that, Rodriguez still has a chance to suit up for Monday's game. When healthy, Rodriguez hasn't done much with 23 carries for 105 yards and zero touchdowns. If active, Rodriguez figures to play a reserve role with Jeremy McNichols while Jacory Croskey-Merritt serves as the lead back.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 6,
+  "team": "WAS",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

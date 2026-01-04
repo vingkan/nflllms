@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204670",
+  "title": "Pete Carroll Thinks 20-Plus Carries for Ashton Jeanty Should be Normal",
+  "description": "Las Vegas Raiders running back Ashton Jeanty recorded a season-high 23 rush attempts for 75 yards and a touchdown in their 20-10 win over the Titans in Week 6. Head coach Pete Carroll spoke on Wednesday regarding the workload for his star rookie running back and said that he hopes that is the norm for him moving forward. Jeanty has topped 20 carries twice this season, including a career-high performance in Week 4 against the Bears, when he rushed for 138 yards and scored three total touchdowns. He hasn't been very efficient running behind a poor run-blocking offensive line, but his touch volume ranks among the highest at the position. Jeanty will rank as a low-end RB1 in Week 7 against the Chiefs.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 7,
+  "team": "LV",
+  "opp": "KC",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

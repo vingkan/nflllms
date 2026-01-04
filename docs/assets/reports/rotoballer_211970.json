@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211970",
+  "title": "Derrick Henry Remains Low-End RB1 in Week 17",
+  "description": "Baltimore Ravens running back Derrick Henry has faced some tough times this season in regard to ball security and questionable coaching decisions. While he registered his fourth fumble of the year last week against the New England Patriots, he still accrued 128 yards and two touchdowns on 18 carries. Tyler Huntley is likely to be under center in Week 17 against the Green Bay Packers, which means Henry should see some more carries. In Weeks 6 and 8, Henry received a combined 45 carries with Huntley as the starter. The Packers, however, are the eighth-toughest team in the league against the position over the last four weeks. They only allow 19.38 fantasy points per game to opposing backfields, but Henry was able to run all over the third-ranked Patriots defense, so he still projects as the RB11 in RotoBaller's rankings.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 17,
+  "team": "BAL",
+  "opp": "GB",
+  "att": 36,
+  "tgt": 0,
+  "touches": 36,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 216,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 4,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 45,
+  "ppr_scoring_position_rank": 1
+}

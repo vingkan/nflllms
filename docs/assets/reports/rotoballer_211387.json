@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211387",
+  "title": "Isiah Pacheco Hard to Trust Moving Forward",
+  "description": "Kansas City Chiefs running back Isiah Pacheco played his highest snap count since returning from injury in Week 15. He led the Chiefs in carries last week but was inefficient, totaling just 21 yards on 11 carries. With quarterback Patrick Mahomes done for the season with a torn ACL, the Chiefs' offense could struggle, making it even more difficult for Pacheco to be a consistent fantasy starter. The Chiefs rank 15th in scoring offense with the two-time MVP as their quarterback. Now, they switch to Gardner Minshew, which is a clear downgrade from Mahomes. While an easy matchup against the Tennessee Titans could catapult Pacheco to FLEX territory, he's still tough to trust with Kareem Hunt in the picture and the Chiefs' offense likely to regress.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 16,
+  "team": "KC",
+  "opp": "TEN",
+  "att": 8,
+  "tgt": 7,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 6,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 21
+}

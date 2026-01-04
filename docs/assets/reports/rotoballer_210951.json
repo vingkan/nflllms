@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210951",
+  "title": "RJ Harvey Scores 10th Touchdown of Rookie Season in Week 15 Victory",
+  "description": "Denver Broncos rookie running back RJ Harvey had another high-volume day in a 34-26 victory over the Green Bay Packers in Week 15. Knowing this would be a challenging matchup for Harvey to excel in, he still put up 65 yards on 19 carries, one touchdown, and one lost fumble. The most surprising statistic is that Harvey saw just one target in the passing game after averaging over four per game in the past five matchups. The Packers keyed heavily on Harvey in this game, but he still found a way to get into the endzone for the 10th touchdown of his rookie season. Harvey will try to find more efficiency against the Jacksonville Jaguars in Week 16.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 16,
+  "team": "DEN",
+  "opp": "JAX",
+  "att": 7,
+  "tgt": 5,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 50,
+  "receiving_catches": 4,
+  "receiving_yards": 71,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 11
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206385",
+  "title": "Bears Elevating Brittain Brown from Practice Squad for Week 9",
+  "description": "The Chicago Bears elevated running back Brittain Brown from their practice squad for the team's Week 9 game against the Cincinnati Bengals, per ESPN's Adam Schefter. Chicago will be without running backs D'Andre Swift (groin) and Roschon Johnson (back) against Cincinnati. Rookie running back Kyle Monangai is expected to step into a workhorse role in Week 9. Brown and veteran Travis Homer are the most likely candidates to give Monangai a breather when he needs one. Brown has not appeared in an NFL game since 2022, when he played in six games for the Las Vegas Raiders. The 28-year-old exclusively played special teams for Las Vegas, so he's unlikely to take on much of an offensive role for Chicago in Week 9.",
+  "player_id": 8423,
+  "player_name": "Brittain Brown",
+  "week": 9,
+  "team": "CHI",
+  "opp": "CIN",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 37,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 23
+}

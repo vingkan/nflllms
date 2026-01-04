@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206806",
+  "title": "Stingy Broncos Defense Awaits Ashton Jeanty on Thursday",
+  "description": "Las Vegas Raiders running back Ashton Jeanty should be viewed as a quality RB2 option when the Raiders take on a quality Denver Broncos defense on Thursday. The rookie from Boise State has been something of a letdown, given where he was taken in most preseason fantasy drafts, but he has such control over the Vegas backfield that he still enters Week 10 as the No. 13 overall fantasy running back. Jeanty has eclipsed 80 yards only once in eight games, a 138-yard showing against the Chicago Bears in Week 4, though his 25 targets have made him a regular part of the team's passing game and given him additional fantasy value. At 2-6, the Raiders look headed for yet another lost season, but a running back playing more than 70% of his team's offensive snaps should be in fantasy lineups.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 10,
+  "team": "LV",
+  "opp": "DEN",
+  "att": 19,
+  "tgt": 5,
+  "touches": 24,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

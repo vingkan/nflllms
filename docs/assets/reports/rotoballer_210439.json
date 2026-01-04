@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210439",
+  "title": "Devin Neal Listed as Limited in Wednesday's Practice",
+  "description": "New Orleans Saints rookie running back Devin Neal (abdomen) was listed as a limited participant at Wednesday's practice session, according to Ross Jackson of LouisianaSports.net. Neal appears to have exited New Orleans' win over the Bucs on Sunday with an abdominal injury. His injury will be something for fantasy managers to monitor in practice this week, but he should still be on track to play in Week 15 against the division-rival Carolina Panthers. The rookie sixth-rounder recorded a career-high 20 touches for 84 yards and a touchdown last week, and he has been a quality fantasy option with Alvin Kamara (knee, ankle) sidelined. Kamara missed practice again on Wednesday and is trending towards missing his third straight game, which would line Neal up for another week as a plug-and-play starter. If Neal were to trend in the wrong direction in the next two days, Evan Hull and Audric Estime would be names to watch in the Saints' backfield.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 15,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 7,
+  "tgt": 1,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 28,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 28
+}

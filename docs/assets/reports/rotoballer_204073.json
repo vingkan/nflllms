@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204073",
+  "title": "Rachaad White In Line for Significant Workload Again in Week 6?",
+  "description": "Tampa Bay Buccaneers running back Rachaad White filled in admirably for Bucs RB1 Bucky Irving (shoulder, foot) in Week 5. White logged 71 yards from scrimmage and two touchdowns on 18 total touches in a tough matchup against the Seattle Seahawks. With Irving likely set to miss a second straight game in Week 6 against the San Francisco 49ers, White appears to be in line to once again shoulder a significant portion of Tampa Bay's backfield touches. Overall, White has recorded 213 yards from scrimmage and three touchdowns on 49 total touches across five games this season. He profiles as a must-start, borderline fantasy RB1 in Week 6 against San Francisco.",
+  "player_id": 8136,
+  "player_name": "Rachaad White",
+  "week": 6,
+  "team": "TB",
+  "opp": "SF",
+  "att": 17,
+  "tgt": 3,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 65,
+  "receiving_catches": 3,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 10
+}

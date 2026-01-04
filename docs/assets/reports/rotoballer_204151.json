@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204151",
+  "title": "Chris Rodriguez Jr. Misses Friday's Practice",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (calf) was unable to practice on Friday. This marks back-to-back days that Rodriguez has been sidelined due to a lingering calf injury. He'll get one more chance to practice on Saturday ahead of the Monday night matchup against the Chicago Bears. If he sits, Jacory Croskey-Merritt should see his role increase in the backfield. The rookie back rushed for 111 yards with two touchdowns on 14 attempts in Week 5. He could see more carries if Rodriguez is unable to play.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 6,
+  "team": "WAS",
+  "opp": "CHI",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

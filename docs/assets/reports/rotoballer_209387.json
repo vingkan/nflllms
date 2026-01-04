@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209387",
+  "title": "Raheem Mostert Not in Fantasy Consideration for Week 13",
+  "description": "Las Vegas Raiders running back Raheem Mostert has served as the primary backup to rookie Ashton Jeanty this season, totaling 20 carries for 92 yards, along with nine receptions (nine targets) for 63 yards in eight games. The veteran hasn't recorded more than four touches in a game since Week 6 against the Tennessee Titans. Mostert would be in line to handle the bulk of the touches for the Raiders if Jeanty were to miss any time, but he remains off fantasy radars for Week 13 against the Los Angeles Chargers.",
+  "player_id": 2749,
+  "player_name": "Raheem Mostert",
+  "week": 13,
+  "team": "LV",
+  "opp": "LAC",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 6,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 74
+}

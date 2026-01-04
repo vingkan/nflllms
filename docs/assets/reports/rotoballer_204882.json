@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204882",
+  "title": "DJ Giddens Remains a Handcuff Option in Week 7",
+  "description": "Indianapolis Colts running back DJ Giddens was quiet in a Week 6 win over the Arizona Cardinals as he did not receive a touch while playing just two snaps on offense. The Colts surprisingly turned to Ameer Abdullah in the game as he notched two touches behind workhorse Jonathan Taylor. Giddens will look to get back in the stat sheet in a Week 7 road matchup against the Los Angeles Chargers. The Colts are one of the few teams that lean heavily on just one running back in Taylor, which doesn't leave much work for his backups. That being said, Giddens is still worth keeping an eye on as a handcuff option in case Taylor is forced to miss time at any point, although that could change if he plays behind Abdullah again in Week 7.",
+  "player_id": 12471,
+  "player_name": "DJ Giddens",
+  "week": 7,
+  "team": "IND",
+  "opp": "LAC",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

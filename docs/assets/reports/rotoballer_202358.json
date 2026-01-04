@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202358",
+  "title": "Jeremy McNichols Pops Off For a 60-Yard Touchdown Run",
+  "description": "Washington Commanders running back Jeremy McNichols carried the ball four times for 78 yards and a touchdown in Sunday's 41-24 win over the Raiders. McNichols had a statement run in the second quarter, where he evaded multiple tackles and ran for a 60-yard touchdown. The touchdown was his first of the season. With Austin Ekeler (Achilles) out for the season, the Commanders went with a running-back-by-committee approach on Sunday against the Las Vegas Raiders. Jacory Croskey-Merritt rushed eight times, while Chris Rodriguez led the backfield in attempts with 11 rushes, and McNichols rushed four times. While the committee approach is less than ideal for fantasy managers, it does mean that every player in the backfield is worth a look on the waiver wire in Week 4, specifically Rodriguez and McNichols, with Croskey-Merritt likely already rostered. Given the offense's success in their Week 3 win, McNichols' role and volume will likely stay the same in Week 4 against the Atlanta Falcons.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 4,
+  "team": "WAS",
+  "opp": "ATL",
+  "att": 2,
+  "tgt": 2,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 62
+}

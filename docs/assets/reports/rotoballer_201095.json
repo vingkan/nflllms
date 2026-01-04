@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201095",
+  "title": "Justice Hill a Non-Factor in Sunday Night Shootout",
+  "description": "Baltimore Ravens running back Justice Hill handled two carries for a loss of 14 yards and corralled 1-of-2 targets for an additional three yards in his team's 41-40 loss to the Buffalo Bills on Sunday Night Football. The 27-year-old combined with backfield mate Rasheen Ali for a total of five opportunities as incumbent starter Derrick Henry took a majority of the backfield work -- and ran wild -- against the Bills. Hill did gain a yard on the ground, but lost 15 on an awkward exchange with Lamar Jackson in which he fumbled and the ball bounced backward. While the seventh-year pro carried some low-end PPR value in 2024, it was spotty at best and wildly unpredictable. He may see such efforts again in a more pass-friendly game plan, but his floor is volatile for the time being. Baltimore will host the Cleveland Browns next Sunday.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 2,
+  "team": "BAL",
+  "opp": "CLE",
+  "att": 3,
+  "tgt": 3,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 7,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 46
+}

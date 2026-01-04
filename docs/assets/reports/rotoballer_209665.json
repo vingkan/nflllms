@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209665",
+  "title": "Tyrone Tracy Jr. Says he's Fine After Suffering Hip Contusion",
+  "description": "New York Giants running back Tyrone Tracy Jr. (hip) was carted off the field during the fourth quarter of Monday's blowout loss to the Patriots, but on Tuesday, the second-year back told reporters it was merely a hip contusion/stinger and that he is fine. Despite missing two games earlier this season with a shoulder injury, Tracy leads a banged-up Giants offense in rush attempts and yards, and had been enjoying his most productive three-game stretch of the season heading into Monday night. The Giants now face a Week 14 bye, so fantasy managers will need to wait an additional week for any official injury reports, but if healthy for Week 15, Tracy remains a low-ceiling flex candidate for the fantasy playoffs.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 5
+}

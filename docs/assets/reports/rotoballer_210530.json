@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210530",
+  "title": "Kenneth Gainwell Remains a Key Piece in the Steelers Offense",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has remained a steady, consistent piece of this Steelers offense for a majority of the season, but even more so over the past month and a half. Since Week 10, this Steelers backfield has become an actual split between Gainwell and Jaylen Warren. For most of the first half of the season, it had appeared Warren was gaining steam and control of the backfield, but a handful of injuries to Warren opened up the door for Gainwell, and he took advantage of his opportunities and has earned more playing time. Since Week 10, Gainwell has rushed for 151 yards on 28 carries (5.39 YPC), has 23 receptions for 167 receiving yards, and is averaging 14.6 fantasy points per game. He is consistently getting more involved than Warren in the receiving game, and moving forward, can be viewed as an RB3/flex option. In Week 15, the Steelers take on the Miami Dolphins, who rank middle-of-the-pack in points allowed against opposing running backs.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 15,
+  "team": "PIT",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 80,
+  "receiving_catches": 7,
+  "receiving_yards": 46,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 9
+}

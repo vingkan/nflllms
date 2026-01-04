@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208442",
+  "title": "Kareem Hunt Will Dominate Touches Against Colts In Week 12",
+  "description": "Kansas City Chiefs running back Kareem Hunt will face the Indianapolis Colts in Week 12. Hunt handled 13 carries for 59 yards and a touchdown, along with one catch for three yards. His 59 rushing yards were a season-high, and his 13 carries tied his season-high. With Isiah Pacheco out in Week 11, Hunt was the only back to get any rushing work. Rookie Brashard Smith was relatively uninvolved in the contest, only catching two passes for eight yards. With Pacheco ruled out again for Week 12, Hunt should dominate touches against Indianapolis. The Colts defense has been an average matchup for fantasy running backs this season, but the scoring potential makes Hunt an interesting play. The Colts offense is the highest-scoring in the league, and this game has a nearly 50-point projected total, meaning that Hunt could visit the end zone once or twice. Hunt should be viewed as a viable RB2 with upside in Week 12.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 12,
+  "team": "KC",
+  "opp": "IND",
+  "att": 30,
+  "tgt": 3,
+  "touches": 33,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 104,
+  "receiving_catches": 3,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 8
+}

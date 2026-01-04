@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210050",
+  "title": "D'Andre Swift Faces Tough Test Against Packers",
+  "description": "Chicago Bears running back D'Andre Swift is looking to sustain his elite productivity in Week 14 against the Green Bay Packers. Swift had a monster game in Week 13, totaling 138 scrimmage yards and a touchdown against the defending champion, Philadelphia Eagles. While Swift has averaged 14.4 PPR fantasy points per game this season, rookie running back Kyle Monangai has been performing like a number-one running back as well. Over the past three weeks, the split has been nearly even, with Swift playing 52% of the snaps and Monangai playing 46%. The matchup is not ideal as well, with the Packers ranking as the seventh-best run defense in the NFL this season. Swift's fantasy value will come down to game script, as he should be considered a low-end RB2 in Week 14.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 14,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 63,
+  "receiving_catches": 3,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 23
+}

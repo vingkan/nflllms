@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209063",
+  "title": "Kenneth Walker III on the Week 13 Injury Report",
+  "description": "Seattle Seahawks running back Kenneth Walker III (glute) is on the team's Week 13 injury report and was listed as limited in Wednesday's practice with a glute injury, according to Michael-Shawn Dugar of The Athletic. Walker, who has a history of lower-body injuries, is worth monitoring ahead of a Week 13 clash against the Minnesota Vikings this weekend. The 25-year-old continues to share playing time with backfield mate Zach Charbonnet, but he has been much more efficient with his opportunities in 2025, compiling 677 rushing yards and four touchdowns on his 147 rushing attempts. Walker has also added 157 receiving yards. If Walker is able to play against Minnesota, he should be viewed as a low-end RB2 for fantasy managers. He played through his glute injury in last week's win over the Titans and had 14 touches for 101 scrimmage yards.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 13,
+  "team": "SEA",
+  "opp": "MIN",
+  "att": 13,
+  "tgt": 4,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 33
+}

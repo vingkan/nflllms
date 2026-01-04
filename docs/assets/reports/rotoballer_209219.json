@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209219",
+  "title": "Devin Neal \"Good to Go,\" Set for Increased Workload in Week 13",
+  "description": "New Orleans Saints running back Devin Neal (ankle) will not carry an injury designation into Week 13 and is \"good to go\" for his team's matchup on Sunday against the Miami Dolphins, per Mike Triplett of New Orleans.Football. Neal was a limited practice participant on both Wednesday and Thursday due to the ankle issue, but was able to log a full session on Friday. With veteran Saints back Alvin Kamara (knee, ankle) officially ruled out for Week 13, Neal could have the chance to lead his team's backfield against Miami. Across seven games played this season, the rookie sixth-rounder has recorded 125 scrimmage yards on 29 touches. Neal did most of his work as a receiver in Week 12 after Kamara was forced to exit the game, hauling in five catches for 43 yards on seven targets. He profiles as a low-end fantasy RB2 in Week 13 against Miami.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 13,
+  "team": "NO",
+  "opp": "MIA",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 36
+}

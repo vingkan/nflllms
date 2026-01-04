@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207407",
+  "title": "J.K. Dobbins Could Land on Injured Reserve",
+  "description": "The Denver Broncos are considering what to do with injured running back J.K. Dobbins (foot), and placing him on Injured Reserve is a possibility, sources told Chris Tomasson of the Denver Gazette. Dobbins is getting additional medical opinions after injuring his foot late in last Thursday's 10-7 win over the Las Vegas Raiders. Before getting hurt in Week 10, the 26-year-old had 18 rushing attempts for 77 yards while catching his only target for seven yards. Rookie second-rounder RJ Harvey is already rostered in 83% of Yahoo leagues, so he probably isn't available, but Tyler Badie might be worth a look in deeper leagues if Harvey ends up missing extended time. If Dobbins is forced to IR, he'd miss at least four games. In his first year in Denver, Dobbins has operated as the team's lead back with 153 carries for 772 yards (5.0 yards per carry) and four touchdowns in 10 games. However, Harvey has taken on a bigger role in recent weeks.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 11,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

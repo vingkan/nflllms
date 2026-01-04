@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210391",
+  "title": "Tyrone Tracy Jr. \"Good to Go\" for Week 15",
+  "description": "New York Giants interim head coach Mike Kafka said that running back Tyrone Tracy Jr. (hip) is \"good to go\" for the Week 15 game this Sunday against the division-rival Washington Commanders after suffering a hip injury in the Monday night loss to the New England Patriots before the Week 14 bye, per Dan Salomone of Giants.com. Tracy suffered a bruised hip in Week 13 and had to be carted off the field, but he's back at practice on Wednesday and should be active in D.C. The 26-year-old's presence this weekend in New York's backfield will be bad news for fantasy managers who picked up Singletary, hoping that he'd operate as the Giants' clear lead back. Tracy and Singletary could end up sharing touches down the middle on Sunday, making them both RB3/flex options in fantasy lineups. Tracy has seen double-digit carries in each of the last four games, but he has just one touchdown on the year (back on Oct. 19). UPDATE: Tracy was a full-go in Wednesday's practice.",
+  "player_id": 11655,
+  "player_name": "Tyrone Tracy",
+  "week": 15,
+  "team": "NYG",
+  "opp": "WAS",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 5
+}

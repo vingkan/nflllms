@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208954",
+  "title": "Bijan Robinson Totals 100-Plus Yards, but Target Volume Takes a Hit",
+  "description": "Atlanta Falcons running back Bijan Robinson had a solid, albeit unspectacular, fantasy day in Sunday's 24-10 win over the Saints. The 23-year-old rushed 14 times for 70 yards and caught both of his targets for an additional 37 yards. He was unable to find the end zone, though, as wide receivers Darnell Mooney and David Sills V each caught the Falcons' only two touchdowns on the day. While the rushing yardage was good, averaging five yards per carry, the number of targets was disappointing. Two of his lowest target totals this season have come in the two games with Kirk Cousins under center, averaging 2.5 targets per game, compared to 5.1 targets per game in the nine games with Michael Penix Jr. (knee) at the helm. It was disappointing enough that Tyler Allgeier was vulturing touchdowns, but now it seems his work in the passing attack will also take a hit with the QB change. The third-year pro is one of the most explosive and talented backs in the league, but his fantasy floor appears to be lower than it was earlier this season. Even so, he'll likely remain a top option at running back in Week 13 when the Falcons go on the road to visit the Jets, a defense that has yielded the ninth-most fantasy points to opposing running backs this season.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 13,
+  "team": "ATL",
+  "opp": "NYJ",
+  "att": 23,
+  "tgt": 7,
+  "touches": 30,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 142,
+  "receiving_catches": 5,
+  "receiving_yards": 51,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 30,
+  "ppr_scoring_position_rank": 1
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207603",
+  "title": "Rico Dowdle Returning to Practice on Thursday",
+  "description": "Carolina Panthers running back Rico Dowdle (quadriceps) was seen warming up at the portion of practice open to the media, so it looks like he will return to practice on Thursday, according to Alex Zietlow of The Charlotte Observer. Just like last week, Dowdle did not practice on Wednesday before returning to the field the following day. The 27-year-old has been managing a quad issue, but it hasn't kept him from playing and serving as Carolina's unquestioned lead back. He will likely be limited on Thursday, but as long as he upgrades to full on Friday (like he did last week), he should be good to go for Sunday's divisional game against the hosting Atlanta Falcons. Dowdle has been the RB10 this year in half-PPR scoring with 788 rushing yards and five touchdowns on 149 carries while also adding 18 catches for 142 yards and a score. He's a must-start in fantasy if he's active in Week 11. UPDATE: Dowdle was officially limited on Thursday.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 11,
+  "team": "CAR",
+  "opp": "ATL",
+  "att": 19,
+  "tgt": 7,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 5,
+  "receiving_yards": 55,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 17
+}

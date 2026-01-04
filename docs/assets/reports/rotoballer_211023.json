@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211023",
+  "title": "Ollie Gordon II Questionable to Return With Ankle Injury",
+  "description": "Miami Dolphins rookie running back Ollie Gordon II (ankle) is considered questionable to return to Monday's game against the Pittsburgh Steelers. The rookie back suffered an ankle injury during the second quarter of this contest when he was tackled for a loss in the backfield and got his leg caught awkwardly underneath him. He limped off the field with the help of the training staff. Before exiting, Gordon had rushed the ball twice for no gain. His absence should mean an expanded role for backup Jaylen Wright. Lead back De'Von Achane figures to see a slightly larger role in the backfield as well.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 16,
+  "team": "MIA",
+  "opp": "CIN",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": -1,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 79
+}

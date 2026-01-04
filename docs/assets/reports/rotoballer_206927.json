@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206927",
+  "title": "Sean Tucker has Low-End Flex Value Against Patriots",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker saw a season-high 12 touches during the Week 8 win over the New Orleans Saints. Before that, Tucker had seen a minimal role in this offense even with Bucky Irving (shoulder, toe) sidelined over the last few weeks. Tucker rushed 12 times for 42 yards and scored a touchdown in the Week 8 victory. It's unclear how much he'll be involved on the ground against a tough New England Patriots run defense in Week 10. There's not a ton of upside here, but Tucker could offer low-end flex value in certain formats.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 10,
+  "team": "TB",
+  "opp": "NE",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 53,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 39
+}

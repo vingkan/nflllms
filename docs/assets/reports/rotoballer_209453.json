@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209453",
+  "title": "Bam Knight on Track to Play Against Buccaneers",
+  "description": "Arizona Cardinals running back Bam Knight (knee) is on track to be active for Sunday's clash with the hosting Tampa Bay Buccaneers. ESPN's Adam Schefter reported the news. Knight has dealt with injuries for a few weeks now, first with an ankle issue, and now his ailing knee, which kept him limited at practice this week leading up to the game. If he plays, the 24-year-old is likely to assume a similar role as in the previous few contests, splitting time with backfield mate Michael Carter while Emari Demercado (ankle) misses another outing. For what it's worth, Carter has out-snapped Knight in two straight games, although the latter has out-touched the former, keeping his fantasy value afloat with scores on the ground. Fortunately, Tampa Bay's defense has been kind to fantasy running backs.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 62,
+  "receiving_catches": 3,
+  "receiving_yards": 36,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 14
+}

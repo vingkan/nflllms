@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202340",
+  "title": "James Conner's Ankle Injury Severe Enough to End His Season?",
+  "description": "Arizona Cardinals running back James Conner (ankle) suffered a gruesome ankle injury during his team's Week 3 matchup against the San Francisco 49ers on Sunday. According to ESPN's Josh Weinfuss, a source told him that they \"assume\" Conner's ankle injury is severe enough to end his season, but \"an official prognosis hasn't been made yet.\" If Conner is indeed looking at a season-ending injury, second-year running back Trey Benson would be in line for a significantly expanded role in Arizona. Benson finished Week 3 with 51 yards from scrimmage on 13 touches. Running back Emari Demercado could also factor into the backfield mix for the Cardinals.",
+  "player_id": 4137,
+  "player_name": "James Conner",
+  "week": 4,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

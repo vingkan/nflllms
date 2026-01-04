@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206500",
+  "title": "Aaron Jones Sr. Sprains AC Join, Expects to Play in Week 9",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder) suffered a sprained AC joint during Sunday's Week 9 victory over the Detroit Lions, according to Tom Pelissero of NFL Network. The injury is believed to be minor, and Jones expects to play in next week's game against the Baltimore Ravens. The 30-year-old had 78 rushing yards on nine carries before departing Sunday, and he also caught two passes for an additional 20 receiving yards. He should reclaim the lead-back role next week against the Ravens, assuming he does suit up. Fantasy managers should pay attention to the Vikings' injury reports from Wednesday through Friday.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 10,
+  "team": "MIN",
+  "opp": "BAL",
+  "att": 9,
+  "tgt": 6,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 12
+}

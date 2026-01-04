@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203661",
+  "title": "Sean Tucker is Too Risky for Week 5",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker is set for an increased role for the upcoming Week 5 matchup against the Seattle Seahawks. The Bucs are without lead back Bucky Irving (foot) for Sunday's game. That being said, Rachaad White will take over as the lead back for this game. That also means, Sean Tucker moves up into the No. 2 role for this contest. The 23-year-old has only rushed the ball once through the first four games. Despite that, Tucker was a capable option when he was given a chance last season. He rushed the ball 50 times for 308 yards and two touchdowns in 17 games in 2024. That's an incredible 6.16 yards per carry, so the potential is certainly there. The biggest problem is the workload is unknown here, so Tucker is going to be too risky to trust for this Week 5 contest.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 5,
+  "team": "TB",
+  "opp": "SEA",
+  "att": 3,
+  "tgt": 3,
+  "touches": 6,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 3,
+  "receiving_yards": -4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208831",
+  "title": "Devin Neal Set to Take Over as Saints Lead Back?",
+  "description": "New Orleans Saints running back Devin Neal rushed for 18 yards on seven carries in Sunday's 24-10 home loss to their division-rival Atlanta Falcons. He added 43 yards through the air on 5-of-7 receiving. The rookie took on an elevated workload in Week 12 in the wake of backfield mate Alvin Kamara's (knee) injury. Neal didn't find much room on the ground to run, and it's noteworthy that tight end Taysom Hill saw three more carries than him. However, Hill's efficiency was worse (1.7 YPC), and the former tied two others for second on the team in targets. Kamara's injury has been deemed an MCL sprain, though it's unclear how much time he will miss, if any. While Neal may not be the team's only rushing option in his teammate's absence, New Orleans began working him in on passing downs a few weeks ago, notching at least three receptions in three of his last four outings. If Kamara is inactive next Sunday, the 22-year-old would be in a smash spot against a sieve-like Dolphins' rush defense.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 13,
+  "team": "NO",
+  "opp": "MIA",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 47,
+  "receiving_catches": 3,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 36
+}

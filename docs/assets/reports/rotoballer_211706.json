@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211706",
+  "title": "RJ Harvey Explodes for Most Efficient Day Yet Against in Week 16",
+  "description": "Denver Broncos rookie running back RJ Harvey turned in the most efficient game of his season in the Week 16 34-20 loss against the Jacksonville Jaguars. Harvey had a stellar day with several explosive plays, leading to seven rushes for 50 yards and a touchdown, adding four catches on five targets for 71 receiving yards. Averaging 11 yards per touch is no easy task, but Harvey continues to impress and did this against a defense that was dominant against the run, with the lowest average rushing yards allowed per game coming into Week 16 at just 86.3. On a short week against the defeated Kansas City Chiefs, Harvey should be able to redeem himself from his Week 11 dud when he last faced them.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 17,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 14,
+  "tgt": 6,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 43,
+  "receiving_catches": 5,
+  "receiving_yards": 33,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 11
+}

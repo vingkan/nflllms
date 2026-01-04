@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211914",
+  "title": "Kenneth Gainwell Overtaking Warren as Steelers' RB1?",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has come on strong in recent weeks, solidifying himself as an excellent fantasy asset over the back half of the season. Gainwell popped off earlier in the campaign in backfield mate Jaylen Warren's (hip) stead, although he'd operated in a secondary role for most of the season. However, in Week 11, the 26-year-old emerged as a legitimate threat in the passing game and has since recorded at least six targets in all but one appearance. Furthermore, Gainwell has out-snapped Warren in each of the previous two weeks despite the latter remaining heavily involved in the rush attack. While both will seemingly hold substantial value over the season's remaining weeks, Gainwell stands to see an uptick in targets, considering wide receiver DK Metcalf will be absent while he serves a two-game suspension, vacating looks in the offense.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 17,
+  "team": "PIT",
+  "opp": "CLE",
+  "att": 7,
+  "tgt": 4,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 26,
+  "receiving_catches": 3,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 34
+}

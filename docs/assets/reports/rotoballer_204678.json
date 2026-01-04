@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204678",
+  "title": "Alvin Kamara on a Maintenance Schedule, Misses Wednesday's Practice",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is basically on a maintenance schedule for his ankle, which is why he did not take part in practice on Wednesday, according to Katherine Terrell of ESPN. Head coach Kellen Moore said Kamara missing practice or being limited on Wednesdays won't necessarily be the case for the rest of the year, but it's the plan for right now. The 30-year-old veteran was limited in practice all of last week but still played in the Week 6 loss to the New England Patriots. Kamara played 62% of the offensive snaps and had 15 touches for 76 scrimmage yards. As long as he's able to get back to a limited practice on Thursday or Friday, Kamara should be fine to suit up this Sunday on the road in Chicago against the Bears. Although he's still the lead back in the Big Easy, Kamara has descended to RB2/3 status in fantasy. It doesn't help that Taysom Hill is now back to potentially steal goal-line touches as a RB.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 7,
+  "team": "NO",
+  "opp": "CHI",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 28,
+  "receiving_catches": 3,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

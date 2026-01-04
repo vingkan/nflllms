@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208392",
+  "title": "Kyle Monangai Builds Touchdown Streak to Preserve Fantasy Relevance",
+  "description": "Chicago Bears running back Kyle Monangai has been able to remain on the fantasy radar by putting together a two-game touchdown streak. His volume has been reduced since D'Andre Swift returned to action, as the rookie has 19 carries for just 2.7 yards per carry over his last two games, plus a 14-yard reception. However, he has posted at least 8.8 fantasy points in each of those contests by finding the end zone. While Monangai is certainly not guaranteed to score a touchdown every week, he does have goal-line upside, perhaps filling a David Montgomery-esque role in Chicago's Ben Johnson-led offense. Even as Swift leads the backfield in snaps and touches as a fantasy RB2, Monangai has shown that he can be a weekly RB3/flex. The rookie is worth starting in leagues with at least 12 teams ahead of Sunday's Week 12 contest against the Pittsburgh Steelers.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 12,
+  "team": "CHI",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 0,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 48,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

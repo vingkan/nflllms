@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209118",
+  "title": "D'Andre Swift's Role in Question After Week 12 Drop-Off",
+  "description": "Chicago Bears running back D'Andre Swift had his worst game of the 2025 season in Week 12, handling just eight carries for 15 yards. Swift's role plummeted last week, as a costly fumble cut his snaps and his role against the Pittsburgh Steelers. Swift dropped from a consistent 60%+ snap player to playing under 43% of the snaps, trailing rookie running back Kyle Monangai, who played 57%. This week will be telling to see if Swift loses or returns to his normal starting role in Week 13. The Bears face the Philadelphia Eagles, who have regressed from the league's best run defense in 2024 to a middle-of-the-pack defense in 2025. However, with Monangai continuing to carve a role, Swift is more of a FLEX play in Week 13, rather than a locked-in starter.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 13,
+  "team": "CHI",
+  "opp": "PHI",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 125,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 3
+}

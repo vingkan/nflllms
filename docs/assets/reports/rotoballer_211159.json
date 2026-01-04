@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211159",
+  "title": "Cowboys Open Phil Mafah's Practice Window",
+  "description": "The Dallas Cowboys announced on Wednesday that they have opened the 21-day practice window for rookie running back Phil Mafah (shoulder). Mafah has missed his entire first season in the NFL so far due to a shoulder injury that landed him on Injured Reserve in August. The 23-year-old will return to practice this week, though, and he could be in play to join the Cowboys offense in the final three weeks of the season. The Clemson product would provide insurance in Dallas' backfield, but he probably wouldn't be anything more than the RB3 behind Javonte Williams and Malik Davis if he plays to close out the 2025 campaign. The Cowboys must officially activate Mafah from IR if they want him active this Sunday against the Los Angeles Chargers. Mafah had 1,115 rushing yards, 103 receiving yards, and eight total touchdowns in his final year in college in 2024.",
+  "player_id": 12738,
+  "player_name": "Phil Mafah",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

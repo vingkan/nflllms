@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206802",
+  "title": "RJ Harvey Looking to Extend Touchdown Streak vs. the Raiders",
+  "description": "Denver Broncos running back RJ Harvey will look to continue his touchdown streak Thursday night against the Las Vegas Raiders as he enters Week 10 leading the Broncos' backfield in scores on the season with six. In Week 9 against the difficult Houston Texans defense, Harvey continued to prove head coach Sean Payton right with his dynamic usage in the passing game, catching all five of his targets for 51 receiving yards and a touchdown. This marks the second game this season in which Harvey has seen five targets in a game, and his third straight game in which he has had at least one touchdown. As RotoBaller's RB23 overall on the week, start Harvey with confidence as an RB2 with weekly scoring upside.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 10,
+  "team": "DEN",
+  "opp": "LV",
+  "att": 4,
+  "tgt": 3,
+  "touches": 7,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 9,
+  "receiving_catches": 2,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

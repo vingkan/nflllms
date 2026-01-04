@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203548",
+  "title": "Ollie Gordon II Splitting Time in the Miami Backfield",
+  "description": "Miami Dolphins running back Ollie Gordon II continues to serve as the team's primary backup for De'Von Achane and a change-of-pace option with a specialty in short-yardage situations. In Week 4, he played 26% of snaps on Monday Night Football against the Jets, taking six carries for 10 rushing yards. He played 25% of snaps in Week 3 as well and seems to be settling into a 75-25 split with Achane. Gordon has the potential to return good value in a favorable matchup against the Panthers, but his usability in a flex spot remains very touchdown dependent. He'll probably get a handful of carries, but he'll need to get into the end zone to really be a strong option. Coming into his matchup in Carolina, he is the RB42 in RotoBaller's rankings for the week, leaving him best suited for the bench in most formats.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 5,
+  "team": "MIA",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": -2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 72
+}

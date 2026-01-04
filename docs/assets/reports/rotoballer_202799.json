@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202799",
+  "title": "Jeremy McNichols A Desperation Play in Week 4",
+  "description": "Washington Commanders running back Jeremy McNichols had one of the highlight plays of the week with a beast mode-style run for a 60-yard touchdown last week against the Raiders. McNichols played the fewest of any Washington back at 23% and had only four carries, but he made the most of his opportunities. The 29-year-old is expected to fill in for Austin Ekeler as the team's third-down back because of his prowess as a pass protector and capability as a receiver. That opens the door for some dump-off passes and checkdowns, making him slightly intriguing. He will mix in occasionally on early downs and earn a few carries, but it won't be huge. McNichols is a desperation start against Atlanta in Week 4.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 4,
+  "team": "WAS",
+  "opp": "ATL",
+  "att": 2,
+  "tgt": 2,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 62
+}

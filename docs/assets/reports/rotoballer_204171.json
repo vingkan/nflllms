@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204171",
+  "title": "De'Von Achane Again a Top Option at Running Back",
+  "description": "Miami Dolphins running back De'Von Achane has been one of the best running backs all season, despite his team's offense running hot and cold. Achane hasn't run for 100 yards in any game, but he has supplemented with great production in the passing game. He has at least six catches in three of his last four games after hauling in six of his seven targets for 30 yards and a touchdown last week. He has four total touchdowns in five games while averaging 65.5 rushing yards and 34.6 passing yards per contest. This week, he and the Dolphins will take on the Chargers, who have been very good against the run this season, but did give up two running back touchdowns and 124 rushing yards against the Commanders. Achane's consistently high volume and big-play ability have kept him an elite RB1 in every matchup. In RotoBaller's Week 6 rankings, he is the No. 3 RB in PPR leagues and the No. 8 RB in standard leagues.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 6,
+  "team": "MIA",
+  "opp": "LAC",
+  "att": 16,
+  "tgt": 6,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 128,
+  "receiving_catches": 4,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 31,
+  "ppr_scoring_position_rank": 5
+}

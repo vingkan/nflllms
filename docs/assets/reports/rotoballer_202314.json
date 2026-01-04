@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202314",
+  "title": "Jonathan Taylor Scores Three Touchdowns in Blowout Win",
+  "description": "Indianapolis Colts running back Jonathan Taylor carried the ball 17 times for 102 rushing yards and three rushing touchdowns during Sunday's Week 3 win over the Tennessee Titans. He also caught three of his four targets for an additional 16 yards through the air. Taylor has been one of the NFL's most effective running backs this season, and now, he has turned in one of the most impressive single-game performances of the 2025 campaign. His efficiency, workload, and nose for the end zone make him a high-end RB1 option heading into Week 4 against the Rams.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 4,
+  "team": "IND",
+  "opp": "LAR",
+  "att": 17,
+  "tgt": 5,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 76,
+  "receiving_catches": 5,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 21
+}

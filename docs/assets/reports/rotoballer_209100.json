@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209100",
+  "title": "Chris Rodriguez Jr. Poised For Lead Role Again in Week 13",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (illness) was absent during Wednesday's practice due to an illness, but it shouldn't affect his status for Sunday Night Football against the Denver Broncos. Rodriguez has established himself as Washington's primary ball carrier in recent weeks with the struggles of rookie Jacory Croskey-Merritt. The third-year back out of Kentucky led the backfield with a 45.3% snap share in Washington's Week 11 loss to the Miami Dolphins in Madrid, handling a career high 15 carries for 79 yards to go with one reception (one target) for six yards as a receiver. He won't add much value as a receiver as Jeremy McNichols handles the pass-down responsibilities, but he should receive the majority of the early down work with Croskey-Merritt mixing in. Rodriguez has a tough matchup in Week 13 against Denver, but should get enough volume to profile as a low-end RB3.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 13,
+  "team": "WAS",
+  "opp": "DEN",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 35
+}

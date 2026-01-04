@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207116",
+  "title": "Texans Made Calls Inquiring About Breece Hall",
+  "description": "The Houston Texans made calls to the New York Jets about running back Breece Hall, according to Jonathan M. Alexander of the Houston Chronicle. The Texans were looking to make a big splash at the deadline with the Jets' star running back, but the asking price was ultimately too high for their liking. Hall was discussed in multiple trade rumors before the deadline, most commonly linked to the Kansas City Chiefs, but the Texans were apparently looking to make an upgrade to their running back room as well. Veteran Nick Chubb and rookie Woody Marks will continue to split reps in Houston's backfield moving forward, with neither presenting significant fantasy upside behind a poor offensive line.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 21,
+  "tgt": 1,
+  "touches": 22,
+  "actual": "high",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 83,
+  "receiving_catches": 1,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 7
+}

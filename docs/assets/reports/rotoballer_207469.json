@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207469",
+  "title": "Aaron Jones Sr. Emerging as the Lead Back in Minnesota",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. has been limited to just five games played this season due to a hamstring injury that sidelined him from Week 3 to Week 7. However, the 30-year-old has been productive since returning to the lineup. Over his last two games, Jones Sr. has recorded 167 yards from scrimmage and a touchdown on 23 total touches. Perhaps most importantly, Jones Sr. appears to be re-emerging as Minnesota's lead back. In Week 10, Jones Sr. played 71% of the Vikings' offensive snaps, compared to just 25% for fellow running back Jordan Mason. Jones Sr. also saw a season-high six targets in Week 10. Heading into a favorable Week 11 matchup against the Chicago Bears, Jones Sr. profiles as a solid fantasy RB2.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 11,
+  "team": "MIN",
+  "opp": "CHI",
+  "att": 16,
+  "tgt": 6,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 70,
+  "receiving_catches": 3,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 22
+}

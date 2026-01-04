@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211414",
+  "title": "Rhamondre Stevenson Clinging to Relevance in PPR Leagues",
+  "description": "New England Patriots running back Rhamondre Stevenson continues to see his ball-carrying role decline with Tre'Veyon Henderson earning more touches. However, Stevenson has consistently led the Patriots in snaps when healthy, and he continues to carve out decent volume on passing downs, which keeps him on the bottom end of the fantasy radar for Week 16 against the Baltimore Ravens. Stevenson has played more than 60% of the offensive snaps between his last two games, and he also has six total catches during that span. He has managed to finish both of those games with double-digit fantasy points in full-PPR leagues thanks to his pass-catching role. The 27-year-old has proven to be a solid pass-blocker and receiver, which will benefit him against the Ravens, who have allowed the third-most catches and fifth-most receiving yards to opposing running backs in 2025. Stevenson ranks as the overall RB41 in RotoBaller's Week 16 fantasy rankings, but managers in half-PPR or full-PPR leagues could justify starting him as a low-end RB3/flex.",
+  "player_id": 7611,
+  "player_name": "Rhamondre Stevenson",
+  "week": 16,
+  "team": "NE",
+  "opp": "BAL",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 51,
+  "receiving_catches": 2,
+  "receiving_yards": 27,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 15
+}

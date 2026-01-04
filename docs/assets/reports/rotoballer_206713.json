@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206713",
+  "title": "Devin Singletary Providing RB3 Value in Week 10?",
+  "description": "New York Giants running back Devin Singletary was expected to have an increased role this weekend with Cam Skattebo (ankle) sidelined for the rest of the season. However, nobody expected him to out-touch Week 9's hottest waiver wire pickup, Tyrone Tracy Jr. Singletary not only out-touched Tracy 10 to nine, but he also played 56% of the snaps compared to Tracy's 44%. Singletary was also more efficient with his touches, averaging 5.38 YPC to Tracy's 3.60 YPC. It's a small sample size of one game, so it's important not to overreact, considering Tracy was the starter in 2024; however, it's a situation to monitor moving forward, and Singletary no longer deserves to be on the waiver wire in 12-team formats. He should be rostered heading into Week 10 and has some RB3 value against the Chicago Bears, who rank middle of the pack against opposing running backs.",
+  "player_id": 6130,
+  "player_name": "Devin Singletary",
+  "week": 10,
+  "team": "NYG",
+  "opp": "CHI",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 3,
+  "receiving_yards": 53,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 28
+}

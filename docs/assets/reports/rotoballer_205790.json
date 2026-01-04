@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205790",
+  "title": "Quinshon Judkins Questionable to Return Against Patriots",
+  "description": "Cleveland Browns running back Quinshon Judkins (shoulder) exited during the third quarter of Sunday's Week 8 contest against the New England Patriots. He is officially listed as questionable to return. With Cleveland trailing by three possessions in the fourth quarter, we could see the Browns exercise caution and limit Judkins' workload the rest of the way, or keep him sidelined entirely. If his day is indeed done, he finishes with just 19 rushing yards, plus three catches for a loss of two receiving yards. Jerome Ford and Dylan Sampson would be in line to lead Cleveland's backfield if Judkins misses extended time.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 10,
+  "team": "CLE",
+  "opp": "NYJ",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 75,
+  "receiving_catches": 2,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 26
+}

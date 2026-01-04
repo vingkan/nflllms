@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206213",
+  "title": "Jahmyr Gibbs Looking to Continue Historical Success Against Vikings",
+  "description": "Through his first seven games of 2025, Detroit Lions running back Jahmyr Gibbs has recorded 720 yards from scrimmage and seven touchdowns on 130 touches. In his final outing before Detroit's Week 8 bye, Gibbs racked up 218 scrimmage yards and two scores in 20 touches against the Tampa Bay Buccaneers. In Week 9, Gibbs and the Lions will face a Minnesota Vikings defense that has been roughly mid-pack against the run. Through eight weeks, Minnesota ranks 20th in rushing yards allowed (913) and 10th in rushing touchdowns allowed (five). Gibbs had two monster performances against the Vikings in 2024, recording a combined 327 scrimmage yards and six touchdowns on 47 touches. Lions RB2 David Montgomery did not play in one of those games, but Gibbs' history of success against Minnesota is still noteworthy. He profiles as a must-start fantasy running back in Week 9.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 9,
+  "team": "DET",
+  "opp": "MIN",
+  "att": 9,
+  "tgt": 3,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 25,
+  "receiving_catches": 3,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 36
+}

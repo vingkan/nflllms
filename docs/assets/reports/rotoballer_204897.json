@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204897",
+  "title": "Zach Charbonnet Remains a Low-Ceiling Option in Week 7",
+  "description": "Seattle Seahawks running back Zach Charbonnet has scored double-digit fantasy points in three of five games played in 2025. However, that production has been anchored by touchdowns. Otherwise, Charbonnet has been nowhere near a starting fantasy option. Charbonnet is splitting time with fellow running back Kenneth Walker III. Both backs are stealing work from the other. Charbonnet has also been relatively inefficient on the ground this season. His 2.6 yards per carry are highly disappointing. The sledding does not project to improve in Week 7 against the Houston Texans. Houston is No. 5 against opposing running backs in fantasy. Additionally, the Texans are allowing just 3.81 yards per carry to opposing backs. Unless the Seahawks find themselves at the goal line with a chance to hand it off to Charbonnet, he is likely to have a long day. Charbonnet is a touchdown-dependent flex option in Week 7. You can likely find a better wide receiver to fill your flex on the waiver wire.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 7,
+  "team": "SEA",
+  "opp": "HOU",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 8
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208665",
+  "title": "Travis Etienne Jr. Off the Injury Report, a High-End RB2 vs. Arizona",
+  "description": "Jacksonville Jaguars running back Travis Etienne Jr. (shoulder) was cleared from Friday's final injury report and will be active in Week 12 against the Arizona Cardinals. Etienne was a limited participant in practice this week due to a shoulder injury. The 26-year-old has been a borderline RB1 over the previous three weeks, scoring three touchdowns and getting over 16 carries a game during that stretch. Etienne is RotoBaller's 13th-ranked running back in Week 12 against a middle-of-the-pack Cardinals run defense. The Cardinals gave up 95 rushing yards and surrendered two rushing touchdowns last week to the San Francisco 49ers. Etienne will also have to split carries with rookie running back Bhayshul Tuten (ankle), who had a career high of 15 carries last week. To this point, Etienne has been able to fend off Tuten and be the RB1 in the Jaguars' backfield and will be a reliable high-end RB2 against a non-threatening Cardinals run defense.",
+  "player_id": 7543,
+  "player_name": "Travis Etienne",
+  "week": 12,
+  "team": "JAX",
+  "opp": "ARI",
+  "att": 15,
+  "tgt": 4,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 86,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 7
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209307",
+  "title": "Michael Carter to Remain in the Mix in Week 13",
+  "description": "Arizona Cardinals running back Michael Carter figures to remain in the mix for at least one more game. Fellow back Trey Benson (knee) is working his way back in the mix, but has been ruled out for the Week 13 matchup against the Tampa Bay Buccaneers. That being said, Bam Knight figures to operate as the lead back with Carter getting mixed in as well. Last week, Carter rushed the ball five times for 28 yards in the loss to the Jacksonville Jaguars. He should once again see a handful of carries this weekend, but should fall to RB3 duties once Benson returns. Fantasy managers are unlikely to get much out of Carter after this weekend.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 5,
+  "tgt": 6,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 5,
+  "receiving_yards": 47,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 28
+}

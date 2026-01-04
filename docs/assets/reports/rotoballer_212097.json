@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212097",
+  "title": "James Cook Primed to Feast Again in Week 17",
+  "description": "Buffalo Bills running back James Cook was dominant in Week 16's win over the Cleveland Browns, totaling 134 scrimmage yards and two touchdowns on just 17 touches. Cook has ascended once again in the 2025 season, jumping from 79.2 scrimmage yards per game in 2024 to 121.3 this season. He currently leads the NFL in rushing yards and ranks RB6 in PPR formats. The Bills host the Philadelphia Eagles in Week 17, who have allowed the eighth-most fantasy points to running backs this season. While star defensive tackle Jalen Carter will be active this week for the Eagles, Cook and the Bills are running the ball with ease, so fantasy managers should expect more dominance from the fourth-year back.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 17,
+  "team": "BUF",
+  "opp": "PHI",
+  "att": 20,
+  "tgt": 4,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 74,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 25
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211392",
+  "title": "Saquon Barkley Should Impress Again in Week 16",
+  "description": "Philadelphia Eagles running back Saquon Barkley has now scored touchdowns in consecutive games for the first time since the first two weeks of the season. Barkley's 22 carries were also his most attempts in a game since Week 11. The star RB was able to capitalize on the favorable matchup against the Raiders, and will look to do the same in his upcoming meeting with the Commanders. Washington's defense allows 136.3 rushing yards per game-fifth-most in the league-and has let up 14 rushing touchdowns-good for 12th-most in the NFL. It's also encouraging that Barkley had his most red zone rushing attempts in a game this season last week, getting the ball 10 times inside the 20 against Las Vegas. He's had a general uptick in touches and has returned to his scoring ways, so there's no doubt he's a solid RB1 this week.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 16,
+  "team": "PHI",
+  "opp": "WAS",
+  "att": 21,
+  "tgt": 2,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 132,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 13
+}

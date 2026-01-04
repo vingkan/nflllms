@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206673",
+  "title": "Devin Neal Still A Solid Contingency Add Off Waiver Wire?",
+  "description": "New Orleans Saints rookie running back Devin Neal has seen an uptick in snaps over the past two weeks with Kendre Miller (knee) out for the season. Neal played 39% of the snaps in the Saints' Week 9 loss at the Rams, handling three carries for 11 yards and catching one of four targets for one yard. The sixth-round rookie out of Kansas has now played a combined 49 snaps in Weeks 8 and 9, but has only seven total touches. Neal was also outcarried by Taysom Hill, who rushed for 30 yards on four carries. Veteran Alvin Kamara (ankle) was questionable heading into Sunday after being limited in practice all week, and he also saw a season-low seven touches. The Saints played from behind for the majority of this game, and it was disappointing to see Neal not be emphasized more. The rookie still feels like the best handcuff option in New Orleans, but it's a bleak offensive situation, and Hill will presumably stay involved. Neal can likely be left on waivers for Week 10.",
+  "player_id": 12476,
+  "player_name": "Devin Neal",
+  "week": 10,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 4,
+  "tgt": 3,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 22,
+  "receiving_catches": 3,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 38
+}

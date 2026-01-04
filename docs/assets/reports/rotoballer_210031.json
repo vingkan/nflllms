@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210031",
+  "title": "Will Bam Knight be Able to Find the End Zone in a Difficult Week 14 Matchup?",
+  "description": "Arizona Cardinals running back Bam Knight is coming off his best performance of his 2025 campaign. Knight produced season highs in rushing yards (62) and receiving yards (36) on 14 touches in Week 13's game against the Tampa Bay Buccaneers. The 24-year-old will once again lead the Cardinals' backfield with Trey Benson (knee) and Emari Demercado (ankle) being ruled out for Sunday. Entering Week 14, Knight is RotoBaller's 28th-ranked running back in Half-PPR leagues in a difficult matchup against the Los Angeles Rams. The Rams' rushing defense has allowed the fewest running touchdowns this season. Knight has lived on his touchdown production this year and has yet to produce over eight fantasy points in a game without scoring a touchdown in Half-PPR formats. Knight will be a risky flex option for managers entering the final week of most fantasy football regular seasons.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 14,
+  "team": "ARI",
+  "opp": "LAR",
+  "att": 7,
+  "tgt": 6,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 16,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 40
+}

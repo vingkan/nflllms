@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208731",
+  "title": "Kenneth Walker III Will Play Against Titans in Week 12",
+  "description": "Seattle Seahawks running back Kenneth Walker III (glute) is officially active for Sunday's Week 12 contest against the Tennessee Titans. He had been listed as questionable after popping up on the injury report as a limited participant this past Friday. Despite the last-minute injury scare, Walker will suit up as the Seahawks' primary back. He's coming off an impressive game against the Los Angeles Rams in which he had 16 carries for 67 rushing yards and one touchdown, plus three catches for an additional 44 receiving yards. Amid a relatively inconsistent campaign in which he has shared the workload with Zach Charbonnet, Walker finds himself as the overall RB23 in fantasy scoring this season. He has a great opportunity to strengthen his fantasy value against a Titans defense that has allowed the fifth-most fantasy points to running backs in 2025. Walker ranks as the overall RB18 in RotoBaller's Week 12 fantasy rankings.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 12,
+  "team": "SEA",
+  "opp": "TEN",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

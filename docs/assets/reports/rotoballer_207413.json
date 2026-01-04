@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207413",
+  "title": "RJ Harvey's Stock on the Rise With Teammate Injured",
+  "description": "Denver Broncos rookie second-round running back RJ Harvey is coming off an underwhelming performance in the Week 10 win over the Las Vegas Raiders, but his fantasy stock may be reaching a high point going into a big Week 11 divisional clash against the Kansas City Chiefs. Lead back J.K. Dobbins suffered a foot injury last Thursday night and may be forced to Injured Reserve, which would keep him out at least four games. In three games before Thursday's lackluster offensive performance by the Broncos, Harvey had 13 carries for 51 yards and two touchdowns while adding seven receptions for 58 yards and three touchdowns through the air. With it looking likely that Dobbins will miss time regardless, Harvey is on the verge of lead-back duties for the Broncos. If he's available on your league's waiver wire, scoop him up immediately.",
+  "player_id": 12489,
+  "player_name": "RJ Harvey",
+  "week": 11,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 30,
+  "receiving_catches": 3,
+  "receiving_yards": 20,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 37
+}

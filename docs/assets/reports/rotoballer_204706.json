@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204706",
+  "title": "Bam Knight To Continue In Platoon Role?",
+  "description": "Coming off 54 total yards and a touchdown last week, Arizona Cardinals running back Bam Knight (knee) looks to be a continued part of the team's backfield in the absence of its top two running backs. James Conner (ankle) is out for the year and Trey Benson (knee) isn't eligible to return until Week 10, giving Knight some low-end roster appeal while splitting carries with Michael Carter. Both backs drew exactly 11 carries last week against Indianapolis, a split workload that seems likely as long as Benson is unavailable. Knight was limited in Wednesday's practice, however, which managers will want to monitor as game day gets closer.",
+  "player_id": 8122,
+  "player_name": "Zonovan Knight",
+  "week": 7,
+  "team": "ARI",
+  "opp": "GB",
+  "att": 14,
+  "tgt": 4,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 57,
+  "receiving_catches": 3,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 23
+}

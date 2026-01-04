@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210414",
+  "title": "Aaron Jones Sr. Limited on Wednesday",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (shoulder) was limited in Wednesday's practice as the team prepares to face the Dallas Cowboys this Sunday night. Jones suffered a shoulder injury in Week 13's loss to the Seattle Seahawks, but was able to play and produce in the 31-0 win over the Washington Commanders. Jones' shoulder injury doesn't appear to be a hindering factor in Week 15, as he prepares for a former foe in the Cowboys. They have given up the fourth-most fantasy points to running backs this season, and Jones has dominated them in the past, averaging 157 scrimmage yards and scoring six touchdowns in three career games against them. Assuming Jones is cleared for this week, he is a solid RB2 option for fantasy managers this week.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 15,
+  "team": "MIN",
+  "opp": "DAL",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 3,
+  "receiving_yards": 31,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 32
+}

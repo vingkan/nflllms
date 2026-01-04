@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211052",
+  "title": "Malik Davis Should be Added as Top Handcuff Option",
+  "description": "Dallas Cowboys running back Malik Davis saw more action in Week 16 when Javonte Williams left briefly in the first half with a shoulder injury in Sunday night's loss to the Minnesota Vikings, but Williams returned in the second half. Davis took advantage of his increase in opportunities in the first half, handling eight carries for 21 yards and a touchdown to go with two receptions (three targets) for 16 yards as a receiver. He had only played 52 total offensive snaps entering the game, but played 37 in the loss to the Vikings. The 27-year-old has proven to be a quality backup behind Williams this season, adding more explosiveness to the Cowboys' backfield. It seems Williams will be good to go for Week 16 against the Los Angeles Chargers, but his status will be worth monitoring this week. Davis should be added as a strong contingency option in an elite Dallas offense.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 16,
+  "team": "DAL",
+  "opp": "LAC",
+  "att": 8,
+  "tgt": 0,
+  "touches": 8,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 23,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 58
+}

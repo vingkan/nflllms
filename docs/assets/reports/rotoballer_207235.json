@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207235",
+  "title": "Terrell Jennings Won't Return Against Buccaneers",
+  "description": "New England Patriots running back Terrell Jennings (knee) has been ruled out for the remainder of Sunday's Week 10 contest against the Tampa Bay Buccaneers. He exited in the first quarter and was originally listed as questionable before his status was downgraded. Jennings earned the Patriots' first carry on Sunday and ultimately tallied five rushing yards on four attempts. He had been handling increased volume alongside TreVeyon Henderson with Rhamondre Stevenson (toe) sidelined for the second consecutive week. Henderson will remain atop the depth chart while D'Ernest Johnson operates as his backup.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

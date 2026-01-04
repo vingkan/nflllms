@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208773",
+  "title": "Emanuel Wilson Punches in Two Touchdowns Against Minnesota",
+  "description": "Green Bay Packers running back Emanuel Wilson had 28 carries for 107 rushing yards and two rushing touchdowns during Sunday's Week 12 win over the Minnesota Vikings. He also caught each of his two targets for an additional 18 receiving yards. Wilson was very impressive was handling a large workload on Sunday. With Josh Jacobs (knee) sidelined, he accounted for 78% of the backfield's rushing attempts. The 26-year-old's ability to be efficient while handling heavy volume should earn him more opportunities going forward, even if Jacobs returns to action next week. The Packers face the Detroit Lions on Thanksgiving, giving Jacobs four days to recover. If the veteran back suits up, Wilson could still carve out standalone value as an RB3/flex. If Jacobs misses a second consecutive game, though, the Fort Valley State product could jump to the high-end RB2 tier against Detroit.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 13,
+  "team": "GB",
+  "opp": "DET",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 69
+}

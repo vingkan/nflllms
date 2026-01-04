@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206659",
+  "title": "Bijan Robinson Continues to Rack Up the Receptions",
+  "description": "Atlanta Falcons running back Bijan Robinson logged just 12 carries for 46 yards in Sunday's 24-23 loss to the Patriots as the team got behind early and all but abandoned the run. However, as has been the case all season, Robinson continued to be heavily involved in the passing attack, drawing 10 targets from quarterback Michael Penix Jr. and turning them into eight catches for 50 yards. Unfortunately for fantasy managers, Drake London recorded all three of the team's touchdowns, but Robinson still managed a top 12 finish at running back despite not finding paydirt. Week 8 aside, when London was absent, the 23-year-old is second on the team with 21.1 percent target share, which provides a solid weekly floor. Week 10 brings a matchup with Indianapolis on a neutral field in Germany, a defense that has been tough against the run (although it allowed two rushing TDs this past week), but that has been soft against the pass and is allowing 24.5 points per game on the road (16.6 PPG at home). The former first-round draft pick figures to be involved regardless of game script, so he'll surely be a top option at running back again on Sunday.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 10,
+  "team": "ATL",
+  "opp": "IND",
+  "att": 17,
+  "tgt": 2,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 84,
+  "receiving_catches": 2,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

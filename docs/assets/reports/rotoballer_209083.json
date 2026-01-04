@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209083",
+  "title": "Jahmyr Gibbs Looking to Extend Recent Hot Streak in Difficult Week 13 Matchup",
+  "description": "Detroit Lions running back Jahmyr Gibbs carried his team to an overtime victory over the New York Giants in Week 12, recording 264 scrimmage yards and three touchdowns on 26 touches. Gibbs has been highly productive as both a rusher and receiver since Lions head coach Dan Campbell took over as the team's play-caller in Week 10, amassing 582 scrimmage yards and six touchdowns on 42 carries and 19 catches over his last three games. The 23-year-old's job will get more difficult in Week 13 against the Green Bay Packers. Through 12 weeks, Green Bay is allowing an average of 3.9 yards per carry and has given up just eight rushing touchdowns. Gibbs had one of the least efficient games of his career against the Packers in Week 1 of the 2025 season, totaling 19 rushing yards on nine carries and 31 receiving yards on 10 receptions. Detroit will also be missing two starters on the interior of its offensive line in Week 13. Still, Gibbs could see heavy work as a receiver and remains a high-upside, must-start fantasy running back against Green Bay.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 13,
+  "team": "DET",
+  "opp": "GB",
+  "att": 20,
+  "tgt": 4,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 68,
+  "receiving_catches": 3,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 25
+}

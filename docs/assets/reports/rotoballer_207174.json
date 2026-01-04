@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207174",
+  "title": "Ty Johnson a Touchdown-Dependent Option for Week 10",
+  "description": "Buffalo Bills running back Ty Johnson found the end zone for the first time this season during last week's win over the Kansas City Chiefs. Johnson rushed the ball twice for eight yards and a touchdown. He also hauled in both his targets for 12 yards through the air. There was some speculation that Johnson would see a larger role this weekend with James Cook (ankle) banged up. However, Cook won't carry an injury designation into the Week 10 matchup against the Miami Dolphins. Johnson figures to resume his backup role which is only a few carries per game. That being said, Johnson should only be viewed as a touchdown-dependent option for Week 10.",
+  "player_id": 6039,
+  "player_name": "Ty Johnson",
+  "week": 10,
+  "team": "BUF",
+  "opp": "MIA",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 2,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

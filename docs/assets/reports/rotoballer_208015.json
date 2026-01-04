@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208015",
+  "title": "Sean Tucker Scores Three Times in Lead-Back Role",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker had 19 carries, 106 rushing yards, and two rushing touchdowns during Sunday's Week 11 loss against the Buffalo Bills. He also caught two passes for 34 receiving yards and one receiving touchdown. Bucky Irving (foot, shoulder) was sidelined again this week, and Tucker established himself as the primary option out of the backfield over Rachaad White. The 24-year-old showed plenty of explosiveness, as two of his three touchdowns came from 28+ yards. The Bucs can make a case for having the best backfield in the NFL, as Irving, Tucker, and White have all shown that they're capable of being an RB1 in fantasy football. Irving should reclaim the lead-back role when healthy, but both White and Tucker deserve to handle a large dose of touches, too. Tucker is a fantasy RB2 with Irving sidelined and an RB3/flex with Irving healthy. Tampa Bay takes on the Los Angeles Rams in Week 12.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

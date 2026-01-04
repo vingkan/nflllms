@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211622",
+  "title": "Quinshon Judkins Carted Off in Week 16, Ruled Out with Apparent Leg Injury",
+  "description": "Cleveland Browns rookie running back Quinshon Judkins (leg) was carted off the field from his team's Week 16 matchup against the Buffalo Bills with an Aircast on his right leg. Ian Rapoport of NFL Network reports that Cleveland has ruled him out for the remainder of Week 16. While the exact nature of the injury is unclear, it appears to be a serious one for the 22-year-old. Judkins recorded eight carries for 22 yards and hauled in five receptions for 29 yards on six targets before exiting the game. The Browns entered the game already without running backs Dylan Sampson (hand, calf) and Jerome Ford (shoulder). Without their top three running backs, Cleveland will likely split backfield touches between Raheim Sanders and Trayveon Williams for the remainder of Week 16.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 17,
+  "team": "CLE",
+  "opp": "PIT",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

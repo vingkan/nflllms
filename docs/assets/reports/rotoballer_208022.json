@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208022",
+  "title": "Kenneth Gainwell Catches Two Touchdown Passes in Elevated Role",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell was a stud through the air during Sunday's game against the Cincinnati Bengals. Gainwell saw increased playing time with Jaylen Warren (ankle) barely playing in the second half. The 26-year-old rushed the ball nine times and was held to 26 yards on the ground. However, Gainwell was excellent in the receiving game this weekend. He hauled in seven of his eight targets for 81 yards and scored two touchdowns in the win. Gainwell could see a larger workload if Warren is forced to miss time. Fantasy managers will need to check back for another update. Gainwell could be a popular waiver wire addition ahead of the Week 12 matchup against the Chicago Bears.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 12,
+  "team": "PIT",
+  "opp": "CHI",
+  "att": 10,
+  "tgt": 6,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 92,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

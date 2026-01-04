@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204807",
+  "title": "Ashton Jeanty Poised For Feature Role In Week 7 Clash With Chiefs",
+  "description": "Las Vegas Raiders running back Ashton Jeanty is expected to handle a heavy workload in Week 7 against the Kansas City Chiefs. With the Chiefs' offense catching fire in recent weeks, the Raiders will likely try to control the tempo by leaning on Jeanty and the ground game. The rookie has thrived in outside zone concepts, an area where Kansas City's defense has struggled, setting him up for a potentially productive day. The Chiefs rank 19th in rushing yards allowed per game (119.2), creating an ideal matchup for Jeanty to exploit. Expect the Raiders to establish the run early and often, keeping Patrick Mahomes off the field while feeding their emerging backfield workhorse. Jeanty profiles as a strong RB2 play in fantasy lineups and could deliver one of his best performances of the season on Sunday.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 7,
+  "team": "LV",
+  "opp": "KC",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 21,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 4,
+  "ppr_scoring_position_rank": 43
+}

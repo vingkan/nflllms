@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210855",
+  "title": "Josh Jacobs Expected to Play in Week 15",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) is expected to play in Sunday's Week 15 contest against the Denver Broncos, according to Adam Schefter of ESPN.com. Jacobs had been listed as questionable after missing two of his three practices in the past week. While the Packers want to keep him fresh and acknowledge that they have another game in just six days, the team plans to have Jacobs available for Week 15, barring any sort of pregame setback. This is good news for fantasy managers, because Jacobs has been an RB1 this season and will provide major scoring upside as the playoffs get underway in many fantasy leagues. He ranks as the overall RB13 in this week's RotoBaller fantasy rankings.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

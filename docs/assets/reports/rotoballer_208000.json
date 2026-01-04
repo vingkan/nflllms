@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208000",
+  "title": "Ollie Gordon II Scores Touchdown in Efficient Outing Sunday",
+  "description": "Miami Dolphins wide receiver Ollie Gordon II had nine carries for 45 yards and a touchdown during Sunday's Week 11 win over the Washington Commanders. He was not targeted in the passing game. The rookie hadn't logged more than two carries in either of his last two games, so it was intriguing to see him take on an expanded workload this Sunday. Gordon and De'Von Achane showed that they can co-exist in this offense, combining for 210 scrimmage yards and a touchdown. Gordon's solid outing could be a sign that he'll earn more opportunities going forward, especially in an offense that typically gets great results from running the ball. He can be a mid-range RB3/flex play in deeper leagues going forward.",
+  "player_id": 12495,
+  "player_name": "Ollie Gordon",
+  "week": 13,
+  "team": "MIA",
+  "opp": "NO",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 71
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205176",
+  "title": "Cam Skattebo Totals 94 Yards, Finds End Zone Again in Week 7",
+  "description": "New York Giants running back Cam Skattebo had 16 carries for 60 yards along with three catches for 34 yards and a touchdown in Sunday's 33-32 loss to the Broncos. Skattebo couldn't find a whole lot of running room against a stout Denver defense, but made up for some of it as a receiver. The rookie again maintained a firm lead in touches over Tyrone Tracy Jr., but he was more involved in this one, rushing for 46 yards and a touchdown on nine carries. Skattebo should continue to operate as the Giants' lead back and preferred option near the goal line and in the passing game, which bodes well for his fantasy value moving forward in an improving Giants offense.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 8,
+  "team": "NYG",
+  "opp": "PHI",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 12,
+  "receiving_catches": 1,
+  "receiving_yards": 18,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 24
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206092",
+  "title": "Derrick Henry Back to RB1 Territory in Week 9",
+  "description": "Baltimore Ravens running back Derrick Henry gave fantasy managers what they've all been waiting for in the Week 8 win over the Chicago Bears. He registered his first finish as an RB1 since Week 1 and found the end zone twice in the process. Now, Lamar Jackson returns to the lineup as the Ravens finally get healthier heading into a short week matchup against the Miami Dolphins. The impact of Patrick Ricard back on the field was evident in Week 8, but having Ricard and Jackson back should start to open up some holes in the defense for Henry. Plus, the Dolphins are ranked 28th against opposing backfields, allowing an average of 27.44 fantasy points per matchup. Look for Henry to bring back mid-to-high-level RB1 value.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 9,
+  "team": "BAL",
+  "opp": "MIA",
+  "att": 19,
+  "tgt": 1,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 119,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 14
+}

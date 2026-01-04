@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205302",
+  "title": "Emanuel Wilson Limited to Secondary Role Once Again in Week 7",
+  "description": "Fantasy managers in need of running back help might have been running to the waiver wire for Green Bay Packers RB Emanuel Wilson in Week 7 when it was announced that Josh Jacobs was questionable to play against the Arizona Cardinals due to a calf injury and an illness. Jacobs ended up suiting up and handled 13 carries for 55 yards and two touchdowns on the ground, the third straight week he's had two rushing scores. Jacobs did end up playing a season-low 55% of the offensive snaps in the 27-23 win over Arizona, while Wilson handled a season-high 34% of the snaps. Still, it led to only seven touches for Wilson -- six carries for 17 yards and one catch for a loss of two yards. The lead-up to Week 7 in Arizona was a reminder that the 26-year-old Wilson is the primary handcuff option for fantasy managers who have Jacobs in their weekly lineups, but Wilson remains nothing more than an insurance policy.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 8,
+  "team": "GB",
+  "opp": "PIT",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 61,
+  "receiving_catches": 3,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 21
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204779",
+  "title": "Chase Brown Goes for Over 100 Rushing Yards in Win Over Steelers",
+  "description": "Cincinnati Bengals running back Chase Brown had 11 carries for 108 yards and added two catches for minus-eight yards on Thursday night against the Steelers. It was the most productive game of the season for Brown as he went over 100 rushing yards for the first time since Week 9 of last season. Coming into the game, he had just 304 total yards from scrimmage and one touchdown in six games. But he was able to find plenty of running room against a Pittsburgh defense that had been tough against opposing running backs. His snap share also rebounded to 63.2% in this one after being closer to 50% in the previous two games. Hopefully, this signals better days ahead for Brown as the Cincinnati offense is trending in the right direction with Joe Flacco under center.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 8,
+  "team": "CIN",
+  "opp": "NYJ",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 73,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 25,
+  "ppr_scoring_position_rank": 5
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203404",
+  "title": "Titans Coaches Excited for Tyjae Spears",
+  "description": "In speaking with reporters on Friday, Tennessee Titans head coach Brian Callahan shared his excitement about the work put in by running back Tyjae Spears (ankle) in his recovery from the preseason ankle sprain that has kept him sidelined through the first four weeks of the season. Spears started the year on the Injured Reserve, but his practice window was opened this week, and he has been practicing in a limited capacity. Callahan did not provide details on when Spears will make his season debut, but he has liked what he's seen from his third year back in what he called a good week of practice. The Titans have had one of the league's most ineffective ground games to begin the year, making starting running back Tony Pollard a weekly start/sit decision as is. Divvying up the workshare amongst two backs threatens to make every Titans player unplayable in all but the deepest formats.",
+  "player_id": 9508,
+  "player_name": "Tyjae Spears",
+  "week": 5,
+  "team": "TEN",
+  "opp": "ARI",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 61
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210991",
+  "title": "Evan Hull's Usage Difficult to Trust as Waiver Addition",
+  "description": "New Orleans running back Evan Hull was a trending name heading into the Saints' Week 15 matchup with the Panthers, and with Devin Neal (hamstring) exiting the team's upset win with a hamstring issue, his name will likely pop up again this week. Alvin Kamara (knee, ankle) was ruled out before Sunday's divisional matchup, while Neal began the week limited by an abdomen issue, leaving Hull and second-year back Audric Estime as the presumptive next in line should Neal miss time. Ultimately, Neal played, and even though he left the game in the first half, Hull saw only a 32% snap share and finished with four total opportunities for 12 yards, leaving him behind Estime in the pecking order. Neal's status will need to be monitored throughout the week, but even if he's forced to miss what would be a favorable Week 16 matchup against the Jets, Hull's infrequent usage to this point makes him very difficult to trust heading into the fantasy semifinals.",
+  "player_id": 9220,
+  "player_name": "Evan Hull",
+  "week": 16,
+  "team": "NO",
+  "opp": "NYJ",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 76
+}

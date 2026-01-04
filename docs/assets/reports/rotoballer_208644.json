@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208644",
+  "title": "Malik Davis Signed to Active Roster",
+  "description": "The Dallas Cowboys signed running back Malik Davis to the active roster ahead of their Week 12 matchup against the Philadelphia Eagles, according to Nick Harris of the Star-Telegram. Davis has been active for the Cowboys' past four games as rookie Jaydon Blue has fallen out of favor as the team's No. 2 running back. The 26-year-old Davis has handled seven carries for 26 yards while playing just 8.4% of the snaps behind starter Javonte Williams. He can be left on the waiver wire in most redraft leagues.",
+  "player_id": 8800,
+  "player_name": "Malik Davis",
+  "week": 12,
+  "team": "DAL",
+  "opp": "PHI",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 24,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 51
+}

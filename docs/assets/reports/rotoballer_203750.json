@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203750",
+  "title": "Michael Carter Scores Touchdown in High-Volume Role Sunday",
+  "description": "Arizona Cardinals running back Michael Carter rushed for 51 yards and a touchdown on 18 carries during Sunday's Week 5 loss to the Tennessee Titans. He also caught all five of his targets for an additional 22 receiving yards. After plenty of speculation about the backfield roles in Arizona, Carter handled early-down work, Emari Demercado played third downs, and Bam Knight rotated in occasionally. Carter easily saw the bulk of the workload, totaling 23 touches while staying involved both on the ground and through the air. His lack of yardage efficiency could leave the backfield in a by-committee state ahead of Week 6, but Carter has the early advantage in the competition. He'll continue to rank as a high-end RB3/flex for next week's clash in Indianapolis.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 6,
+  "team": "ARI",
+  "opp": "IND",
+  "att": 9,
+  "tgt": 5,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 34,
+  "receiving_catches": 2,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

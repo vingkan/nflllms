@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204201",
+  "title": "Kyren Williams Looking to Feast with Solidified Role, Favorable Matchup",
+  "description": "Los Angeles Rams running back Kyren Williams is gearing up for a very favorable matchup against the Baltimore Ravens in Week 6. Williams is coming off his best game of the year, in which he totaled 65 rushing yards, 66 receiving yards, and two touchdowns on a season-high 91 percent snap share. He has double-digit fantasy points (PPR) in all five games so far, including strong outings against tough defenses like the Eagles and 49ers. His 91 percent snap share indicates that he has a firm grasp on the lead-back role, and he should be able to take advantage of a favorable matchup on Sunday. Baltimore has allowed the sixth-most rushing yards, third-most receptions, and third-most fantasy points to opposing running backs in 2025. As a result, Williams is a mid-range RB1 this week.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 6,
+  "team": "LAR",
+  "opp": "BAL",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 50,
+  "receiving_catches": 2,
+  "receiving_yards": 37,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 11
+}

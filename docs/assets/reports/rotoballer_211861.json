@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211861",
+  "title": "Isiah Pacheco With A Difficult Week 17 Matchup",
+  "description": "Kansas City Chiefs running back Isiah Pacheco has seemingly reclaimed his leadback role in the backfield, but it comes when the team turns to Chris Oladokun to be the starting quarterback. Pacheco rushed eight times for 34 yards, but the most surprising part of his stat line came in the receiving game. The 26-year-old was targeted a team-high seven times and caught six passes for 41 yards in last week's loss to the Tennessee Titans. The scoring opportunities will likely be few and far between for Pacheco, but once Oladokun stepped in as the starter, the running backs were targeted six times out of 16 attempts, and five of those went in Pacheco's direction. Pacheco will also have to deal with the Denver Broncos defense in Week 17. The Broncos have allowed the fewest fantasy points to opposing running backs and the second-fewest rushing yards per game this season. Pacheco is ranked RB37 in our RotoBaller Half-PPR rankings, making him an RB3/Flex option for the fantasy playoffs. It could be an ugly game for Pacheco, but he should get enough opportunities to be worth considering.",
+  "player_id": 8205,
+  "player_name": "Isiah Pacheco",
+  "week": 17,
+  "team": "KC",
+  "opp": "DEN",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 32,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 52
+}

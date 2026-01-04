@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203561",
+  "title": "DJ Giddens Reclaims RB2 Role in Indianapolis",
+  "description": "Indianapolis Colts running back DJ Giddens will look to see a larger role in a Week 5 home matchup against the Las Vegas Raiders. Giddens has been quiet since a Week 1 win where he saw 12 carries. The Colts have leaned heavily on starter Jonathan Taylor since the season opener, which has cut into Giddens' workload. That being said, fellow backup running back Tyler Goodson (groin) has been ruled out for a Week 5 home matchup against the Las Vegas Raiders, which will leave Giddens as the team's main backup running back behind Taylor. Giddens should not be in starting lineups in fantasy, but he remains a top handcuff option in case Taylor is forced to miss time at some point this season.",
+  "player_id": 12471,
+  "player_name": "DJ Giddens",
+  "week": 5,
+  "team": "IND",
+  "opp": "LV",
+  "att": 5,
+  "tgt": 1,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 22,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 54
+}

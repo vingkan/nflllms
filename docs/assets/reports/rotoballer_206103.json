@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206103",
+  "title": "Isaiah Davis Flashing Upside Amid Jets Trade Rumors",
+  "description": "New York Jets running back Isaiah Davis had a breakout performance in Week 8, racking up 109 yards on just 12 touches in a win over the Cincinnati Bengals. The Jets leaned on their backfield in their best offensive game of the season, with both Davis and Breece Hall taking advantage of Cincinnati's soft run defense. While Davis isn't yet a fantasy starter, trade rumors surrounding Hall could quickly change that. Hall is in the final year of his contract, and with the 1-7 Jets unlikely to contend, the team could look to move him for future assets. If that happens, Davis would step into a significant role and could emerge as a valuable fantasy stash with RB1 upside down the stretch.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 10,
+  "team": "NYJ",
+  "opp": "CLE",
+  "att": 3,
+  "tgt": 1,
+  "touches": 4,
+  "actual": "low",
+  "expect": "high",
+  "reason": "unknown",
+  "rushing_yards": 10,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 53
+}

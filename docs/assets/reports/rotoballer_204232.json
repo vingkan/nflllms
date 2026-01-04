@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204232",
+  "title": "Another Heavy Dose Of Christian McCaffrey On Tap For Week 6",
+  "description": "San Francisco 49ers running back Christian McCaffrey handled 22 carries and caught eight passes for 139 total scrimmage yards in the Niners' 26-23 win over the Rams in Week 5. He is up to five consecutive top-12 finishes among running backs to start the season and leads the league with 130 touches. San Francisco's offense is leaning heavily on McCaffrey as it navigates a myriad of injuries to its star players. Brock Purdy (toe) and Ricky Pearsall (knee) will be shelved for their second consecutive game in Week 6 and both Mac Jones (knee, oblique) and Jauan Jennings (ankle, ribs) are listed as questionable. McCaffrey should see another big workload on Sunday against the Buccaneers and contend for another RB1 finish.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 6,
+  "team": "SF",
+  "opp": "TB",
+  "att": 17,
+  "tgt": 8,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 54,
+  "receiving_catches": 7,
+  "receiving_yards": 57,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 24,
+  "ppr_scoring_position_rank": 7
+}

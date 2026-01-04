@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211851",
+  "title": "Injuries Dampen Week 17 Outlook For Aaron Jones Sr.",
+  "description": "Minnesota Vikings running back Aaron Jones Sr. (ankle) has been a reliable, if unremarkable, fantasy option this year, but he finds himself in RB3 territory as Minnesota prepares to host the Detroit Lions on Christmas Day. Due to injuries to starting quarterback J.J. McCarthy (hand) and backup Carson Wentz (shoulder), the Vikings are down to third-stringer Max Brosmer, an undrafted rookie. Already without left tackle Christian Darrisaw (knee), the Vikings also ruled out center Ryan Kelly (concussion) and tight end T.J. Hockenson (shoulder), while right tackle Brian O'Neill (heel) is questionable. Jones figures to get most of the running back work with fellow running back Jordan Mason (ankle) injured, but the Vikings' offense is a shell of what it was even two weeks ago. Detroit ranks 12th against half-PPR running backs, and the Lions surely will be keying on the run in an effort to put pressure on Brosmer. Managers will have to weigh whether Jones dominating the backfield is worth the risk of relying upon an offense counting on so many reserves.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 17,
+  "team": "MIN",
+  "opp": "DET",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 3,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 16
+}

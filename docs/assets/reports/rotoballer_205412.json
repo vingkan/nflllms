@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205412",
+  "title": "Kimani Vidal Could See More Opportunities Thursday Night",
+  "description": "Los Angeles Chargers running back Kimani Vidal was limited in Week 7, rushing for only 20 yards on nine carries as the Bolts faced a negative game script for most of the day, throwing the ball 55 times. However, he remains the clear lead back, especially since backup running back Hassan Haskins (hamstring) has been ruled out for Thursday. This week, Vidal faces a Minnesota Vikings run defense that is middle-of-the-pack but showed strength last week by holding Philadelphia Eagles running back Saquon Barkley to just 2.4 yards per carry. With Haskins out, Vidal is expected to get nearly all the early-down work and see more red-zone opportunities. The Chargers might also focus more on the run game to help reduce the pressure on Justin Herbert. RotoBaller projects Vidal as RB23, making him a reliable low-end RB2/FLEX option based on volume and potential red zone touches.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 8,
+  "team": "LAC",
+  "opp": "MIN",
+  "att": 23,
+  "tgt": 2,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 117,
+  "receiving_catches": 1,
+  "receiving_yards": 10,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 8
+}

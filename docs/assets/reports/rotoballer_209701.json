@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209701",
+  "title": "Nick Chubb Could See Increased Workload in Week 14",
+  "description": "After starting the season as the lead running back for the Houston Texans, Nick Chubb has now ceded the RB1 role to Texans rookie back Woody Marks (foot). Still, Chubb gets his share of touches each week for Houston and scored his third rushing touchdown of the season in the team's Week 13 win over the Indianapolis Colts. Perhaps most importantly for Chubb's production outlook, Marks briefly left the game against Indianapolis with a foot injury. While the 24-year-old was able to return and finish the contest, there's a chance the injury could linger and lead Houston to limit Marks' touches in Week 14 against the Kansas City Chiefs. Chubb's upside is limited, but he's logged six games with double-digit rush attempts this season and could find the end zone against the Chiefs. In deeper fantasy leagues, Chubb could be worth targeting on the waiver wire heading into Week 14.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 14,
+  "team": "HOU",
+  "opp": "KC",
+  "att": 1,
+  "tgt": 0,
+  "touches": 1,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 71
+}

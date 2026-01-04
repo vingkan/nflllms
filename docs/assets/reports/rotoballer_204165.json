@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204165",
+  "title": "Sean Tucker Belongs on the Bench in Week 6",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker moved into the No. 2 role in the backfield during last week's game against the Seattle Seahawks. The assumption was that Tucker would see a handful of carries with Bucky Irving (foot) sidelined. Tucker didn't see much of the field as Rachaad White did most of the work on offense. Tucker rushed the ball three times for three yards while hauling in three passes for -4 yards in the win. The expectation is that Tucker will see a handful of touches this weekend, but isn't a trustworthy starter. Fantasy managers should keep Tucker on the bench for the Week 6 matchup against the San Francisco 49ers.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 6,
+  "team": "TB",
+  "opp": "SF",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 25,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 25
+}

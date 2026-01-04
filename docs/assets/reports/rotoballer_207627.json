@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207627",
+  "title": "Terrell Jennings Active for Thursday Night Football",
+  "description": "New England Patriots running back Terrell Jennings (knee), who was listed as questionable this week, is officially active for the Thursday Night Football contest in Week 11 against the division-rival New York Jets. Jennings suffered a bruised knee in the Week 10 win over the Tampa Bay Buccaneers and is good to go on Thursday evening. Rhamondre Stevenson (toe) will miss his third straight game, so Jennings should once again see an elevated role in New England's backfield as the change-of-pace weapon behind rookie TreVeyon Henderson. The 24-year-old Jennings saw double-digit touches in Week 10 against the Atlanta Falcons, but fantasy managers in deeper leagues cannot count on that again on a short week with Jennings coming off an injury, especially after Henderson had 147 yards and two touchdowns on 14 carries last week.",
+  "player_id": 12412,
+  "player_name": "Terrell Jennings",
+  "week": 11,
+  "team": "NE",
+  "opp": "NYJ",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207900",
+  "title": "Tyler Allgeier Back in Flex Territory in Week 11 Against the Panthers",
+  "description": "Atlanta Falcons running back Tyler Allgeier continues to put himself in the Flex conversation after scoring his fifth and sixth rushing touchdowns of the season last week. In games where Atlanta remains competitive, the 25-year-old tends to stay involved, and Week 11's matchup against the Panthers should be one of those games despite losing to Carolina 30-0 back in Week 3. Carolina has allowed 157 yards rushing per game over the last three weeks, which is the fourth-highest total in the league, and has been stingy against the pass, so Atlanta may prefer to stick to the ground in this one as much as possible. The BYU product has been getting a healthy number of attempts inside the red zone, including five last week compared to just one for Bijan Robinson, so he could be in line for a score this week, too. Averaging just 3.6 yards per carry, though, makes him a touchdown-dependent RB4/Flex option, who has put up just a total of 5.0 fantasy points in the games in which he failed to score.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 11,
+  "team": "ATL",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 10,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

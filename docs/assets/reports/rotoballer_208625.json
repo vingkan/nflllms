@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208625",
+  "title": "Bijan Robinson a Top-Tier RB1 Despite Challenging Offensive Environment",
+  "description": "Atlanta Falcons running back Bijan Robinson rushed for 104 yards and two touchdowns in Week 11, adding four catches for 39 yards. It ended a three-week stretch in which the 23-year-old did not go over 100 yards from scrimmage or score a touchdown, but he's still averaging over 78 rush yards and over four catches per contest. The University of Texas product will be without teammates Drake London (knee) and Michael Penix Jr. (knee) on Sunday, and the last time he was without those two was in Week 8 against Miami. In that contest, Robinson tallied just 25 yards rushing and 23 yards receiving, so Week 12's opponent may take a similar defensive approach with Kirk Cousins under center. This week, the Falcons take on the Saints, a defense that is middle of the road in terms of fantasy points allowed to opposing running backs, but is also limiting opponents to only 3.5 yards per carry over the last three weeks (fourth-lowest in the NFL). As one of the best running backs in the league, the third-year pro should be plugged into lineups every week in season-long leagues, but in a game that has one of the lowest projected point totals (40.5), expectations should be tempered in daily formats.",
+  "player_id": 9509,
+  "player_name": "Bijan Robinson",
+  "week": 12,
+  "team": "ATL",
+  "opp": "NO",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 70,
+  "receiving_catches": 2,
+  "receiving_yards": 37,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 14
+}

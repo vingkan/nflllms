@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209153",
+  "title": "Justice Hill Placed on Injured Reserve",
+  "description": "The Baltimore Ravens placed running back Justice Hill (neck) on injured reserve due to a neck injury, according to the team. Hill returned in Week 12 against the New York Jets after missing Week 11 because of a toe injury, but will now miss at least the next four games. Hill played on 25.4% of the offensive snaps against the Jets and didn't record a touch, but returned one kickoff for 27 yards. The 28-year-old has mostly played on pass downs behind Derrick Henry this season, handling 18 carries for 93 yards and two touchdowns along with 21 receptions for 169 yards and another score on 27 targets as a receiver in 10 games. Hill's absence will lead to more opportunities for the dynamic Keaton Mitchell, who is averaging 5.8 yards per carry on 23 attempts this season.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 13,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

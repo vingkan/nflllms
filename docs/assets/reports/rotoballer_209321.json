@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209321",
+  "title": "Rico Dowdle May Not Have a High Statistical Ceiling in Week 13",
+  "description": "Carolina Panthers running back Rico Dowdle totaled 38 rushing yards on six carries and 36 receiving yards on four receptions last week against the 49ers. Dowdle finished the game with 11.4 PPR points, which was his lowest since being named the starting RB for Carolina in Week 9. The Panthers will face the Los Angeles Rams in Week 13. The Rams rank third in Fantasy Points Per Game allowed to RBs. Los Angeles' defense has allowed only two rushing touchdowns this season, which is tied for the least in the NFL. Although this is a bad matchup, Dowdle should not be reserved. Don't expect a high statistical ceiling, though. The Panthers' RB has a solid fantasy floor, averaging 17.5 PPR points over the last four weeks.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 13,
+  "team": "CAR",
+  "opp": "LAR",
+  "att": 18,
+  "tgt": 2,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 58,
+  "receiving_catches": 2,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 37
+}

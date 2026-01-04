@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207179",
+  "title": "Michael Carter Promoted To Active Roster",
+  "description": "The Arizona Cardinals promoted running back Michael Carter to the active roster from the practice squad ahead of Sunday's matchup against the Seattle Seahawks. Carter was cut by the Cardinals the week leading into their Week 9 matchup against the Cowboys, but was quickly signed back to the practice squad soon thereafter. The 26-year-old has fallen out of favor after operating as Arizona's lead back in Week 5 against the Titans, when he handled 18 carries for 51 yards and a touchdown to go with five catches (five targets) for 22 yards. Carter has since fallen behind Bam Knight and Emari Demercado in the pecking order for touches and didn't play a single snap in Week 9 versus Dallas. It appears to be trending toward a two-man backfield in Week 10 against Seattle, but things could change. Carter can likely be left on the waiver wire.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 10,
+  "team": "ARI",
+  "opp": "SEA",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 4,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 65
+}

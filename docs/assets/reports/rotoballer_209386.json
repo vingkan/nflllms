@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209386",
+  "title": "Kenneth Gainwell Offers Flex Appeal Against Bills",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell has been on a hot streak lately and will look to carry that momentum into a Week 13 meeting with the Buffalo Bills. The Bills have struggled to stop the run this season, allowing the third-most fantasy points and second-most yards per attempt to opposing running backs. However, they haven't allowed much receiving production to the position, which is noteworthy given Gainwell's significant role as a pass-catcher. Still, he should approach double-digit carries in this one, even with Jaylen Warren playing ahead of him on early downs. Gainwell isn't quite a must-start fantasy option, but with Aaron Rodgers (wrist) back under center, Pittsburgh should keep Sunday's contest competitive enough for him to provide value as a high-end flex play.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 13,
+  "team": "PIT",
+  "opp": "BUF",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 20,
+  "receiving_catches": 2,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 43
+}

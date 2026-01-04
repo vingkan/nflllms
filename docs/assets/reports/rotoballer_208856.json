@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208856",
+  "title": "Ashton Jeanty's Ankle Injury isn't Severe",
+  "description": "Las Vegas Raiders head coach Pete Carroll said on Monday that the ankle injury that rookie first-round running back Ashton Jeanty (ankle) picked up late in Sunday's loss to the Cleveland Browns isn't severe, according to Ryan McFadden of ESPN. Jeanty should have a chance to play in Week 13 against the division-rival Los Angeles Chargers, but fantasy managers will want to keep a close eye on the 21-year-old's practice status this week. Jeanty struggled on the ground yet again in Week 12 against a strong Browns defense, but he still managed to go over 100 scrimmage yards and scored a touchdown on 25 touches. If healthy, Jeanty will continue to be the Raiders' clear RB1, but his fantasy upside is limited behind a bad offensive line in an offense that is averaging just 15 points per game, which is tied for last in the NFL. Raheem Mostert, Zamir White, and Dylan Laube could share backfield touches if Jeanty were to miss time.",
+  "player_id": 12527,
+  "player_name": "Ashton Jeanty",
+  "week": 13,
+  "team": "LV",
+  "opp": "LAC",
+  "att": 15,
+  "tgt": 8,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 31,
+  "receiving_catches": 6,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 24
+}

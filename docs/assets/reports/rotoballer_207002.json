@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207002",
+  "title": "Saquon Barkley Back From Injury to Face Strong Packers Defense",
+  "description": "Philadelphia Eagles running back Saquon Barkley (groin) was a full participant at practice on Friday and seems fully ready for Monday's game against the Packers. Before exiting in the second half of his last outing, Barkley outran the Giants defense for a 65-yard touchdown on the second play from scrimmage and finished with 174 total yards. This week, he'll face the fifth-best run defense in the league, as Green Bay lets up an average of 89.4 yards per game on the ground. Barkley has met with two other top-10 run defenses so far this year-the Broncos and the Buccaneers-and averaged 36.5 yards per game in those contests. While the inability to get going in those matchups combined with the recent injury are daunting, Philly's star back is coming off of his best performance of the season and an extra week of rest. Still consider Barkley a reliable RB1 for Week 10.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 10,
+  "team": "PHI",
+  "opp": "GB",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 41,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

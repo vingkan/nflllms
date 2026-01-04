@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208145",
+  "title": "Kimani Vidal Struggles Again and Faces Role Uncertainty After Bye",
+  "description": "Los Angeles Chargers running back Kimani Vidal carried the ball five times for 13 yards and caught two passes for -1 yards in the team's worst offensive showing of the year with a 35-6 loss to the Jacksonville Jaguars. He briefly left the game with a thigh injury before returning, but the offense never found its rhythm, running only 45 plays and maintaining possession for just 22 minutes. Vidal's roller-coaster season continued, fluctuating between productive games and complete duds. His workload might decrease after the Bolts' much-needed Week 12 bye, as rookie Omarion Hampton (ankle) appears close to returning from IR after shedding his walking boot and resuming side work in practice. If Hampton is activated in Week 13, Vidal could shift back into a secondary role. The bye week arrives at the perfect time for his recovery and for fantasy managers looking for clarity.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 13,
+  "team": "LAC",
+  "opp": "LV",
+  "att": 25,
+  "tgt": 1,
+  "touches": 26,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 126,
+  "receiving_catches": 1,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 20,
+  "ppr_scoring_position_rank": 4
+}

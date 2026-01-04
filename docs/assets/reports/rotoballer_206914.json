@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206914",
+  "title": "J.K. Dobbins Getting Second Opinion on Foot Injury",
+  "description": "Denver Broncos running back J.K. Dobbins (foot) briefly left Thursday night's win over the Raiders after having his foot pinned awkwardly beneath a defender's body during a third-quarter rush attempt. While he was able to return to the game, Dobbins and the team are now awaiting a second opinion to determine the severity of the foot injury. Dobbins has been a workhorse for the Broncos all season long, and in a game bereft of offensive highlights, he still managed a respectable 77 yards on 18 carries. Dobbins will now benefit from the post-TNF mini-bye before a Week 11 matchup with the Chiefs, and then the team's actual Week 12 Bye. If Dobbins is forced to miss time, RJ Harvey becomes the obvious next-man-up. However, having topped seven carries only once this season, there should also be an expectation for Tyler Badie and/or Jaleel McLaughlin to see an expanded role.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 11,
+  "team": "DEN",
+  "opp": "KC",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

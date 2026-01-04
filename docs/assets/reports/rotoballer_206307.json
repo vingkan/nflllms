@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206307",
+  "title": "Christian McCaffrey Ready To Rebound In Week 9",
+  "description": "San Francisco 49ers running back Christian McCaffrey turned in his worst game of the season in Week 8. Against the Texans, McCaffrey toted eight carries for 25 yards and caught three of six targets for 43 receiving yards, all season lows and interrupting his streak of seven consecutive RB1 finishes to start the 2025 season. McCaffrey, being who he is, there is hope for a rebound in Week 9 against the New York Giants. Last week, the Giants gave up 174 scrimmage yards and two touchdowns to Saquon Barkley (groin) in three quarters of work and another 104 rushing yards to backup Tank Bigsby. Unfortunately, San Francisco's offensive line does not compare to Philadelphia's elite unit and will be missing starting center Jake Brendel (hamstring). Still, McCaffrey is one of the league's most dynamic playmakers, and if he is on your fantasy roster, he should be in the starting lineup for Week 9.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 9,
+  "team": "SF",
+  "opp": "NYG",
+  "att": 28,
+  "tgt": 6,
+  "touches": 34,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 106,
+  "receiving_catches": 5,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 34,
+  "ppr_scoring_position_rank": 1
+}

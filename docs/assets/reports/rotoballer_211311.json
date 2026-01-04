@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211311",
+  "title": "Kimani Vidal to Operate in Committee Moving Forward?",
+  "description": "Los Angeles Chargers running back Kimani Vidal may still be a viable fantasy play in Week 16 if the team continues featuring him as they have, despite teammate Omarion Hampton's return to the field. Hampton missed a massive chunk of the season with an ankle injury. While he's been back for a few weeks now and saw a modest increase in snaps during his second game, Vidal has handily out-snapped him 93-47 over that time frame. The actual touch distribution has been much closer, with the rookie leading 31-28, although it's possible LA will still lean on the former at times, considering he was an excellent stand-in while Hampton was shelved. Vidal should have some decent flex appeal for fantasy until (unless) he's phased out of the game plan in his backfield mate's favor. They'll get an improved Dallas rush defense on the road this Sunday.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 16,
+  "team": "LAC",
+  "opp": "DAL",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 11,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 70
+}

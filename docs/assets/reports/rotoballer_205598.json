@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205598",
+  "title": "Will Shipley Listed as Second RB on Depth Chart",
+  "description": "Philadelphia Eagles running back Will Shipley saw the bulk of snaps among his team's backup RBs last week, with A.J. Dillon being a surprising healthy scratch. While Dillon had been Saquon Barkley's main understudy for weeks, Shipley took over duties against the Vikings and was on the field for 16% of offensive snaps. Tank Bigsby was behind him with 8% of snaps. Still, Shipley only recorded a single catch for seven yards on his lone target and did not get any carries. He's currently listed above Dillon as the second RB on the depth chart, but he should only be rostered as a handcuff for now, if at all.",
+  "player_id": 11577,
+  "player_name": "Will Shipley",
+  "week": 8,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 68
+}

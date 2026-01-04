@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208274",
+  "title": "Kenneth Walker III's Opportunities Dependent on Game Script and Performance",
+  "description": "Seattle Seahawks head coach Mike Macdonald said that running back Kenneth Walker is \"earning more opportunities,\" but it is tied primarily to how Walker is performing during games, according to Michael-Shawn Dugar of The Athletic. Macdonald continues saying that Walker is doing well in practice, but the game context is what drives the decision-making. Walker's usage has been frustrating this season from a fantasy perspective as he has been stuck in an even time split with Zach Charbonnet, but his strong performance in Week 11 against the Rams could earn him more opportunities going forward. The 25-year-old totaled 16 carries for 67 yards and a touchdown to go along with three catches (three targets) for 44 yards in the game. Walker's impact in the pass game was something that Macdonald talked about as well, and with his game-changing explosiveness, Seattle could start to feature him as a bigger piece of the offense.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 12,
+  "team": "SEA",
+  "opp": "TEN",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 71,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

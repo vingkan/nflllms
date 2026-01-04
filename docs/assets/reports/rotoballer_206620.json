@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206620",
+  "title": "Blake Corum Continues to Produce When Given the Opportunity",
+  "description": "Los Angeles Rams running back Blake Corum recorded 13 carries for 58 yards in his team's 34-10 Week 9 win over the New Orleans Saints. After failing to reach double-digit carries in any of his first six games of 2025, Corum has now logged at least 12 rush attempts in each of his last two contests. It's worth noting that Los Angeles notched two straight blowout wins, which could be why Corum is eating into the workload of Rams RB1 Kyren Williams. Still, Corum has earned an efficient 4.6 yards per carry when given the opportunity this season. At worst, he's a high-end handcuff option to Williams, who could be a league-winner if Williams were to suffer an injury. In fantasy leagues where he remains available, Corum should be rostered heading into a Week 10 matchup against the San Francisco 49ers.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 10,
+  "team": "LAR",
+  "opp": "SF",
+  "att": 13,
+  "tgt": 0,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 56,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 41
+}

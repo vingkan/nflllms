@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209544",
+  "title": "Jonathan Taylor Held Out of the End Zone in Week 13 Loss",
+  "description": "Indianapolis Colts running back Jonathan Taylor carried the ball 21 times for 85 yards and caught three of his five targets for 36 yards in a 20-16 loss to the Houston Texans in Week 13. Taylor was held out of the end zone for the second straight game, although he was able to offset that with a solid afternoon in the passing game. The veteran running back has been excellent this season, rushing for 1,282 yards while catching 35 passes for 304 yards and scoring 17 all-purpose touchdowns. He will remain a high-end RB1 in Week 14 against the Jacksonville Jaguars on the road.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 14,
+  "team": "IND",
+  "opp": "JAX",
+  "att": 21,
+  "tgt": 0,
+  "touches": 21,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 74,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 20
+}

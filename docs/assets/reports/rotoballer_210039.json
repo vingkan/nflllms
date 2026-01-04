@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210039",
+  "title": "Kyle Monangai Off Injury Report, Has Starting Value Against Packers",
+  "description": "Chicago Bears rookie running back Kyle Monangai (ankle) is off the injury report and good to go in Week 14 against the Green Bay Packers. The 2025 seventh-round pick has been a breakout star for the Bears' rushing attack. In his last seven games, Monangai has averaged 15 attempts for 79.8 yards and five touchdowns, averaging 13.2 PPR points per game during that stretch. Despite entering the season as an afterthought behind D'Andre Swift and Roschon Johnson, Monangai has garnered a 46% snap share in the past three games. A tough matchup is on the way in Week 14, as the Packers have allowed the seventh-fewest rushing yards in the NFL this season. With all the bye weeks and countless injuries around the NFL, fantasy managers can feel comfortable starting Monangai as a low-end RB2 this week.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 14,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 57,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

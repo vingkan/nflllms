@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203616",
+  "title": "Kimani Vidal Elevated to Active Roster Again in Week 5",
+  "description": "Los Angeles Chargers running back Kimani Vidal has been elevated from the practice squad to the 53-man roster ahead of Sunday's Week 5 contest against the Washington Commanders. Vidal made his season debut last week, taking the roster spot of Najee Harris (Achilles). He played three percent of the offensive snaps and did not register a touch, but he did have a 25-yard kick return. He should occupy a similar depth role this weekend, playing on special teams while Omarion Hampton and Hassan Haskins handle the bulk of the offensive snaps.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 5,
+  "team": "LAC",
+  "opp": "WAS",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 18,
+  "receiving_catches": 1,
+  "receiving_yards": 1,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 47
+}

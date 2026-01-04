@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205035",
+  "title": "Nick Chubb Can Still Be a Fringe Flex Play vs. the Seahawks",
+  "description": "Houston Texans running back Nick Chubb will be back on the field on Monday night against the Seahawks after his team's Week 6 bye. Chubb went into the bye week with a strong performance, totaling 61 rushing yards and a touchdown against the Ravens on just 11 carries. He has seen his snap share start to slip a bit, though, dropping from around 50% the first three weeks of the season to just 34% in Week 5. He still had more carries than any other running back in that win, though, and he seems to be the go-to option on early downs and in run-focused situations. He'll remain in a timeshare with rookie Woody Marks and Dameon Pierce on Monday, but he still brings enough touchdown-dependent upside to be an RB3 or flex play since he is the No. 29 RB this week in RotoBaller's rankings.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 7,
+  "team": "HOU",
+  "opp": "SEA",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

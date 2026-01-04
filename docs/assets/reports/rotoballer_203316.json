@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203316",
+  "title": "Justice Hill Continues to Make Impact",
+  "description": "Baltimore Ravens running back Justice Hill has made a significant impact in the Ravens' offense through four weeks. Hill is coming off a career-best performance against the Kansas City Chiefs, racking up 117 scrimmage yards and two touchdowns on just eight touches. He's also out-snapped Derrick Henry in back-to-back weeks, largely due to Baltimore leaning on a pass-heavy approach against the Lions and the Chiefs. The Ravens face the Texans in Week 5, and if Houston's offense can take advantage of Baltimore's banged-up defense, Hill could once again see elevated usage. For now, he looks like a sneaky flex option with upside in PPR formats.",
+  "player_id": 5995,
+  "player_name": "Justice Hill",
+  "week": 5,
+  "team": "BAL",
+  "opp": "HOU",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

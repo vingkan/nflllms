@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204203",
+  "title": "Blake Corum Not a Fantasy Threat Despite Favorable Matchup",
+  "description": "Los Angeles Rams running back Blake Corum should continue to be benched in most fantasy football leagues ahead of his Week 6 matchup against the Baltimore Ravens. While Corum made a push for more playing time from Weeks 2 to 4, his snap share dropped to a measly nine percent last Thursday night, as he rushed the ball just one time and didn't catch a pass. The most important factor here is Kyren Williams' effectiveness out of the backfield, and he has played quite well, making an impact on the ground and through the air. Williams' 91 percent snap share, 131 scrimmage yards, and two touchdowns last week gave the Rams plenty of reasons to pound the rock with Williams and no desire to get Corum involved. Corum remains a mere handcuff option heading into Week 6 against the Baltimore Ravens, despite Baltimore allowing the third-most fantasy points to opposing running backs.",
+  "player_id": 11586,
+  "player_name": "Blake Corum",
+  "week": 6,
+  "team": "LAR",
+  "opp": "BAL",
+  "att": 5,
+  "tgt": 0,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 23,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 54
+}

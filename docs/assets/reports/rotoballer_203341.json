@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203341",
+  "title": "Michael Carter Set for Prominent Role in Arizona?",
+  "description": "ESPN's Adam Schefter said on the Thursday edition of his podcast that he thinks Arizona Cardinals running back Michael Carter will be \"thrust to prominence\" following injuries to fellow Cardinals backs James Conner (ankle) and Trey Benson (knee). Carter has been active for just one of Arizona's games so far in 2025 and opened the season behind Conner, Benson, and Emari Demercado on the team's running back depth chart. However, Schefter reports that Demercado is expected to remain Arizona's third-down back, creating an opportunity for Carter to step in as the team's primary rusher. Carter has recorded 2,131 yards from scrimmage and nine touchdowns on 439 touches across 49 career NFL games (22 starts). Heading into a Week 5 matchup against the Tennessee Titans, Carter profiles as a high-end fantasy RB3/flex option.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 5,
+  "team": "ARI",
+  "opp": "TEN",
+  "att": 18,
+  "tgt": 5,
+  "touches": 23,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 51,
+  "receiving_catches": 5,
+  "receiving_yards": 22,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 9
+}

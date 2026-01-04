@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204369",
+  "title": "Jaydon Blue Set For Playing Time Increase",
+  "description": "Dallas Cowboys running back Jaydon Blue is set for an increase in playing time Sunday against Carolina after the team previously announced that Miles Sanders (knee, ankle) would miss the rest of the season following surgery. The elevation, however, will still keep Blue behind starter Javonte Williams, who is in the midst of a resurgent 2025 season. The rookie was a healthy inactive for the first month of the season, then played 11 snaps in his first game last week against the New York Jets. Although Blue will factor into the Dallas offense, he's not likely to earn enough volume to be playable yet, at least while Williams is healthy.",
+  "player_id": 12457,
+  "player_name": "Jaydon Blue",
+  "week": 6,
+  "team": "DAL",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 0,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

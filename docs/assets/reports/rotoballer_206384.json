@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206384",
+  "title": "Chiefs Elevating Clyde Edwards-Helaire from Practice Squad for Week 9",
+  "description": "The Kansas City Chiefs have elevated running back Clyde Edwards-Helaire from their practice squad for the team's Week 9 matchup against the Buffalo Bills. With running back Isiah Pacheco (knee) out, Edwards-Helaire will give the Chiefs a little extra depth in their running back room. Veteran back Kareem Hunt should be expected to serve as the team's early-down and goal-line rusher, with rookie Brashard Smith mixing in in a gadget and passing-downs role. However, both Edwards-Helaire and Elijah Mitchell could steal a few touches away from Hunt and Smith. Edwards-Helaire has not appeared in a game yet this season. Across two games for the New Orleans Saints in 2024, he recorded 70 scrimmage yards on 16 touches. Edwards-Helaire should remain off fantasy radars heading into Week 9.",
+  "player_id": 6820,
+  "player_name": "Clyde Edwards-Helaire",
+  "week": 9,
+  "team": "KC",
+  "opp": "BUF",
+  "att": 2,
+  "tgt": 0,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 5,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 64
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208706",
+  "title": "Kenneth Walker III Should Be Active Vs. Titans",
+  "description": "Seattle Seahawks running back Kenneth Walker III (glute) is expected to play in Week 12's road matchup with the Tennessee Titans. ESPN's Adam Schefter reported the news. The Michigan State product was a late addition to Seattle's practice report on Friday, logging a limited session with a glute issue that forced the team to deem him questionable. However, head coach Mike Macdonald has expressed that the move was precautionary, and he should be fine for Sunday. It's excellent news for him, as Walker III is in a smash spot against a Titan's defense that's yielded the seventh-most rushing yards (134.7) and eighth-most fantasy points per game to running backs (24.35). Fantasy managers will still want to remain watchful of the 25-year-old's official game-time status, although he doesn't appear to be in any danger of missing his first appearance this season.",
+  "player_id": 8151,
+  "player_name": "Kenneth Walker",
+  "week": 12,
+  "team": "SEA",
+  "opp": "TEN",
+  "att": 11,
+  "tgt": 4,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 71,
+  "receiving_catches": 3,
+  "receiving_yards": 30,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

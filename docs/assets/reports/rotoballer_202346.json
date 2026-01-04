@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202346",
+  "title": "Christian McCaffrey Goes Over 100 Total Yards, Sees 27 Touches in Win",
+  "description": "San Francisco 49ers running back Christian McCaffrey continues to be a high-volume workhorse for the Niners early in the 2025 season. In the one-point win over the visiting Arizona Cardinals in Week 3 on Sunday, McCaffrey had 17 rushing attempts for 52 yards and caught 10 of his 15 targets for 88 yards through the air. CMC was unable to find the end zone, but his workhorse role and good health (so far) have been music to his fantasy managers' ears. The Niners have been leaning on the 29-year-old with quarterback Brock Purdy (toe, shoulder), tight end George Kittle (hamstring), and receiver Jauan Jennings (ankle, shoulder) injured. He has exceeded 100 scrimmage yards in all three games so far this year and will have a good chance to make it four in a row in Week 4 against the Jacksonville Jaguars, especially if Purdy can return. CMC still has league-winning dual-threat abilities, but he'll need to stay healthy.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 4,
+  "team": "SF",
+  "opp": "JAX",
+  "att": 17,
+  "tgt": 11,
+  "touches": 28,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 49,
+  "receiving_catches": 6,
+  "receiving_yards": 92,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 26,
+  "ppr_scoring_position_rank": 8
+}

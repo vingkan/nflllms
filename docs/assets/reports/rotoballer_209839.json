@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209839",
+  "title": "Kyle Monangai Limited in Practice Thursday",
+  "description": "Chicago Bears rookie running back Kyle Monangai (ankle) was upgraded to a limited participant in Thursday's practice session after missing Wednesday, according to the team's official website. Monangai returned to practice on Thursday and should be good to go for Sunday's pivotal matchup against the Green Bay Packers at Lambeau Field. The rookie seventh-rounder has scored in four consecutive games and has emerged as a viable flex play in Chicago's dominant run game. Monangai has totalled 53 carries for 229 yards and four touchdowns, along with one reception (three targets) for 14 yards over the past four games as he splits carries with D'Andre Swift.",
+  "player_id": 12534,
+  "player_name": "Kyle Monangai",
+  "week": 14,
+  "team": "CHI",
+  "opp": "GB",
+  "att": 14,
+  "tgt": 2,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 57,
+  "receiving_catches": 1,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 32
+}

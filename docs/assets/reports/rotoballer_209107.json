@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209107",
+  "title": "Kenneth Gainwell Becoming a Weekly PPR Option?",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell delivered another productive performance in Week 12 against the Chicago Bears, posting 10 carries for 92 yards while adding six receptions (six targets) for 30 yards. Gainwell's receiving workload in recent weeks has made him a viable fantasy option in PPR leagues. It's also been a consistent part of the former Philadelphia Eagle's scoring profile on the season, with four games of at least six receptions, tied with Bijan Robinson for the third most by a running back this season and only trailing De'Von Achane (five games) and Christian McCaffrey (nine). The Pittsburgh backfield has essentially been an even split between Jaylen Warren and Gainwell over the past three weeks. Gainwell holds a slight edge in snap share at 54.7% compared to Warren's 41.9%, though it's worth noting Warren left Week 11 early with an ankle injury. Gainwell has maintained his role in the passing game and could be the preferred option moving forward between the two.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 13,
+  "team": "PIT",
+  "opp": "BUF",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 20,
+  "receiving_catches": 2,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 43
+}

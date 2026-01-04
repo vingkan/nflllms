@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210285",
+  "title": "Omarion Hampton Catches Touchdown Pass in First Game Back",
+  "description": "Los Angeles Chargers rookie running back Omarion Hampton recorded 13 carries for 56 yards with two receptions (two targets) for 11 yards and a touchdown in Monday night's overtime win over the Philadelphia Eagles. In Hampton's first game since fracturing his left ankle in Week 5, he caught a touchdown on the opening drive and looked good overall as a runner. The rookie first-rounder split touches with Kimani Vidal, as expected, and Vidal narrowly edged him out with 14 carries for 44 yards to go with one reception for 60 yards on three targets. Hampton's workload should gradually grow as he gets further removed from his ankle injury. He looks primed to come back and immediately be an impactful player for fantasy managers as the fantasy playoffs begin in Week 15. Hampton should at least have RB2 upside in a divisional rematch against the Kansas City Chiefs.",
+  "player_id": 12507,
+  "player_name": "Omarion Hampton",
+  "week": 15,
+  "team": "LAC",
+  "opp": "KC",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 61,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 39
+}

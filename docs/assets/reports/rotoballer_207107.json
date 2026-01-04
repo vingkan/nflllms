@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207107",
+  "title": "Chris Rodriguez Jr. Has Flex Value With Increased Workload Expected in Week 10",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. is coming off his best game of the season in Week 9 against the Seahawks and has been named a team captain for Sunday's matchup against the Detroit Lions. Rodriguez recorded a season-high 12 carries for 65 yards and his second touchdown of the season last week against Seattle and is expected to see more work in Week 10. The third-year back out of Kentucky has consistently run hard when given opportunities. Offensive coordinator Kliff Kingsbury praised Rodriguez when speaking with the media on Friday, saying, \"We have to take what's blocked,\" and adding that Rodriguez \"did a really nice job\" of doing that and has \"played at a high level\" whenever the team has needed him to step up. The 25-year-old should be in line to at least split early down carries with rookie Jacory Croskey-Merritt, with the potential to take on more if he continues to run well while veteran Jeremy McNichols handles pass-down responsibilities. Rodriguez is in flex consideration in deeper leagues for Week 10 against the Detroit Lions.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 10,
+  "team": "WAS",
+  "opp": "DET",
+  "att": 6,
+  "tgt": 0,
+  "touches": 6,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 16,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 36
+}

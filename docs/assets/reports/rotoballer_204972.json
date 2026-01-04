@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204972",
+  "title": "Michael Carter Holds Low-End Flex Value in Week 7",
+  "description": "Arizona Cardinals running back Michael Carter is set to receive more opportunities after a third member of the backfield went down with an injury in Emari Demercado (ankle). During the Week 6 matchup with the Indianapolis Colts, Carter saw 44% of the snap share after getting 58% against the Tennessee Titans in Week 5. Against the Green Bay Packers in Week 7, Carter and Bam Knight will split the backfield work, but Carter is likely to see some more opportunities in the passing game. He received five targets in each of the last two games and turned them into seven receptions for 52 yards. The Packers are ranked fifth against opposing running backs, however, and have given up just two touchdowns on the ground this season. Carter does hold some low-end flex value in deeper leagues, but he'll be hard to trust since the Cardinals will likely go with the hot hand.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 7,
+  "team": "ARI",
+  "opp": "GB",
+  "att": 7,
+  "tgt": 2,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 11,
+  "receiving_catches": 2,
+  "receiving_yards": 25,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 38
+}

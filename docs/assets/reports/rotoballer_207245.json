@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207245",
+  "title": "De'Von Achane Explodes for Two Huge Touchdowns in Upset Win Over Bills",
+  "description": "Miami Dolphins running back De'Von Achane had 22 carries for 174 rushing yards and two rushing touchdowns during Sunday's Week 10 win over the Buffalo Bills. He also caught all six of his targets for an additional 51 receiving yards. The 24-year-old turned in his best fantasy outing since his rookie season, cementing his position as the overall RB3 in fantasy football so far this year. Achane took advantage of a positive game script and a favorable matchup on Sunday, but he has previously shown that he is capable of producing regardless of opponent. Managers should continue to start him as a high-end RB1 in Week 11 against the Washington Commanders.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 11,
+  "team": "MIA",
+  "opp": "WAS",
+  "att": 21,
+  "tgt": 5,
+  "touches": 26,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 120,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 21,
+  "ppr_scoring_position_rank": 6
+}

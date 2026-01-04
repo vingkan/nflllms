@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210972",
+  "title": "David Montgomery Logs Eighth Rushing Touchdown in Week 15",
+  "description": "Detroit Lions running back David Montgomery recorded just seven carries for 32 yards in his team's Week 15 loss to the Los Angeles Rams, but he salvaged his fantasy production by recording his eighth rushing touchdown of the season. The 28-year-old has now recorded a rushing touchdown in three straight games. However, his workload in Detroit continues to be limited as he plays a backup role to Lions running back Jahmyr Gibbs. Montgomery has recorded double-digit touches just once in his last five games and has not played more than 39% of Detroit's offensive snaps in any game since Week 10. Montgomery has touchdown upside every week, but he also remains entirely reliant on touchdowns for fantasy production as long as Gibbs remains healthy. The Lions will host the Pittsburgh Steelers in Week 16.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 16,
+  "team": "DET",
+  "opp": "PIT",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 66
+}

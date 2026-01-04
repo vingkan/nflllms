@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203426",
+  "title": "David Montgomery Looking to Rebound in Favorable Week 5 Matchup",
+  "description": "Detroit Lions running back David Montgomery is coming off his least productive game as a Lion, rushing for just 12 yards on nine carries in Week 4 against the Cleveland Browns. Expect the Lions to look to get Montgomery going early in a much more favorable Week 5 matchup on paper against the Cincinnati Bengals. Cincinnati has allowed the seventh-most rushing yards and fifth-most rushing touchdowns in the NFL through four weeks. Even with the rough performance in Week 4, Montgomery is still averaging 5.7 yards per carry so far this season and has logged three rushing touchdowns. He profiles as a solid fantasy RB2 in Week 5 against Cincinnati.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 5,
+  "team": "DET",
+  "opp": "CIN",
+  "att": 18,
+  "tgt": 1,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 65,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

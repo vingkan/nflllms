@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209050",
+  "title": "Trey Benson Limited in Wednesday's Practice",
+  "description": "Arizona Cardinals running back Trey Benson (knee), who is still on Injured Reserve, was limited in the team's first practice of the week on Wednesday, according to Darren Urban of AZCardinals.com. Benson returned to practice last Wednesday for the first time since undergoing surgery earlier this year on his meniscus. The 23-year-old has now put in four straight limited practices. He might need to upgrade to a full practice this week to be activated from the IR before Sunday's game against the Tampa Bay Buccaneers. Bam Knight continues to be limited in practice with a knee injury, but he should be fine to play this weekend. If Benson is held out for another game, Knight figures to continue in the lead-back role with Emari Demercado still dealing with an ankle sprain. If Benson is cleared to play against Tampa, his snaps may be capped in his first game back since Week 4.",
+  "player_id": 11589,
+  "player_name": "Trey Benson",
+  "week": 13,
+  "team": "ARI",
+  "opp": "TB",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

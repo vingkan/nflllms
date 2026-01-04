@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205548",
+  "title": "Sean Tucker Remains off Fantasy Radar",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker hasn't been able to bring much to the table over the last few weeks. Tucker has moved up the depth chart to the No. 2 option behind Rachaad White in recent weeks. That should remain the same in Week 8 with Bucky Irving (foot, shoulder) still sidelined. Despite that, Tucker hasn't been able to find much success on the field. Last week, Tucker rushed one time for four yards and hauled in one reception for two yards in the loss to the Detroit Lions. The hope is that Tucker will be more involved against the New Orleans Saints in Week 8. However, fantasy managers shouldn't count on him considering he has 10 total carries over the last three games. It's obvious that the Bucs trust White with a majority of the carries in the backfield, so Tucker isn't going to offer much value.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 8,
+  "team": "TB",
+  "opp": "NO",
+  "att": 12,
+  "tgt": 0,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 23
+}

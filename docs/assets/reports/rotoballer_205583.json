@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205583",
+  "title": "Dylan Sampson Not a Strong Fantasy Option in Week 8",
+  "description": "Cleveland Browns running back Dylan Sampson has been lightly used over the past few weeks. He continued that trend in a 31-6 win over the Miami Dolphins in Week 7 as he saw just four touches in the blowout win. Sampson will hope to hear his number called more frequently in Week 8 when he heads on the road to take on the New England Patriots. The Patriots have been tough on the run this season, allowing just the 27th-most fantasy points per game to the running back position. Due to his lack of involvement in the Cleveland offense, Sampson would not be a recommended fantasy play even if this were a good matchup for him. He should remain on fantasy benches heading into Week 8.",
+  "player_id": 12469,
+  "player_name": "Dylan Sampson",
+  "week": 8,
+  "team": "CLE",
+  "opp": "NE",
+  "att": 3,
+  "tgt": 6,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 0,
+  "receiving_catches": 5,
+  "receiving_yards": 29,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 31
+}

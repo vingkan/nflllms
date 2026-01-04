@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204943",
+  "title": "Brian Robinson Jr. Remains Afterthought Behind Superstar RB1",
+  "description": "San Francisco 49ers running back Brian Robinson Jr. has maintained a depth role throughout the first six weeks of the 2025 NFL season, and that should remain the case this Sunday against the Atlanta Falcons. Robinson is averaging just 4.5 carries and 0.8 receptions per game with his new team, failing to carve out any significant workload behind Christian McCaffrey. While there's no question that he is a top handcuff who could be a low-end RB1 if McCaffrey were to miss time, for now, he's a non-factor in fantasy football. Managers in deeper leagues should stash him on the bench, and managers in shallow leagues can leave him on waivers.",
+  "player_id": 8154,
+  "player_name": "Brian Robinson",
+  "week": 7,
+  "team": "SF",
+  "opp": "ATL",
+  "att": 9,
+  "tgt": 0,
+  "touches": 9,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 36,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 47
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208091",
+  "title": "MarShawn Lloyd Ramping Up his Rehab",
+  "description": "Green Bay Packers running back MarShawn Lloyd (hamstring) appears to be ramping up his rehab, ESPN's Rob Demovsky reported last week. Lloyd has not returned to practice with the rest of the team yet, but he was seen working up a sweat on a side field last week. The Packers could really use Lloyd right now after Josh Jacobs suffered a knee injury in Sunday's win that could keep him from playing in Week 12 against the division-rival Minnesota Vikings. The 24-year-old Lloyd remains on Injured Reserve, though, and has played in one game for the Packers due to injuries since he was taken in the third round of the 2024 NFL draft. Green Bay is still holding out hope that he can contribute later this year, but it remains to be seen if that will actually happen. If Jacobs misses any time, Emanuel Wilson should operate as the team's clear lead back.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 12,
+  "team": "GB",
+  "opp": "MIN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

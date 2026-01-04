@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204402",
+  "title": "Breece Hall Inefficient on 22 Carries in Week 6 Loss",
+  "description": "New York Jets running back Breece Hall rushed for just 59 yards on 22 carries during Sunday's Week 6 loss against the Denver Broncos. He was not targeted in the passing game. While Hall set a season-high in rushing attempts and total touches, his overall production was relatively disappointing as he averaged just 2.7 yards per carry. In addition to struggling as a ball carrier, it was equally frustrating for managers to watch Hall have no role as a pass catcher. All of New York's offense struggled in the defeat, totaling a mere 82 yards as a unit. The 0-6 Jets will look to get back on track ahead of a softer matchup against the Carolina Panthers in Week 7.",
+  "player_id": 8155,
+  "player_name": "Breece Hall",
+  "week": 7,
+  "team": "NYJ",
+  "opp": "CAR",
+  "att": 11,
+  "tgt": 3,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 38,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 30
+}

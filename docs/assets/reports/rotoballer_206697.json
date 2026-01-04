@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206697",
+  "title": "Jonathan Taylor Finally Slowed Down by Steelers in Week 9 Loss",
+  "description": "Indianapolis Colts running back Jonathan Taylor finally cooled off in a 27-20 loss to the Pittsburgh Steelers in Week 9. Taylor carried the ball 14 times for 45 yards while catching both of his targets for 12 yards in the disappointing loss to Pittsburgh. It was the first time all season that Taylor had been held to fewer than 66 rushing yards and just the third time in nine games that he was held out of the end zone. Taylor will now head back home to face off against the Atlanta Falcons in Week 10. Atlanta has struggled to slow opposing rushing attacks this season, allowing the 10th-most fantasy points per game to running backs in eight games. Taylor remains a rock-solid RB1 in all fantasy formats heading into Week 10's contest.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 10,
+  "team": "IND",
+  "opp": "ATL",
+  "att": 32,
+  "tgt": 3,
+  "touches": 35,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 244,
+  "receiving_catches": 3,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 49,
+  "ppr_scoring_position_rank": 1
+}

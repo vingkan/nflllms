@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205599",
+  "title": "Saquon Barkley Trying to Snap Cold Streak Against Giants",
+  "description": "Philadelphia Eagles running back Saquon Barkley has had his two worst fantasy performances of the season in his last two appearances, having failed to find the end zone since Week 5. Barkley got back to his high-usage ways last week against the Vikings, but was stifled to just 42 total yards on 19 touches. This weekend the Giants visit Philly, and while he had trouble finding much momentum the last time these teams faced off in Week 6, that can partly be attributed to the Eagles having to play much of that game from behind. The Giants allow 125.1 rushing yards per game (11th-most in the league), and it feels unlikely for Barkley to have two busts in the same season against his former team. Despite his rough patch, he still gets more than enough looks to be considered a solid RB1 in Week 8.",
+  "player_id": 4866,
+  "player_name": "Saquon Barkley",
+  "week": 8,
+  "team": "PHI",
+  "opp": "NYG",
+  "att": 14,
+  "tgt": 5,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 150,
+  "receiving_catches": 4,
+  "receiving_yards": 24,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 33,
+  "ppr_scoring_position_rank": 3
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202885",
+  "title": "Derrick Henry Heading into a Pivotal Week Vs. Chiefs?",
+  "description": "Baltimore Ravens running back Derrick Henry had three fumbles over the last two seasons combined, which included 605 carries. This year, he already has three fumbles in three games across 41 carries. Despite the ball security issues, he's still averaging a touchdown and 80.7 yards per game. Most of that success came in Week 1 when he finished as the RB1 overall, but the last two weeks saw a finish at RB54 and RB21. The Kansas City Chiefs still present a tougher matchup as they're ranked ninth in points allowed per game, and 13th against opposing running backs in fantasy. Henry still won't have the lead blocking of fullback Patrick Ricard (calf), and star tackle Ronnie Stanley (ankle) is also questionable. While we wouldn't advise benching Henry (projected to be RB8), this week could prove to be pivotal in the trajectory of the season.",
+  "player_id": 3198,
+  "player_name": "Derrick Henry",
+  "week": 4,
+  "team": "BAL",
+  "opp": "KC",
+  "att": 8,
+  "tgt": 3,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "unknown",
+  "rushing_yards": 42,
+  "receiving_catches": 2,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 43
+}

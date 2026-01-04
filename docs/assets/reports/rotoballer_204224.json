@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204224",
+  "title": "Brashard Smith Should Catch Passes Against The Lions",
+  "description": "Kansas City Chiefs running back Brashard Smith will face the Detroit Lions on Sunday night in Week 6. Smith had one carry for four yards and caught three passes for 32 yards in last week's loss to the Jacksonville Jaguars. There was a lot of buzz around Smith getting more usage before Week 5, but that did not end up being the case. The Chiefs have used their rookie running back in more of a gadget role, but he has been efficient with his opportunities. Smith has touched the ball 14 times this season and gained 87 scrimmage yards for an average of 6.2 yards per touch. The converted wide receiver out of SMU figures to fit into the Kansas City passing attack this week against Detroit. The Lions are the highest-scoring team in the league, and the Chiefs have the highest neutral pass rate, so there should be plenty of passes to go around on Sunday night. Smith will likely not have many carries this week, but he should have a handful of designed pass plays go his way. Smith is ranked RB42 in our RotoBaller Half-PPR rankings, making him a deeper league flex option this week. There is a lot of potential upside with Smith, but the usage hasn't come yet, so he should be viewed as more of a stash candidate than a playable fantasy starter this week.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 6,
+  "team": "KC",
+  "opp": "DET",
+  "att": 0,
+  "tgt": 4,
+  "touches": 4,
+  "actual": "low",
+  "expect": "low",
+  "reason": "unknown",
+  "rushing_yards": 0,
+  "receiving_catches": 3,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

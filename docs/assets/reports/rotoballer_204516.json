@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204516",
+  "title": "Hassan Haskins Fades as Kimani Vidal Steals the Show",
+  "description": "Los Angeles Chargers running back Hassan Haskins started Sunday's game but quickly faded as second-year back Kimani Vidal took over in the team's 29-27 win over the Miami Dolphins. Haskins managed only six carries for 14 yards and one catch for nine yards, while Vidal exploded for 138 total yards and a touchdown. Even against the league's worst run defense, Haskins struggled to produce, averaging just 2.3 yards per carry. With Omarion Hampton (ankle) still on IR for at least the next three games, Vidal appears to be the clear RB1 moving forward. Haskins can be dropped in shallow fantasy leagues or stashed in deeper formats unless injuries occur again.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 7,
+  "team": "LAC",
+  "opp": "IND",
+  "att": 1,
+  "tgt": 2,
+  "touches": 3,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 3,
+  "receiving_catches": 2,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 53
+}

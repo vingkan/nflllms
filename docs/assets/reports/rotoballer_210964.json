@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210964",
+  "title": "Backfield Injuries Opening an Opportunity for Jawhar Jordan in Houston?",
+  "description": "Heading into Week 15, Houston Texans running back Jawhar Jordan had yet to record his first NFL carry. However, the 26-year-old got his opportunity in Week 15 and delivered, logging 118 scrimmage yards on 17 touches against the Arizona Cardinals. The Texans entered the game without veteran running back Nick Chubb (ribs) and lost RB1 Woody Marks (ankle) to an ankle injury, opening up the door for Jordan. Neither injury is expected to lead to a long-term absence, so Jordan's surge to the top of the depth chart may be short-lived. However, if Chubb and Marks are sidelined for Houston's Week 16 matchup against the Las Vegas Raiders, Jordan could see another week of high-volume touches. Particularly in deeper fantasy leagues, Jordan may be worth targeting on the waiver wire and holding until more information is released around the status of Marks and Chubb for Week 16.",
+  "player_id": 11588,
+  "player_name": "Jawhar Jordan",
+  "week": 16,
+  "team": "HOU",
+  "opp": "LV",
+  "att": 15,
+  "tgt": 5,
+  "touches": 20,
+  "actual": "high",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 53,
+  "receiving_catches": 5,
+  "receiving_yards": 17,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 26
+}

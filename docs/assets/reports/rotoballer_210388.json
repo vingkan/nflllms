@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210388",
+  "title": "Josh Jacobs Not Practicing on Wednesday",
+  "description": "Green Bay Packers running back Josh Jacobs (knee) is not practicing on Wednesday, Bill Huber of Sports Illustrated reports. Jacobs was the lone Packers player not participating in Wednesday's practice session. The veteran was seen riding a bike and doing rehab work off to the side as practice began. It's not a great sign for the 28-year-old to open the week, but the team is likely just giving him a rest day. The 28-year-old missed Green Bay's Week 12 matchup against the Minnesota Vikings after injuring his knee in Week 11 against the New York Giants, but he returned for the Packers' past two games and handled his normal workload. If Jacobs winds up missing the Week 15 game versus the Denver Broncos, Emanuel Wilson would be in line to make another spot start. Jacobs is a must-start in fantasy lineups when active.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 12,
+  "tgt": 3,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 73,
+  "receiving_catches": 2,
+  "receiving_yards": 19,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 23,
+  "ppr_scoring_position_rank": 6
+}

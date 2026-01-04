@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207825",
+  "title": "Nick Chubb Could Find Room to Run Against the Titans",
+  "description": "Houston Texans running back Nick Chubb is a touchdown-dependent flex option against the Titans in Week 11, since the Titans have allowed the fourth-most fantasy points to running backs this season. Chubb only played 10 snaps and had five carries against the Jaguars last week since the game script called for the Texans to go pass-heavy, but he had been playing around 50% of snaps before that. He had double-digit carries in four of his previous five games, though, and found the end zone in Week 2 and Week 5. He will likely need to get another touchdown to be a good option in Week 11, since his yardage totals haven't been great. What is great, though, is the matchup, and it boosts Chubb to RB34 in RotoBaller's Week 11 rankings as a result.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 11,
+  "team": "HOU",
+  "opp": "TEN",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 17,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 60
+}

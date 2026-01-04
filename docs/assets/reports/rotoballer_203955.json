@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203955",
+  "title": "Chargers Elevate Kimani Vidal to Active Roster",
+  "description": "The Los Angeles Chargers promoted running back Kimani Vidal from the practice squad after placing Omarion Hampton (ankle) on Injured Reserve. With both Hampton and Najee Harris sidelined, Vidal could be asked to contribute immediately behind new lead back Hassan Haskins. The second-year runner has logged just 47 career carries for 173 yards but brings a proven track record of durability and production from his college days at Troy, where he totaled 1,661 rushing yards on 297 carries in 2023. At 5'8\" and 215 pounds, Vidal offers a compact, powerful running style that fits well within the Chargers' offensive system. Fantasy managers in deeper leagues should monitor his role closely, as he could emerge as a complementary option in Los Angeles' backfield rotation.",
+  "player_id": 11647,
+  "player_name": "Kimani Vidal",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 18,
+  "tgt": 4,
+  "touches": 22,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 124,
+  "receiving_catches": 3,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

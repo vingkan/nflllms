@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207119",
+  "title": "Alvin Kamara's Struggles Continue Heading Into Week 10",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is officially listed as questionable for Sunday's game against the Panthers. In Week 9 against the Rams, he continued his season-long struggles, recording just four carries for 14 yards and one reception for four yards. Kamara is in the midst of the worst season of his career, posting lows in nearly every major category: 3.6 yards per carry, 41.9 rushing yards per game, 16.7 receiving yards per game, and 3.9 yards per touch. He also hasn't found the end zone since Week 1. Facing a Panthers defense that allows 110.8 rushing yards and 1.1 rushing touchdowns per game, Kamara is trending in the wrong direction and no longer offers a reliable fantasy floor. He's a low-end RB2, slipping closer to RB3 territory for the divisional matchup.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 10,
+  "team": "NO",
+  "opp": "CAR",
+  "att": 22,
+  "tgt": 3,
+  "touches": 25,
+  "actual": "high",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 83,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 14,
+  "ppr_scoring_position_rank": 17
+}

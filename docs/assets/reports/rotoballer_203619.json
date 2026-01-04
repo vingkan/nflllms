@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203619",
+  "title": "Bhayshul Tuten Ready for Week 5",
+  "description": "Jacksonville Jaguars running back Bhayshul Tuten (shoulder) doesn't carry an injury designation into Monday's game against the Kansas City Chiefs. Despite being limited all week, Tuten is good to go for Monday night. Possibly, the Jaguars were just managing his reps because they know he's nursing a shoulder issue. Travis Etienne Jr. remains the workhorse back in Jacksonville, but Tuten continues to get mixed in as well. Through four games, Tuten has rushed 21 times for 88 yards and one touchdown. He has also hauled in three receptions for 40 yards and an additional score through the air. Tuten should be viewed as a touchdown-dependent flex for Week 5.",
+  "player_id": 12490,
+  "player_name": "Bhayshul Tuten",
+  "week": 5,
+  "team": "JAX",
+  "opp": "KC",
+  "att": 4,
+  "tgt": 1,
+  "touches": 5,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 6,
+  "receiving_catches": 1,
+  "receiving_yards": 5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 57
+}

@@ -927,7 +927,7 @@ function filterExplorerData() {
         (d) => d.team === upperQuery
       );
     } else {
-      // Normal multi-field search
+      // Search by player name, team, opponent, and week
       const lowerQuery = query.toLowerCase();
       explorerState.filteredData = explorerState.data.filter((d) => {
         const searchFields = [
@@ -935,8 +935,6 @@ function filterExplorerData() {
           d.team,
           d.opp,
           d.week !== null ? String(d.week) : "",
-          d.title,
-          d.description,
         ].map((f) => (f || "").toLowerCase());
 
         return searchFields.some((field) => field.includes(lowerQuery));
@@ -1034,12 +1032,7 @@ function renderReportsTable() {
     .join("");
 
   const rows = pageData
-    .map((d, index) => {
-      // Store the data in a global array and pass the index
-      if (!window.__reportData) window.__reportData = [];
-      const dataIndex = window.__reportData.length;
-      window.__reportData.push(d);
-
+    .map((d) => {
       return `
     <tr>
       <td class="text-left">${d.player_name || "--"}</td>
@@ -1057,7 +1050,7 @@ function renderReportsTable() {
         d.expect
       )}">${capitalize(d.expect)}</span></td>
       <td class="text-left">${capitalize(d.reason) || "--"}</td>
-      <td class="text-left"><button class="btn btn--sm btn--ghost view-report-btn" data-report-index="${dataIndex}">View</button></td>
+      <td class="text-left"><button class="btn btn--sm btn--ghost view-report-btn" data-report-id="${d.report_id}">View</button></td>
     </tr>
   `;
     })
@@ -1090,9 +1083,8 @@ function renderReportsTable() {
   // Add view report listeners
   container.querySelectorAll(".view-report-btn").forEach((btn) => {
     btn.addEventListener("click", () => {
-      const reportIndex = parseInt(btn.dataset.reportIndex, 10);
-      const reportData = window.__reportData[reportIndex];
-      openReportModal(reportData);
+      const reportId = btn.dataset.reportId;
+      openReportModal(reportId);
     });
   });
 
@@ -1214,15 +1206,24 @@ async function initReportsExplorer() {
 /**
  * Open the report modal with given data
  */
-function openReportModal(reportData) {
+async function openReportModal(reportId) {
   const modal = document.getElementById("report-modal");
   const modalBody = document.getElementById("modal-report-card");
 
   if (!modal || !modalBody) return;
 
-  renderReportCard(reportData, modalBody);
+  // Show loading state
+  modalBody.innerHTML = '<p class="text-muted">Loading report...</p>';
   modal.hidden = false;
   document.body.style.overflow = "hidden";
+
+  // Fetch full report data on demand
+  const reportData = await fetchJSON(`reports/${reportId}.json`);
+  if (reportData) {
+    renderReportCard(reportData, modalBody);
+  } else {
+    modalBody.innerHTML = '<p class="text-muted">Failed to load report.</p>';
+  }
 }
 
 /**

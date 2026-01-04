@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203757",
+  "title": "Rico Dowdle Explodes for 234 All-Purpose Yards and a Score",
+  "description": "Carolina Panthers running back Rico Dowdle was spectacular on Sunday in a smash spot against a poor Miami Dolphins run defense, and he made the most of it. Stepping in for injured Chuba Hubbard (calf), Dowdle rewarded his fantasy managers who picked him up off the waiver wire with his 206 rushing yards (8.96 YPC) and 28 receiving yards on three receptions, and with his touchdown coming from one yard out. Dowdle has slowly been getting more involved over the last few weeks, and he made the most of his opportunity in Week 5 as the lead-back. It's hard to imagine this backfield not moving closer to a 50/50 split once Hubbard returns, although nothing yet has been reported. In the meantime, Dowdle needs to be picked up off waivers if he is still out there, and if Hubbard misses any additional time, he will be a high-end RB2 heading into Week 6, as the Panthers face another sub-par defense in the Dallas Cowboys.",
+  "player_id": 7021,
+  "player_name": "Rico Dowdle",
+  "week": 6,
+  "team": "CAR",
+  "opp": "DAL",
+  "att": 30,
+  "tgt": 5,
+  "touches": 35,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 183,
+  "receiving_catches": 4,
+  "receiving_yards": 56,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 33,
+  "ppr_scoring_position_rank": 2
+}

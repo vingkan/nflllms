@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203431",
+  "title": "Sean Tucker Likely to be More Involved in Week 5",
+  "description": "Tampa Bay Buccaneers running back Sean Tucker figures to see involvement in the backfield this weekend. The Bucs are going to be without Bucky Irving (foot) for this Sunday's Week 5 matchup against the Seattle Seahawks. That being said, Rachaad White will move into the lead back role with Tucker likely taking over as the backup. Through four games, Tucker has only rushed the ball once and has mainly been on special teams all season long. Tucker could be worth stashing in case Irving misses multiple weeks. However, Tucker isn't a recommended streaming option for Week 5. White will likely see a majority of the carries while the Bucs probably go with a pass-heavy approach on offense.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 5,
+  "team": "TB",
+  "opp": "SEA",
+  "att": 3,
+  "tgt": 3,
+  "touches": 6,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 3,
+  "receiving_catches": 3,
+  "receiving_yards": -4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 48
+}

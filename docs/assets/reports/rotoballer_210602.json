@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210602",
+  "title": "MarShawn Lloyd Not Ready to Come Off Injured Reserve",
+  "description": "Green Bay Packers running back MarShawn Lloyd (calf) will not be activated from Injured Reserve to make his 2025 debut in Week 15 on Sunday against the hosting Denver Broncos, according to Wes Hodkiewicz of Packers.com. Lloyd has been limited in practices since having his 21-day window opened on Dec. 1. The 24-year-old was held out of practice on Friday. The Packers have been optimistic about Lloyd's chances of returning this year, but he's running out of time, with his next opportunity to play coming in Week 16 in another big divisional matchup against the Chicago Bears. The former third-rounder has been on IR all season and has only played in one regular-season game since entering the league in 2024. If starter Josh Jacobs (knee) is unable to play this weekend in the Mile High City, Emanuel Wilson will probably be Green Bay's lead back, with Chris Brooks serving as the backup.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

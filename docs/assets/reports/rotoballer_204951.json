@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204951",
+  "title": "Cam Skattebo Faces Stiff Test Against Denver's Formidable Defense",
+  "description": "New York Giants running back Cam Skattebo's incredible emergence makes him a must-start, albeit risky, low-end RB1/high-end RB2 for the tough road matchup in Denver. Skattebo, currently the 10th-ranked fantasy RB averaging 15.22 points per game, is coming off a massive 28 fantasy point performance where he rushed for 98 yards and three touchdowns against the Eagles. This week, his volume will be tested against the Broncos' elite defense, which ranks 4th against fantasy running backs, allowing only 17.47 fantasy points per game. Crucially, the Denver defense has been a red-zone wall, ranking 1st in the NFL by allowing a minuscule 28.6% touchdown rate and a league-low two rushing touchdowns all season, directly threatening Skattebo's primary source of his five touchdowns. Skattebo's immense workload and role near the goal line, however, keep his ceiling high despite the difficult on-paper matchup against a run defense allowing just 89 rushing yards per game.",
+  "player_id": 12481,
+  "player_name": "Cam Skattebo",
+  "week": 7,
+  "team": "NYG",
+  "opp": "DEN",
+  "att": 16,
+  "tgt": 6,
+  "touches": 22,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 60,
+  "receiving_catches": 3,
+  "receiving_yards": 34,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 11
+}

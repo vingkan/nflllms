@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203641",
+  "title": "Brashard Smith Should See Increased Role Against Jacksonville",
+  "description": "Kansas City Chiefs running back Brashard Smith will take on the Jacksonville Jaguars in Week 5. Smith saw his snap rate and touches reach season-highs in Week 4 against the Baltimore Ravens. The rookie running back handled four carries for nine yards (2.3 yards per carry) and three catches for 27 receiving yards. Smith converted to running back from wide receiver in college, making receiving a huge part of his game. The 22-year-old also ran a 4.39 40-yard dash, making him a speedy option to get the ball to in space. There has been a lot of buzz about getting Smith more involved in the offense each week, and that should be the case against the Jaguars, who allow the eighth-fewest fantasy points to opposing running backs. If fellow backs Isiah Pacheco and Kareem Hunt struggle to find success on the ground, Smith could make things happen through the air. Smith is ranked RB46 in our RotoBaller Half-PPR rankings, putting him in desperation flex territory. It would be advisable to take a wait-and-see approach with Smith this week.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 5,
+  "team": "KC",
+  "opp": "JAX",
+  "att": 1,
+  "tgt": 3,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 4,
+  "receiving_catches": 3,
+  "receiving_yards": 32,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 33
+}

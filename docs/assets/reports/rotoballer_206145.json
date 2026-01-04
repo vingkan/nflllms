@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206145",
+  "title": "Tony Pollard on Track to Play After Full Practice on Thursday",
+  "description": "Tennessee Titans running back Tony Pollard's (neck) Week 9 status was in question when he missed the team's first practice of the week on Wednesday due to a neck injury. However, he's back on the right track to play this Sunday against the Los Angeles Chargers after he returned to a full practice on Thursday. As long as the 28-year-old doesn't suffer a setback with his neck injury on Friday, he should be fine to play this weekend. The Chargers' defense has been much more susceptible to the run game in recent weeks, but Pollard won't be much more than a low-upside RB3/flex in Week 9 for fantasy purposes with backfield mate Tyjae Spears starting to see more involvement in what is becoming more of a timeshare in Tennessee. Pollard has surpassed double-digit half-PPR points just twice in eight games in 2025 and has only two touchdowns in one of the worst offenses in football.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 9,
+  "team": "TEN",
+  "opp": "LAC",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 56,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 28
+}

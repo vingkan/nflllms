@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211417",
+  "title": "Jahmyr Gibbs Poised for Bounce-Back Effort in Week 16?",
+  "description": "Detroit Lions running back Jahmyr Gibbs had a disappointing game in Week 15 against the Los Angeles Rams, totaling just 58 scrimmage yards and failing to reach the end zone on 17 touches. On the bright side, the 23-year-old continues to feature heavily in the Detroit passing game. Gibbs earned seven targets in Week 15 and has seen 38 targets across five games since Lions tight end Sam LaPorta (back) was placed on Injured Reserve with a back injury. In Week 16, Gibbs and the Lions will host the Pittsburgh Steelers. Pittsburgh's defense profiles as a mid-pack unit against the run, ranking 19th in the NFL in total rushing yards allowed (1,692). Gibbs should continue to see a heavy volume of touches as both a rusher and a receiver, and his big-play ability allows for explosive upside. Fantasy managers can view Gibbs as a must-start running back in Week 16.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 16,
+  "team": "DET",
+  "opp": "PIT",
+  "att": 7,
+  "tgt": 13,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 2,
+  "receiving_catches": 10,
+  "receiving_yards": 66,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 22,
+  "ppr_scoring_position_rank": 9
+}

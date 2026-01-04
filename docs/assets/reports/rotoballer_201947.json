@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_201947",
+  "title": "Jeremy McNichols Practices in Full on Thursday",
+  "description": "Washington Commanders running back Jeremy McNichols (hamstring) practiced in full on Thursday after being limited in practice on Wednesday due to a hamstring injury. He appears to be on track to play in Week 3 against the Las Vegas Raiders. McNichols has recorded four carries for 25 yards through the first two weeks of the season. However, he could be in for significantly more playing time in Washington now that Austin Ekeler (Achilles) will miss the remainder of the season. McNichols finished 2024 with 288 yards from scrimmage and four touchdowns, and the majority of his production came in the five games that Ekeler was unable to play. McNichols could be worth stashing in deeper leagues while the Commanders' new backfield mix takes shape.",
+  "player_id": 4219,
+  "player_name": "Jeremy McNichols",
+  "week": 3,
+  "team": "WAS",
+  "opp": "LV",
+  "att": 4,
+  "tgt": 0,
+  "touches": 4,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 78,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 17
+}

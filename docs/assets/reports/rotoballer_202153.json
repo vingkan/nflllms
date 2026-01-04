@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202153",
+  "title": "Tony Pollard Faces Stingy Run Defense in Week 3",
+  "description": "Tennessee Titans running back Tony Pollard drops to the RB3/flex tier ahead of his Week 3 matchup against the Indianapolis Colts. Although Pollard remains the workhorse in Tennessee, he has delivered modest production at best, averaging 4.0 yards per carry with only one reception and zero touchdowns so far. The Colts have averaged just 76 rushing yards allowed to running back rooms per game this season, which means Pollard will likely continue to struggle with efficiency on Sunday. He'll rank outside the top-24 running backs this week and ideally should only be started in leagues with at least 12 teams.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 3,
+  "team": "TEN",
+  "opp": "IND",
+  "att": 16,
+  "tgt": 4,
+  "touches": 20,
+  "actual": "high",
+  "expect": "low",
+  "reason": "opponent",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 14,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 16
+}

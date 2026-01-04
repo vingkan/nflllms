@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204777",
+  "title": "Jaylen Warren Highly Efficient on the Ground Thursday, Adds Value as Receiver",
+  "description": "Pittsburgh Steelers running back Jaylen Warren rushed for 127 yards on 16 carries during Thursday's Week 7 loss against the Cincinnati Bengals. He also caught four of his five targets for an additional 31 receiving yards. Although Warren wasn't able to find the end zone on Thursday night, he still had a terrific performance with 7.94 yards per carry and a significant impact in the passing game. His efficiency likely peaked thanks to his matchup against a Bengals defensive line sans Trey Hendrickson (hip), but he still has a favorable fantasy outlook heading into Week 8 against the Green Bay Packers. He continues to rank as a steady RB2 option in fantasy football.",
+  "player_id": 8228,
+  "player_name": "Jaylen Warren",
+  "week": 8,
+  "team": "PIT",
+  "opp": "GB",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 62,
+  "receiving_catches": 2,
+  "receiving_yards": 11,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

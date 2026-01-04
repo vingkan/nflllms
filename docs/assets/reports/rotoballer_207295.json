@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207295",
+  "title": "Tyler Allgeier Becoming a Sneaky Flex Option",
+  "description": "Atlanta Falcons running back Tyler Allgeier logged 11 carries for 57 yards and a season-high two touchdowns in the team's 31-25 overtime loss to the Indianapolis Colts. While Bijan Robinson managers may view Allgeier as a frustrating timeshare partner, the fourth-year back is quietly becoming fantasy-relevant. In games the Falcons have either won or pushed to overtime, Allgeier has averaged 13.6 carries for 56.5 yards and five touchdowns across four games. With three upcoming games where Atlanta projects as a favorite, Allgeier could continue to provide sneaky fantasy value as a touchdown-dependent flex option for desperate teams.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 11,
+  "team": "ATL",
+  "opp": "CAR",
+  "att": 3,
+  "tgt": 2,
+  "touches": 5,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 10,
+  "receiving_catches": 2,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 28
+}

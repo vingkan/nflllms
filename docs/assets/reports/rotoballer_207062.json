@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207062",
+  "title": "Jonathan Taylor Looking to Bounce Back from Slow Week 9",
+  "description": "Indianapolis Colts running back Jonathan Taylor has been one of the most dominant fantasy players in the league this season, racking up 14 all-purpose touchdowns in nine games. The Pittsburgh Steelers in Week 9 were one of the few teams able to slow the elite rusher down, holding him to 45 scoreless rushing yards on 14 carries. Taylor will look to get back into the end zone in a Week 10 matchup against the Atlanta Falcons in Berlin. The Falcons have shut down passing attacks but have been beatable on the ground this season, allowing the 10th-most fantasy points per game to opposing running backs. That sets up Taylor for a big day as the Colts are likely to lean on the run game against Atlanta. He settles in as a top-three fantasy RB in Week 10.",
+  "player_id": 6813,
+  "player_name": "Jonathan Taylor",
+  "week": 10,
+  "team": "IND",
+  "opp": "ATL",
+  "att": 32,
+  "tgt": 3,
+  "touches": 35,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 244,
+  "receiving_catches": 3,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 3,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 49,
+  "ppr_scoring_position_rank": 1
+}

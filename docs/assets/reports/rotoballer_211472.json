@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211472",
+  "title": "Isaiah Davis a Fantasy Fade in Week 16",
+  "description": "New York Jets running back Isaiah Davis won't be in fantasy consideration this weekend despite an excellent matchup with a vulnerable New Orleans Saints defense. Davis is coming off his best game of the season in Week 15, racking up 58 yards on a season-high nine carries and his first touchdown of 2025. He added seven yards on his lone target, while playing his highest percentage of team snaps since way back in Week 8 (38%). It's unclear if Davis' workload was due to game script or the fact that backfield mate Breece Hall was dealing with an injury, considering the latter was listed on the team's practice report with a knee issue, although he missed no time. Davis and Hall have a dream matchup on tap in Week 16 in a sieve-like Saints' rush defense (130.6 YPG [seventh-most]). However, a volatile touch share and a rookie quarterback in Brady Cook calling signals spell a staggeringly low fantasy floor for the former. The South Dakota State product retains his low-end handcuff role and is RotoBaller's PPR RB62 for the weekend ahead.",
+  "player_id": 11571,
+  "player_name": "Isaiah Davis",
+  "week": 16,
+  "team": "NYJ",
+  "opp": "NO",
+  "att": 3,
+  "tgt": 4,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 8,
+  "receiving_catches": 4,
+  "receiving_yards": 52,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 10,
+  "ppr_scoring_position_rank": 31
+}

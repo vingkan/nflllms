@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208346",
+  "title": "Sean Tucker's Workload Expected to Continue to Increase?",
+  "description": "Tampa Bay Buccaneers offensive coordinator Josh Grizzard said that running back Sean Tucker's workload has been going up each week as he continues to play well, and Grizzard \"expects that to continue,\" according to Scott Smith of Buccaneers.com. Tucker played a season-high 44% of the offensive snaps in last week's loss to the Buffalo Bills and carried the ball a season-high 19 times for 106 yards and two rushing touchdowns. The 24-year-old Syracuse product also caught both of his targets for 34 yards and another score. He has looked much more explosive than Rachaad White in recent weeks, and he could continue to have a key role in Tampa's backfield, even if Bucky Irving (foot, shoulder) returns on Sunday night for the first time since Week 4. Tampa's backfield could evolve into a three-headed monster when Irving returns, but at least for Week 12 against the Rams, Tucker appears to be in line to get the first chance to show he's still the hot hand.",
+  "player_id": 9506,
+  "player_name": "Sean Tucker",
+  "week": 12,
+  "team": "TB",
+  "opp": "LAR",
+  "att": 12,
+  "tgt": 2,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 42,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 39
+}

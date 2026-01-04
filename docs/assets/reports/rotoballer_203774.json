@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203774",
+  "title": "Nick Chubb, Woody Marks Backfield Split is Game-Plan Dependent",
+  "description": "Houston Texans head coach DeMeco Ryans said that the usage of running backs Nick Chubb and Woody Marks is game-plan dependent and also depends on the flow of the game, according to Aaron Wilson of KPRC 2 Sports. Running backs coach Danny Barrett also has a lot of input on the usage between the two backs. After playing a season-high 56% of the offensive snaps in last week's win over the Tennessee Titans, Marks dropped down to 39% in the blowout win over the Baltimore Ravens in Week 5. Marks' fantasy managers were probably hoping for a lot more against the Ravens' depleted defense, especially in a blowout. The rookie had seven carries for 24 yards, while Chubb finished with 11 carries for a team-high 61 yards and a touchdown on the ground. Chubb and Marks will continue to move forward in a timeshare and will be RB3/flex plays in fantasy, with Marks offering fantasy managers more upside and big-play ability.",
+  "player_id": 4988,
+  "player_name": "Nick Chubb",
+  "week": 7,
+  "team": "HOU",
+  "opp": "SEA",
+  "att": 5,
+  "tgt": 3,
+  "touches": 8,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 16,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 56
+}

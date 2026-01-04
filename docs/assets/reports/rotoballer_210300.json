@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210300",
+  "title": "Keaton Mitchell's MRI Comes Back Clean",
+  "description": "Baltimore Ravens running back Keaton Mitchell (knee) left Sunday's game against the Pittsburgh Steelers with a knee injury, but his MRI results came back clean, and his knee injury is considered minor, ESPN's Jeremy Fowler reports. It's positive news for the speedy running back, and it seems he will avoid missing any time. Mitchell was in the midst of his best game of the season before leaving on Sunday, posting six carries for 76 yards, including a 55-yard rush. With Justice Hill (neck) on Injured Reserve, the 23-year-old has seen his opportunities increase behind Derrick Henry, though Rasheen Ali continues to be used on passing downs as well. Mitchell remains one of the higher upside handcuff options in fantasy football and should be stashed on benches just in case.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 15,
+  "team": "BAL",
+  "opp": "CIN",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 66,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 42
+}

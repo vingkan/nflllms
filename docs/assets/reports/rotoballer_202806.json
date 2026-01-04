@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202806",
+  "title": "J.K. Dobbins Looking to Extend Touchdown Streak to Four Games on Monday Night",
+  "description": "Denver Broncos running back J.K. Dobbins has led the way for the team through the first three weeks of the 2025 campaign. Many assumed RJ Harvey would have a more prominent role in the offense, although that hasn't happened, with the rookie receiving only two attempts in the Week 3 loss to the Chargers. Harvey will presumably see more involvement at some point moving forward. However, it appears Dobbins remains the favorite to handle most of the snaps out of the backfield, at least for now. The 26-year-old has 222 yards off 41 carries this season. Even better, he's found the end zone in each of Denver's first three games. All things considered, Dobbins should be classified as a must-start in all fantasy formats on Monday night versus the Cincinnati Bengals, a club that surrendered two rushing touchdowns to Jordan Mason in Week 3.",
+  "player_id": 6806,
+  "player_name": "J.K. Dobbins",
+  "week": 4,
+  "team": "DEN",
+  "opp": "CIN",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 101,
+  "receiving_catches": 1,
+  "receiving_yards": 4,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 28
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208035",
+  "title": "Quinshon Judkins Bottled Up by Ravens in Week 11 Loss",
+  "description": "Cleveland Browns running back Quinshon Judkins carried the ball 17 times for 59 yards and failed to catch either of his two targets in a 23-16 loss to the Baltimore Ravens in Week 11. Judkins was unable to capitalize on what appeared to be a good matchup on paper against the Baltimore run defense, as he managed just 3.5 yards per carry in the loss. The rookie has now been held out of the end zone in three consecutive games as the Cleveland offense continues to struggle to move the ball. Judkins will look to bounce back in Week 12 against the Las Vegas Raiders on the road.",
+  "player_id": 12512,
+  "player_name": "Quinshon Judkins",
+  "week": 12,
+  "team": "CLE",
+  "opp": "LV",
+  "att": 16,
+  "tgt": 0,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 47,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 10
+}

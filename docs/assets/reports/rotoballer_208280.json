@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208280",
+  "title": "Woody Marks is a Fringe RB2 Against the Bills",
+  "description": "Houston Texans running back Woody Marks seems to be grabbing most of the work in his team's backfield, and he'll be a good flex option on Thursday Night Football against the Bills. Buffalo has allowed the second-most fantasy points per game to running backs, and the Bucs' Sean Tucker lit the Bills up for three touchdowns last week in Buffalo. In his team's Week 11 win over the Titans, Marks failed to find the end zone but had 18 carries for 44 yards and a seven-yard reception, while playing 66% of snaps. Nick Chubb only had three carries and played 26% of snaps, so Marks seems to be gaining more playing time in the timeshare coming down the stretch. Marks has double-digit carries in each of the five games since Houston's bye week, and the rookie checks in at No. 20 in this week's RotoBaller RB rankings. He's a fringe RB2 and an elite flex option for this matchup on Thursday Night Football.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 12,
+  "team": "HOU",
+  "opp": "BUF",
+  "att": 16,
+  "tgt": 1,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 74,
+  "receiving_catches": 1,
+  "receiving_yards": -5,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 32
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211977",
+  "title": "Keaton Mitchell a Risky Flex Option Against Packers",
+  "description": "Baltimore Ravens running back Keaton Mitchell has seen more and more snaps as each week goes on, but it hasn't exactly turned into enough production for fantasy managers. The past two games, he's seen a season-high 39% and 35% snap share, but has only produced finishes of RB35 and RB64. Derrick Henry should get plenty of work against the Green Bay Packers in Week 17 with Tyler Huntley likely taking over for Lamar Jackson (doubtful - back). Mitchell could still see plenty of work mixed in, but the Packers are ranked eighth against opposing backfields, even without Micah Parsons (knee). RotoBaller's rankings project Mitchell as an RB49, which would make him more viable in very deep leagues, but harder to trust in most other leagues.",
+  "player_id": 9511,
+  "player_name": "Keaton Mitchell",
+  "week": 17,
+  "team": "BAL",
+  "opp": "GB",
+  "att": 9,
+  "tgt": 2,
+  "touches": 11,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 31,
+  "receiving_catches": 2,
+  "receiving_yards": 7,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 40
+}

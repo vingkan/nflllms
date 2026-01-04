@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204034",
+  "title": "Chargers Don't Have Lead Back Between Hassan Haskins, Kimani Vidal",
+  "description": "Los Angeles Chargers offensive coordinator Greg Roman said that he doesn't have a lead back between running backs Hassan Haskins and Kimani Vidal going into Sunday's Week 6 matchup on the road against the Miami Dolphins, according to ESPN's Kris Rhim. \"They're gonna be big factors in the game, how it's gonna unfold from a snap-count standpoint ... can go a bunch of different ways in that regard,\" Roman said. Haskins and Vidal were both waiver-wire pickups this week, with rookie first-rounder Omarion Hampton (ankle) going on Injured Reserve and Najee Harris (Achilles) already out for the season. One of Haskins or Vidal could emerge as the favorite in L.A.'s backfield in the next four games with Hampton out, but for now, fantasy managers should expect more of a clean split in terms of backfield touches and snaps. It makes both Haskins and Vidal nothing more than shaky flex plays in Week 6, even though it's in a nice matchup against Miami.",
+  "player_id": 8123,
+  "player_name": "Hassan Haskins",
+  "week": 6,
+  "team": "LAC",
+  "opp": "MIA",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 3,
+  "ppr_scoring_position_rank": 51
+}

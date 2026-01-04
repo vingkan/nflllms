@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205901",
+  "title": "Cardinals Plan to Re-Sign Michael Carter",
+  "description": "The Arizona Cardinals plan to re-sign running back Michael Carter after releasing him on Monday, a source told Josh Weinfuss of ESPN. Carter initially took over as the team's lead running back for one game after Trey Benson (knee) landed on Injured Reserve, but it didn't take long for Bam Knight to take over lead-back duties. The Cardinals are coming off their bye in Week 8 to face the Dallas Cowboys this weekend, and the 26-year-old Carter is expected to return to his duties as the RB2 behind Knight. In the Week 7 loss to the Indianapolis Colts, Carter had just seven carries for 11 yards. It's hard to even recommend Carter as an RB3/flex in deeper leagues as long as he's playing second fiddle to Knight in what has been a very inconsistent Cardinals offense, even in a plus upcoming matchup against Dallas.",
+  "player_id": 7607,
+  "player_name": "Michael Carter",
+  "week": 9,
+  "team": "ARI",
+  "opp": "DAL",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

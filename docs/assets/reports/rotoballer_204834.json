@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204834",
+  "title": "Emanuel Wilson To See Backup Duty In Week 7",
+  "description": "Green Bay Packers running back Emanuel Wilson has been solidly involved in the Packers' offense in a backup capacity and will retain that role when Green Bay heads to Arizona to face the Cardinals in Week 7. With Josh Jacobs (illness/calf) listed on the injury report as questionable, it's fair to expect that Wilson will see an uptick in work in Week 7. Jacobs is expected to get the bulk of the work in any game he is playing, but managing his workload may be in the cards for the Packers this week. Wilson is the clear contingent running back for Green Bay in case something happens to Jacobs. Even then, Wilson shouldn't be started or rostered in all but the deepest of leagues this week.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 7,
+  "team": "GB",
+  "opp": "ARI",
+  "att": 6,
+  "tgt": 1,
+  "touches": 7,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 17,
+  "receiving_catches": 1,
+  "receiving_yards": -2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 2,
+  "ppr_scoring_position_rank": 52
+}

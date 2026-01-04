@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210015",
+  "title": "Kareem Hunt Likely To Lead Backfield Again In Tough Matchup",
+  "description": "Kansas City Chiefs running back Kareem Hunt should once again lead the backfield as the Chiefs face the Houston Texans on Sunday night. Hunt led the way with 14 carries for 58 yards and one catch for 22 yards in the 28-31 loss to Dallas on Thanksgiving. Last week's contest was Isiah Pacheco's first game back from injury, so his workload was light, but Hunt should continue getting the majority of work even with Pacheco healthy. The Chiefs have leaned on Hunt as their most trusted runner, and he will need to prove worthy of the role if Kansas City wants to beat the tough Houston defense. The Texans defense has allowed the 10th-fewest fantasy points to opposing running backs this season, making them one of the toughest matchups at the position. Hunt is ranked RB21 in our RotoBaller Half-PPR rankings, making him a viable RB2 option this week.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 14,
+  "team": "KC",
+  "opp": "HOU",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 30,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 29
+}

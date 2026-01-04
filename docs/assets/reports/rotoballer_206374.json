@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206374",
+  "title": "Titans Fielding Trade Calls on Tony Pollard",
+  "description": "Running back Tony Pollard is one of the players the Tennessee Titans are \"fielding the most calls on\" ahead of the NFL's November 4 trade deadline, according to Diana Russini of The Athletic. Pollard has recorded 555 yards from scrimmage and two touchdowns on 127 touches across eight games for the 1-7 Titans so far this season. Tennessee has a younger and cheaper running back option behind Pollard in Tyjae Spears, so it may make sense for the rebuilding Titans to try to maximize Pollard's value. Depending on where he gets moved, a trade could significantly boost Pollard's fantasy value. He's been losing touches to Spears in recent weeks, and the Titans' anemic offense limits the scoring opportunities for both running backs. If Pollard gets traded, Spears would become the unquestioned lead back in Tennessee. Currently, both players profile as high-end flex options heading into their Week 9 matchup against the Los Angeles Chargers.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 9,
+  "team": "TEN",
+  "opp": "LAC",
+  "att": 10,
+  "tgt": 2,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "unknown",
+  "rushing_yards": 56,
+  "receiving_catches": 1,
+  "receiving_yards": 12,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 7,
+  "ppr_scoring_position_rank": 28
+}

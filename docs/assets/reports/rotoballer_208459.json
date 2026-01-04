@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208459",
+  "title": "Aaron Jones Sr. Should Have Decent Role in Week 12",
+  "description": "The Minnesota Vikings have been among the most unpredictable teams in the league this season, but running back Aaron Jones Sr. (shoulder) is off the injury report and set to get the majority of backfield work against the Green Bay Packers in Week 12. The former Green Bay draft pick is earning regular work in the Vikings' passing game with 12 targets in the past two weeks, and with 22 overall touches last week alone, he's been the team's preferred option over Jordan Mason. The Packers are a tough matchup, ranking third in yards per carry against and 12th against PPR running backs, but Jones has finished within the top 25 at his position three weeks in a row, even as the Vikings have struggled. While the overall circumstances aren't ideal, Jones has demonstrated a reliable enough fantasy floor that he can be considered in an RB3/flex role this week.",
+  "player_id": 4199,
+  "player_name": "Aaron Jones",
+  "week": 12,
+  "team": "MIN",
+  "opp": "GB",
+  "att": 9,
+  "tgt": 4,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 41,
+  "receiving_catches": 3,
+  "receiving_yards": 16,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 27
+}

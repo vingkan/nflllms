@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207741",
+  "title": "Chris Rodriguez Jr. In Flex Consideration For Week 11",
+  "description": "Washington Commanders running back Chris Rodriguez Jr. (shoulder) is off the injury report and is good to go for Week 11 against the Miami Dolphins in Madrid, Spain. Rodriguez was a full participant in practice every day this week, and he should be in line to lead Washington's backfield in carries on Sunday. The 25-year-old played 17 of the team's 25 snaps, handled six of the 10 running back carries, and ran seven routes on 13 dropbacks in the first half before leaving with the injury. Rodriguez has scored touchdowns in three of the past four weeks and is the much better fit as the short-yardage back for Washington due to his physical running style and ability to fight through contact. Rookie Jacory Croskey-Merritt played only four snaps and had two carries in the first half, but then played the majority of the snaps in the second half with Rodriguez out. Offensive coordinator Kliff Kingsbury said Rodriguez \"has played at a high level\" when given the opportunity and has upside in a positive matchup against the Dolphins, who have allowed 4.9 yards per carry and the ninth most PPR points per game to opposing running backs. Rodriguez is a better play in standard and half PPR formats due to his limited receiving upside, checking in as RotoBaller's RB32 in half PPR for Week 11.",
+  "player_id": 10219,
+  "player_name": "Chris Rodriguez",
+  "week": 11,
+  "team": "WAS",
+  "opp": "MIA",
+  "att": 15,
+  "tgt": 1,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 79,
+  "receiving_catches": 1,
+  "receiving_yards": 6,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 9,
+  "ppr_scoring_position_rank": 29
+}

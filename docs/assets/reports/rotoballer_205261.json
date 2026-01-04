@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205261",
+  "title": "Zach Charbonnet Finds the End Zone Twice on Monday Night",
+  "description": "Seattle Seahawks running back Zach Charbonnet recorded 12 carries for 49 yards and two touchdowns in his team's 27-19 Week 7 win over the Houston Texans on Monday night. Seattle heavily features both Charbonnet and Kenneth Walker III out of the backfield, but Charbonnet has carved out a consistent role as the team's preferred back at the goal line. The 24-year-old has now recorded 72 carries for 205 yards and five touchdowns across six games played so far this season. In games where both Charbonnet and Walker III are healthy, both backs have limited upside. Still, Charbonnet provides a safe floor as a good bet for double-digit touches and a feature back at the goal line. Charbonnet profiles as a low-end flex option for fantasy managers heading into a Week 8 matchup with the Washington Commanders.",
+  "player_id": 9753,
+  "player_name": "Zach Charbonnet",
+  "week": 9,
+  "team": "SEA",
+  "opp": "WAS",
+  "att": 8,
+  "tgt": 1,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 25,
+  "receiving_catches": 1,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 38
+}

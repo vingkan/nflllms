@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202251",
+  "title": "David Montgomery a Solid Flex Option in Week 3?",
+  "description": "Detroit Lions running back David Montgomery recorded 57 rushing yards and a touchdown in Week 2 against the Chicago Bears. The veteran back has logged exactly 11 carries in each of the team's first two games. He should be in line for a similar workload in Week 3, but may have a more difficult time finding the end zone against the Baltimore Ravens. Baltimore allowed just 12 rushing touchdowns as a team last season, although it's worth noting they've already allowed three through the first two games of 2025. Additionally, star Ravens defensive lineman Nnamdi Madubuike (neck) will miss Week 3 with a neck injury. Montgomery has been out-snapped and out-touched by Lions running back Jahmyr Gibbs in each of Detroit's first two games and is likely reliant on finding the end zone to provide quality fantasy production. Montgomery profiles as a solid flex option in Week 3 against Baltimore.",
+  "player_id": 5892,
+  "player_name": "David Montgomery",
+  "week": 3,
+  "team": "DET",
+  "opp": "BAL",
+  "att": 12,
+  "tgt": 1,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 151,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 29,
+  "ppr_scoring_position_rank": 2
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210499",
+  "title": "MarShawn Lloyd Listed as a Limited Participant Again on Thursday",
+  "description": "Green Bay Packers running back MarShawn Lloyd (calf) was listed as a limited participant for the second straight day at Thursday's practice, per ESPN's Rob Demovsky. Lloyd's 21-day practice window was opened last week, and he was a limited participant all week, but he wasn't quite ready to return for the Week 14 game against the Chicago Bears. The 2024 third-round pick has yet to play in a game this season, but he could be ready to make his season debut in Week 15 against the Denver Broncos. With Josh Jacobs (knee) missing consecutive practices and trending in the wrong direction to play, Lloyd could end up having a role in Green Bay's backfield alongside Emanuel Wilson and Chris Brooks if he is activated from IR for Sunday's game.",
+  "player_id": 11581,
+  "player_name": "MarShawn Lloyd",
+  "week": 15,
+  "team": "GB",
+  "opp": "DEN",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

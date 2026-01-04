@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209340",
+  "title": "Christian McCaffrey In RB1 Mix Despite Tough Matchup",
+  "description": "San Francisco 49ers running back Christian McCaffrey enters Week 13 leading the NFL in touches (298) and second in receptions (81). Amid the 49ers' injury-riddled season, McCaffrey has been relied on heavily to keep the offense moving. Another heavy workload is in store for the ninth-year veteran when San Francisco heads to Cleveland to face the Browns. The weather forecast calls for strong winds, rain, and snow, which points to an emphasis on the ground game. The Browns had been one of the stronger run defenses in the league, though they have softened as of late. Since their Week 9 bye, Cleveland has given up top-12 finishes in three consecutive weeks to running backs Breece Hall, Derrick Henry, and Ashton Jeanty. McCaffrey is a strong candidate to make it four in a row and should be locked into fantasy football starting lineups for Week 13.",
+  "player_id": 4034,
+  "player_name": "Christian McCaffrey",
+  "week": 13,
+  "team": "SF",
+  "opp": "CLE",
+  "att": 20,
+  "tgt": 4,
+  "touches": 24,
+  "actual": "high",
+  "expect": "high",
+  "reason": "opponent",
+  "rushing_yards": 53,
+  "receiving_catches": 4,
+  "receiving_yards": 21,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 17,
+  "ppr_scoring_position_rank": 12
+}

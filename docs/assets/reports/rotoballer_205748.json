@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205748",
+  "title": "D'Andre Swift Likely to Suit Up in Week 8",
+  "description": "According to NFL Media's Ian Rapoport, Chicago Bears running back D'Andre Swift (groin) is expected to play in Sunday's game against the Baltimore Ravens. The 26-year-old has been dealing with the groin issue for a few weeks. However, it didn't stop him from suiting up for the Week 7 win over the New Orleans Saints. It also didn't prevent him from amassing 124 yards and a touchdown off 19 touches. While Swift should continue to split carries out of the backfield with rookie Kyle Monangai, he's still a solid fantasy option for the meeting with the Ravens, a team that has struggled to slow down opposing fantasy running backs throughout the 2025 campaign.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 8,
+  "team": "CHI",
+  "opp": "BAL",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 45,
+  "receiving_catches": 2,
+  "receiving_yards": 26,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 15
+}

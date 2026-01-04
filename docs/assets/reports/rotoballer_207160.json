@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207160",
+  "title": "Emanuel Wilson Set for Depth Role in Week 10 Against Philadelphia",
+  "description": "Green Bay Packers running back Emanuel Wilson has seen his involvement in the Packers' offense rise in recent weeks, but he is still a depth piece when the Packers host the Philadelphia Eagles in Week 10. Wilson has averaged over seven carries per game in the last three weeks, helping manage Josh Jacobs' workload as he plays through a calf injury that's had him on the injury report over the last several weeks. With that involvement, Wilson's role is clear as a fantasy handcuff in case Jacobs can't suit up for a game. On Monday Night Football in Week 10, Wilson is merely a bench stash and not a startable option for Green Bay's showdown with the Eagles.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 10,
+  "team": "GB",
+  "opp": "PHI",
+  "att": 1,
+  "tgt": 1,
+  "touches": 2,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 2,
+  "receiving_catches": 1,
+  "receiving_yards": 2,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 1,
+  "ppr_scoring_position_rank": 58
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210159",
+  "title": "De'Von Achane Questionable to Return in Week 14 with Rib Injury",
+  "description": "Miami Dolphins running back De'Von Achane (ribs) is questionable to return to his team's Week 14 matchup against the New York Jets due to a rib injury. The 24-year-old had a monster first half before leaving the game, recording seven carries for 92 yards and a touchdown and one reception for 13 yards. If Achane is unable to return, his absence would be a major blow to the Miami offense. Entering the week, Achane had recorded over 1,400 scrimmage yards and 10 touchdowns across 12 games played in 2025. Should Achane be ruled out, Dolphins running backs Ollie Gordon II and Jaylen Wright would handle the team's backfield snaps for the remainder of Week 14 against the Jets.",
+  "player_id": 9226,
+  "player_name": "De'Von Achane",
+  "week": 15,
+  "team": "MIA",
+  "opp": "PIT",
+  "att": 12,
+  "tgt": 6,
+  "touches": 18,
+  "actual": "medium",
+  "expect": "unknown",
+  "reason": "injury",
+  "rushing_yards": 60,
+  "receiving_catches": 6,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 18,
+  "ppr_scoring_position_rank": 10
+}

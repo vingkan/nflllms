@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204311",
+  "title": "James Cook a Touchdown-Dependent RB1 in Tough Matchup vs. Falcons",
+  "description": "Buffalo Bills running back James Cook will face one of his toughest challenges of the season when he takes on Atlanta's sixth-ranked run defense on Monday night. The Falcons have excelled at controlling time of possession and limiting offensive opportunities, though they've allowed a 44.7% scoring rate on drives, leaving the door open for Cook to find the end zone. The third-year back is averaging 107.8 scrimmage yards and one touchdown per game, but he's coming off a sluggish performance against New England's opportunistic defense. While Cook's volume and role in Buffalo's high-powered offense keep him in RB1 territory, fantasy managers should temper expectations--his Week 6 success will likely hinge on finding pay dirt against a disciplined Falcons front.",
+  "player_id": 8138,
+  "player_name": "James Cook",
+  "week": 6,
+  "team": "BUF",
+  "opp": "ATL",
+  "att": 17,
+  "tgt": 0,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 87,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 8,
+  "ppr_scoring_position_rank": 24
+}

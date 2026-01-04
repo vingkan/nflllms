@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204039",
+  "title": "Alvin Kamara Back at Practice on Thursday",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) was back at practice on Thursday after suffering an ankle injury during the team's practice on Wednesday, according to ESPN's Katherine Terrell. Kamara was officially listed on the Wednesday injury report as limited, but it appears he's trending towards being fine for the team's Week 6 matchup against the New England Patriots. Kamara has recorded 360 yards from scrimmage and a touchdown on 90 total touches through five games this season. If he were to miss any time, Saints running back Kendre Miller would likely dominate backfield touches in New Orleans. Assuming Kamara will be good to go on Sunday, he profiles as a low-end fantasy RB2 in Week 6 against New England. UPDATE: Kamara was limited in practice again on Thursday.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 6,
+  "team": "NO",
+  "opp": "NE",
+  "att": 10,
+  "tgt": 5,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 31,
+  "receiving_catches": 5,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 12,
+  "ppr_scoring_position_rank": 14
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210032",
+  "title": "Woody Marks Is a Flex Option Against the Chiefs",
+  "description": "Houston Texans running back Woody Marks has taken over most of the work in the backfield for the Texans, so he'll be a solid flex play on Sunday Night Football in Kansas City. Marks played 54% of snaps last week and led the team with 64 rushing yards on 19 carries against the Colts. The rookie from USC added a three-yard catch on his only target of the day, but Nick Chubb got the running back touchdown, and wide receiver Nico Collins also ran in a score. Marks missed practice early in the week with a foot injury but was able to get in a full session on Friday and avoid an injury designation. He hasn't been able to convert his workload to huge yardage or touchdowns, but he's getting enough volume to be a low-end RB2 or high-end flex option this week, even in a tough matchup against the Chiefs. Marks is the No. 23 RB in RotoBaller's rankings for this week, as he and the Texans look to claim a fifth straight victory.",
+  "player_id": 12474,
+  "player_name": "Woody Marks",
+  "week": 14,
+  "team": "HOU",
+  "opp": "KC",
+  "att": 26,
+  "tgt": 3,
+  "touches": 29,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 68,
+  "receiving_catches": 2,
+  "receiving_yards": 8,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 15,
+  "ppr_scoring_position_rank": 14
+}

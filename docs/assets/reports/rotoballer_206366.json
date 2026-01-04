@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206366",
+  "title": "Chase Brown Looking to Build on Strong Week 8 Effort on Sunday Versus Chicago",
+  "description": "Cincinnati Bengals running back Chase Brown scored a touchdown in the Week 1 win over the Cleveland Browns. Unfortunately, he had more than a few miserable outings in his following appearances before finally surpassing the 100-yard rushing mark in the Thursday night win over the Pittsburgh Steelers. The 25-year-old then had his best performance of the 2025 campaign in the Week 8 one-point loss to the New York Jets, finding the end zone twice (one rushing, one receiving). Joe Flacco (shoulder) has the offense back on track. While there's a chance Flacco won't suit up in the Week 9 clash with the Chicago Bears, it appears he's (fortunately) trending toward playing. However, even if Jake Browning finds himself back atop the depth chart, Brown should remain a high-upside option for managers, especially with the game between the Bears and Bengals projected to be one of the highest-scoring contests on the schedule. Granted, Brown's presence in all fantasy lineups isn't without risk. That will apply regardless of who is starting at quarterback.",
+  "player_id": 9224,
+  "player_name": "Chase Brown",
+  "week": 9,
+  "team": "CIN",
+  "opp": "CHI",
+  "att": 11,
+  "tgt": 14,
+  "touches": 25,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 37,
+  "receiving_catches": 8,
+  "receiving_yards": 75,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 6
+}

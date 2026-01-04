@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_209445",
+  "title": "Tyler Allgeier a Low-Floor Fantasy Option in Week 13",
+  "description": "Atlanta Falcons running back Tyler Allgeier garnered double-digit carries in Week 12, rushing 12 times for 44 yards, and even received one target, which he caught for five yards. Unfortunately for fantasy managers who deployed him as a Flex option, the 25-year-old was unable to find the end zone as he'd done in three of the four previous weeks and seven times this season. The BYU product could see a similar workload in Week 13 in what should be a competitive contest versus the Jets, with the Falcons as three-point road favorites. New York has yielded the ninth-most half-point PPR points to opposing running backs this season, but in what projects to be a low-scoring affair, Allgeier will continue to be a risky RB3/Flex that, if he doesn't score, comes with a very low floor.",
+  "player_id": 8132,
+  "player_name": "Tyler Allgeier",
+  "week": 13,
+  "team": "ATL",
+  "opp": "NYJ",
+  "att": 8,
+  "tgt": 2,
+  "touches": 10,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 20,
+  "receiving_catches": 2,
+  "receiving_yards": 35,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 20
+}

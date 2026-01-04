@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204626",
+  "title": "Brashard Smith a Strong Bench Stash Moving Forward",
+  "description": "Kansas City Chiefs rookie running back Brashard Smith from SMU took a step backward in Week 6 against the Detroit Lions, not seeing a single carry, playing a lower snap percentage, and making only three receptions in the passing game during the Chiefs' 30-17 win over the Lions. However, due to the matchup against the Lions, head coach Andy Reid wanted to lean on his veterans, as the game was crucial to the Kansas City Chiefs, who were sitting at (2-3). With the Las Vegas Raiders on deck in Week 7, and most sportsbooks labeling the Chiefs as 11.5-point favorites, Smith should get some additional work and snaps in this one, making him a long-shot play in Week 7 and a value-add in deeper leagues if it's a breakout game for him. The other Chiefs running backs, Isiah Pacheco and Kareem Hunt, have both been relatively inefficient with their opportunities, averaging 4.2 and 3.82 YPC, respectively.",
+  "player_id": 12455,
+  "player_name": "Brashard Smith",
+  "week": 7,
+  "team": "KC",
+  "opp": "LV",
+  "att": 14,
+  "tgt": 5,
+  "touches": 19,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 39,
+  "receiving_catches": 5,
+  "receiving_yards": 42,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 14
+}

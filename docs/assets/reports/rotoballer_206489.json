@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_206489",
+  "title": "Alvin Kamara Active to Face Rams in Week 9",
+  "description": "New Orleans Saints running back Alvin Kamara (ankle) is officially active for Sunday's Week 9 contest against the Los Angeles Rams. He had been listed as questionable after logging a limited practice on Friday. The 30-year-old has been disappointing this season, amassing just 363 rushing yards, 147 receiving yards, and one touchdown through eight games. Even with Kendre Miller (knee) sidelined, Kamara hasn't been able to carve out a major role within New Orleans' offense. He'll likely continue to play around 60 percent of the snaps with roughly a dozen touches against the Rams. His pass-catching skills give him low-end RB2 appeal in PPR leagues, but for the most part, he should be deployed as an RB3/flex.",
+  "player_id": 4035,
+  "player_name": "Alvin Kamara",
+  "week": 9,
+  "team": "NO",
+  "opp": "LAR",
+  "att": 6,
+  "tgt": 3,
+  "touches": 9,
+  "actual": "low",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 14,
+  "receiving_catches": 1,
+  "receiving_yards": 3,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 60
+}

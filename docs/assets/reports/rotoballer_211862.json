@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_211862",
+  "title": "Javonte Williams Cleared to Play in Week 17",
+  "description": "Dallas Cowboys running back Javonte Williams (neck) was upgraded to a full practice on Wednesday and has been removed from the team's final Week 17 injury report, according to Jon Machota of The Athletic. Williams will be active for the Christmas Day divisional matchup on Thursday against the Washington Commanders. The 25-year-old suffered a neck injury in Week 15 but managed to play through it in last week's loss to the Los Angeles Chargers, handling 11 touches for 43 total yards while playing 57% of the offensive snaps. Malik Davis has seen a larger role the last two games with Williams banged up, but he should continue to operate as the RB2 in Week 17 on Christmas Day. Williams should be viewed as on the RB1/2 borderline for fantasy managers with league championship trophies on the line this week.",
+  "player_id": 7588,
+  "player_name": "Javonte Williams",
+  "week": 17,
+  "team": "DAL",
+  "opp": "WAS",
+  "att": 13,
+  "tgt": 2,
+  "touches": 15,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "injury",
+  "rushing_yards": 54,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 11,
+  "ppr_scoring_position_rank": 19
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_212288",
+  "title": "Kyren Williams' Volume Still Trending Up for Week 17?",
+  "description": "Los Angeles Rams running back Kyren Williams earned a season-high 26 touches last week, leaving fantasy managers wondering if he might handle a similar workload against the Atlanta Falcons on Monday Night Football in Week 17. It was previously reported that the Rams were trying to limit Williams' volume to keep him fresh for the playoffs, so it was a bit surprising to see him touch the ball 26 times on a 71% snap share on Thursday Night Football against the Seattle Seahawks. On the other hand, that game was comparable to a playoff game, so it makes sense that Los Angeles brought out all of the stops. Going forward, we can expect Williams' workload to be managed when the Rams have a very favorable game script. That should be the case on Monday night as the Rams are seven-point favorites against the Falcons. Williams probably won't be quite as involved as last week, but he should remain the Rams' primary ball-carrier while also carving out a role in the receiving game. He ranks as a low-end RB1 against the Falcons, who have allowed the 11th-most rushing yards to running backs in 2025.",
+  "player_id": 8150,
+  "player_name": "Kyren Williams",
+  "week": 17,
+  "team": "LAR",
+  "opp": "ATL",
+  "att": 13,
+  "tgt": 3,
+  "touches": 16,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 92,
+  "receiving_catches": 3,
+  "receiving_yards": 38,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 16,
+  "ppr_scoring_position_rank": 15
+}

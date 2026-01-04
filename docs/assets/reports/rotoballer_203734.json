@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_203734",
+  "title": "Antonio Gibson Ruled Out for Remainder of Week 5 with Knee Injury",
+  "description": "New England Patriots running back Antonio Gibson (knee) has been ruled out for the remainder of his team's Week 5 matchup against the Buffalo Bills due to a knee injury. Gibson recorded six carries for 21 yards and one catch for five yards before getting injured. In his absence, Patriots rookie running back TreVeyon Henderson and veteran back Rhamondre Stevenson will likely split the backfield work. Stevenson fumbled for the third time this season in the first half against Buffalo, so Week 5 could be Henderson's best chance to stake his claim to the Patriots' backfield.",
+  "player_id": 6945,
+  "player_name": "Antonio Gibson",
+  "week": 6,
+  "team": "NE",
+  "opp": "NO",
+  "att": 0,
+  "tgt": 0,
+  "touches": 0,
+  "actual": "low",
+  "expect": "low",
+  "reason": "injury",
+  "rushing_yards": 0,
+  "receiving_catches": 0,
+  "receiving_yards": 0,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 0,
+  "ppr_scoring_position_rank": 999
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_205590",
+  "title": "Tony Pollard Offers Flex Value for Week 8",
+  "description": "Tennessee Titans running back Tony Pollard has struggled to find much success on the ground over the last few weeks. Last week, Pollard rushed a season-low six times for 18 yards in the loss to the New England Patriots. The 28-year-old was able to salvage his fantasy value by hauling in six receptions for an additional 43 yards through the air. The biggest problem Pollard is going to face now is that he'll split up the carries with Tyjae Spears in the backfield. Pollard has seen his carries decrease every game since Week 5. Luckily, Pollard has been able to find some success in the receiving game. He'll likely be asked to continue being utilized in that role with top wide receiver Calvin Ridley (hamstring) out again in Week 8. Given his recent performances, Pollard shouldn't be viewed as again more than a flex option against the Indianapolis Colts this weekend.",
+  "player_id": 5967,
+  "player_name": "Tony Pollard",
+  "week": 8,
+  "team": "TEN",
+  "opp": "IND",
+  "att": 11,
+  "tgt": 2,
+  "touches": 13,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 44,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 6,
+  "ppr_scoring_position_rank": 34
+}

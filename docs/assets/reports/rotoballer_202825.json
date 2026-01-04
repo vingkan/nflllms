@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_202825",
+  "title": "Kareem Hunt With A Chance To Explode Against Baltimore In Week 4",
+  "description": "Kansas City Chiefs running back Kareem Hunt will take on the Baltimore Ravens on Sunday in Week 4. Hunt handled 10 carries for 34 yards and a touchdown as well as one catch for 10 yards in last week's 22-9 win over the New York Giants. Hunt has continued to receive a nearly identical workload to Isiah Pacheco, but Hunt has averaged two more PPR points per game this season. The 29-year-old has been the preferred back on passing downs and short-yardage situations, putting him in position to catch passes and score goal-line touchdowns. Hunt has been inefficient on the ground, averaging just 3.5 yards per carry, but he could improve that average this week against Baltimore. The Ravens have allowed the most fantasy points to opposing running backs this season, making this the most advantageous matchup at the position. The Ravens also have the highest scoring offense this season, which should put the Chiefs in more passing situations. Hunt is ranked RB34 in our RotoBaller Half-PPR rankings, putting him two spots ahead of Pacheco and in the RB3/Flex conversation. If Hunt can catch multiple passes and handle goal-line touches again, he could finish the week with double-digit fantasy points.",
+  "player_id": 4098,
+  "player_name": "Kareem Hunt",
+  "week": 4,
+  "team": "KC",
+  "opp": "BAL",
+  "att": 13,
+  "tgt": 1,
+  "touches": 14,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "opponent",
+  "rushing_yards": 34,
+  "receiving_catches": 1,
+  "receiving_yards": 13,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 5,
+  "ppr_scoring_position_rank": 47
+}

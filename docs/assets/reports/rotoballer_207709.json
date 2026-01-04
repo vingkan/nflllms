@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207709",
+  "title": "Emanuel Wilson Maintains Depth Role for Packers in Week 11",
+  "description": "Green Bay Packers running back Emanuel Wilson has maintained a solid on-field role, but is just depth at the position when the Packers head to MetLife Stadium to play the New York Giants. While Wilson has seen his snap shares hover around the 32-percent mark in the previous three weeks leading up to Week 10, those snaps dropped to 20 percent against the Eagles on Monday Night Football. The Packers gave Josh Jacobs the bulk of the work on the ground, leaving Wilson to touch the ball just twice for four yards on a target and carry. Jacobs had been a regular sight on the Packers' injury report over the past few weeks, but was not on the report leading up to this week's game against the Giants. Wilson is merely a handcuff for Jacobs in the event he misses a game, but otherwise, leave Wilson on the waiver wire in Week 11.",
+  "player_id": 11435,
+  "player_name": "Emanuel Wilson",
+  "week": 11,
+  "team": "GB",
+  "opp": "NYG",
+  "att": 11,
+  "tgt": 1,
+  "touches": 12,
+  "actual": "medium",
+  "expect": "low",
+  "reason": "performance",
+  "rushing_yards": 40,
+  "receiving_catches": 1,
+  "receiving_yards": 9,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 13,
+  "ppr_scoring_position_rank": 19
+}

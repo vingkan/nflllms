@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_207161",
+  "title": "Josh Jacobs a Rock-Solid RB1 Play in Week 10",
+  "description": "Green Bay Packers running back Josh Jacobs (not injury-related) is off this week's injury report and good to go as the Packers host the Philadelphia Eagles in Week 10. Jacobs has been scoring touchdowns at will this season, with eight touchdowns in his last five games. That touchdown volume has helped buoy some of Jacobs' lack of efficiency on a per-rush basis this season. He's been a top-20 fantasy running back every week this season but Week 2, where he was RB21. Jacobs has been a bit banged up lately with a nagging calf injury, but that hasn't stopped him from playing. His workload has been a bit more managed with backups Emanuel Wilson and Chris Brooks seeing some touches in recent weeks, but as long as Jacobs is getting the red-zone touches, everything is great. It's a tough matchup at home against the Eagles' defensive front, but lock in Jacobs as an RB1 this week.",
+  "player_id": 5850,
+  "player_name": "Josh Jacobs",
+  "week": 10,
+  "team": "GB",
+  "opp": "PHI",
+  "att": 21,
+  "tgt": 6,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "performance",
+  "rushing_yards": 74,
+  "receiving_catches": 5,
+  "receiving_yards": 33,
+  "rushing_touchdowns": 1,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 6
+}
