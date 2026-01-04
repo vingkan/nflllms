@@ -394,6 +394,876 @@ function renderConfusionMatrix(data) {
 }
 
 // ==========================================================================
+// Week Chart Component
+// ==========================================================================
+
+/**
+ * Render the week-by-week precision/recall chart
+ */
+/**
+ * Helper function to generate a single line chart SVG
+ */
+function generateChartSVG(data, metrics, title, chartId) {
+  const chartHeight = 240;
+  const chartWidth = 500;
+  const padding = { top: 30, right: 20, bottom: 70, left: 50 };
+  const innerWidth = chartWidth - padding.left - padding.right;
+  const innerHeight = chartHeight - padding.top - padding.bottom;
+
+  // Create vertical gridlines (one per week)
+  const verticalGridlines = data
+    .map((d, i) => {
+      const x = padding.left + (i / (data.length - 1)) * innerWidth;
+      return `<line x1="${x}" y1="${padding.top}" x2="${x}" y2="${
+        padding.top + innerHeight
+      }" stroke="var(--color-border)" opacity="0.2"/>`;
+    })
+    .join("");
+
+  // Create major horizontal gridlines (at y-axis labels)
+  const majorHorizontalGridlines = [0, 0.25, 0.5, 0.75, 1]
+    .map((v) => {
+      const y = padding.top + (1 - v) * innerHeight;
+      return `<line x1="${padding.left}" y1="${y}" x2="${
+        padding.left + innerWidth
+      }" y2="${y}" stroke="var(--color-border)" opacity="0.3"/>`;
+    })
+    .join("");
+
+  // Create minor horizontal gridlines (between major ones)
+  const minorHorizontalGridlines = [0.125, 0.375, 0.625, 0.875]
+    .map((v) => {
+      const y = padding.top + (1 - v) * innerHeight;
+      return `<line x1="${padding.left}" y1="${y}" x2="${
+        padding.left + innerWidth
+      }" y2="${y}" stroke="var(--color-border)" stroke-dasharray="2,2" opacity="0.15"/>`;
+    })
+    .join("");
+
+  // Create SVG paths for each metric
+  const paths = metrics
+    .map((metric) => {
+      const points = data
+        .map((d, i) => {
+          const x = padding.left + (i / (data.length - 1)) * innerWidth;
+          const y = padding.top + (1 - d[metric.key]) * innerHeight;
+          return `${x},${y}`;
+        })
+        .join(" L ");
+
+      return `<path d="M ${points}" fill="none" stroke="${metric.color}" stroke-width="2" class="chart__line" data-metric="${metric.key}"/>`;
+    })
+    .join("");
+
+  // Create data point circles (hidden by default, shown on hover)
+  const dataPoints = metrics
+    .flatMap((metric) =>
+      data.map((d, i) => {
+        const x = padding.left + (i / (data.length - 1)) * innerWidth;
+        const y = padding.top + (1 - d[metric.key]) * innerHeight;
+        return `<circle class="chart__point" data-index="${i}" cx="${x}" cy="${y}" r="5" fill="${metric.color}" stroke="var(--color-bg-card)" stroke-width="2" opacity="0"/>`;
+      })
+    )
+    .join("");
+
+  // Create vertical guide line (hidden by default)
+  const guideLine = `<line class="chart__guide" x1="${padding.left}" y1="${
+    padding.top
+  }" x2="${padding.left}" y2="${
+    padding.top + innerHeight
+  }" stroke="var(--color-text-secondary)" stroke-width="1" stroke-dasharray="4,4" opacity="0"/>`;
+
+  // Create invisible hover zones for each week
+  const zoneWidth = innerWidth / Math.max(data.length - 1, 1);
+  const hoverZones = data
+    .map((d, i) => {
+      const x = padding.left + (i / (data.length - 1)) * innerWidth;
+      const zoneX = i === 0 ? padding.left : x - zoneWidth / 2;
+      const actualWidth =
+        i === 0 || i === data.length - 1 ? zoneWidth / 2 : zoneWidth;
+      return `<rect class="chart__hover-zone" data-index="${i}" x="${zoneX}" y="${padding.top}" width="${actualWidth}" height="${innerHeight}" fill="transparent"/>`;
+    })
+    .join("");
+
+  // Create x-axis labels - one tick per week
+  const xAxisY = padding.top + innerHeight + 15;
+  const xLabels = data
+    .map((d, i) => {
+      const x = padding.left + (i / (data.length - 1)) * innerWidth;
+      return `<text x="${x}" y="${xAxisY}" text-anchor="middle" class="chart__label">${d.week}</text>`;
+    })
+    .join("");
+
+  // Create y-axis labels
+  const yLabels = [0, 0.25, 0.5, 0.75, 1]
+    .map((v) => {
+      const y = padding.top + (1 - v) * innerHeight;
+      return `<text x="${padding.left - 10}" y="${
+        y + 4
+      }" text-anchor="end" class="chart__label">${Math.round(v * 100)}%</text>`;
+    })
+    .join("");
+
+  // Create axis lines
+  const axisLines = `
+    <line x1="${padding.left}" y1="${padding.top}" x2="${padding.left}" y2="${
+    padding.top + innerHeight
+  }" stroke="var(--color-border)" opacity="0.5"/>
+    <line x1="${padding.left}" y1="${padding.top + innerHeight}" x2="${
+    padding.left + innerWidth
+  }" y2="${
+    padding.top + innerHeight
+  }" stroke="var(--color-border)" opacity="0.5"/>
+  `;
+
+  // Create horizontal legend at bottom
+  const legendY = chartHeight - 15;
+  const legendItemWidth = 130;
+  const legendStartX =
+    padding.left + (innerWidth - metrics.length * legendItemWidth) / 2;
+  const legend = metrics
+    .map((metric, i) => {
+      const x = legendStartX + i * legendItemWidth;
+      return `<g transform="translate(${x}, ${legendY})">
+        <line x1="0" y1="0" x2="20" y2="0" stroke="${metric.color}" stroke-width="2"/>
+        <text x="25" y="4" class="chart__legend-label">${metric.label}</text>
+      </g>`;
+    })
+    .join("");
+
+  // Create title
+  const titleElement = `<text x="${
+    padding.left + innerWidth / 2
+  }" y="16" text-anchor="middle" class="chart__title">${title}</text>`;
+
+  // X-axis title with more space
+  const xAxisTitle = `<text x="${padding.left + innerWidth / 2}" y="${
+    xAxisY + 20
+  }" text-anchor="middle" class="chart__axis-label">Week</text>`;
+
+  return `
+    <svg viewBox="0 0 ${chartWidth} ${chartHeight}" class="chart__svg" data-chart-id="${chartId}">
+      ${titleElement}
+      ${majorHorizontalGridlines}
+      ${minorHorizontalGridlines}
+      ${verticalGridlines}
+      ${axisLines}
+      ${yLabels}
+      ${paths}
+      ${dataPoints}
+      ${guideLine}
+      ${xLabels}
+      ${xAxisTitle}
+      ${legend}
+      ${hoverZones}
+    </svg>
+  `;
+}
+
+function renderWeekChart(data) {
+  const container = document.getElementById("week-chart");
+  if (!container || !data) {
+    if (container)
+      container.innerHTML = '<p class="text-muted">Failed to load data.</p>';
+    return;
+  }
+
+  // Consistent colors for workload levels
+  const colors = {
+    low: "#f43f5e", // red (matches --color-low)
+    medium: "#f59e0b", // amber (matches --color-medium)
+    high: "#10b981", // green (matches --color-high)
+  };
+
+  // Precision metrics - order: High, Medium, Low for legend
+  const precisionMetrics = [
+    { key: "precision_high", label: "High workload", color: colors.high },
+    { key: "precision_medium", label: "Medium workload", color: colors.medium },
+    { key: "precision_low", label: "Low workload", color: colors.low },
+  ];
+
+  // Recall metrics - order: High, Medium, Low for legend
+  const recallMetrics = [
+    { key: "recall_high", label: "High workload", color: colors.high },
+    { key: "recall_medium", label: "Medium workload", color: colors.medium },
+    { key: "recall_low", label: "Low workload", color: colors.low },
+  ];
+
+  const precisionChart = generateChartSVG(
+    data,
+    precisionMetrics,
+    "Precision by Week",
+    "precision"
+  );
+  const recallChart = generateChartSVG(
+    data,
+    recallMetrics,
+    "Recall by Week",
+    "recall"
+  );
+
+  const html = `
+    <div class="week-charts">
+      <div class="chart-container">
+        <div class="chart chart--interactive" data-chart-type="precision">
+          ${precisionChart}
+          <div class="chart__tooltip" id="tooltip-precision"></div>
+        </div>
+      </div>
+      <div class="chart-container">
+        <div class="chart chart--interactive" data-chart-type="recall">
+          ${recallChart}
+          <div class="chart__tooltip" id="tooltip-recall"></div>
+        </div>
+      </div>
+    </div>
+  `;
+
+  container.innerHTML = html;
+
+  // Store data for tooltip access
+  window.__weekChartData = data;
+
+  // Add event listeners for each chart
+  setupChartHoverEvents("precision", precisionMetrics, data);
+  setupChartHoverEvents("recall", recallMetrics, data);
+}
+
+/**
+ * Setup hover event listeners for a chart
+ */
+function setupChartHoverEvents(chartType, metrics, data) {
+  const chartContainer = document.querySelector(
+    `.chart[data-chart-type="${chartType}"]`
+  );
+  const svg = chartContainer?.querySelector("svg");
+  const tooltip = document.getElementById(`tooltip-${chartType}`);
+
+  if (!svg || !tooltip) return;
+
+  const chartWidth = 500;
+  const padding = { top: 30, right: 20, bottom: 70, left: 50 };
+  const innerWidth = chartWidth - padding.left - padding.right;
+
+  // Handle mouse move over chart
+  svg.addEventListener("mousemove", (e) => {
+    const rect = svg.getBoundingClientRect();
+    const scaleX = chartWidth / rect.width;
+    const mouseX = (e.clientX - rect.left) * scaleX;
+
+    // Find closest data point
+    const relativeX = mouseX - padding.left;
+    const dataIndex = Math.round((relativeX / innerWidth) * (data.length - 1));
+
+    if (dataIndex < 0 || dataIndex >= data.length) {
+      hideChartHover(svg, tooltip);
+      return;
+    }
+
+    const weekData = data[dataIndex];
+    const x = padding.left + (dataIndex / (data.length - 1)) * innerWidth;
+
+    // Update guide line position
+    const guideLine = svg.querySelector(".chart__guide");
+    if (guideLine) {
+      guideLine.setAttribute("x1", x);
+      guideLine.setAttribute("x2", x);
+      guideLine.setAttribute("opacity", "1");
+    }
+
+    // Highlight data points for this week
+    svg.querySelectorAll(".chart__point").forEach((point) => {
+      const pointIndex = parseInt(point.getAttribute("data-index"), 10);
+      point.setAttribute("opacity", pointIndex === dataIndex ? "1" : "0");
+    });
+
+    // Get the metric values based on chart type
+    const metricPrefix = chartType === "precision" ? "precision" : "recall";
+    const highValue = weekData[`${metricPrefix}_high`];
+    const medValue = weekData[`${metricPrefix}_medium`];
+    const lowValue = weekData[`${metricPrefix}_low`];
+
+    // Update tooltip content
+    tooltip.innerHTML = `
+      <div class="chart__tooltip-header">Week ${weekData.week}</div>
+      <div class="chart__tooltip-row">
+        <span class="chart__tooltip-label">Reports:</span>
+        <span class="chart__tooltip-value">${weekData.reports}</span>
+      </div>
+      <div class="chart__tooltip-divider"></div>
+      <div class="chart__tooltip-row">
+        <span class="chart__tooltip-dot" style="background: #10b981"></span>
+        <span class="chart__tooltip-label">High:</span>
+        <span class="chart__tooltip-value">${(highValue * 100).toFixed(
+          1
+        )}%</span>
+      </div>
+      <div class="chart__tooltip-row">
+        <span class="chart__tooltip-dot" style="background: #f59e0b"></span>
+        <span class="chart__tooltip-label">Medium:</span>
+        <span class="chart__tooltip-value">${(medValue * 100).toFixed(
+          1
+        )}%</span>
+      </div>
+      <div class="chart__tooltip-row">
+        <span class="chart__tooltip-dot" style="background: #f43f5e"></span>
+        <span class="chart__tooltip-label">Low:</span>
+        <span class="chart__tooltip-value">${(lowValue * 100).toFixed(
+          1
+        )}%</span>
+      </div>
+    `;
+
+    // Position tooltip
+    const tooltipX = (x / chartWidth) * rect.width;
+    const tooltipY = 40;
+
+    // Adjust if tooltip would go off right edge
+    const tooltipWidth = 140;
+    const adjustedX =
+      tooltipX + tooltipWidth > rect.width
+        ? tooltipX - tooltipWidth - 10
+        : tooltipX + 10;
+
+    tooltip.style.left = `${adjustedX}px`;
+    tooltip.style.top = `${tooltipY}px`;
+    tooltip.classList.add("chart__tooltip--visible");
+  });
+
+  // Handle mouse leave
+  svg.addEventListener("mouseleave", () => {
+    hideChartHover(svg, tooltip);
+  });
+}
+
+/**
+ * Hide chart hover elements
+ */
+function hideChartHover(svg, tooltip) {
+  const guideLine = svg.querySelector(".chart__guide");
+  if (guideLine) {
+    guideLine.setAttribute("opacity", "0");
+  }
+
+  svg.querySelectorAll(".chart__point").forEach((point) => {
+    point.setAttribute("opacity", "0");
+  });
+
+  tooltip.classList.remove("chart__tooltip--visible");
+}
+
+// ==========================================================================
+// Game Day Table Component
+// ==========================================================================
+
+/**
+ * Render the game day vs week before comparison table
+ */
+function renderGameDayTable(data) {
+  const container = document.getElementById("game-day-table");
+  if (!container || !data) {
+    if (container)
+      container.innerHTML = '<p class="text-muted">Failed to load data.</p>';
+    return;
+  }
+
+  const totalReports = data.reduce((sum, d) => sum + d.reports, 0);
+
+  const getLabel = (published_same_day) =>
+    published_same_day ? "Game Day" : "Week Before";
+
+  const rows = data
+    .map(
+      (d) => `
+    <tr>
+      <td><strong>${getLabel(d.published_same_day)}</strong></td>
+      <td class="text-right">${formatNumber(
+        d.reports
+      )} <span class="text-muted">(${calcPercent(
+        d.reports,
+        totalReports
+      ).toFixed(0)}%)</span></td>
+      <td class="text-right">${formatPercent(d.precision_low)}</td>
+      <td class="text-right">${formatPercent(d.precision_medium)}</td>
+      <td class="text-right">${formatPercent(d.precision_high)}</td>
+      <td class="text-right">${formatPercent(d.recall_low)}</td>
+      <td class="text-right">${formatPercent(d.recall_medium)}</td>
+      <td class="text-right">${formatPercent(d.recall_high)}</td>
+    </tr>
+  `
+    )
+    .join("");
+
+  const html = `
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+          <th colspan="3" class="text-center">Precision</th>
+          <th colspan="3" class="text-center">Recall</th>
+        </tr>
+        <tr>
+          <th>Report Date</th>
+          <th class="text-right">Reports</th>
+          <th class="text-right">Low</th>
+          <th class="text-right">Med</th>
+          <th class="text-right">High</th>
+          <th class="text-right">Low</th>
+          <th class="text-right">Med</th>
+          <th class="text-right">High</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows}
+      </tbody>
+    </table>
+  `;
+
+  container.innerHTML = html;
+}
+
+// ==========================================================================
+// All Reports Explorer
+// ==========================================================================
+
+// State for the reports explorer
+const explorerState = {
+  data: [],
+  filteredData: [],
+  sortColumn: "touches",
+  sortDirection: "desc",
+  currentPage: 1,
+  rowsPerPage: 10,
+  searchQuery: "",
+};
+
+// Workload level sort order
+const workloadOrder = { high: 3, medium: 2, low: 1, unknown: 0 };
+
+/**
+ * Sort data based on current sort state
+ */
+function sortExplorerData() {
+  const { sortColumn, sortDirection } = explorerState;
+
+  explorerState.filteredData.sort((a, b) => {
+    let aVal = a[sortColumn];
+    let bVal = b[sortColumn];
+
+    // Handle workload level columns
+    if (sortColumn === "actual" || sortColumn === "expect") {
+      aVal = workloadOrder[aVal] || 0;
+      bVal = workloadOrder[bVal] || 0;
+    }
+
+    // Handle string columns
+    if (typeof aVal === "string" && typeof bVal === "string") {
+      aVal = aVal.toLowerCase();
+      bVal = bVal.toLowerCase();
+    }
+
+    // Handle null/undefined
+    if (aVal == null) aVal = sortDirection === "asc" ? Infinity : -Infinity;
+    if (bVal == null) bVal = sortDirection === "asc" ? Infinity : -Infinity;
+
+    if (aVal < bVal) return sortDirection === "asc" ? -1 : 1;
+    if (aVal > bVal) return sortDirection === "asc" ? 1 : -1;
+    return 0;
+  });
+}
+
+/**
+ * Filter data based on search query
+ */
+// NFL team codes for exact team filtering
+const NFL_TEAM_CODES = [
+  "ARI",
+  "ATL",
+  "BAL",
+  "BUF",
+  "CAR",
+  "CHI",
+  "CIN",
+  "CLE",
+  "DAL",
+  "DEN",
+  "DET",
+  "GB",
+  "HOU",
+  "IND",
+  "JAX",
+  "KC",
+  "LAC",
+  "LAR",
+  "LV",
+  "MIA",
+  "MIN",
+  "NE",
+  "NO",
+  "NYG",
+  "NYJ",
+  "PHI",
+  "PIT",
+  "SEA",
+  "SF",
+  "TB",
+  "TEN",
+  "WAS",
+];
+
+function filterExplorerData() {
+  const query = explorerState.searchQuery.trim();
+
+  if (!query) {
+    explorerState.filteredData = [...explorerState.data];
+  } else {
+    const upperQuery = query.toUpperCase();
+
+    // Check if the search is an exact NFL team code
+    if (NFL_TEAM_CODES.includes(upperQuery)) {
+      // Filter only on team column
+      explorerState.filteredData = explorerState.data.filter(
+        (d) => d.team === upperQuery
+      );
+    } else {
+      // Normal multi-field search
+      const lowerQuery = query.toLowerCase();
+      explorerState.filteredData = explorerState.data.filter((d) => {
+        const searchFields = [
+          d.player_name,
+          d.team,
+          d.opp,
+          d.week !== null ? String(d.week) : "",
+          d.title,
+          d.description,
+        ].map((f) => (f || "").toLowerCase());
+
+        return searchFields.some((field) => field.includes(lowerQuery));
+      });
+    }
+  }
+
+  explorerState.currentPage = 1;
+  sortExplorerData();
+}
+
+/**
+ * Handle column header click for sorting
+ */
+function handleSort(column) {
+  const { sortColumn, sortDirection } = explorerState;
+
+  if (sortColumn === column) {
+    // Cycle through: default -> opposite -> reset
+    if (sortDirection === getDefaultDirection(column)) {
+      explorerState.sortDirection = sortDirection === "asc" ? "desc" : "asc";
+    } else {
+      // Reset to default
+      explorerState.sortColumn = "touches";
+      explorerState.sortDirection = "desc";
+    }
+  } else {
+    explorerState.sortColumn = column;
+    explorerState.sortDirection = getDefaultDirection(column);
+  }
+
+  sortExplorerData();
+  renderReportsTable();
+}
+
+/**
+ * Get default sort direction for a column
+ */
+function getDefaultDirection(column) {
+  // Numeric and workload columns default to descending
+  const descColumns = [
+    "week",
+    "att",
+    "tgt",
+    "touches",
+    "ppr_scoring_fantasy_points",
+    "actual",
+    "expect",
+  ];
+  return descColumns.includes(column) ? "desc" : "asc";
+}
+
+/**
+ * Render the reports explorer table
+ */
+function renderReportsTable() {
+  const container = document.getElementById("reports-table");
+  if (!container) return;
+
+  const { filteredData, currentPage, rowsPerPage, sortColumn, sortDirection } =
+    explorerState;
+
+  const startIndex = (currentPage - 1) * rowsPerPage;
+  const endIndex = startIndex + rowsPerPage;
+  const pageData = filteredData.slice(startIndex, endIndex);
+
+  const getSortIcon = (column) => {
+    if (sortColumn !== column) return '<span class="sort-icon">⇅</span>';
+    return sortDirection === "asc"
+      ? '<span class="sort-icon sort-icon--active">↑</span>'
+      : '<span class="sort-icon sort-icon--active">↓</span>';
+  };
+
+  const columns = [
+    { key: "player_name", label: "Player", align: "left" },
+    { key: "team", label: "Team", align: "left" },
+    { key: "opp", label: "Opp", align: "left" },
+    { key: "week", label: "Week", align: "right" },
+    { key: "att", label: "Att", align: "right" },
+    { key: "tgt", label: "Tgt", align: "right" },
+    { key: "touches", label: "Touches", align: "right" },
+    { key: "ppr_scoring_fantasy_points", label: "PPR", align: "right" },
+    { key: "actual", label: "Actual", align: "left" },
+    { key: "expect", label: "Expected", align: "left" },
+    { key: "reason", label: "Reason", align: "left" },
+  ];
+
+  const headerCells = columns
+    .map(
+      (col) =>
+        `<th class="text-${col.align} sortable" data-column="${col.key}">${
+          col.label
+        } ${getSortIcon(col.key)}</th>`
+    )
+    .join("");
+
+  const rows = pageData
+    .map((d, index) => {
+      // Store the data in a global array and pass the index
+      if (!window.__reportData) window.__reportData = [];
+      const dataIndex = window.__reportData.length;
+      window.__reportData.push(d);
+
+      return `
+    <tr>
+      <td class="text-left">${d.player_name || "--"}</td>
+      <td class="text-left">${d.team || "--"}</td>
+      <td class="text-left">${d.opp || "--"}</td>
+      <td class="text-right">${d.week || "--"}</td>
+      <td class="text-right">${d.att ?? "--"}</td>
+      <td class="text-right">${d.tgt ?? "--"}</td>
+      <td class="text-right">${d.touches ?? "--"}</td>
+      <td class="text-right">${d.ppr_scoring_fantasy_points ?? "--"}</td>
+      <td class="text-left"><span class="badge badge--sm ${getBadgeClass(
+        d.actual
+      )}">${capitalize(d.actual)}</span></td>
+      <td class="text-left"><span class="badge badge--sm ${getBadgeClass(
+        d.expect
+      )}">${capitalize(d.expect)}</span></td>
+      <td class="text-left">${capitalize(d.reason) || "--"}</td>
+      <td class="text-left"><button class="btn btn--sm btn--ghost view-report-btn" data-report-index="${dataIndex}">View</button></td>
+    </tr>
+  `;
+    })
+    .join("");
+
+  const html = `
+    <table class="data-table data-table--explorer">
+      <thead>
+        <tr>
+          ${headerCells}
+          <th class="text-left">Report</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${
+          rows ||
+          '<tr><td colspan="12" class="text-center text-muted">No reports found</td></tr>'
+        }
+      </tbody>
+    </table>
+  `;
+
+  container.innerHTML = html;
+
+  // Add sort listeners
+  container.querySelectorAll(".sortable").forEach((th) => {
+    th.addEventListener("click", () => handleSort(th.dataset.column));
+  });
+
+  // Add view report listeners
+  container.querySelectorAll(".view-report-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const reportIndex = parseInt(btn.dataset.reportIndex, 10);
+      const reportData = window.__reportData[reportIndex];
+      openReportModal(reportData);
+    });
+  });
+
+  // Render pagination
+  renderPagination();
+}
+
+/**
+ * Render pagination controls
+ */
+function renderPagination() {
+  const container = document.getElementById("reports-pagination");
+  if (!container) return;
+
+  const { filteredData, currentPage, rowsPerPage } = explorerState;
+  const totalPages = Math.ceil(filteredData.length / rowsPerPage);
+
+  if (totalPages <= 1) {
+    container.innerHTML = "";
+    return;
+  }
+
+  const startItem = (currentPage - 1) * rowsPerPage + 1;
+  const endItem = Math.min(currentPage * rowsPerPage, filteredData.length);
+
+  // Generate page options for dropdown
+  const pageOptions = [];
+  for (let i = 1; i <= totalPages; i++) {
+    const selected = i === currentPage ? "selected" : "";
+    pageOptions.push(
+      `<option value="${i}" ${selected}>Page ${i} of ${totalPages}</option>`
+    );
+  }
+
+  const html = `
+    <div class="pagination__info">
+      Showing ${startItem}-${endItem} of ${filteredData.length.toLocaleString()} reports
+    </div>
+    <div class="pagination__controls">
+      <button class="pagination__btn pagination__btn--nav" id="pagination-prev" ${
+        currentPage === 1 ? "disabled" : ""
+      }>‹ Prev</button>
+      <select class="pagination__select" id="pagination-select">
+        ${pageOptions.join("")}
+      </select>
+      <button class="pagination__btn pagination__btn--nav" id="pagination-next" ${
+        currentPage === totalPages ? "disabled" : ""
+      }>Next ›</button>
+    </div>
+  `;
+
+  container.innerHTML = html;
+
+  // Add page change listeners
+  const prevBtn = document.getElementById("pagination-prev");
+  const nextBtn = document.getElementById("pagination-next");
+  const selectEl = document.getElementById("pagination-select");
+
+  prevBtn?.addEventListener("click", () => {
+    if (currentPage > 1) {
+      explorerState.currentPage = currentPage - 1;
+      renderReportsTable();
+    }
+  });
+
+  nextBtn?.addEventListener("click", () => {
+    if (currentPage < totalPages) {
+      explorerState.currentPage = currentPage + 1;
+      renderReportsTable();
+    }
+  });
+
+  selectEl?.addEventListener("change", (e) => {
+    const page = parseInt(e.target.value, 10);
+    if (page >= 1 && page <= totalPages) {
+      explorerState.currentPage = page;
+      renderReportsTable();
+    }
+  });
+}
+
+/**
+ * Initialize the reports explorer
+ */
+async function initReportsExplorer() {
+  const data = await fetchJSON("reports/all_reports.json");
+  if (!data) {
+    const container = document.getElementById("reports-table");
+    if (container)
+      container.innerHTML =
+        '<p class="text-muted">Failed to load reports data.</p>';
+    return;
+  }
+
+  explorerState.data = data;
+  // Apply initial filter to exclude entries without game data
+  filterExplorerData();
+  renderReportsTable();
+
+  // Set up search with debouncing
+  const searchInput = document.getElementById("reports-search");
+  if (searchInput) {
+    let debounceTimer;
+    searchInput.addEventListener("input", (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        explorerState.searchQuery = e.target.value;
+        filterExplorerData();
+        renderReportsTable();
+      }, 300);
+    });
+  }
+}
+
+// ==========================================================================
+// Modal Component
+// ==========================================================================
+
+/**
+ * Open the report modal with given data
+ */
+function openReportModal(reportData) {
+  const modal = document.getElementById("report-modal");
+  const modalBody = document.getElementById("modal-report-card");
+
+  if (!modal || !modalBody) return;
+
+  renderReportCard(reportData, modalBody);
+  modal.hidden = false;
+  document.body.style.overflow = "hidden";
+}
+
+/**
+ * Close the report modal
+ */
+function closeReportModal() {
+  const modal = document.getElementById("report-modal");
+  if (!modal) return;
+
+  modal.hidden = true;
+  document.body.style.overflow = "";
+}
+
+/**
+ * Initialize modal event listeners
+ */
+function initModal() {
+  const modal = document.getElementById("report-modal");
+  if (!modal) return;
+
+  // Close on backdrop click
+  const backdrop = modal.querySelector(".modal__backdrop");
+  if (backdrop) {
+    backdrop.addEventListener("click", closeReportModal);
+  }
+
+  // Close on close button click
+  const closeBtn = modal.querySelector(".modal__close");
+  if (closeBtn) {
+    closeBtn.addEventListener("click", closeReportModal);
+  }
+
+  // Close on Escape key
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !modal.hidden) {
+      closeReportModal();
+    }
+  });
+}
+
+// ==========================================================================
 // Report Card Component
 // ==========================================================================
 
@@ -523,6 +1393,90 @@ async function loadReportCards() {
 }
 
 // ==========================================================================
+// Table of Contents
+// ==========================================================================
+
+/**
+ * Initialize the table of contents sidebar with scroll spy
+ */
+function initTableOfContents() {
+  const toc = document.getElementById("toc-list");
+  const article = document.querySelector("article");
+
+  if (!toc || !article) return;
+
+  // Only include headings with data-toc-id attribute
+  const headings = article.querySelectorAll("h2[data-toc-id], h3[data-toc-id]");
+  if (headings.length === 0) return;
+
+  // Build TOC items
+  const tocItems = [];
+  headings.forEach((heading) => {
+    // Use the data-toc-id as the heading's ID
+    const tocId = heading.dataset.tocId;
+    heading.id = tocId;
+
+    const li = document.createElement("li");
+    li.className = `toc__item toc__item--${heading.tagName.toLowerCase()}`;
+    li.dataset.targetId = tocId;
+
+    const a = document.createElement("a");
+    a.href = `#${tocId}`;
+    a.textContent = heading.textContent;
+
+    // Smooth scroll on click
+    a.addEventListener("click", (e) => {
+      e.preventDefault();
+      heading.scrollIntoView({ behavior: "smooth", block: "start" });
+      // Update URL hash without jumping
+      history.pushState(null, "", `#${tocId}`);
+    });
+
+    li.appendChild(a);
+    toc.appendChild(li);
+    tocItems.push({ li, heading });
+  });
+
+  // Scroll spy with IntersectionObserver
+  let currentActive = null;
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      // Find the first heading that is intersecting
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const targetId = entry.target.id;
+          const tocItem = tocItems.find((item) => item.heading.id === targetId);
+
+          if (tocItem && currentActive !== tocItem.li) {
+            // Remove active from previous
+            if (currentActive) {
+              currentActive.classList.remove("toc__item--active");
+            }
+            // Add active to current
+            tocItem.li.classList.add("toc__item--active");
+            currentActive = tocItem.li;
+          }
+        }
+      });
+    },
+    {
+      // Trigger when heading crosses into top 20% of viewport
+      rootMargin: "-10% 0px -80% 0px",
+      threshold: 0,
+    }
+  );
+
+  headings.forEach((h) => observer.observe(h));
+
+  // Set initial active state (first heading)
+  if (tocItems.length > 0) {
+    tocItems[0].li.classList.add("toc__item--active");
+    currentActive = tocItems[0].li;
+  }
+}
+
+// ==========================================================================
 // Initialization
 // ==========================================================================
 
@@ -530,11 +1484,25 @@ async function loadReportCards() {
  * Initialize the page
  */
 async function init() {
+  // Initialize table of contents sidebar
+  initTableOfContents();
+
+  // Initialize modal event listeners
+  initModal();
+
   // Load data in parallel
-  const [overallData, byReasonData, confusionMatrixData] = await Promise.all([
+  const [
+    overallData,
+    byReasonData,
+    confusionMatrixData,
+    weekData,
+    gameDayData,
+  ] = await Promise.all([
     fetchJSON("results/scores_overall.json"),
     fetchJSON("results/scores_by_reason.json"),
     fetchJSON("results/confusion_matrix_overall.json"),
+    fetchJSON("results/scores_by_week.json"),
+    fetchJSON("results/scores_by_published_day.json"),
     loadReportCards(), // This returns undefined, but runs in parallel
   ]);
 
@@ -542,6 +1510,11 @@ async function init() {
   renderOverallResultsTable(overallData);
   renderByReasonTable(byReasonData);
   renderConfusionMatrix(confusionMatrixData);
+  renderWeekChart(weekData);
+  renderGameDayTable(gameDayData);
+
+  // Initialize the reports explorer (loads its own data)
+  initReportsExplorer();
 }
 
 // Run when DOM is ready

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210279",
+  "title": "Kenneth Gainwell Remains a Viable PPR Flex Option Heading into Week 15",
+  "description": "Across 13 games this season, Pittsburgh Steelers running back Kenneth Gainwell has recorded 657 scrimmage yards and six touchdowns on 130 touches. The 26-year-old has recorded just 35 rushing yards over the last two weeks, and he's been held to rushing yards or less in five out of his last six games. However, Gainwell has emerged as a safety blanket for Steelers quarterback Aaron Rodgers in the passing game. Over the last four weeks, Gainwell has hauled in 21 receptions for 163 yards and two touchdowns on 24 targets. Pittsburgh is splitting backfield snaps between Gainwell and Jaylen Warren, which limits the upside of both players. Still, Gainwell's role as a receiver makes him a viable flex option for fantasy managers. Heading into his Week 15 matchup against the Miami Dolphins, Gainwell is worth rostering in PPR leagues with 10 or more teams.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 15,
+  "team": "PIT",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 80,
+  "receiving_catches": 7,
+  "receiving_yards": 46,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 9
+}

@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_208051",
+  "title": "Jahmyr Gibbs Leads Lions in Receiving in Week 11 Loss",
+  "description": "Detroit Lions running back Jahmyr Gibbs struggled to find running room in Sunday night's 16-9 loss to the Philadelphia Eagles, handling 12 carries for 39 yards, but he was dynamic as a receiver with a team-high five catches (eight targets) for 107 yards. Gibbs has now topped 140 yards or more from scrimmage in three of the past four games and was one of the few bright spots in a tough offensive showing from the Lions. The 23-year-old posted his highest receiving total of the season and his most receptions in a game since Week 3. That could be a featured part of Detroit's offense moving forward, with Sam LaPorta (back) placed on injured reserve earlier this week. Gibbs will again rank as one of the elite RBs in fantasy in Week 12 against the New York Giants.",
+  "player_id": 9221,
+  "player_name": "Jahmyr Gibbs",
+  "week": 12,
+  "team": "DET",
+  "opp": "NYG",
+  "att": 15,
+  "tgt": 12,
+  "touches": 27,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 219,
+  "receiving_catches": 11,
+  "receiving_yards": 45,
+  "rushing_touchdowns": 2,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 55,
+  "ppr_scoring_position_rank": 1
+}

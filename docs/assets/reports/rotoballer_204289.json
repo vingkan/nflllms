@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_204289",
+  "title": "D'Andre Swift Looks to Reignite Season in Tough Matchup vs. Commanders",
+  "description": "Chicago Bears running back D'Andre Swift will look to bounce back after a sluggish start to the 2025 season. Through four games, Swift has logged 56 carries for 187 yards and two touchdowns, adding 13 receptions for 85 yards through the air. It's been an inefficient stretch for the former second-round pick, averaging just 3.3 yards per carry, with only one broken tackle so far. Rookie Kyle Monangai has impressed early, which could start to pressure Swift's workload if his struggles continue. The matchup against the Commanders isn't ideal either, as they've allowed the 10th-fewest fantasy points to running backs this season. However, Swift torched Washington last year for 129 yards and a touchdown on 18 carries, showing he's capable of breaking out in this spot. Swift projects as a low-end RB2, as he hopes to rebound off a slow start.",
+  "player_id": 6790,
+  "player_name": "D'Andre Swift",
+  "week": 6,
+  "team": "CHI",
+  "opp": "WAS",
+  "att": 14,
+  "tgt": 3,
+  "touches": 17,
+  "actual": "medium",
+  "expect": "medium",
+  "reason": "performance",
+  "rushing_yards": 108,
+  "receiving_catches": 2,
+  "receiving_yards": 67,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 1,
+  "ppr_scoring_fantasy_points": 25,
+  "ppr_scoring_position_rank": 6
+}

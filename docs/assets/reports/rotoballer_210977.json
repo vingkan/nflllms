@@ -1,0 +1,23 @@
+{
+  "report_id": "rotoballer_210977",
+  "title": "Kenneth Gainwell Positioned for Increased Volume on Monday",
+  "description": "Pittsburgh Steelers running back Kenneth Gainwell could be slated for a considerable boost in workload for his Monday night home matchup with the Miami Dolphins in Week 15. Pittsburgh's backfield has been a pleasantly surprising source of fantasy output in 2025, with both Gainwell and teammate Jaylen Warren (illness) ranking as low-end PPR RB2s on the campaign as a whole. However, the former appears poised for a significant touch share when his team hosts the Dolphins on MNF, given Warren was downgraded to questionable after coming down with an illness early Monday. If the latter fails to suit up, Gainwell's upside would be massive, presuming that he assumes a workhorse role as he did the last time Warren sat out in Week 4. In that outing, the former Philadelphia Eagle popped off for 134 yards and two scores on 77% of the team's snaps.",
+  "player_id": 7567,
+  "player_name": "Kenneth Gainwell",
+  "week": 15,
+  "team": "PIT",
+  "opp": "MIA",
+  "att": 13,
+  "tgt": 7,
+  "touches": 20,
+  "actual": "high",
+  "expect": "high",
+  "reason": "injury",
+  "rushing_yards": 80,
+  "receiving_catches": 7,
+  "receiving_yards": 46,
+  "rushing_touchdowns": 0,
+  "receiving_touchdowns": 0,
+  "ppr_scoring_fantasy_points": 19,
+  "ppr_scoring_position_rank": 9
+}

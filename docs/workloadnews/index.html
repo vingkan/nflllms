@@ -27,6 +27,14 @@
     </div>
   </nav>
 
+  <!-- Table of Contents Sidebar -->
+  <nav class="toc" id="toc" aria-label="Table of Contents">
+    <div class="toc__title">Contents</div>
+    <ul class="toc__list" id="toc-list">
+      <!-- Generated dynamically by JS -->
+    </ul>
+  </nav>
+
   <!-- Article -->
   <article class="article">
     <div class="container">
@@ -45,14 +53,14 @@
         
         <!-- Introduction -->
         <section id="introduction">
-          <h2>Introduction</h2>
+          <h2 data-toc-id="introduction">Introduction</h2>
           
           <p>
             When Carolina Panthers running back Chuba Hubbard went down with an injury in week 4 of the 2025 NFL season, 
             did you immediately pick up Rico Dowdle?
           </p>
           
-          <p>Would this news report have enticed you?</p>
+          <p><strong>If not, would this news report have enticed you?</strong></p>
           
           <!-- Rico Dowdle Report Card -->
           <div class="report-card-container" data-report="rotoballer_203375"></div>
@@ -82,16 +90,19 @@
           <p>
             There are endless articles, podcasts, and commentary about the NFL and fantasy football that could provide 
             insight or gossip to inform your fantasy lineup. But these fantasy news reports are a bit more concise and standardized.
+            We can standardize them even further.
           </p>
           
           <p>
-            <strong>When these kinds of reports suggest that a player will get the ball more next week, how often does that actually happen?</strong>
+            <strong>How often do these reports accurately predict how much a player will get the ball in the next game?</strong>
           </p>
+
+          <p>This project uses a large language model to distill each report down to a single signal on the player's expected workload level, then compares the expectations to their actual workload.</p>
         </section>
 
         <!-- Methodology -->
         <section id="methodology">
-          <h2>Methodology</h2>
+          <h2 data-toc-id="methodology">Methodology</h2>
           
           <p>To answer this question, I analyzed 2,000 fantasy news reports about running backs from the 2025 season.</p>
           
@@ -103,7 +114,7 @@
             <li>Compare against actual workload</li>
           </ol>
           
-          <h3>Data Collection</h3>
+          <h3 data-toc-id="data">Data Collection</h3>
           
           <p>I sourced the player statistics and news reports from <a href="https://sleeper.com/" target="_blank" rel="noopener">Sleeper</a> and <a href="https://rotoballer.com/" target="_blank" rel="noopener">RotoBaller</a>. The criteria for inclusion were:</p>
           
@@ -122,11 +133,10 @@
           </p>
           
           <p>
-            This whittled us down from over 5,000 potential reports to <strong>2,040 reports</strong>. 
-            The final dataset covers <strong>117 players</strong>.
+            This whittled us down from over 5,000 potential reports to <strong>2,040 reports</strong>, covering <strong>117 players</strong>.
           </p>
           
-          <h3>Report Classification</h3>
+          <h3 data-toc-id="labeling">Data Labeling</h3>
           
           <p>I randomly sampled 36 reports from that set and manually labeled them.</p>
           
@@ -149,12 +159,32 @@
           </ul>
           
           <p>
-            Manually classifying the reports made me optimistic that a large language model could do the same. 
+            Manually classifying the reports made me optimistic that a large language model could do the same.
+          </p>
+          <p>
             I used three of the manually-labeled reports as examples in the model prompt and the remaining 33 as a 
-            validation set to score different models. More details on this in the appendix.
+            validation set to score different models. More details on this in the model selection section at the end.
           </p>
           
-          <h3>Comparison Metrics</h3>
+          <figure class="article__figure">
+            <img src="../assets/results/labeled_data.png" alt="Distribution of manually labeled training data showing workload levels and reason categories" class="article__image">
+          </figure>
+          
+          <p>
+            The goal is to determine how well fantasy reports predict <em>workload</em>, not necessarily performance.
+          </p>
+          
+          <p>
+            Here is a good example. This report points out that Bears running back D'Andre Swift could lose touches 
+            to standout rookie teammate Kyle Monangai in a split backfield situation. Indeed, in week 6 against the 
+            Commanders, Swift only got 17 touches, which is within our defined range for a medium workload, but he 
+            made full use of those touches, supplying a receiving touchdown and clocking as the #6 fantasy running back for the week.
+          </p>
+          
+          <!-- D'Andre Swift Report Card -->
+          <div class="report-card-container" data-report="rotoballer_204289"></div>
+          
+          <h3 data-toc-id="metrics">Comparison Metrics</h3>
           
           <p>
             Finally, I compared the expected workload level extracted from the report to the player's actual number of 
@@ -176,9 +206,9 @@
 
         <!-- Results -->
         <section id="results">
-          <h2>Results</h2>
+          <h2 data-toc-id="results">Results</h2>
           
-          <h3>Overall Results</h3>
+          <h3 data-toc-id="overall">Overall</h3>
           
           <p><strong>Spoiler alert:</strong> fantasy news reports are not particularly predictive of actual workload.</p>
           
@@ -209,9 +239,6 @@
           
           <p><strong>Having good recall but low precision indicates excessive optimism.</strong></p>
           
-          <!-- Saquon Barkley Report Card -->
-          <div class="report-card-container" data-report="rotoballer_203459"></div>
-          
           <p>
             This report about Saquon Barkley suggested that he would be an RB1 in week 5 against the Broncos. 
             But in the end, he only got six carries and three targets. Who could have expected that 
@@ -219,6 +246,9 @@
               the Eagles would run the ball just <em>once</em> in the second half
             </a> while protecting a 14-point lead?
           </p>
+
+          <!-- Saquon Barkley Report Card -->
+          <div class="report-card-container" data-report="rotoballer_203459"></div>
           
           <p>
             Reports want to encourage us that a player will get a lot of touches, so they spread a wide net and capture 
@@ -228,9 +258,9 @@
           
           <p>The medium workloads are even harder to predict, with both sub-50% precision and recall.</p>
           
-          <h3>Confusion Matrix</h3>
+          <h3 data-toc-id="misclassifications">Misclassifications</h3>
           
-          <p>For the cases where the reports are wrong, which direction are they wrong?</p>
+          <p>For the cases where the reports are wrong, in which direction are they wrong?</p>
           
           <p>
             To understand this, we look at a confusion matrix: the rows represent the actual workload 
@@ -269,7 +299,7 @@
 
         <!-- Results by Reason -->
         <section id="results-by-reason">
-          <h2>Expected Workload Reasons</h2>
+          <h3 data-toc-id="reasons">Reasons</h3>
           
           <p>Are certain types of reports more predictive of workload?</p>
           
@@ -288,7 +318,7 @@
             <p class="text-muted">Loading data...</p>
           </div>
           
-          <p>Injury is the biggest theme amongst the reports, but it can reflect in multiple ways:</p>
+          <p><strong>Injury</strong> is the biggest theme amongst the reports, but it can reflect in multiple ways:</p>
           
           <ul>
             <li><strong>Fairly obvious:</strong> A player is injured, so their workload will be low or none, this is correct 70.1% of the time (precision)</li>
@@ -339,34 +369,214 @@
           </p>
         </section>
 
-        <!-- Future Sections (TODO) -->
+        <!-- Timing Analysis -->
         <section id="timing">
-          <h2>Is Timing Everything?</h2>
+          <h3 data-toc-id="seasons">Seasons</h3>
           
           <p>Do report expectations get more predictive of workload as the season goes on?</p>
           
-          <div class="placeholder">
-            <p class="placeholder__text">Analysis coming soon...</p>
+          <!-- Week by Week Chart -->
+          <div id="week-chart" class="chart-container">
+            <p class="text-muted">Loading chart...</p>
           </div>
+          
+          <p>
+            The precision and recall rates fluctuate week-to-week, but only a few weeks go above 50% precision.
+          </p>
+          
+          <p>
+            The early weeks having higher precision rates could be an artifact of data collection. I made what 
+            I thought was a high-end estimate of 15 reports per player per week, since most players I looked at 
+            only had one or two reports. With 18 weeks in the season, I fetched the most recent 270 reports per player. 
+            However, if a particularly popular player had more reports than that, those reports might not have been captured, 
+            leading to data loss in the early season.
+          </p>
+          
+          <p>
+            I noticed that the number of reports for a player were greatest leading up to week 1, when fantasy managers 
+            are getting ready for their drafts, and during a player's bye week, building anticipation for how they will 
+            play on their team's return.
+          </p>
+          
+          <h3 data-toc-id="gameday">Game Day</h3>
           
           <p>Are reports on game day more predictive of workload?</p>
+
+          <p>Let's compare two reports for the same player and game.</p>
           
-          <div class="placeholder">
-            <p class="placeholder__text">Analysis coming soon...</p>
+          <p>
+            Consider this report from a few days before the game that expects a medium workload for Steelers' running back Kenneth Gainwell 
+            due to a split backfield with Jaylen Warren.
+          </p>
+          
+          <!-- Kenneth Gainwell Report Card - Week Before -->
+          <div class="report-card-container" data-report="rotoballer_210279"></div>
+          
+          <p>
+            Later, a timely game day report before Monday Night Football alerted fantasy managers that an illness 
+            to Jaylen Warren could boost Kenneth Gainwell's workload.
+          </p>
+          
+          <!-- Kenneth Gainwell Report Card - Game Day -->
+          <div class="report-card-container" data-report="rotoballer_210977"></div>
+          
+          <p>
+            Unfortunately, the trend is that game day reports are not much better than reports in the week 
+            leading up to the game. As far as predictive power, they might even be a bit worse.
+          </p>
+          
+          <!-- Game Day vs Week Before Table -->
+          <div id="game-day-table" class="table-wrapper">
+            <p class="text-muted">Loading data...</p>
           </div>
+          
+          <p>
+            If you read a high workload report from the week leading up to a game, there is only a 40.5% chance 
+            that player will actually have high workload, while a game day report has only 38.4% chance (precision). 
+            However, game day reports capture 71.4% of all high workload players, in contrast to week before reports 
+            that only capture 64% of them (recall).
+          </p>
         </section>
 
+        <!-- Appendix A: All Reports -->
         <section id="all-reports">
-          <h2>All Reports</h2>
+          <h2 data-toc-id="all">All Reports</h2>
           
-          <div class="placeholder">
-            <p class="placeholder__text">Full dataset explorer coming soon...</p>
+          <p>
+            Below, you can browse all 2,040 reports, their extracted predictions, and the players' actual performances.
+          </p>
+          
+          <!-- Search and Controls -->
+          <div class="explorer__controls">
+            <div class="explorer__search">
+              <input 
+                type="text" 
+                id="reports-search" 
+                class="explorer__search-input" 
+                placeholder="Search by player, team, week, or keywords..."
+              >
+            </div>
           </div>
+          
+          <!-- Reports Table -->
+          <div id="reports-table" class="table-wrapper">
+            <p class="text-muted">Loading data...</p>
+          </div>
+          
+          <!-- Pagination -->
+          <div id="reports-pagination" class="pagination">
+          </div>
+          
+          <p>
+            All code, prompts, and data for this project can be found on 
+            <a href="https://github.com/vingkan/nflllms" target="_blank" rel="noopener">the GitHub repository</a>.
+          </p>
+        </section>
+        
+        <!-- Appendix B: Model Selection -->
+        <section id="model-selection">
+          <h2 data-toc-id="selection">Model Selection</h2>
+          
+          <p>
+            To reduce the environmental impact of this silly project, I used Ollama to run all the models locally.
+          </p>
+          
+          <h3 data-toc-id="classification">Classification</h3>
+          
+          <p>
+            I compared Gemma and GPT-OSS. On the validation set, GPT-OSS performed slightly better on workload 
+            classification and much better on reason classification.
+          </p>
+          
+          <figure class="article__figure">
+            <img src="../assets/results/classification_gptoss.png" alt="Confusion Matrix for GPT-OSS model showing workload and reason classification results" class="article__image">
+            <figcaption class="article__figcaption">Classification results for GPT-OSS</figcaption>
+          </figure>
+          
+          <figure class="article__figure">
+            <img src="../assets/results/classification_gemma.png" alt="Confusion Matrix for Gemma model showing workload and reason classification results" class="article__image">
+            <figcaption class="article__figcaption">Classification results for Gemma</figcaption>
+          </figure>
+          
+          <p>
+            I even gave DeepSeek-R1 a try to see how global fantasy football really is. But even its low 
+            reasoning had prohibitively long inference time, so I tested only no reasoning.
+          </p>
+          
+          <figure class="article__figure">
+            <img src="../assets/results/classification_deepseek.png" alt="Confusion Matrix for DeepSeek model showing workload and reason classification results" class="article__image">
+            <figcaption class="article__figcaption">Classification results for DeepSeek</figcaption>
+          </figure>
+          
+          <h3 data-toc-id="reasoning">Reasoning</h3>
+          
+          <p>
+            I also tested GPT-OSS on medium reasoning and found that the inference time was six times slower 
+            than low reasoning, for only a modest gain in quality. I want to finish this project before the 
+            Bears break ground on a new stadium, so that was a non-starter.
+          </p>
+          
+          <figure class="article__figure">
+            <img src="../assets/results/classification_gptossmed.png" alt="Confusion Matrix for GPT-OSS with medium reasoning" class="article__image">
+            <figcaption class="article__figcaption">GPT-OSS with medium reasoning</figcaption>
+          </figure>
+          
+          <figure class="article__figure">
+            <img src="../assets/results/classification_gptoss.png" alt="Confusion Matrix for GPT-OSS with low reasoning" class="article__image">
+            <figcaption class="article__figcaption">GPT-OSS with low reasoning (for comparison)</figcaption>
+          </figure>
+          
+          <h3 data-toc-id="consistency">Consistency</h3>
+          
+          <p>
+            Large-language models are non-deterministic, but I needed more consistency for this exercise. 
+            To test consistency, I simply ran each model on the same validation set twice and created a 
+            confusion matrix to compare its predictions from the first run with its predictions from the second run.
+          </p>
+          
+          <p>
+            With no hyperparameter tuning, the model strays from its own path 18% of the time: six out of 33 
+            samples changed their expected workload level and seven changed their reason category.
+          </p>
+          
+          <figure class="article__figure">
+            <img src="../assets/results/consistency_gptossnotemp.png" alt="Consistency matrix before hyperparameter tuning" class="article__image">
+            <figcaption class="article__figcaption">Model consistency without hyperparameter tuning</figcaption>
+          </figure>
+          
+          <p>To improve consistency, I tweaked two hyperparameters:</p>
+          
+          <ul>
+            <li><strong>Temperature</strong> influences the amount of "creativity" in the response, with higher values being more unexpected and inconsistent</li>
+            <li><strong>Top-P</strong> restricts which next words can be selected to a certain threshold of likelihood</li>
+          </ul>
+          
+          <p>
+            When we set the temperature to 0.25 and top-p to 0.5, the model consistency improves. Now, no samples 
+            change in expected workload level and only one sample changes in reason category. We do get two new 
+            samples with unknown reason category, though.
+          </p>
+          
+          <figure class="article__figure">
+            <img src="../assets/results/consistency_gptoss.png" alt="Consistency matrix after hyperparameter tuning" class="article__image">
+            <figcaption class="article__figcaption">Model consistency with temperature=0.25 and top-p=0.5</figcaption>
+          </figure>
         </section>
 
       </div>
     </div>
   </article>
+
+  <!-- Modal for Report Viewer -->
+  <div id="report-modal" class="modal" hidden>
+    <div class="modal__backdrop"></div>
+    <div class="modal__content">
+      <button class="modal__close" aria-label="Close modal">&times;</button>
+      <div id="modal-report-card" class="modal__body">
+        <!-- Report card will be rendered here -->
+      </div>
+    </div>
+  </div>
 
   <!-- Footer -->
   <footer class="footer">
