@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Are Fantasy Football News Reports Reliable?</title>
+  <meta name="description" content="Analysis of 2,000 fantasy news reports to determine how well they predict running back workload in the 2025 NFL season.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="../styles/reset.css">
+  <link rel="stylesheet" href="../styles/main.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="container container--wide nav__inner">
+      <a href="../" class="nav__logo">False Start Analytics</a>
+      <ul class="nav__links">
+        <li><a href="../" class="nav__link">Articles</a></li>
+        <li><a href="https://github.com/vingkan/nflllms" class="nav__link" target="_blank" rel="noopener">GitHub</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Article -->
+  <article class="article">
+    <div class="container">
+      <!-- Header -->
+      <header class="article__header">
+        <h1 class="article__title">Are Fantasy Football News Reports Reliable Indicators of Player Workload?</h1>
+        <div class="article__meta">
+          <span>By Vinesh Kannan</span>
+          <span>•</span>
+          <span>January 2026</span>
+        </div>
+      </header>
+
+      <!-- Content -->
+      <div class="article__content">
+        
+        <!-- Introduction -->
+        <section id="introduction">
+          <h2>Introduction</h2>
+          
+          <p>
+            When Carolina Panthers running back Chuba Hubbard went down with an injury in week 4 of the 2025 NFL season, 
+            did you immediately pick up Rico Dowdle?
+          </p>
+          
+          <p>Would this news report have enticed you?</p>
+          
+          <!-- Rico Dowdle Report Card -->
+          <div class="report-card-container" data-report="rotoballer_203375"></div>
+          
+          <p>
+            If you did snag and start Rico Dowdle in week 5, you would have played the number one running back.
+          </p>
+          
+          <p>This report provides seemingly reliable intelligence:</p>
+          
+          <ol>
+            <li>Chuba Hubbard is injured</li>
+            <li>Rico Dowdle will take his workload</li>
+            <li>Their next opponent, the Dolphins, are weak against the run</li>
+          </ol>
+          
+          <p>
+            Points 1 and 2 are clear enough for a reader to expect that Rico Dowdle will get more touches in week 5. 
+            Whether he will produce scoring value from those touches is harder to say. Point 3 is a bit more open-ended: 
+            maybe the Dolphins will have a better matchup against the Panthers or maybe Rico Dowdle will struggle in a lead role.
+          </p>
+          
+          <p>
+            Fantasy performance can be unpredictable. But maybe player workload is more predictable.
+          </p>
+          
+          <p>
+            There are endless articles, podcasts, and commentary about the NFL and fantasy football that could provide 
+            insight or gossip to inform your fantasy lineup. But these fantasy news reports are a bit more concise and standardized.
+          </p>
+          
+          <p>
+            <strong>When these kinds of reports suggest that a player will get the ball more next week, how often does that actually happen?</strong>
+          </p>
+        </section>
+
+        <!-- Methodology -->
+        <section id="methodology">
+          <h2>Methodology</h2>
+          
+          <p>To answer this question, I analyzed 2,000 fantasy news reports about running backs from the 2025 season.</p>
+          
+          <p>The process boils down to this:</p>
+          
+          <ol>
+            <li>Assign reports to upcoming games</li>
+            <li>Classify expected workload from reports</li>
+            <li>Compare against actual workload</li>
+          </ol>
+          
+          <h3>Data Collection</h3>
+          
+          <p>I sourced the player statistics and news reports from <a href="https://sleeper.com/" target="_blank" rel="noopener">Sleeper</a> and <a href="https://rotoballer.com/" target="_blank" rel="noopener">RotoBaller</a>. The criteria for inclusion were:</p>
+          
+          <ol>
+            <li>Player is an active running back or full back (can always add WRs and TEs later)</li>
+            <li>Player only played on one team during the season (simplifies matching reports to games)</li>
+            <li>Report is after week one (too much volume and noise in reports before the season starts)</li>
+            <li>Report is prospective, discussing expectations for next week, not just a recap of the previous week</li>
+            <li>Player actually played in the game the week of the report</li>
+            <li>Player also played in the game the week before the report</li>
+          </ol>
+          
+          <p>
+            Luckily, criteria 4 was easy to enforce because Sleeper and RotoBaller separate game recaps as "analysis" news. 
+            Choosing only the non-analysis reports led to the kind of reports aimed at fantasy managers trying to decide who to start and who to sit.
+          </p>
+          
+          <p>
+            This whittled us down from over 5,000 potential reports to <strong>2,040 reports</strong>. 
+            The final dataset covers <strong>117 players</strong>.
+          </p>
+          
+          <h3>Report Classification</h3>
+          
+          <p>I randomly sampled 36 reports from that set and manually labeled them.</p>
+          
+          <p>Each report is classified into both an expected workload level and a reason category.</p>
+          
+          <h4>Expected workload level:</h4>
+          <ul>
+            <li><strong>High:</strong> more than 20 touches (carries + targets), usually the lead back</li>
+            <li><strong>Medium:</strong> 10-20 touches, usually a split backfield</li>
+            <li><strong>Low:</strong> less than 10 touches</li>
+            <li><strong>Unknown:</strong> cannot be determined from the report</li>
+          </ul>
+          
+          <h4>Reason category:</h4>
+          <ul>
+            <li><strong>Performance:</strong> the player is playing well, taking touches from a teammate who is playing worse, etc.</li>
+            <li><strong>Injury:</strong> the player is injured, back from injury, their teammate was injured, etc.</li>
+            <li><strong>Opponent:</strong> the team has a good or bad match up next week</li>
+            <li><strong>Unknown:</strong> none of the above or cannot be determined</li>
+          </ul>
+          
+          <p>
+            Manually classifying the reports made me optimistic that a large language model could do the same. 
+            I used three of the manually-labeled reports as examples in the model prompt and the remaining 33 as a 
+            validation set to score different models. More details on this in the appendix.
+          </p>
+          
+          <h3>Comparison Metrics</h3>
+          
+          <p>
+            Finally, I compared the expected workload level extracted from the report to the player's actual number of 
+            touches (carries + targets) in their next game.
+          </p>
+          
+          <p>Primarily, I used two metrics to analyze how well these reports predict actual workload:</p>
+          
+          <ol>
+            <li><strong>Precision:</strong> when a report suggests a certain workload level, how often is that what actually happens?</li>
+            <li><strong>Recall:</strong> out of all players who had a certain actual workload level, how many did reports predict?</li>
+          </ol>
+          
+          <p>
+            As you can imagine, there are far more players with low or medium workload than high workload. 
+            So it will be easiest to interpret the precision and recall scores if we break them out by each workload level.
+          </p>
+        </section>
+
+        <!-- Results -->
+        <section id="results">
+          <h2>Results</h2>
+          
+          <h3>Overall Results</h3>
+          
+          <p><strong>Spoiler alert:</strong> fantasy news reports are not particularly predictive of actual workload.</p>
+          
+          <!-- Overall Results Table -->
+          <div id="overall-results-table" class="table-wrapper">
+            <p class="text-muted">Loading data...</p>
+          </div>
+          
+          <p>
+            Fantasy reports seem to trend optimistic: the reported expectations are higher than the actual workloads.
+          </p>
+          
+          <p>
+            Since there are more actual cases of low workloads than medium or high, that also makes it easier to predict low workloads.
+          </p>
+          
+          <ul>
+            <li>66.1% of reports that expect low workload are actually correct (precision)</li>
+            <li>61.2% of all low workloads were correctly expected by reports (recall)</li>
+          </ul>
+          
+          <p>Of course, fantasy managers want to know about high workloads.</p>
+          
+          <ul>
+            <li>Only 40.4% of reports that expect high workload are actually correct (precision)</li>
+            <li>While 64.4% of all high workloads were correctly expected by reports (recall)</li>
+          </ul>
+          
+          <p><strong>Having good recall but low precision indicates excessive optimism.</strong></p>
+          
+          <!-- Saquon Barkley Report Card -->
+          <div class="report-card-container" data-report="rotoballer_203459"></div>
+          
+          <p>
+            This report about Saquon Barkley suggested that he would be an RB1 in week 5 against the Broncos. 
+            But in the end, he only got six carries and three targets. Who could have expected that 
+            <a href="https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/saquon-barkley-eagles-vs-broncos-eagles-offense-nfl-week-5/688174/" target="_blank" rel="noopener">
+              the Eagles would run the ball just <em>once</em> in the second half
+            </a> while protecting a 14-point lead?
+          </p>
+          
+          <p>
+            Reports want to encourage us that a player will get a lot of touches, so they spread a wide net and capture 
+            the 64% of cases where the workload actually was high. Another way to look at that recall score is that 
+            roughly 36% of actually high workloads were unexpected based on reporting: the breakout workhorses that the news did not expect.
+          </p>
+          
+          <p>The medium workloads are even harder to predict, with both sub-50% precision and recall.</p>
+          
+          <h3>Confusion Matrix</h3>
+          
+          <p>For the cases where the reports are wrong, which direction are they wrong?</p>
+          
+          <p>
+            To understand this, we look at a confusion matrix: the rows represent the actual workload 
+            and the columns represent the expected workload.
+          </p>
+          
+          <!-- Confusion Matrix -->
+          <div id="confusion-matrix">
+            <p class="text-muted">Loading confusion matrix...</p>
+          </div>
+          
+          <p>The corners show the fringes:</p>
+          
+          <ul>
+            <li><strong>Breakout stars:</strong> 33 reports predicted a low workload, but the player actually had a high workload</li>
+            <li><strong>Underperformers:</strong> 86 reports predicted a high workload, but the player actually had a low workload</li>
+            <li><strong>Unclear:</strong> 62 reports were not clear on expected workload level (summed up in the unknown column)</li>
+          </ul>
+          
+          <p>Here is a case where our model could not figure out the expected workload level from a report:</p>
+          
+          <!-- Aaron Jones Report Card -->
+          <div class="report-card-container" data-report="rotoballer_207371"></div>
+          
+          <p>
+            The report provides some objective data (only 13 carries between the two backs) but ultimately pins the blame on penalties. 
+            This makes it unclear what the report expects Jones' workload to be next week.
+          </p>
+          
+          <p>
+            Whether the Vikings cleaned up their act, or whether O'Connell decided to feed Jones the rock, 
+            or whether the Bears defense sh*t the bed, Aaron Jones got a high workload in week 11: 16 rushes and six targets. 
+            Meanwhile, Jordan Mason only got six carries and wasn't involved in the passing game at all. Who could have guessed?
+          </p>
+        </section>
+
+        <!-- Results by Reason -->
+        <section id="results-by-reason">
+          <h2>Expected Workload Reasons</h2>
+          
+          <p>Are certain types of reports more predictive of workload?</p>
+          
+          <p>
+            Once again, the trend is that lower workload, which is more common, is easier to predict. 
+            Especially when it's tied to an injury report.
+          </p>
+          
+          <p>
+            In reality, a fantasy report will base its recommendation on multiple reasons, 
+            but I urged the model to narrow it down to the dominant reason, if any.
+          </p>
+          
+          <!-- By Reason Table -->
+          <div id="by-reason-table" class="table-wrapper">
+            <p class="text-muted">Loading data...</p>
+          </div>
+          
+          <p>Injury is the biggest theme amongst the reports, but it can reflect in multiple ways:</p>
+          
+          <ul>
+            <li><strong>Fairly obvious:</strong> A player is injured, so their workload will be low or none, this is correct 70.1% of the time (precision)</li>
+            <li><strong>More speculative:</strong> Another player is injured, so this player will get more workload, correct 38% of the time at the medium workload level and 29% at the high workload level (precision)</li>
+          </ul>
+          
+          <p>
+            Rico Dowdle's meteoric rise to power in week 5 is a great example of a breakout performance 
+            that could have been predicted by an injury to the lead back.
+          </p>
+          
+          <p>Here is another interesting example where an injury report tempers expectations for a lead back:</p>
+          
+          <!-- Zonovan Knight Report Card -->
+          <div class="report-card-container" data-report="rotoballer_207739"></div>
+          
+          <p>
+            RotoBaller warned us that even though Zonovan Knight might play in week 9 against the 49ers, 
+            his workload could be lower. Knight's fantasy value was salvaged by a rushing touchdown, 
+            but the report correctly predicted that Knight would not eclipse 10 touches, getting just five carries and four targets.
+          </p>
+          
+          <p>
+            <strong>Performance</strong> is a more nebulous category. It makes sense that low performance predicts low workload, 
+            but we also get closer to 50% on expecting medium or high workload based on performance. 
+            Recall is high here, with 78.6% of actual high workloads having been predicted by a news report. 
+            This could be because the top running backs on each team are likely to reliably get a high workload each week.
+          </p>
+          
+          <p>
+            Reports based on <strong>opponents</strong> can also go either way. If a report says a player will get low workload, 
+            maybe due to a tough opponent, that only actually happened in 46% of cases (precision). 
+            If you read a report saying that a player could exploit a weak opponent to get a high workload, 
+            that was only correct in 39% of cases (precision).
+          </p>
+          
+          <p>
+            Here is an example of a report classified as opponent-based that also discusses performance, 
+            but ultimately takes a pessimistic outlook.
+          </p>
+          
+          <!-- Ashton Jeanty Report Card -->
+          <div class="report-card-container" data-report="rotoballer_206534"></div>
+          
+          <p>
+            Ultimately, Jeanty got a high workload with 19 carries and 5 targets, putting up a respectable 15 points in PPR leagues. 
+            You could be forgiven for not acting on this report.
+          </p>
+        </section>
+
+        <!-- Future Sections (TODO) -->
+        <section id="timing">
+          <h2>Is Timing Everything?</h2>
+          
+          <p>Do report expectations get more predictive of workload as the season goes on?</p>
+          
+          <div class="placeholder">
+            <p class="placeholder__text">Analysis coming soon...</p>
+          </div>
+          
+          <p>Are reports on game day more predictive of workload?</p>
+          
+          <div class="placeholder">
+            <p class="placeholder__text">Analysis coming soon...</p>
+          </div>
+        </section>
+
+        <section id="all-reports">
+          <h2>All Reports</h2>
+          
+          <div class="placeholder">
+            <p class="placeholder__text">Full dataset explorer coming soon...</p>
+          </div>
+        </section>
+
+      </div>
+    </div>
+  </article>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p class="footer__text">
+        Data sourced from <a href="https://sleeper.com/" target="_blank" rel="noopener">Sleeper</a> and <a href="https://rotoballer.com/" target="_blank" rel="noopener">RotoBaller</a>. 
+        Analysis by <a href="https://github.com/vingkan" target="_blank" rel="noopener">Vinesh Kannan</a>.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="app.js"></script>
+</body>
+</html>
+
