@@ -74,7 +74,7 @@
           <ol>
             <li>Chuba Hubbard is injured</li>
             <li>Rico Dowdle will take his workload</li>
-            <li>Their next opponent, the Dolphins, are weak against the run</li>
+            <li>Their next opponent is weak against the run</li>
           </ol>
           
           <p>
@@ -123,8 +123,8 @@
             <li>Player only played on one team during the season (simplifies matching reports to games)</li>
             <li>Report is after week one (too much volume and noise in reports before the season starts)</li>
             <li>Report is prospective, discussing expectations for next week, not just a recap of the previous week</li>
-            <li>Player actually played in the game the week of the report</li>
-            <li>Player also played in the game the week before the report</li>
+            <li>Player played in the game after the report</li>
+            <li>Player played in the game before the report</li>
           </ol>
           
           <p>
@@ -154,7 +154,7 @@
           <ul>
             <li><strong>Performance:</strong> the player is playing well, taking touches from a teammate who is playing worse, etc.</li>
             <li><strong>Injury:</strong> the player is injured, back from injury, their teammate was injured, etc.</li>
-            <li><strong>Opponent:</strong> the team has a good or bad match up next week</li>
+            <li><strong>Opponent:</strong> the team has a good or bad matchup next week</li>
             <li><strong>Unknown:</strong> none of the above or cannot be determined</li>
           </ul>
           
@@ -167,22 +167,8 @@
           </p>
           
           <figure class="article__figure">
-            <img src="../assets/results/labeled_data.png" alt="Distribution of manually labeled training data showing workload levels and reason categories" class="article__image">
+            <img src="../assets/results/labeled_data.png" alt="Manually labeled training data showing workload levels and reason categories" class="article__image">
           </figure>
-          
-          <p>
-            The goal is to determine how well fantasy reports predict <em>workload</em>, not necessarily performance.
-          </p>
-          
-          <p>
-            Here is a good example. This report points out that Bears running back D'Andre Swift could lose touches 
-            to standout rookie teammate Kyle Monangai in a split backfield situation. Indeed, in week 6 against the 
-            Commanders, Swift only got 17 touches, which is within our defined range for a medium workload, but he 
-            made full use of those touches, supplying a receiving touchdown and clocking as the #6 fantasy running back for the week.
-          </p>
-          
-          <!-- D'Andre Swift Report Card -->
-          <div class="report-card-container" data-report="rotoballer_204289"></div>
           
           <h3 data-toc-id="metrics">Comparison Metrics</h3>
           
@@ -210,7 +196,7 @@
           
           <h3 data-toc-id="overall">Overall</h3>
           
-          <p><strong>Spoiler alert:</strong> fantasy news reports are not particularly predictive of actual workload.</p>
+          <p>Below is a comparison by workload level of reported expectations against actual workloads.</p>
           
           <!-- Overall Results Table -->
           <div id="overall-results-table" class="table-wrapper">
@@ -240,7 +226,7 @@
           <p><strong>Having good recall but low precision indicates excessive optimism.</strong></p>
           
           <p>
-            This report about Saquon Barkley suggested that he would be an RB1 in week 5 against the Broncos. 
+            This report suggested that Saquon Barkley would be an RB1 in week 5 against the Broncos. 
             But in the end, he only got six carries and three targets. Who could have expected that 
             <a href="https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/saquon-barkley-eagles-vs-broncos-eagles-offense-nfl-week-5/688174/" target="_blank" rel="noopener">
               the Eagles would run the ball just <em>once</em> in the second half
@@ -292,7 +278,7 @@
           
           <p>
             Whether the Vikings cleaned up their act, or whether O'Connell decided to feed Jones the rock, 
-            or whether the Bears defense sh*t the bed, Aaron Jones got a high workload in week 11: 16 rushes and six targets. 
+            or whether the Bears defense fell apart, Aaron Jones got a high workload in week 11: 16 rushes and six targets. 
             Meanwhile, Jordan Mason only got six carries and wasn't involved in the passing game at all. Who could have guessed?
           </p>
         </section>
@@ -436,6 +422,32 @@
             However, game day reports capture 71.4% of all high workload players, in contrast to week before reports 
             that only capture 64% of them (recall).
           </p>
+        </section>
+
+        <section id="future-work">
+          <h2 data-toc-id="future">Future Work</h2>
+          
+          <p>
+            If you are disappointed that fantasy reports are not very predictive of workload in aggregate, fear not. For predictions to be useful, we don't need all reports to be accurate, just the ones that we might act on.
+          </p>
+
+          <p>The three most impactful changes for the next iteration could be:</p>
+          
+          <ol>
+            <li><strong>Availability:</strong> Focus on players who are lower on the depth chart or not rostered in fantasy leagues.</li>
+            <li><strong>Ranking:</strong> Rank reports to measure how predictive the most promising ones are, rather than all.</li>
+            <li><strong>Thresholds:</strong> Medium workload goes too high: up to 20 touches could be worth a start in many leagues.</li>
+          </ol>
+          
+          <p>
+            Here is a good example of point 3. This report points out that Bears running back D'Andre Swift could lose touches 
+            to standout rookie teammate Kyle Monangai in a split backfield situation. Indeed, in week 6 against the 
+            Commanders, Swift only got 17 touches, which is within our defined range for a medium workload. However, he 
+            made full use of those touches, supplying a receiving touchdown and clocking as the #6 fantasy running back for the week.
+          </p>
+          
+          <!-- D'Andre Swift Report Card -->
+          <div class="report-card-container" data-report="rotoballer_204289"></div>
         </section>
 
         <!-- Appendix A: All Reports -->
