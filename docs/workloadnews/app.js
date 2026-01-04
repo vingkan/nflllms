@@ -36,7 +36,11 @@ function formatNumber(value) {
  */
 function calcPercent(value, total) {
   if (!total) return 0;
-  return (value / total) * 100;
+  const percent = (value / total) * 100;
+  // Always round down to the nearest integer to prevent
+  // subtotals that add up to more than 100%.
+  const flooredPercent = Math.floor(percent);
+  return flooredPercent;
 }
 
 /**
